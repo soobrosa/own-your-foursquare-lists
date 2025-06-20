@@ -20,29 +20,35 @@ Hopefully, within a few days, you’ll receive an email that your archive is rea
 
 Now, as with most personal data takeaways, it’s a very gray area what *actually* counts as your data. For instance, much of the metadata about venues—especially their locations—doesn’t technically belong to you and might not be included in your archive.
 
-To resolve that, we’ll use Foursquare’s [own release](https://docs.foursquare.com/data-products/docs/access-fsq-os-places) of public data on 100 million venues. Querying this dataset will be handled in the next step. It might take a while—maybe even 10 minutes—but this way you won’t need the full 11 GB of local data.
+To resolve that, we’ll use Foursquare’s [own release](https://docs.foursquare.com/data-products/docs/access-fsq-os-places) of public data on 100 million venues. Remotely querying this dataset will be handled in the next step. It might take a while—maybe even 10 minutes—but this way you won’t need to have the data locally in its full entirety of 11 GBs.
 
 ---
 
 ### **Process the Data**
 
-You might want to fork and clone this repository as you will need your own to deploy your own maps.
+You might want to fork and clone this repository as you will need your own repo to deploy your own maps.
 
+Put your data in the `input` folder with something like
+
+```
 unzip data-export-223750.zip -d input
+```
 
 These scripts will extract location data from the public dataset and merge it with your list data and any tips you left for venues.
 
+```
 python3 lists_to_geojson.py
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ./venv/bin/python lists_to_geojson.py
+```
 
 ---
 
 ### **Deploy Your Own Maps**
 
-1. Register for a free account at [Stadia Maps](https://stadiamaps.com) for map tiles — I’m partial to the old Stamen styles.
+1. Register for a free account at [Stadia Maps](https://stadiamaps.com) for map tiles — I’m partial to the old [Stamen styles](https://maps.stamen.com/).
 2. Register for a free account at [Vercel](https://vercel.com) to serve the app.
 3. Connect your GitHub repo to Vercel and publish the app
 
@@ -54,8 +60,8 @@ pip install -r requirements.txt
 5. Whitelist your Vercel domain in Stadia to serve the map tiles:
 
    * Go to **Manage Properties & Authentication**
-   * Create a Property
-   * Configure Authentication
+   * **Create a Property**
+   * **Configure Authentication**
    * Add your subdomain (e.g. `yourproject.vercel.app`)
 
 That’s it—it should work on mobile, especially in landscape mode.
