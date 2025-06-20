@@ -161,14 +161,14 @@
             // Add options for each file
             files.forEach(file => {
               const option = document.createElement('option');
-              option.value = 'data/' + file;
+              option.value = 'output/geojson/' + file;
               option.textContent = formatGeojsonFileName(file);
               select.appendChild(option);
             });
 
             // Set initial selected value to first file if available
             if (files.length > 0) {
-              select.value = 'data/' + files[0];
+              select.value = 'output/geojson/' + files[0];
               // Load the first GeoJSON file
               loadGeoJSON('output/geojson/' + files[0]);
             }
