@@ -6,7 +6,7 @@ Now that they're gone (no, Swarm can't even show you a comprehendable map), Goog
 
 Putting the whining aside, I didn't want to lose the ability to interact with the lists I'd built over the years. So, I made this mobile-friendly, one-page, map-based list explorer, which you're free to use for your own lists.
 
-[![Demo Video](assets/mbl-thumbnail.png)](assets/mbl.mov)
+![Demo](demo.gif)
 
 ---
 
