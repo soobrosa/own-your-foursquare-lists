@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Foursquare Exports</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body { margin: 0; display: flex; height: 100vh; font-family: sans-serif; }
+    #sidebar { width: 300px; overflow-y: auto; border-right: 1px solid #ccc; padding: 10px; background: #f9f9f9; transition: transform 0.3s ease; }
+    #map { flex: 1; }
+    .feature-item { cursor: pointer; padding: 6px 8px; border-bottom: 1px solid #eee; }
+    .feature-item:hover { background-color: #eaeaea; }
+    .bucket-header { 
+      padding: 10px 8px 5px 8px; 
+      background-color: #f0f0f0; 
+      border-bottom: 2px solid #ddd;
+      margin-top: 10px;
+    }
+    .bucket-header:first-child {
+      margin-top: 0;
+    }
+    /* Dropdown styling */
+    .geojson-select {
+      font-size: 20px;
+      font-weight: bold;
+      padding: 8px;
+      min-width: 250px;
+    }
+    /* Landscape orientation message */
+    #orientation-message {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.9);
+      color: white;
+      z-index: 9999;
+      text-align: center;
+      padding: 20px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    #orientation-message.visible {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    #orientation-message img {
+      width: 100px;
+      height: 100px;
+      margin: 20px 0;
+      animation: rotate 2s infinite linear;
+    }
+    @keyframes rotate {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    /* Mobile styles */
+    @media (max-width: 768px) {
+      #sidebar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        z-index: 1000;
+        transform: translateX(-100%);
+      }
+      #sidebar.active {
+        transform: translateX(0);
+      }
+    }
+    /* Desktop styles */
+    @media (min-width: 769px) {
+      #sidebar {
+        position: relative;
+        transform: none;
+        display: block;
+      }
+      #sidebar:not(.active) {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="sidebar"></div>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([38.7, -9.1], 10);
+    const sidebar = document.getElementById('sidebar');
+    let initialBounds = null;
+
+    // Create title control
+    const TitleControl = L.Control.extend({
+      options: {
+        position: 'topright'
+      },
+      onAdd: function(map) {
+        const container = L.DomUtil.create('div', 'leaflet-control leaflet-control-title');
+        container.style.backgroundColor = 'white';
+        container.style.padding = '6px 10px';
+        container.style.margin = '10px';
+        container.style.border = '2px solid rgba(0,0,0,0.2)';
+        container.style.borderRadius = '4px';
+        container.style.fontWeight = 'bold';
+        container.style.fontSize = '16px';
+        container.style.textAlign = 'center';
+        container.style.minWidth = '100px';
+        return container;
+      }
+    });
+
+    // ✅ Use Stadia-hosted Stamen Toner Lite
+    const tileLayer = L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://stamen.com/" target="_blank">Stamen Design</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>',
+      maxZoom: 20
+    }).addTo(map);
+
+    // Create GeoJSON dropdown control
+    const GeoJSONSelectControl = L.Control.extend({
+      options: {
+        position: 'bottomright'
+      },
+      onAdd: function(map) {
+        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+        const select = L.DomUtil.create('select', 'geojson-select', container);
+        
+        // Prevent map dragging when interacting with the select
+        L.DomEvent.disableClickPropagation(select);
+        L.DomEvent.disableScrollPropagation(select);
+        
+        // Add loading option
+        const loadingOption = document.createElement('option');
+        loadingOption.value = '';
+        loadingOption.textContent = 'Loading...';
+        select.appendChild(loadingOption);
+
+        function formatGeojsonFileName(filename) {
+          return filename.replace(/_[a-f0-9]{24}\.geojson$/, '') // Remove closing UUID and .geojson
+                         .replace(/_/g, ' '); // Replace underscores with spaces
+        }
+
+        // Fetch the list of GeoJSON files dynamically
+        fetch('/api/list-geojson')
+          .then(response => {
+            if (!response.ok) {
+              throw new Error('Failed to fetch GeoJSON list');
+            }
+            return response.json();
+          })
+          .then(files => {
+            // Clear loading option
+            select.innerHTML = '';
+            
+            // Add options for each file
+            files.forEach(file => {
+              const option = document.createElement('option');
+              option.value = 'data/' + file;
+              option.textContent = formatGeojsonFileName(file);
+              select.appendChild(option);
+            });
+
+            // Set initial selected value to first file if available
+            if (files.length > 0) {
+              select.value = 'data/' + files[0];
+              // Load the first GeoJSON file
+              loadGeoJSON('data/' + files[0]);
+            }
+          })
+          .catch(error => {
+            console.error('Error loading GeoJSON list:', error);
+            // Clear loading option and show error
+            select.innerHTML = '';
+            const errorOption = document.createElement('option');
+            errorOption.value = '';
+            errorOption.textContent = 'Error loading files';
+            select.appendChild(errorOption);
+          });
+
+        L.DomEvent.on(select, 'change', function() {
+          if (this.value) {
+            loadGeoJSON(this.value);
+          }
+        });
+        
+        return container;
+      }
+    });
+
+    // Add the GeoJSON dropdown control to the map
+    new GeoJSONSelectControl().addTo(map);
+
+    // Create sidebar toggle control
+    const SidebarToggle = L.Control.extend({
+      options: {
+        position: 'topleft'
+      },
+      onAdd: function(map) {
+        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+        const button = L.DomUtil.create('a', 'leaflet-control-sidebar', container);
+        button.innerHTML = '☰';
+        button.title = 'Toggle Sidebar';
+        button.style.width = '30px';
+        button.style.height = '30px';
+        button.style.lineHeight = '30px';
+        button.style.textAlign = 'center';
+        button.style.fontSize = '18px';
+        
+        // Prevent map dragging when interacting with the button
+        L.DomEvent.disableClickPropagation(button);
+        L.DomEvent.disableScrollPropagation(button);
+        
+        L.DomEvent.on(button, 'click', function(e) {
+          L.DomEvent.stopPropagation(e);
+          sidebar.classList.toggle('active');
+          // Update button text based on sidebar state
+          button.innerHTML = sidebar.classList.contains('active') ? '✕' : '☰';
+        });
+        
+        return container;
+      }
+    });
+
+    // Add the sidebar toggle control to the map
+    new SidebarToggle().addTo(map);
+
+    // Close sidebar when clicking a feature
+    const closeSidebar = () => {
+      sidebar.classList.remove('active');
+      // Update button text
+      document.querySelector('.leaflet-control-sidebar').innerHTML = '☰';
+    };
+
+    // Create a home control
+    const homeControl = L.Control.extend({
+      options: {
+        position: 'topleft'
+      },
+      onAdd: function(map) {
+        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+        const button = L.DomUtil.create('a', 'leaflet-control-zoom-in', container);
+        button.innerHTML = '⌂';
+        button.title = 'Reset view';
+        button.style.width = '30px';
+        button.style.height = '30px';
+        button.style.lineHeight = '30px';
+        button.style.textAlign = 'center';
+        button.style.fontSize = '18px';
+        
+        // Prevent map dragging when interacting with the button
+        L.DomEvent.disableClickPropagation(button);
+        L.DomEvent.disableScrollPropagation(button);
+        
+        L.DomEvent.on(button, 'click', function(e) {
+          L.DomEvent.stopPropagation(e);
+          if (initialBounds) {
+            // Close any open popups
+            map.closePopup();
+            map.flyToBounds(initialBounds, { duration: 1 });
+          }
+        });
+        
+        return container;
+      }
+    });
+
+    // Add the home control to the map
+    new homeControl().addTo(map);
+
+    // Prevent map dragging when interacting with the sidebar
+    L.DomEvent.disableClickPropagation(sidebar);
+    L.DomEvent.disableScrollPropagation(sidebar);
+
+    // Define a function to load GeoJSON data
+    function loadGeoJSON(url) {
+      // Clear existing layers from the map, except tile layers
+      map.eachLayer(function (layer) {
+        if (layer !== tileLayer) {
+          map.removeLayer(layer);
+        }
+      });
+      sidebar.innerHTML = ''; // Clear sidebar
+      initialBounds = null; // Reset initial bounds
+      
+      // Close sidebar when loading new GeoJSON
+      sidebar.classList.remove('active');
+      // Update button text
+      document.querySelector('.leaflet-control-sidebar').innerHTML = '☰';
+
+      fetch(url)
+        .then(res => res.json())
+        .then(data => {
+          // Create an empty GeoJSON layer
+          const geojsonLayer = L.geoJSON().addTo(map);
+
+          // Group features by bucket
+          const bucketGroups = {};
+          data.features.forEach(feature => {
+            const bucket = feature.properties.bucket || 'Uncategorized';
+            if (!bucketGroups[bucket]) {
+              bucketGroups[bucket] = [];
+            }
+            bucketGroups[bucket].push(feature);
+          });
+
+          // Sort buckets alphabetically
+          const sortedBuckets = Object.keys(bucketGroups).sort();
+
+          // Create bucket sections
+          sortedBuckets.forEach(bucket => {
+            // Create bucket header
+            const bucketHeader = document.createElement('div');
+            bucketHeader.className = 'bucket-header';
+            bucketHeader.innerHTML = `<strong>${bucket.toUpperCase()}</strong>`;
+            sidebar.appendChild(bucketHeader);
+
+            // Sort items within bucket alphabetically
+            const sortedItems = bucketGroups[bucket].sort((a, b) => 
+              (a.properties.name || '').localeCompare(b.properties.name || '')
+            );
+
+            // Create items for this bucket
+            sortedItems.forEach(feature => {
+              const item = document.createElement('div');
+              item.className = 'feature-item';
+              const name = feature.properties.name || 'Unnamed Feature';
+              const topic = (feature.properties.topic || 'No topic').replace(/Restaurant/g, '').trim();
+              const totalWords = (name + ' ' + topic).split(' ').length;
+              
+              if (totalWords > 4) {
+                item.innerHTML = `<strong>${name}</strong><br>${topic}`;
+              } else {
+                item.innerHTML = `<strong>${name}</strong> ${topic}`;
+              }
+              sidebar.appendChild(item);
+
+              const popupContent = `
+                <strong>${feature.properties.name || 'Unnamed Feature'}</strong><br>
+                ${feature.properties.address || 'No address'}<br>
+                ${feature.properties.topic || 'No topic'}<br>
+                ${Array.isArray(feature.properties.tips) ? feature.properties.tips.join('<br>') : 'No tips'}
+              `;
+
+              const layer = L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], {
+                radius: 6,
+                fillColor: "#3388ff",
+                color: "#000",
+                weight: 1,
+                fillOpacity: 0.8
+              });
+
+              layer.bindPopup(popupContent);
+
+              const latlng = layer.getLatLng();
+              const zoomLevel = Math.max(map.getZoom(), 17);
+              const flyToFeature = () => {
+                map.flyTo(latlng, zoomLevel, { animate: true, duration: 0.75 });
+                layer.openPopup();
+              };
+
+              item.onclick = () => {
+                flyToFeature();
+                if (window.innerWidth <= 768) {
+                  closeSidebar();
+                }
+              };
+              layer.on('click', flyToFeature);
+
+              geojsonLayer.addLayer(layer);
+            });
+          });
+
+          map.fitBounds(geojsonLayer.getBounds());
+          // Store the initial bounds
+          initialBounds = geojsonLayer.getBounds();
+        })
+        .catch(error => console.error('Error loading GeoJSON:', error));
+    }
+
+    // Add orientation message element
+    const orientationMessage = document.createElement('div');
+    orientationMessage.id = 'orientation-message';
+    orientationMessage.innerHTML = `
+      <div>Please rotate your device</div>
+      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiA1djE0TTUgMTJoMTQiLz48L3N2Zz4=" alt="rotate">
+      <div>to landscape mode</div>
+    `;
+    document.body.appendChild(orientationMessage);
+
+    // Check orientation and show/hide message
+    function checkOrientation() {
+      if (window.innerWidth <= 768) {
+        if (window.innerHeight > window.innerWidth) {
+          orientationMessage.classList.add('visible');
+        } else {
+          orientationMessage.classList.remove('visible');
+        }
+      } else {
+        orientationMessage.classList.remove('visible');
+      }
+    }
+
+    // Check orientation on load and resize
+    window.addEventListener('load', checkOrientation);
+    window.addEventListener('resize', checkOrientation);
+    window.addEventListener('orientationchange', checkOrientation);
+  </script>
+</body>
+</html>
