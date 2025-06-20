@@ -170,7 +170,7 @@
             if (files.length > 0) {
               select.value = 'data/' + files[0];
               // Load the first GeoJSON file
-              loadGeoJSON('data/' + files[0]);
+              loadGeoJSON('output/geojson/' + files[0]);
             }
           })
           .catch(error => {
