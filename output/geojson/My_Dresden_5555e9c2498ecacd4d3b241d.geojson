@@ -1,0 +1,619 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F\u00e4hrgarten",
+        "id": "4bdb00e03c4fef3b69b8f4bf",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/f%C3%A4hrgarten/4bdb00e03c4fef3b69b8f4bf",
+        "address": "K\u00e4the-Kollwitz-Ufer 23b",
+        "website": "http://www.faehrgarten.de",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [
+          "Spielplatz + Elbe + Bier. Wunderschon."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76728,
+          51.06157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schillergarten",
+        "id": "4b69de24f964a5202ab92be3",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/schillergarten/4b69de24f964a5202ab92be3",
+        "address": "Schillerplatz 9",
+        "website": "https://www.schillergarten.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [
+          "The view from the garden + bier. Food is pretty okay. Ice is super. A must."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.80893699572459,
+          51.052562669101064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botanischer Garten der Technischen Universit\u00e4t Dresden",
+        "id": "4bbb47d2b35776b0f6bfcb01",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/botanischer-garten-der-technischen-universit%C3%A4t-dresden/4bbb47d2b35776b0f6bfcb01",
+        "address": "St\u00fcbelallee 2",
+        "website": "http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/bg",
+        "categories": [
+          "Landmarks and Outdoors > Botanical Garden"
+        ],
+        "tips": [
+          "A free really nice, not too big botanical garden."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Botanical Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758565,
+          51.04296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gl\u00e4serne Manufaktur",
+        "id": "4b26445ff964a520a87924e3",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/gl%C3%A4serne-manufaktur/4b26445ff964a520a87924e3",
+        "address": "Lenn\u00e9str. 1",
+        "website": "http://www.glaesernemanufaktur.de",
+        "categories": [
+          "Business and Professional Services > Factory",
+          "Business and Professional Services > Event Space",
+          "Arts and Entertainment > Exhibit"
+        ],
+        "tips": [
+          "It does not work on Feiertagen, must be the union."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755765,
+          51.044546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burger-Dresden \"Burgermeister\"",
+        "id": "4bdd4e324ffaa5930e326ff7",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/burgerdresden-burgermeister/4bdd4e324ffaa5930e326ff7",
+        "address": "Louisenstra\u00dfe 54",
+        "website": "https://www.burger-dresden.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [
+          "Good buns, good potatoes, good burger."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76459,
+          51.08709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zwingerteich",
+        "id": "4f804c62e4b05766b1749aba",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/zwingerteich/4f804c62e4b05766b1749aba",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Lake"
+        ],
+        "tips": [
+          "Grab a breakfast in the corner bistro, then feed the ducks by the lake."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.73153277820003,
+          51.05408361232547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bike Center ...die Fahrradwerkstatt",
+        "id": "4ff707fee4b02b971515664b",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/bike-center-die-fahrradwerkstatt/4ff707fee4b02b971515664b",
+        "address": "",
+        "website": "",
+        "categories": [],
+        "tips": [],
+        "coord_source": "checkins",
+        "bucket": "",
+        "topic": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751791226091786,
+          51.06115782619406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Janny's Eis",
+        "id": "4e70b53214950bb0d72e4034",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/jannys-eis/4e70b53214950bb0d72e4034",
+        "address": "Bautzner Str.",
+        "website": "http://jannys-eis.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [
+          "Pretty decent icecream."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751701555736343,
+          51.06263096421781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eva's Pizza",
+        "id": "4e4a45a9c65bab12516ac381",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/evas-pizza/4e4a45a9c65bab12516ac381",
+        "address": "G\u00f6rlitzer Str. 29",
+        "website": "http://www.evaspizza.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [
+          "Cheap and okay pizza, decent music - a 2011 Acid Pauli mix from Fusion."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754730660232415,
+          51.0681036570441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kerstin's Fisch",
+        "id": "528e191b11d25c75fd24c8c2",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/kerstins-fisch/528e191b11d25c75fd24c8c2",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Food Truck"
+        ],
+        "tips": [
+          "Part of the markt."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Food Truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.756053924560547,
+          51.07016372680664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alaunplatz",
+        "id": "4ba63219f964a5209f3a39e3",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/alaunplatz/4ba63219f964a5209f3a39e3",
+        "address": "Alaunplatz",
+        "website": "http://dresden.stadtwiki.de/wiki/Alaunplatz",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [
+          "Great public park with markt."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.756213188171387,
+          51.0708611445459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz",
+        "id": "515d9645e4b0b36788b2699c",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/spielplatz/515d9645e4b0b36788b2699c",
+        "address": "Sebnitzer Strasse",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.756674,
+          51.068344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz Louisenstra\u00dfe",
+        "id": "53a6cd18498eac9e642d838b",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/spielplatz-louisenstra%C3%9Fe/53a6cd18498eac9e642d838b",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755323261854704,
+          51.06633740154707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abenteuerspielplatz Panama",
+        "id": "4cbaff464c60a093165449ca",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/abenteuerspielplatz-panama/4cbaff464c60a093165449ca",
+        "address": "Seifhennersdorfer Str. 18",
+        "website": "http://www.asp-panama.de",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground",
+          "Landmarks and Outdoors > Farm",
+          "Landmarks and Outdoors > Stable"
+        ],
+        "tips": [
+          "Animals and adventure playground. A must."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755973939850561,
+          51.066992906800245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz \"Bastion Merkur\"",
+        "id": "4e1886e8a8097d08b237c422",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/spielplatz-bastion-merkur/4e1886e8a8097d08b237c422",
+        "address": "Wallstr.",
+        "website": "http://www.dd4kids.de/archives/507-Spielplatz-Bastion-Merkur.html",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.734177536566383,
+          51.04732487681156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Suspension Railway Lower Station (Bergstation Schwebebahn)",
+        "id": "4ca876b3a6e08cfa1e388f94",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/bergstation-schwebebahn/4ca876b3a6e08cfa1e388f94",
+        "address": "Sierksstr. 2",
+        "website": "https://www.dvb.de/de-de/entdecken/bergbahnen/schwebebahn/",
+        "categories": [
+          "Travel and Transportation > Cable Car",
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Cable Car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.819888830184937,
+          51.054398070927455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eisverkauf SchillerGarten",
+        "id": "57010e4f498e67b67834d9d4",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/eisverkauf-schillergarten/57010e4f498e67b67834d9d4",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Good ice. Ice, baby."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.808171,
+          51.052782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comic-Tempel",
+        "id": "4c260b27905a0f4723796260",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/comictempel/4c260b27905a0f4723796260",
+        "address": "Hoyerswerdaer Str. 29",
+        "website": "http://www.comic-tempel.de",
+        "categories": [
+          "Retail > Bookstore",
+          "Retail > Arts and Crafts Store",
+          "Retail > Hobby Store"
+        ],
+        "tips": [
+          "Great shop!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751905555473678,
+          51.061871340684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deutsches Hygiene-Museum",
+        "id": "4bc1d16b920eb713ba281b2c",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/deutsches-hygienemuseum/4bc1d16b920eb713ba281b2c",
+        "address": "Lingnerplatz 1",
+        "website": "http://www.dhmd.de",
+        "categories": [
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [
+          "Great building, nice exhibitions, way-way to much."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Science Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74666452407837,
+          51.04428103186034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amell",
+        "id": "647238fd7cb03569da4676a5",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/amell/647238fd7cb03569da4676a5",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant"
+        ],
+        "tips": [
+          "Great family joint, good food, kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Korean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.727100360246718,
+          51.09498288638612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camondas Eis",
+        "id": "5b9509229ba3e5002c812932",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/camondas-eis/5b9509229ba3e5002c812932",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Pretty okay ice in the tourist trap simulacrum."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.73864,
+          51.051778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Augustus Garten - Biergarten am Narrenh\u00e4usel",
+        "id": "4e076420fa767637fd2a8614",
+        "list_id": "5555e9c2498ecacd4d3b241d",
+        "list_name": "My Dresden",
+        "url": "https://app.foursquare.com/v/augustus-garten--biergarten-am-narrenh%C3%A4usel/4e076420fa767637fd2a8614",
+        "address": "Wiesentorstr. 2",
+        "website": "http://www.augustusgarten.de",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [
+          "Biergarten with Ordnung."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.741628590961927,
+          51.05667177164344
+        ]
+      }
+    }
+  ]
+}

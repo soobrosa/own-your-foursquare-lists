@@ -1,0 +1,2719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pir\u00edt\u00f3s",
+        "id": "4e5e7053c65bba716698a40b",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/pir%C3%ADt%C3%B3s/4e5e7053c65bba716698a40b",
+        "address": "Kazinczy u. 52/C",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Pub",
+          "Dining and Drinking > Restaurant > Sandwich Spot",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06062641838257,
+          47.49944831063966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ThaiWok",
+        "id": "4e32931c18a846d7ed089863",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/thaiwok/4e32931c18a846d7ed089863",
+        "address": "Kir\u00e1lyi P\u00e1l u. 13/A",
+        "website": "http://thaiwok.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [
+          "currently the best, just like what Par\u00e1zs used to be, also take-away + delivery"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06000894729707,
+          47.4888656824393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belv\u00e1rosi Diszn\u00f3toros",
+        "id": "4bf27eb6af659c740afcd747",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/belv%C3%A1rosi-diszn%C3%B3toros/4bf27eb6af659c740afcd747",
+        "address": "K\u00e1rolyi Mih\u00e1ly u. 17.",
+        "website": "http://www.belvarosidisznotoros.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "good & fast if you crave meat + pickled whatever"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.057830468600407,
+          47.4915806941888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KisPar\u00e1zs Thai Soup & Wok Bar",
+        "id": "4b7e776ff964a5203aee2fe3",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/kispar%C3%A1zs-thai-soup--wok-bar/4b7e776ff964a5203aee2fe3",
+        "address": "Kazinczy u. 7.",
+        "website": "http://www.parazspresszo.com/node/140",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.063693723690257,
+          47.49666124810358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cserpes Tejiv\u00f3",
+        "id": "4fc8c79ee4b042a57f146f59",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/cserpes-tejiv%C3%B3/4fc8c79ee4b042a57f146f59",
+        "address": "S\u00fct\u0151 u. 2.",
+        "website": "http://www.cserpestejivo.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot",
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.053935408592224,
+          47.49672335213205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fragola k\u00e9zm\u0171ves fagyiz\u00f3",
+        "id": "5178e552e4b0d46299bfb72a",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/fragola-k%C3%A9zm%C5%B1ves-fagyiz%C3%B3/5178e552e4b0d46299bfb72a",
+        "address": "K\u00e1roly krt. 3",
+        "website": "http://www.fragolafagylaltozo.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "I always go for something salty."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.059367052421727,
+          47.49544365903288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fragola",
+        "id": "516e75eae4b0609014f5d8f4",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/fragola/516e75eae4b0609014f5d8f4",
+        "address": "R\u00e1day u.14.",
+        "website": "http://www.fragolafagylaltozo.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06217,
+          47.488636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szegedi Hal\u00e1szcs\u00e1rda",
+        "id": "4db840f04df0ded98bb8e139",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/szegedi-hal%C3%A1szcs%C3%A1rda/4db840f04df0ded98bb8e139",
+        "address": "Belgrad rakpart hrsz. 23817/2",
+        "website": "http://www.szegedihalaszcsarda.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0541236915731,
+          47.48848461111199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangkok Thai Restaurant",
+        "id": "4c6d38316af58cfacfc68817",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/bangkok-thai-restaurant/4c6d38316af58cfacfc68817",
+        "address": "S\u00f3 u. 3.",
+        "website": "http://www.thaietterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [
+          "Decent lunch menu, Kutiao is actually a quite okay Pho."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.057972626125135,
+          47.48799446808077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V\u00e1rosh\u00e1z Snack",
+        "id": "4cc0327e9ca85481ccceba16",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/v%C3%A1rosh%C3%A1z-snack/4cc0327e9ca85481ccceba16",
+        "address": "V\u00e1rosh\u00e1z u. 16.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [
+          "still d.r.e. after 14 years. home food, decent prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05516590493504,
+          47.49478993955159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2 Spaghi",
+        "id": "4f688421bb3dc78e0948c024",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/2-spaghi/4f688421bb3dc78e0948c024",
+        "address": "Kir\u00e1ly u. 13.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant",
+          "Retail > Food and Beverage Retail > Gourmet Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.059895129897864,
+          47.49819592550615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sp\u00edler",
+        "id": "5038ed94e4b0304eb4fc3a90",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/sp%C3%ADler/5038ed94e4b0304eb4fc3a90",
+        "address": "Kir\u00e1ly u. 13.",
+        "website": "http://www.spilerbp.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub",
+          "Dining and Drinking > Bar > Cocktail Bar",
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.058929681777954,
+          47.498689538467175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manga Cowboy",
+        "id": "4bb49655f038a593532bdaf0",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/manga-cowboy/4bb49655f038a593532bdaf0",
+        "address": "R\u00e1day u. 31.",
+        "website": "http://www.mangacowboy.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Restaurant > American Restaurant"
+        ],
+        "tips": [
+          "okay hamburger"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.064339697360992,
+          47.485540966406674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dang Muoi Pho Bistro",
+        "id": "51b9804e498ea12e8f1c84e5",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/dang-muoi-pho-bistro/51b9804e498ea12e8f1c84e5",
+        "address": "Nagymez\u0151 u. 51.",
+        "website": "http://vietnamietterem.hu/nagymezo",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05551940551618,
+          47.506741970136424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szputnyik Shop D20",
+        "id": "52ebce0f498e6f3934ce3db4",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/szputnyik-shop-d20/52ebce0f498e6f3934ce3db4",
+        "address": "Doh\u00e1ny u. 20.",
+        "website": "http://www.szputnyikshop.hu",
+        "categories": [
+          "Retail > Vintage and Thrift Store",
+          "Retail > Boutique",
+          "Retail > Fashion Retail > Clothing Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Vintage and Thrift Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06263157399803,
+          47.49545464417407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szimpla Farmers' Market (Szimpla Kert H\u00e1zt\u00e1ji Piac)",
+        "id": "4fdd9434e4b049c33bc8f9a0",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/szimpla-kert-h%C3%A1zt%C3%A1ji-piac/4fdd9434e4b049c33bc8f9a0",
+        "address": "Kazinczy u. 14.",
+        "website": "http://szimpla.hu/szimpla-haztaji/piac-795",
+        "categories": [
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06284551293092,
+          47.496874124758286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Little Melbourne Coffee",
+        "id": "4f84035fe4b03669d25e1b75",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/my-little-melbourne-coffee/4f84035fe4b03669d25e1b75",
+        "address": "Mad\u00e1ch Imre \u00fat 3.",
+        "website": "http://www.mylittlemelbourne.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Restaurant > Australian Restaurant"
+        ],
+        "tips": [
+          "Good coffee, but please don't ask me what roast I prefer. Please."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05774414539337,
+          47.49773273071937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irgalmasok Veli Bej f\u00fcrd\u0151je",
+        "id": "4e104105c65b4a49f3026759",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/irgalmasok-veli-bej-f%C3%BCrd%C5%91je/4e104105c65b4a49f3026759",
+        "address": "\u00c1rp\u00e1d fejedelem \u00fatja 7.",
+        "website": "http://www.irgalmas.hu/veli-bej-furdo",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa",
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool",
+          "Landmarks and Outdoors > Hot Spring"
+        ],
+        "tips": [
+          "A no-fuss, decent Turkish bath with funny opening times and limited places. Even the steam is okay although it looks touristic."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03803509635027,
+          47.519142737423884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hokedli -Pottage Bar-",
+        "id": "542302d2498e7a1047927c54",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/hokedli-pottage-bar/542302d2498e7a1047927c54",
+        "address": "Nagymez\u0151 u. 10.",
+        "website": "https://www.hokedli.net",
+        "categories": [
+          "Dining and Drinking > Restaurant > Soup Spot",
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Soup Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.061601,
+          47.502329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Momotaro Ramen",
+        "id": "4b466f75f964a520da2026e3",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/momotaro-ramen/4b466f75f964a520da2026e3",
+        "address": "Sz\u00e9chenyi u. 16.",
+        "website": "http://www.momotaroramen.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant",
+          "Dining and Drinking > Restaurant > Dumpling Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Noodle Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.048356,
+          47.503009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wang Mester K\u00ednai Konyh\u00e1ja",
+        "id": "4c530e4acf2aef3b71601d29",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/wang-mester-k%C3%ADnai-konyh%C3%A1ja/4c530e4acf2aef3b71601d29",
+        "address": "Gizella u. 46./A",
+        "website": "http://kinaikonyha.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [
+          "Really good food overpriced."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.098065,
+          47.509841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanoi Pho",
+        "id": "52a4b4f711d28f53b2519439",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/hanoi-pho/52a4b4f711d28f53b2519439",
+        "address": "Akad\u00e9mia u. 11.",
+        "website": "http://www.hanoipho.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [
+          "Pretty good pho priced for the location."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.046407218552414,
+          47.50295125936434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u0110\u0103ng M\u01b0\u1eddi Ph\u1edf Bistro",
+        "id": "52c54dfa498e0ab70a388d44",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/%C4%91%C4%83ng-m%C6%B0%E1%BB%9Di-ph%E1%BB%9F-bistro/52c54dfa498e0ab70a388d44",
+        "address": "Attila \u00fat 125",
+        "website": "http://vietnamietterem.hu/attila",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.026199822721736,
+          47.50307755713744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vagon \u00c9tterem",
+        "id": "4d4ecf919a2a6ea8b725266f",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/vagon-%C3%A9tterem/4d4ecf919a2a6ea8b725266f",
+        "address": "V\u00e9rmez\u0151",
+        "website": "http://www.vagonetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "I keep coming here for a long time, it's one of the few late night fr\u00f6ccs places - solidly overpriced, but service is okay."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.025361835956573,
+          47.501072421369486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fragola",
+        "id": "5566d5f0498ebbd14cc7fee6",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/fragola/5566d5f0498ebbd14cc7fee6",
+        "address": "Kiss J\u00e1nos alt\u00e1bornagy utca 54.",
+        "website": "http://fragolafagylaltozo.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.01537142709093,
+          47.4923705070088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunyadi Lak\u00e1sbisztr\u00f3",
+        "id": "5469e1cf498e7f9936fc45dd",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/hunyadi-lak%C3%A1sbisztr%C3%B3/5469e1cf498e7f9936fc45dd",
+        "address": "Hunyadi J\u00e1nos \u00fat 15.",
+        "website": "http://lakasbisztro.hu",
+        "categories": [
+          "Dining and Drinking > Bar",
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [
+          "Pretty cosy, feels like home, not just craft beers, but also fr\u00f6ccs."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.037172239234206,
+          47.500600513754385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00c9jjeli Bagoly Falatoz\u00f3",
+        "id": "4cf246498333224b136a0f8e",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/%C3%A9jjeli-bagoly-falatoz%C3%B3/4cf246498333224b136a0f8e",
+        "address": "Fogarasi \u00fat 13.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Really good home food, decently priced. Also non-stop and gives discount to ambulance staff."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11833476281414,
+          47.50305474226807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u0151leves Kert",
+        "id": "4bd22688462cb7139dbddb07",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/k%C5%91leves-kert/4bd22688462cb7139dbddb07",
+        "address": "Kazinczy u. 41.",
+        "website": "http://www.koleves.com",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.061441087236027,
+          47.499082587907246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tik-Tak Pressz\u00f3",
+        "id": "4bf4287f6ba2b713e0408977",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/tiktak-pressz%C3%B3/4bf4287f6ba2b713e0408977",
+        "address": "B\u00f6sz\u00f6rm\u00e9nyi \u00fat 17/c",
+        "website": "http://tiktak-presszo.hu",
+        "categories": [
+          "Dining and Drinking > Bar > Pub",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Coming here for 15 years to have a decent fr\u00f6ccs."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.018345817743118,
+          47.494282678848606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Br\u00fan\u00f3 K\u00e1v\u00e9z\u00f3 & P\u00e9ks\u00e9g",
+        "id": "4e7c22d1b61c3834b8f25934",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/br%C3%BAn%C3%B3-k%C3%A1v%C3%A9z%C3%B3--p%C3%A9ks%C3%A9g/4e7c22d1b61c3834b8f25934",
+        "address": "N\u00e9metv\u00f6lgyi \u00fat 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.017728878009173,
+          47.49604838549589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Cab Burger",
+        "id": "4e53f8e5d4c05e0079f94dee",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/black-cab-burger/4e53f8e5d4c05e0079f94dee",
+        "address": "Mester u. 46.",
+        "website": "http://www.blackcabburger.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [
+          "decent burger, smells of oil"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.073907136917114,
+          47.47864004724245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00c1zsiai \u00cdzek Koreai \u00e9s Jap\u00e1n \u00c9lelmiszerbolt \u00e9s \u00c9telb\u00e1r",
+        "id": "4e1fe44e88774a43b759df58",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/%C3%A1zsiai-%C3%ADzek-koreai-%C3%A9s-jap%C3%A1n-%C3%A9lelmiszerbolt-%C3%A9s-%C3%A9telb%C3%A1r/4e1fe44e88774a43b759df58",
+        "address": "Sz\u00e9pv\u00f6lgyi \u00fat 2/b",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant"
+        ],
+        "tips": [
+          "like a classic \"traffik\", with eastern ingredients, daily menu with a home feeling, nice service. a must."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Korean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03923860358835,
+          47.527480638461256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sz\u00e9chenyi Thermal Bath (Sz\u00e9chenyi Gy\u00f3gyf\u00fcrd\u0151 \u00e9s Uszoda)",
+        "id": "4bb6452c2f70c9b606278530",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/sz%C3%A9chenyi-gy%C3%B3gyf%C3%BCrd%C5%91-%C3%A9s-uszoda/4bb6452c2f70c9b606278530",
+        "address": "\u00c1llatkerti k\u00f6r\u00fat 9-11.",
+        "website": "http://www.szechenyifurdo.hu",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa",
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool",
+          "Landmarks and Outdoors > Hot Spring"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.08239364624023,
+          47.51830206635792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F\u00e9legyh\u00e1zi p\u00e9ks\u00e9g",
+        "id": "5388964f498e2d6da87df20d",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/f%C3%A9legyh%C3%A1zi-p%C3%A9ks%C3%A9g/5388964f498e2d6da87df20d",
+        "address": "Mester utca",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [
+          "Igazi kifli!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.069717293472173,
+          47.48119170994984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mester NON-STOP",
+        "id": "4cc9ad816fbc199cc87b627d",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/mester-nonstop/4cc9ad816fbc199cc87b627d",
+        "address": "Mester u. 20.",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store",
+          "Retail > Food and Beverage Retail"
+        ],
+        "tips": [
+          "Club Mate es ihato sorok."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.07038281105514,
+          47.48083681390946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jedermann Caf\u00e9",
+        "id": "4c813670e602b1f7a295907a",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/jedermann-caf%C3%A9/4c813670e602b1f7a295907a",
+        "address": "R\u00e1day u. 58.",
+        "website": "http://jedermann.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "A place to work from with WiFi, proper coffee and lemonade."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06708527438716,
+          47.481899511868185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Semmi Extra",
+        "id": "52459fdb11d2ff69a69ae8b9",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/semmi-extra/52459fdb11d2ff69a69ae8b9",
+        "address": "Bart\u00f3k B\u00e9la \u00fat 62\u201364.",
+        "website": "https://semmiextra.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub",
+          "Dining and Drinking > Bar",
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [
+          "Okay food, okay beer (that's a feat in Budapest coming from Germany), well priced, competent service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.045399561866216,
+          47.47703690606585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DOBRUMBA",
+        "id": "58527fe80393cc0b70d6cb43",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/dobrumba/58527fe80393cc0b70d6cb43",
+        "address": "Dob u. 5.",
+        "website": "http://dobrumba.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant",
+          "Dining and Drinking > Restaurant > Moroccan Restaurant"
+        ],
+        "tips": [
+          "As good as any real Middle Eastern hole-in-a-wall place in Berlin, nothing special -- expect the higher prices. Lunch menu is kinda deal, service is haphazard."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mediterranean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.059918190434004,
+          47.4969469181677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iguana Bar & Grill",
+        "id": "4b9bdd2ef964a520c32e36e3",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/iguana-bar--grill/4b9bdd2ef964a520c32e36e3",
+        "address": "Zolt\u00e1n u. 16.",
+        "website": "http://www.iguana.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [
+          "and michelada is for all occassion",
+          "nice lunch special, fried ice cream is super"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.048831,
+          47.504563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoska Reggeliz\u0151 K\u00e1v\u00e9z\u00f3",
+        "id": "53dc0590498efb39047d1f51",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/zoska-reggeliz%C5%91-k%C3%A1v%C3%A9z%C3%B3/53dc0590498efb39047d1f51",
+        "address": "Ferenczy Istv\u00e1n u. 28",
+        "website": "http://zoska.hu",
+        "categories": [
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Okay home food, nothing special. Service can't control the crowd."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Breakfast Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.060453072494308,
+          47.492910283348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szent Luk\u00e1cs Gy\u00f3gyf\u00fcrd\u0151 \u00e9s Uszoda",
+        "id": "4b7ec53ef964a52012fe2fe3",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/szent-luk%C3%A1cs-gy%C3%B3gyf%C3%BCrd%C5%91-%C3%A9s-uszoda/4b7ec53ef964a52012fe2fe3",
+        "address": "Frankel Le\u00f3 u. 25-29.",
+        "website": "https://www.lukacsfurdo.hu",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa",
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool",
+          "Landmarks and Outdoors > Hot Spring"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.036758,
+          47.517703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasta Bella",
+        "id": "520a154d2fc6cfed3f0e04ab",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/pasta-bella/520a154d2fc6cfed3f0e04ab",
+        "address": "Doh\u00e1ny u. 1/b",
+        "website": "http://www.pastabella.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [
+          "Surprisingly good and reasonable priced pasta at the doorstep of the Bermuda-triangle."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.060596,
+          47.495455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u00e9k R\u00f3zsa \u00c9tterem",
+        "id": "4c519f56375c0f47963e4994",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/k%C3%A9k-r%C3%B3zsa-%C3%A9tterem/4c519f56375c0f47963e4994",
+        "address": "Wessel\u00e9nyi u. 9.",
+        "website": "http://www.kekrozsaetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant",
+          "Dining and Drinking > Restaurant > Hungarian Restaurant",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [
+          "Time stood still, decent old school Hungarian cooking."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.061385767260973,
+          47.496893524997475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sudevi Boutique",
+        "id": "4f759f2ce4b0b4e683e9eb1e",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/sudevi-boutique/4f759f2ce4b0b4e683e9eb1e",
+        "address": "",
+        "website": "http://www.sudevi.hu",
+        "categories": [
+          "Retail > Boutique"
+        ],
+        "tips": [
+          "Not cheap, but a good one if you are into colourful stuff."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.062381,
+          47.495362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brody House",
+        "id": "4c1cd7868b3aa5933975995f",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/brody-house/4c1cd7868b3aa5933975995f",
+        "address": "Br\u00f3dy S\u00e1ndor u. 10.",
+        "website": "http://www.brodyhouse.com",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [
+          "Good deal via HotelTonight, although the small room is indeed really small and pretty close to some folk concert."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.063064925511295,
+          47.49236169687536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G\u00e9mklub j\u00e1t\u00e9k\u00e1ruh\u00e1z",
+        "id": "4cd2a2e3d5d7a1cdc4387966",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/g%C3%A9mklub-j%C3%A1t%C3%A9k%C3%A1ruh%C3%A1z/4cd2a2e3d5d7a1cdc4387966",
+        "address": "R\u00e1day u. 30/b.",
+        "website": "http://www.gemklub.hu",
+        "categories": [
+          "Retail > Toy Store",
+          "Arts and Entertainment > Gaming Cafe"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Toy Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06489596728967,
+          47.48556281700318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoo Caf\u00e9",
+        "id": "540f2429498e5a2b1e484c30",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/zoo-caf%C3%A9/540f2429498e5a2b1e484c30",
+        "address": "Fej\u00e9r Gy\u00f6rgy u. 3.",
+        "website": "http://zoocafe.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Pet Caf\u00e9",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Best 90 minutes spent with animals and kids. Beware if you have cat allergy."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pet Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.058440837750712,
+          47.489587537202056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trattoria La Coppola",
+        "id": "4c8f598dad70a143c2af900f",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/trattoria-la-coppola/4c8f598dad70a143c2af900f",
+        "address": "K\u00e1rolyi Mih\u00e1ly u. 19.",
+        "website": "http://www.lacoppola.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [
+          "Lunch menu is totally reasonable for the location."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.057971170832893,
+          47.49145642136565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gell\u00e9rt-hegyi cs\u00faszd\u00e1k",
+        "id": "4c836d5d2f1c236aedc74243",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/gell%C3%A9rthegyi-cs%C3%BAszd%C3%A1k/4c836d5d2f1c236aedc74243",
+        "address": "Gell\u00e9rt-hegy",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.050026730765072,
+          47.48505844599785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fragola",
+        "id": "4dcbd1421f6ea1401d473993",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/fragola/4dcbd1421f6ea1401d473993",
+        "address": "Nagymez\u0151 u. 7.",
+        "website": "http://www.fragolafagylaltozo.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [
+          "Always go for the salty."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.061314895998656,
+          47.50281892116427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Par\u00e1zs",
+        "id": "4ffdbd96e4b0eb5cd04d3e74",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/par%C3%A1zs/4ffdbd96e4b0eb5cd04d3e74",
+        "address": "Kir\u00e1ly u. 53.",
+        "website": "http://parazsthai.parazspresszo.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [
+          "The classic Parazs taste -- slightly overpriced."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06347022787545,
+          47.50240859356781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buda Gourmet, Bistro & Market",
+        "id": "55b39f5c498e0739f0276c08",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/buda-gourmet-bistro--market/55b39f5c498e0739f0276c08",
+        "address": "B\u00e9csi \u00fat 38-44.",
+        "website": "http://budagourmet.hu/hu/bistro",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.037520683161652,
+          47.52834752492991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Csod\u00e1k Palot\u00e1ja",
+        "id": "5a11a77c60d11b37556fbbce",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/csod%C3%A1k-palot%C3%A1ja/5a11a77c60d11b37556fbbce",
+        "address": "B\u00e9csi \u00fat 38-44.",
+        "website": "https://www.csopa.hu",
+        "categories": [
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [
+          "Bit too much for me."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Science Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03706309102453,
+          47.52853446184886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Budapest Zoo (F\u0151v\u00e1rosi \u00c1llat- \u00e9s N\u00f6v\u00e9nykert)",
+        "id": "4ba5f0c5f964a520622a39e3",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/budapesti-%C3%A1llatkert--budapest-zoo/4ba5f0c5f964a520622a39e3",
+        "address": "\u00c1llatkerti krt. 6-12.",
+        "website": "http://www.zoobudapest.com",
+        "categories": [
+          "Landmarks and Outdoors > Botanical Garden",
+          "Arts and Entertainment > Zoo > Zoo Exhibit"
+        ],
+        "tips": [
+          "Recent developments are great!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Botanical Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.077525494336115,
+          47.51821084173917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F\u00e9ny utcai piac",
+        "id": "4bfcd25ef7c82d7f57528d04",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/f%C3%A9ny-utcai-piac/4bfcd25ef7c82d7f57528d04",
+        "address": "F\u00e9ny u.",
+        "website": "",
+        "categories": [
+          "Retail > Market",
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [
+          "Still the 'market' for me in Budapest."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.024407979127176,
+          47.50869209232296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u00e1v\u00e9 szak\u00fczlet",
+        "id": "4d5508fccff7721e7ae7a4f5",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/k%C3%A1v%C3%A9-szak%C3%BCzlet/4d5508fccff7721e7ae7a4f5",
+        "address": "F\u00e9ny utcai piac",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [
+          "The 'coffee' at the 'market'."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.025268,
+          47.509178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asztalka",
+        "id": "5245964611d2262a9c14c499",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/asztalka/5245964611d2262a9c14c499",
+        "address": "D\u00f6brentei u. 15.",
+        "website": "http://www.asztalka.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [
+          "Great cakes, supersmall interior."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.044231176376343,
+          47.49219305108914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mesem\u00fazeum",
+        "id": "5068162de4b08e8fd41fc1a0",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/mesem%C3%BAzeum/5068162de4b08e8fd41fc1a0",
+        "address": "D\u00f6brentei utca 15.",
+        "website": "http://www.mesemuzeum.hu",
+        "categories": [
+          "Arts and Entertainment > Museum > Art Museum",
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [
+          "Sweet and small interactive setup -- only in Hungarian."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.044592008228097,
+          47.4922498215731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanoi Xua Vietnamese Restaurant",
+        "id": "57dbf76b498e28285d034ddf",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/hanoi-xua-vietnamese-restaurant/57dbf76b498e28285d034ddf",
+        "address": "Ern\u0151 utca 30-34",
+        "website": "http://www.hanoixua.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [
+          "A feat after Termeszettudomanyi Muzeum."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.085484667554024,
+          47.47956077719133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumini j\u00e1tsz\u00f3",
+        "id": "530a15fe498e04ed34911723",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/rumini-j%C3%A1tsz%C3%B3/530a15fe498e04ed34911723",
+        "address": "M\u00e1ria t\u00e9r 6.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [
+          "It's okay."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03502642121072,
+          47.506456785292116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laci b\u00e1csi lemezboltja",
+        "id": "4ef47c5f775b96fb0553c455",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/laci-b%C3%A1csi-lemezboltja/4ef47c5f775b96fb0553c455",
+        "address": "Kert\u00e9sz u. 42.",
+        "website": "http://hanglemezek.hu",
+        "categories": [
+          "Retail > Record Store",
+          "Retail > Music Store"
+        ],
+        "tips": [
+          "For Hungarian classics  check the website then come and dig 'em."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Record Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.065166901952324,
+          47.50220618294908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terv Eszpressz\u00f3",
+        "id": "4bb354612397b713b1f137b3",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/terv-eszpressz%C3%B3/4bb354612397b713b1f137b3",
+        "address": "N\u00e1dor u. 19.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Pub",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.049045690692374,
+          47.50194076193595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00f6rze . K\u00e1v\u00e9h\u00e1z . \u00c9tterem",
+        "id": "5989b08c9cadd91446afa4a9",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/b%C3%B6rze--k%C3%A1v%C3%A9h%C3%A1z--%C3%A9tterem/5989b08c9cadd91446afa4a9",
+        "address": "N\u00e1dor u. 23.",
+        "website": "http://borzeetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro",
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Lunch menu was great. Slightly stiff."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.049059,
+          47.502532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pontoon",
+        "id": "59064651446ea60929669886",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/pontoon/59064651446ea60929669886",
+        "address": "Id. Antall J\u00f3zsef rakpart 1.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [
+          "Must be fun when it's warm!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.04629607073285,
+          47.4996211259103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biang Bistro",
+        "id": "5aba7eaf826444616158db03",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/biang-bistro/5aba7eaf826444616158db03",
+        "address": "Ter\u00e9z k\u00f6r\u00fat 20.",
+        "website": "https://welovebudapest.com/2018/04/04/wang-mester-uj-helyet-nyitott-az-oktogonnal-biang-bisztro/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant"
+        ],
+        "tips": [
+          "Good Chinese food in the inner city, tend to be crowded, try to reserve."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.062419180386243,
+          47.50589384882062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hai Nam Pho Bistro",
+        "id": "511d3b09e4b071437a929e08",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/hai-nam-pho-bistro/511d3b09e4b071437a929e08",
+        "address": "Okt\u00f3ber huszonharmadika u. 27.",
+        "website": "http://www.hainambudapest.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant",
+          "Dining and Drinking > Restaurant > Soup Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.051176,
+          47.47348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ty\u00fakany\u00f3 Csibefal\u00f3",
+        "id": "4f22a96fe4b05183ca1bf3dd",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/ty%C3%BAkany%C3%B3-csibefal%C3%B3/4f22a96fe4b05183ca1bf3dd",
+        "address": "Pap K\u00e1roly u. 8.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fried Chicken Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fried Chicken Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.07097598385497,
+          47.53150580634765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kami Kisvend\u00e9gl\u0151je",
+        "id": "5d28705f7ad194002fa68740",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/kami-kisvend%C3%A9gl%C5%91je/5d28705f7ad194002fa68740",
+        "address": "Vasr\u00f3zsa u. 2.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Lovely service, great food, definitely value for money. Classics, all good."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.104077,
+          47.610898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lip\u00f3ti P\u00e9ks\u00e9g",
+        "id": "4e2fb511b0fbdc2b65042cb2",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/lip%C3%B3ti-p%C3%A9ks%C3%A9g/4e2fb511b0fbdc2b65042cb2",
+        "address": "Alkot\u00e1s u. 1.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.024008778596,
+          47.50113526319589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pandzsab Tandoori \u00c9tterem",
+        "id": "4bcb0556511f952125a3b0c7",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/pandzsab-tandoori-%C3%A9tterem/4bcb0556511f952125a3b0c7",
+        "address": "Pannonia u. 3.",
+        "website": "http://indiaietterem.hupont.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.051610324739304,
+          47.51326125024096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westend Tet\u0151terasz",
+        "id": "4c90b199ae96a0931bbb9c46",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/westend-tet%C5%91terasz/4c90b199ae96a0931bbb9c46",
+        "address": "Westend",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza",
+          "Business and Professional Services > Event Space",
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [
+          "Ink\u00e1bb tet\u0151, mint park, de legal\u00e1bb nincsenek sokan \u00e9s olt\u00e1ri nagy a budi. A pultban fogalomn\u00e9lk\u00fclis\u00e9g."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05876874923706,
+          47.51288919738364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhu & Co",
+        "id": "6065bc368c1c5c60e3b5bb74",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/zhu--co/6065bc368c1c5c60e3b5bb74",
+        "address": "66 Nagymez\u0151 utca",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [
+          "Good food overpriced."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Asian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.055897,
+          47.506159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artigiana Gelati",
+        "id": "4bb88d6ab35776b0bffcc801",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/artigiana-gelati/4bb88d6ab35776b0bffcc801",
+        "address": "Csaba u. 8.",
+        "website": "http://wcs.oisz.hu/44904/",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.022358,
+          47.505806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biang Bistro",
+        "id": "5b1812590d173f002c5918ea",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/biang-bistro/5b1812590d173f002c5918ea",
+        "address": "V\u00e1mh\u00e1z krt 5",
+        "website": "https://3no.ro/dristor",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [
+          "Good noodle, bland soup, jerk service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.058740391005678,
+          47.487621614574664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hello P\u00e0",
+        "id": "5a3ab49046e1b66fb7b7175b",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/hello-p%C3%A0/5a3ab49046e1b66fb7b7175b",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.034538,
+          47.509106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lights Art Museum",
+        "id": "63171149fe1dac305b7e5303",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/lights-art-museum/63171149fe1dac305b7e5303",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [
+          "Pretty good one. I loathe contemporary art but here 50% is amazing, 50% is horrible crap. Still don't read the descriptions because your brain will be fried by the circle jerk bullshit."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05298,
+          47.50492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nacha Bubbletea",
+        "id": "5bd4655827cbd10025a4edaf",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/nacha-bubbletea/5bd4655827cbd10025a4edaf",
+        "address": "33 Veres P\u00e1ln\u00e9 utca",
+        "website": "https://m.netpincer.hu/nacha_bubble_tea/hazhozszallitas/_etlap",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Bubble Tea Shop"
+        ],
+        "tips": [
+          "Super sweet shop also for Korean pop stuff."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bubble Tea Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.058009,
+          47.488739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paletta Bisztr\u00f3",
+        "id": "5a228df7fc9e9458596c596c",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/paletta-bisztr%C3%B3/5a228df7fc9e9458596c596c",
+        "address": "Tompa u. 28.",
+        "website": "https://www.palettabisztro.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Daily menu and random bites were pretty good. Menu was confusing a bit."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.072235,
+          47.481977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coco7 chocolate shop (Coco7 Csokol\u00e1d\u00e9 Bolt)",
+        "id": "57d33903498e4eccffb139b0",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/coco7-chocolate-shop/57d33903498e4eccffb139b0",
+        "address": "Hatty\u00fa utca 1.",
+        "website": "http://www.coco7.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [
+          "Good stuff and is open even when the hipster places are closed."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.032246,
+          47.507214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balogi Tradicion\u00e1lis H\u00fas\u00e1ruh\u00e1z",
+        "id": "4c175f00f693b713270f5f54",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/balogi-tradicion%C3%A1lis-h%C3%BAs%C3%A1ruh%C3%A1z/4c175f00f693b713270f5f54",
+        "address": "B\u00f6sz\u00f6rm\u00e9nyi \u00fat 36/a",
+        "website": "http://balogihus.hu/rolunk/",
+        "categories": [
+          "Dining and Drinking > Restaurant > BBQ Joint",
+          "Retail > Food and Beverage Retail > Butcher"
+        ],
+        "tips": [
+          "The OG hentes in da hood. Reggelire v\u00e9reshurka macskap\u00f6cs\u00e9vel \u00e9s must\u00e1rral, keine keny\u00e9r."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "BBQ Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.016618085271443,
+          47.49255304793444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Budapest Barber Shop",
+        "id": "55b748e8498e93860239c1dd",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/budapest-barber-shop/55b748e8498e93860239c1dd",
+        "address": "R\u00e1koczi \u00dat 8/A",
+        "website": "http://barbershopbudapest.hu",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Hair Salon"
+        ],
+        "tips": [
+          "Popped in on a random Sunday and it was a great experience. A freaking barber shop if you like."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Hair Salon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.061459691812217,
+          47.49469724087023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1201-es \u00c9telbolt",
+        "id": "57764b76498ef16b6dcf600a",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/1201es-%C3%A9telbolt/57764b76498ef16b6dcf600a",
+        "address": "B\u00f6sz\u00f6rm\u00e9nyi \u00fat 3.",
+        "website": "https://wew.",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [
+          "Korrekt aron rendes menzakoszt, nem kicsik az adagok."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.02046404476546,
+          47.49680818618319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00c1lmok \u00e1lmod\u00f3i 20 ki\u00e1ll\u00edt\u00e1s",
+        "id": "620fc1bddda85a16a27eec0a",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/%C3%A1lmok-%C3%A1lmod%C3%B3i-20-ki%C3%A1ll%C3%ADt%C3%A1s/620fc1bddda85a16a27eec0a",
+        "address": "Millen\u00e1ris Park C \u00e9p\u00fclet",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [
+          "Meglep\u0151en j\u00f3 \u00faj v\u00e1ltozat, csak nagyon sok, valahogy kett\u00e9 kellene v\u00e1gni."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.024079,
+          47.511761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dand\u00e1r Gy\u00f3gyf\u00fcrd\u0151",
+        "id": "4e4131aea809968085325a0f",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/dand%C3%A1r-gy%C3%B3gyf%C3%BCrd%C5%91/4e4131aea809968085325a0f",
+        "address": "Dand\u00e1r u. 3.",
+        "website": "http://www.dandarfurdo.hu",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa",
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool",
+          "Landmarks and Outdoors > Hot Spring"
+        ],
+        "tips": [
+          "The proper city bath all cities should have."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.071061027811293,
+          47.47633741284682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pr\u00e9mium sonk\u00e1s",
+        "id": "574584b7498e79c1c4d8c86a",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/pr%C3%A9mium-sonk%C3%A1s/574584b7498e79c1c4d8c86a",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Butcher",
+          "Retail > Market"
+        ],
+        "tips": [
+          "Great selection, bit upmarket."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.065258,
+          47.500426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Happy Panda",
+        "id": "5dade885e5f999000895be35",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/happy-panda/5dade885e5f999000895be35",
+        "address": "Th\u00f6k\u00f6ly \u00fat 18.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [
+          "The asian street food place in the city. Outstanding."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.065916,
+          47.495274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pali B\u00e1csi Boroz\u00f3ja \u00e9s \u00c9tkezd\u00e9je",
+        "id": "4bc259c5920eb7136e211c2c",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/pali-b%C3%A1csi-boroz%C3%B3ja-%C3%A9s-%C3%A9tkezd%C3%A9je/4bc259c5920eb7136e211c2c",
+        "address": "Tartsay Vilmos u. 8.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden",
+          "Dining and Drinking > Bar > Wine Bar",
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.022821940137995,
+          47.49200814817888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jin Man Tang",
+        "id": "4bb61955941ad13af0df1ee3",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/jin-man-tang/4bb61955941ad13af0df1ee3",
+        "address": "M\u00e1rv\u00e1ny u. 24/b",
+        "website": "http://kinaigyorsbufe.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [
+          "\"Szia, szia!\""
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.025731381989857,
+          47.495272200912346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangla B\u00fcf\u00e9 Premium",
+        "id": "4cbb426b7148f04d1651e1ab",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/bangla-b%C3%BCf%C3%A9-premium/4cbb426b7148f04d1651e1ab",
+        "address": "Dob u. 62.",
+        "website": "http://banglabufepremium.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant",
+          "Dining and Drinking > Restaurant > Halal Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.065673,
+          47.499891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swaad Indiai \u00c9tterem",
+        "id": "5b50c795838e590039a0f833",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/swaad-indiai-%C3%A9tterem/5b50c795838e590039a0f833",
+        "address": "Gomb utca 5",
+        "website": "http://swaad.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [
+          "Pretty solid food, good variety, actual spicyness, reasonable prices, kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.071968,
+          47.533005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dag\u00e1ly Term\u00e1lf\u00fcrd\u0151, Strandf\u00fcrd\u0151 \u00e9s Uszoda",
+        "id": "4c0e6d8098102d7f989ce306",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/dag%C3%A1ly-term%C3%A1lf%C3%BCrd%C5%91-strandf%C3%BCrd%C5%91-%C3%A9s-uszoda/4c0e6d8098102d7f989ce306",
+        "address": "N\u00e9pf\u00fcrd\u0151 u. 36.",
+        "website": "http://www.dagalyfurdo.hu",
+        "categories": [
+          "Arts and Entertainment > Water Park",
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool",
+          "Business and Professional Services > Health and Beauty Service > Spa"
+        ],
+        "tips": [
+          "Swim or float outside in the thermal pools with the sun shining on you in the wintertime. Steam is meh."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Water Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.061464305012358,
+          47.53878223302512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harap\u00f3 M\u00f3kus Vend\u00e9gl\u0151",
+        "id": "4bcc798b68f976b02aa26283",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/harap%C3%B3-m%C3%B3kus-vend%C3%A9gl%C5%91/4bcc798b68f976b02aa26283",
+        "address": "Z\u00e1por u. 69",
+        "website": "http://www.harapomokus.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant",
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [
+          "Still D.R.E. after a few decades. Good and finicky stuff for a reasonable price. Business lunch is a no-brainer. Skip the p\u00e1linka, it's the same nail polish removal as everywhere else."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03523879783082,
+          47.54238584647196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sikl\u00f3erny\u0151s Starthely - \u00d3buda",
+        "id": "4f3f90c5e4b0808981ddf3e2",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/sikl%C3%B3erny%C5%91s-starthely--%C3%B3buda/4f3f90c5e4b0808981ddf3e2",
+        "address": "H\u00e1rmashat\u00e1rhegyi \u00dat",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Mountain"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.002781669149762,
+          47.555938870759306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T\u00e1bor-hegyi Barlang",
+        "id": "4dc529fc18387d1bd535ab85",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/t%C3%A1borhegyi-barlang/4dc529fc18387d1bd535ab85",
+        "address": "1037 Budapest",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Scenic Lookout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.012012481689453,
+          47.55002975463867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wafu",
+        "id": "5ed281f8d0bff8000834a4fa",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/wafu/5ed281f8d0bff8000834a4fa",
+        "address": "Kazinczy utca",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Japanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.064129,
+          47.496082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "I Love Gelato - k\u00fcl\u00f6nleges fagylaltoz\u00f3",
+        "id": "4e172e2f8877d38dc90cca6d",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/i-love-gelato--k%C3%BCl%C3%B6nleges-fagylaltoz%C3%B3/4e172e2f8877d38dc90cca6d",
+        "address": "Mester u. 40-44.",
+        "website": "http://ilovegelato.hupont.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Pretty good ice, service is horrible.",
+          "The cakes were so-so."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0732634167261,
+          47.47887199092272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Csibefalat gyors\u00e9tkezde",
+        "id": "4ec4fc720aaf9233ed9d77ac",
+        "list_id": "5256e810498e25ef78398f58",
+        "list_name": "My Budapest",
+        "url": "https://app.foursquare.com/v/csibefalat-gyors%C3%A9tkezde/4ec4fc720aaf9233ed9d77ac",
+        "address": "R\u00e1day u. 43.",
+        "website": "http://www.csibefalat.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fried Chicken Joint",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [
+          "Great selection, even for takeaway, chicken liver and cauliflower in breadcrumbs :)"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fried Chicken Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06550738363999,
+          47.48401852258593
+        ]
+      }
+    }
+  ]
+}

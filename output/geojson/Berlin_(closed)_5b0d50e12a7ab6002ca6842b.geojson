@@ -1,0 +1,1107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falafel Abu Arab",
+        "id": "52501a1711d2c47af4d8a247",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/falafel-abu-arab/52501a1711d2c47af4d8a247",
+        "address": "M\u00fcllerstr. 143",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Falafel Restaurant"
+        ],
+        "tips": [
+          "Really good falafel decently priced."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Falafel Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35469950020926,
+          52.54862563254069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jin Dal Le",
+        "id": "4d00ca7e7c563704f933b2f0",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/jin-dal-le/4d00ca7e7c563704f933b2f0",
+        "address": "Fennstr. 4",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant"
+        ],
+        "tips": [
+          "Good food, not cheap, granny is super cute, although a bit motherly."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Korean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.368777220013286,
+          52.54149390179812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Shanghai",
+        "id": "4b17b7acf964a52068c723e3",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/old-shanghai/4b17b7acf964a52068c723e3",
+        "address": "Chausseestr. 32",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [
+          "Lunch menu is a deal in this culinary no-man's land. Prices are okay, food is decent. Beware that place can be full anytime with Chinese tourists, but you can't make reservations on the phone."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380697857288462,
+          52.53271899184084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ULA Berlin",
+        "id": "4f886562e4b09582a15ce723",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/ula-berlin/4f886562e4b09582a15ce723",
+        "address": "Anklamer Str. 8",
+        "website": "http://ula-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant"
+        ],
+        "tips": [
+          "Sunday brunch is not cheap, but it's pleasing. I wouldn't call it jolly good."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Japanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396096822165454,
+          52.53441836106372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pho Co",
+        "id": "4e24137eb61cdcf1ecd83ccb",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/pho-co/4e24137eb61cdcf1ecd83ccb",
+        "address": "Rosa-Luxemburg-Str. 20",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [
+          "Lunch menu for 6.50 is okay, pretty fast service. Otherwise is a generic Vietnamese."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410604638485204,
+          52.52524845235554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pierogi - andere polnische Schmeckereien",
+        "id": "5559cd95498ec5aed1dc3a36",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/pierogi--andere-polnische-schmeckereien/5559cd95498ec5aed1dc3a36",
+        "address": "Brunnenstr. 182",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [
+          "You know that you're in a good company if you see Polish construction workers eat here. Lunch menu is a bargain and pretty good."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399231658414726,
+          52.53163754938763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "H\u00e4agen Dazs",
+        "id": "4b814b0ff964a520fa9d30e3",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/h%C3%A4agen-dazs/4b814b0ff964a520fa9d30e3",
+        "address": "Hackescher Markt",
+        "website": "https://haagen-dazs.de/shops/germany/berlin/berlin-hackescher-markt",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Cafeteria"
+        ],
+        "tips": [
+          "Overpriced, but they have salty caramel."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402249046170226,
+          52.52316814516064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mom's Kitchen",
+        "id": "57062cb8498ea2b2dbc4bc66",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/moms-kitchen/57062cb8498ea2b2dbc4bc66",
+        "address": "Turmstr. 53",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant",
+          "Dining and Drinking > Restaurant > Halal Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Middle Eastern Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.414749873206551,
+          52.50753246276647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merle's Roti & Rum",
+        "id": "5000749ee4b0bc516edf4d9c",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/merles-roti--rum/5000749ee4b0bc516edf4d9c",
+        "address": "Yorckstrasse 22",
+        "website": "http://trinidad-cuisine.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Caribbean Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caribbean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379967191679448,
+          52.49288256154478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alsancak Simit Saray\u0131",
+        "id": "4f66fff4e4b0fb96f80b246a",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/alsancak-simit-saray%C4%B1/4f66fff4e4b0fb96f80b246a",
+        "address": "Gneisenaustr. 3",
+        "website": "http://www.alsancak-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Turkish Restaurant",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Turkish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388485676729738,
+          52.49249176778105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joris",
+        "id": "501d7189e4b03f68ac86a95a",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/joris/501d7189e4b03f68ac86a95a",
+        "address": "Brunnenstr. 158",
+        "website": "http://www.joris-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro",
+          "Dining and Drinking > Restaurant > Salad Restaurant",
+          "Dining and Drinking > Restaurant > Soup Spot"
+        ],
+        "tips": [
+          "Hot toppings just like I could cook them. Nothing more, but that's okay."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397801219002142,
+          52.53521977353145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massagen Mitte",
+        "id": "56138504498e4f672bae3ab3",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/massagen-mitte/56138504498e4f672bae3ab3",
+        "address": "Brunnenstra\u00dfe 146",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Massage Clinic"
+        ],
+        "tips": [
+          "Generic Swedish massage properly priced. Kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Massage Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396707259033851,
+          52.53686461436959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "XCC 369",
+        "id": "55ed4933498e2810df1eea12",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/xcc-369/55ed4933498e2810df1eea12",
+        "address": "Wilmersdorferstr. 26",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Szechuan Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.304575103579474,
+          52.514008666350904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pan",
+        "id": "4de11d98fa76425c5429a2de",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/pan/4de11d98fa76425c5429a2de",
+        "address": "Marienburger Str. 38",
+        "website": "http://www.pan-restaurant.de/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Filipino Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Filipino Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424953484199754,
+          52.5345968233103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bird Steakhouse",
+        "id": "56b4d3fa498ea4461ff759f1",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/the-bird-steakhouse/56b4d3fa498ea4461ff759f1",
+        "address": "Kleine Pr\u00e4sidentenstr. 3",
+        "website": "https://www.thebirdsteakhouse.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Steakhouse",
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [
+          "Good food priced okay - a feat in this tourist trap jungle. Brisket is just okay, napalm wings are good."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Steakhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40030550956726,
+          52.52281128565242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korea Haus",
+        "id": "4c5c4b7c7735c9b667dc8b72",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/korea-haus/4c5c4b7c7735c9b667dc8b72",
+        "address": "Nazarethkirchstr. 45",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Korean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36069975086869,
+          52.5487924483671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bon Bon - Asia street food",
+        "id": "4ebc23d3dab41f33bf0586c1",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/bon-bon--asia-street-food/4ebc23d3dab41f33bf0586c1",
+        "address": "Friesenstr. 13",
+        "website": "http://www.komaberlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Asian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394136635597814,
+          52.4864006291668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piri's",
+        "id": "53605a21498ea72b54cef4c5",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/piris/53605a21498ea72b54cef4c5",
+        "address": "Wiener Str. 31",
+        "website": "http://piris-chicken.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.433805826826495,
+          52.49671900670476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emils Biergarten",
+        "id": "52067e2511d2f773f78f0cc0",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/emils-biergarten/52067e2511d2f773f78f0cc0",
+        "address": "Berliner Str. 80-82",
+        "website": "http://www.wbb-pankow.de/biergarten",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.414972898522294,
+          52.555764399641944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adonis",
+        "id": "4d3443f48c5b5941818d9261",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/adonis/4d3443f48c5b5941818d9261",
+        "address": "Torstr. 132",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant > Lebanese Restaurant"
+        ],
+        "tips": [
+          "The best option if you don't want to walk to Yarok. Lamb is definitely better than the chicken."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Lebanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.400064,
+          52.529427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blumen & Pflanzen Wunder",
+        "id": "4dd79c9c2271c5d36d3ee425",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/blumen--pflanzen-wunder/4dd79c9c2271c5d36d3ee425",
+        "address": "Bernauer Str. 62-64",
+        "website": "",
+        "categories": [
+          "Retail > Flower Store"
+        ],
+        "tips": [
+          "Pretty good selection of plants, event fruits, funnily no cactii."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Flower Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402558456913528,
+          52.54033904624092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sauerkraut",
+        "id": "51a8a75b454a28cb18cb7091",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/sauerkraut/51a8a75b454a28cb18cb7091",
+        "address": "Weinbergsweg 25",
+        "website": "http://restaurant-sauerkraut.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [
+          "Decent lunch menu."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401907796011002,
+          52.530517785821935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "helloGoodPie",
+        "id": "51cc7612498e933e477ce96b",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/hellogoodpie/51cc7612498e933e477ce96b",
+        "address": "Falckensteinstr. 9",
+        "website": "http://hellogoodpie.de",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Pie Shop",
+          "Dining and Drinking > Restaurant > English Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pie Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.442454958770307,
+          52.498783546617645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kremanski",
+        "id": "537fa0af498efeb5b3c5ac6f",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/kremanski/537fa0af498efeb5b3c5ac6f",
+        "address": "Adalbertstr. 96",
+        "website": "http://www.kremanski.de",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [
+          "A reasonable semi-hipster coffee where you can eat something that resembles food. A good choice nearby for a chatty lunch."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417953561576386,
+          52.500008111906816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fulilai",
+        "id": "564f68b5498ec41abf2d1f1b",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/fulilai/564f68b5498ec41abf2d1f1b",
+        "address": "Albrechtstr. 74",
+        "website": "http://www.fulilai.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.341543207680434,
+          52.44779013622976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafana",
+        "id": "587141e9e9233e3d838faaf9",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/kafana/587141e9e9233e3d838faaf9",
+        "address": "Bruchsaler Str. 6",
+        "website": "http://www.kafana-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.330802536566468,
+          52.47965046625163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chipperfield Kantine",
+        "id": "52e8faff498ed1ed0107b3bf",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/chipperfield-kantine/52e8faff498ed1ed0107b3bf",
+        "address": "Joachimstr. 11",
+        "website": "https://chipperfield-kantine.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.400578747588359,
+          52.52824944443896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F-Bar",
+        "id": "4d603686ef378cfa048d7aa6",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/fbar/4d603686ef378cfa048d7aa6",
+        "address": "Gr\u00fcntaler Str. 9",
+        "website": "https://www.f-bar-berlin.com",
+        "categories": [
+          "Dining and Drinking > Bar > Dive Bar"
+        ],
+        "tips": [
+          "Great smoking bar. Nice beer and gin selection."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dive Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386492881397304,
+          52.55190846583408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Castle Pub",
+        "id": "521948e611d22728826be207",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/the-castle-pub/521948e611d22728826be207",
+        "address": "Hochstr. 2",
+        "website": "http://www.castlepub.de",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [
+          "Default clone Irish pub, the saved game is a bit corrupted. Beware of the recurring nightly activities."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38490893445674,
+          52.54976020121848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thai Window Asia",
+        "id": "4c73ab46d944224b33cb0f29",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/thai-window-asia/4c73ab46d944224b33cb0f29",
+        "address": "Torstr. 22",
+        "website": "http://www.thai-window-asia.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [
+          "Good food freshly prepared. Priced for the location, no fuss. SPICES!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412900640648735,
+          52.527742468458996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makoto",
+        "id": "4af7f638f964a520980a22e3",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/makoto/4af7f638f964a520980a22e3",
+        "address": "Alte Sch\u00f6nhauser Str. 13",
+        "website": "http://www.makoto-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Ramen Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant"
+        ],
+        "tips": [
+          "The lunch and dinner menu is a deal, pretty okay ramen, pretty okay gyoza, what else do you need?"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ramen Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407666,
+          52.526751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MEN MEN",
+        "id": "532c7376498e942032524b68",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/men-men/532c7376498e942032524b68",
+        "address": "Weserstr. 16",
+        "website": "http://www.menmen-ramen.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Ramen Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ramen Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431469067646834,
+          52.48738702795354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lee Wah",
+        "id": "4c5414ddf5f3d13a1bc18df9",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/lee-wah/4c5414ddf5f3d13a1bc18df9",
+        "address": "Kurf\u00fcrstendamm 92",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [
+          "Ol' school Chinese with very funny elderly clientele. German spicy."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.300858382073812,
+          52.4991898772051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hackendahl",
+        "id": "4fb36676e4b034ff672593e3",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/hackendahl/4fb36676e4b034ff672593e3",
+        "address": "Friedrichstr. 128",
+        "website": "http://www.hackendahl-berlin.de",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387141227722168,
+          52.52529508604056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandi",
+        "id": "56dc9a51498e275339d6ed97",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/mandi/56dc9a51498e275339d6ed97",
+        "address": "Seestr.57 13347 Berlin",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant > Yemeni Restaurant",
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Yemeni Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3553968039018,
+          52.551684928682256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Super Ib\u00e9rico",
+        "id": "4b334d15f964a520881825e3",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/super-ib%C3%A9rico/4b334d15f964a520881825e3",
+        "address": "Markgrafenstr. 68",
+        "website": "http://www.superiberico.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant",
+          "Retail > Food and Beverage Retail > Gourmet Store",
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [
+          "I expected more like real home cooking from the ladies, that was a disappointment, but the shop is top notch!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Spanish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394380622117417,
+          52.50551128525538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polnische Lebesmittel",
+        "id": "577b73e7cd10bd047d4e8a56",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/polnische-lebesmittel/577b73e7cd10bd047d4e8a56",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [
+          "A small and generic Polish food store."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376581,
+          52.543326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seoulkitchen Korean BBQ & Sushi",
+        "id": "540d8a24498e0ff16065fec9",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/seoulkitchen-korean-bbq--sushi/540d8a24498e0ff16065fec9",
+        "address": "Warschauer Str. 46",
+        "website": "https://pages.resmio.com/seoulkitchen",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Sushi Restaurant"
+        ],
+        "tips": [
+          "Good food, lunch menu is almost sensibly priced, very packed, no space."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Korean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.447217345237732,
+          52.503605234784445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocolo Ramen",
+        "id": "51c333e9498e066fed760789",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/cocolo-ramen/51c333e9498e066fed760789",
+        "address": "Paul-Lincke-Ufer 39-40",
+        "website": "http://kuchi.de/restaurant/cocolo-x-berg/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Ramen Restaurant"
+        ],
+        "tips": [
+          "Hearty lunch menu, can get REALLY crowded."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ramen Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.422452402010093,
+          52.496012824861715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Panda Noodle",
+        "id": "57e26fe6498efd7cdc8316f7",
+        "list_id": "5b0d50e12a7ab6002ca6842b",
+        "list_name": "Berlin (closed)",
+        "url": "https://app.foursquare.com/v/the-panda-noodle/57e26fe6498efd7cdc8316f7",
+        "address": "Lausitzer Platz 12",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Noodle Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431632930942417,
+          52.500809914027435
+        ]
+      }
+    }
+  ]
+}

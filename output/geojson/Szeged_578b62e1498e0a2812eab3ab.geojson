@@ -1,0 +1,1544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vend\u00e9gl\u0151 a R\u00e9gi H\u00eddhoz",
+        "id": "4c54044b4623be9aabff15f2",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/vend%C3%A9gl%C5%91-a-r%C3%A9gi-h%C3%ADdhoz/4c54044b4623be9aabff15f2",
+        "address": "Oskola u. 4.",
+        "website": "http://www.regihid.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Wifi: Vendeglo - vendeglo"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.15010135767432,
+          46.25088449016702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gringo's Cantina",
+        "id": "4bf2b8c81cd9d13abaf7ed76",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/gringos-cantina/4bf2b8c81cd9d13abaf7ed76",
+        "address": "Pet\u0151fi S\u00e1ndor sgt. 81.",
+        "website": "http://www.gringos.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant",
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.133963711406494,
+          46.24494767837488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hatos R\u00e9tes",
+        "id": "4bc7280c6501c9b66bd63d29",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/hatos-r%C3%A9tes/4bc7280c6501c9b66bd63d29",
+        "address": "Klauz\u00e1l t\u00e9r. 7",
+        "website": "http://hatosretes.uw.hu/index.htm",
+        "categories": [
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14815067642512,
+          46.252059203196445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiszavir\u00e1g Bar & Restaurant",
+        "id": "50a761eee4b0740a17a64b92",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/tiszavir%C3%A1g-bar--restaurant/50a761eee4b0740a17a64b92",
+        "address": "Hajn\u00f3czy u. 1/B",
+        "website": "http://tiszaviragszeged.hu/etterem/",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14512387376524,
+          46.25354966254663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapca K\u00e1v\u00e9z\u00f3-Bisztr\u00f3",
+        "id": "4eceaa71d3e3521ce3a9d51a",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/kapca-k%C3%A1v%C3%A9z%C3%B3bisztr%C3%B3/4eceaa71d3e3521ce3a9d51a",
+        "address": "R\u00e1k\u00f3czi \u00fat 1.",
+        "website": "https://www.kapca.hu/esemenyek",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro",
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.13783102374954,
+          46.24206337645667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S\u00fcti nem s\u00fcti",
+        "id": "5678461c498e5a075b32eba8",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/s%C3%BCti-nem-s%C3%BCti/5678461c498e5a075b32eba8",
+        "address": "Tisza Lajos Krt 44",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Pie Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pie Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.145729343047105,
+          46.25346362489247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Napf\u00e9nyf\u00fcrd\u0151 Aquapolis",
+        "id": "4cc0a37031ceef3bb5555d0d",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/napf%C3%A9nyf%C3%BCrd%C5%91-aquapolis/4cc0a37031ceef3bb5555d0d",
+        "address": "Toront\u00e1l t\u00e9r 1.",
+        "website": "http://www.napfenyfurdoaquapolis.com/hu/fooldal/",
+        "categories": [
+          "Arts and Entertainment > Water Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Water Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.159552442484063,
+          46.25087697864259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anna Gy\u00f3gy- \u00e9s Term\u00e1lf\u00fcrd\u0151",
+        "id": "4d3a0e7234ee37046c45739b",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/anna-gy%C3%B3gy-%C3%A9s-term%C3%A1lf%C3%BCrd%C5%91/4d3a0e7234ee37046c45739b",
+        "address": "Tisza Lajos krt. 24",
+        "website": "http://www.szegedsport.hu",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa"
+        ],
+        "tips": [
+          "Not so big, really good deal on a workday for some steam, bubble bath and thermal water."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14961060288025,
+          46.25632143364938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Levendula K\u00e9zm\u0171ves Fagylaltoz\u00f3",
+        "id": "53ba75f2498ea4c1b1ec9918",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/levendula-k%C3%A9zm%C5%B1ves-fagylaltoz%C3%B3/53ba75f2498ea4c1b1ec9918",
+        "address": "Kelemen utca 2.",
+        "website": "http://levendulafagylaltozo.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Good icecream, like fo' real, yay!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14771778850446,
+          46.25031713287077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hungi Vigad\u00f3",
+        "id": "5399f273498e0d932e68381f",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/hungi-vigad%C3%B3/5399f273498e0d932e68381f",
+        "address": "Stef\u00e1nia",
+        "website": "http://www.hungiszeged.hu",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [
+          "Almost stylistic touch on the old architecture, only the Jysk chairs should be set on fire."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.15304368658619,
+          46.25444069575943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u00e9k Elef\u00e1nt K\u00e1v\u00e9z\u00f3",
+        "id": "570e6331498eaf816cac7b5c",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/k%C3%A9k-elef%C3%A1nt-k%C3%A1v%C3%A9z%C3%B3/570e6331498eaf816cac7b5c",
+        "address": "Klauz\u00e1l t\u00e9r 5.",
+        "website": "http://www.kekelefantkavezo.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Hipster bug, have to listen to the description of the coffee while I just need a coffee."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.146989226341248,
+          46.25192979544463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyugi Kert",
+        "id": "4d825957bede5481ce7f10d1",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/nyugi-kert/4d825957bede5481ce7f10d1",
+        "address": "Vit\u00e9z u. 28.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden",
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [
+          "Froccs to save teh day."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.142245615925383,
+          46.24785658157538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SoupPort Levesb\u00e1r",
+        "id": "56150d69498ec8d9d86dcd13",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/soupport-levesb%C3%A1r/56150d69498ec8d9d86dcd13",
+        "address": "Szenth\u00e1roms\u00e1g utca 15.",
+        "website": "http://www.soupportleves.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Soup Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Soup Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.144334692523714,
+          46.24703412740135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jazz Kocsma",
+        "id": "4c212fe29a67a593e78fda87",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/jazz-kocsma/4c212fe29a67a593e78fda87",
+        "address": "K\u00e1lm\u00e1ny Lajos u. 14",
+        "website": "http://jazzkocsma.blog.hu",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.158732834654714,
+          46.25772270479436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kisk\u0151r\u00f6ssy Hal\u00e1szcs\u00e1rda",
+        "id": "4c7a553f97028cfa22cdddfe",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/kisk%C5%91r%C3%B6ssy-hal%C3%A1szcs%C3%A1rda/4c7a553f97028cfa22cdddfe",
+        "address": "Fels\u0151 Tisza-part 336.",
+        "website": "http://www.kiskorossyhalaszcsarda.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.18038398776574,
+          46.2561992267167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "H\u00e9t K\u00e1v\u00e9z\u00f3",
+        "id": "554761ed498e28eca357761b",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/h%C3%A9t-k%C3%A1v%C3%A9z%C3%B3/554761ed498e28eca357761b",
+        "address": "Horv\u00e1th Mih\u00e1ly u. 7.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.150990883845083,
+          46.25507005885086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jobb, Mint Otthon Kisvend\u00e9gl\u0151 \u00c9s Hal\u00e1szcs\u00e1rda",
+        "id": "4d400c20bd53f04d8e6c4015",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/jobb-mint-otthon-kisvend%C3%A9gl%C5%91-%C3%A9s-hal%C3%A1szcs%C3%A1rda/4d400c20bd53f04d8e6c4015",
+        "address": "Napos \u00fat 5/b.",
+        "website": "http://www.jobbmintotthonkisvendeglo.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Great service, good food, nice view."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.123096207301536,
+          46.26768009802966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Bull Pub",
+        "id": "4ccde64b97d0224bdcf068b8",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/john-bull-pub/4ccde64b97d0224bdcf068b8",
+        "address": "Oroszl\u00e1n u. 6.",
+        "website": "http://www.johnbullpubszeged.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.148949213057662,
+          46.251375671463684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baan's Kitchen",
+        "id": "5624c05a498e1aa0a66ccf41",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/baans-kitchen/5624c05a498e1aa0a66ccf41",
+        "address": "J\u00f3kai utca 7-9",
+        "website": "http://baanskitchen.hu/szeged/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > American Restaurant > New American Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.137484,
+          46.24948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Pan Fish & Chips",
+        "id": "55200720498e8229c35ccaa6",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/city-pan-fish--chips/55200720498e8229c35ccaa6",
+        "address": "J\u00f3kai utca 7-9.",
+        "website": "http://www.citypan.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fish and Chips Shop",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fish and Chips Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.146324532665265,
+          46.248789187841766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinny's",
+        "id": "58691cf158c4d132e3bb3d86",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/vinnys/58691cf158c4d132e3bb3d86",
+        "address": "Miksz\u00e1th K\u00e1lm\u00e1n u. 23.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [
+          "One of the best burgers I had in Europe. Hole-in-a-wall, can't sit down, all fresh, so you wait."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14172,
+          46.25627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inferno Burgers",
+        "id": "54ad8dd1498e3b21f7fe163b",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/inferno-burgers/54ad8dd1498e3b21f7fe163b",
+        "address": "Zr\u00ednyi u. 3",
+        "website": "https://www.infernoburgers.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.147578810265156,
+          46.24966124437041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Cakes",
+        "id": "590dd3df75cb8c63b2fefdf5",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/street-cakes/590dd3df75cb8c63b2fefdf5",
+        "address": "K\u00edgy\u00f3 utca 2.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.146667,
+          46.253242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barista",
+        "id": "56a5e247498e2c2c79d9c66e",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/barista/56a5e247498e2c2c79d9c66e",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14470252899657,
+          46.24477347969478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antique Cafe & Tea",
+        "id": "510fc1f3e4b0a3ee5c6ef9c3",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/antique-cafe--tea/510fc1f3e4b0a3ee5c6ef9c3",
+        "address": "Pet\u0151fi S\u00e1ndor sgt. 39.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.139341166692798,
+          46.247644074190205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L\u00e1ngosgy\u00e1r",
+        "id": "4fa9ed40e4b056013188d816",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/l%C3%A1ngosgy%C3%A1r/4fa9ed40e4b056013188d816",
+        "address": "Mars T\u00e9r K1-07 Ir\u00e9n Csarnok",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Donut Shop",
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [
+          "L\u00e1ngost itt \u00e9s nem m\u00e1sutt."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Breakfast Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.138829755326675,
+          46.2564920321325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taj Mahal",
+        "id": "4d7916a9f20c236a9f4ba541",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/taj-mahal/4d7916a9f20c236a9f4ba541",
+        "address": "Gutenberg u. 12.",
+        "website": "http://www.tajmahalszeged.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.143391491559985,
+          46.25307497906556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Classic Cafe",
+        "id": "4d3af03c687ca35d7aaa8ec4",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/classic-cafe/4d3af03c687ca35d7aaa8ec4",
+        "address": "Sz\u00e9chenyi t\u00e9r 5.",
+        "website": "http://classiccafe.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [
+          "Proper Serbian food, OMG."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.151004328753515,
+          46.254708203629875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mal\u00e1ta k\u00e9zm\u0171ves s\u00f6r- \u00e9s grillkert",
+        "id": "53693a9e498ed9b8fc0efdb3",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/mal%C3%A1ta-k%C3%A9zm%C5%B1ves-s%C3%B6r-%C3%A9s-grillkert/53693a9e498ed9b8fc0efdb3",
+        "address": "Somogyi u. 13.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [
+          "Great food, good beers, decent wines."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.148081231381717,
+          46.25027997084952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biohair",
+        "id": "4e984e487ee6553b564f921b",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/biohair/4e984e487ee6553b564f921b",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Hair Salon"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Hair Salon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.136962242855574,
+          46.25489977540743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rudi \u00c9s Fick\u00f3",
+        "id": "5b3761253b8307002c6fd017",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/rudi-%C3%A9s-fick%C3%B3/5b3761253b8307002c6fd017",
+        "address": "Oroszl\u00e1n u. 4.",
+        "website": "http://rudiesficko.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Bar",
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [
+          "Oy, if you can find a place besides the horizontal Macbook abusers, the coffee is outstanding, and the bread is good -- an extreme rarity."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.149423231176726,
+          46.251063474584534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pipi.",
+        "id": "58d170bb9465dd2288d0bf97",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/pipi/58d170bb9465dd2288d0bf97",
+        "address": "Tisza Lajos krt. 65",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fried Chicken Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fried Chicken Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.144903514412018,
+          46.25233551797393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Re\u00f6k K\u00e1v\u00e9h\u00e1z",
+        "id": "4da42f1b7ccc816e16858b7b",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/re%C3%B6k-k%C3%A1v%C3%A9h%C3%A1z/4da42f1b7ccc816e16858b7b",
+        "address": "Tisza L. krt. 54.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1451736108461,
+          46.25168564877282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torta M\u0171vek",
+        "id": "5b864e496e4650002cefe907",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/torta-m%C5%B1vek/5b864e496e4650002cefe907",
+        "address": "",
+        "website": "https://tortamuvek.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [
+          "Good cakes."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.166413,
+          46.244149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forza Italia",
+        "id": "4bcddb318920b7130068a0dc",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/forza-italia/4bcddb318920b7130068a0dc",
+        "address": "K\u00e1lv\u00e1ria sgt.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.142123877966462,
+          46.25141746343186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sz\u00e1lka Loft Dining Hal\u00e1szcs\u00e1rda",
+        "id": "5db838d5ebfc3c00081d19f3",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/sz%C3%A1lka-loft-dining-hal%C3%A1szcs%C3%A1rda/5db838d5ebfc3c00081d19f3",
+        "address": "Szeged, K\u00f6z\u00e9p Kik\u00f6t\u0151 sor 1, 6726",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant",
+          "Dining and Drinking > Restaurant > Modern European Restaurant",
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.157249,
+          46.250674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kedves Pressz\u00f3",
+        "id": "4dd2a9108877261f7100ffa9",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/kedves-pressz%C3%B3/4dd2a9108877261f7100ffa9",
+        "address": "J\u00f3zsef Attila sgt. 63.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.157835308901667,
+          46.26415525068225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papachef\u2019s Kitchen",
+        "id": "5b9a9add0719020025b49aa8",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/papachefs-kitchen/5b9a9add0719020025b49aa8",
+        "address": "",
+        "website": "https://papachef.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.141986,
+          46.248124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gabriella Fagylalt",
+        "id": "5f2828fd011e3572bf99ca28",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/gabriella-fagylalt/5f2828fd011e3572bf99ca28",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Okay. Salty could be salty."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.149459,
+          46.251026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milleniumi K\u00e1v\u00e9h\u00e1z",
+        "id": "4cfac18541eca090fab4d550",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/milleniumi-k%C3%A1v%C3%A9h%C3%A1z/4cfac18541eca090fab4d550",
+        "address": "Dugonics t\u00e9r 12.",
+        "website": "http://www.millenniumikavehaz.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Spritzer oder fr\u00f6tsch."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14567365178984,
+          46.2501020179116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T\u00f6rpe K\u00e1v\u00e9z\u00f3 \u00e9s Pub",
+        "id": "50cf1defe4b0c28fd8475363",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/t%C3%B6rpe-k%C3%A1v%C3%A9z%C3%B3-%C3%A9s-pub/50cf1defe4b0c28fd8475363",
+        "address": "Tisza Lajos krt. 41.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Pub",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.147218244978546,
+          46.25638308020188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "emmarozs",
+        "id": "5ffee8bf53da6c1c2fb00c39",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/emmarozs/5ffee8bf53da6c1c2fb00c39",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.143223,
+          46.25683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szegedi Vadaspark",
+        "id": "4dc4fbd3cc3ff3b3045a9ed2",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/szegedi-vadaspark/4dc4fbd3cc3ff3b3045a9ed2",
+        "address": "K\u00e1lv\u00e1ria sug\u00e1r\u00fat 102",
+        "website": "http://www.zooszeged.hu",
+        "categories": [
+          "Arts and Entertainment > Zoo"
+        ],
+        "tips": [
+          "Great experience, bigger than expected, reasonable food options."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.11798846531231,
+          46.2517617179333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F\u00e9legyh\u00e1zi p\u00e9ks\u00e9g",
+        "id": "50f8eee5e4b069225fdb8777",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/f%C3%A9legyh%C3%A1zi-p%C3%A9ks%C3%A9g/50f8eee5e4b069225fdb8777",
+        "address": "Oskola utca 5",
+        "website": "http://www.felegyhazikenyer.hu",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.150089859962463,
+          46.25099500996304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarastro Caf\u00e9",
+        "id": "6140a59736b0697c9e691965",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/sarastro-caf%C3%A9/6140a59736b0697c9e691965",
+        "address": "S\u00f3hord\u00f3 u. 18.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.153236,
+          46.25739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N\u00e9ma Papag\u00e0j",
+        "id": "635d162afa10bd53041dd445",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/n%C3%A9ma-papag%C3%A0j/635d162afa10bd53041dd445",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Record Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Record Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.15009,
+          46.252132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grgic\u2019s",
+        "id": "62d0bcade4ff9e56dd40a18c",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/grgics/62d0bcade4ff9e56dd40a18c",
+        "address": "2 K\u00edgy\u00f3 utca",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant",
+          "Dining and Drinking > Restaurant > BBQ Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.146911,
+          46.252692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plebs Crust & Craft",
+        "id": "5f855fd027c7356cbe603e43",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/plebs-crust--craft/5f855fd027c7356cbe603e43",
+        "address": "Oskola u. 25.",
+        "website": "https://wolt.com/hu/hun/szeged/restaurant/plebs",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14910951256752,
+          46.24992851897436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Napf\u00e9ny M\u0171terem",
+        "id": "58582b96cc5b6a3de5263fd5",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/napf%C3%A9ny-m%C5%B1terem/58582b96cc5b6a3de5263fd5",
+        "address": "Sz\u00e9chenyi t\u00e9r 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.150072180728092,
+          46.25318346838399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u00e1v\u00e9sz\u00f6m K\u00e1v\u00e9z\u00f3",
+        "id": "4f69adf2e4b0e4dee859677f",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/k%C3%A1v%C3%A9sz%C3%B6m-k%C3%A1v%C3%A9z%C3%B3/4f69adf2e4b0e4dee859677f",
+        "address": "",
+        "website": "http://www.kaveszom.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [
+          "The coffee to drink here."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.139502407720876,
+          46.25692689060935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mars t\u00e9ri piac (Market)",
+        "id": "4cc2a6e33ed5199c9913491e",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/mars-t%C3%A9ri-piac-market/4cc2a6e33ed5199c9913491e",
+        "address": "Mars t\u00e9r",
+        "website": "http://www.szvp.hu",
+        "categories": [
+          "Retail > Market",
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [
+          "I liked to old one better still this is D.R.E."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.139999389648438,
+          46.25641060936881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maya Panzio",
+        "id": "54bf7506498e44b5eb37870f",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/maya-panzio/54bf7506498e44b5eb37870f",
+        "address": "N\u00e9pkert sor 1.",
+        "website": "http://www.mayapanzio.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.15969753265381,
+          46.2498227961292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Z\u00f6ldlevelecske",
+        "id": "5ad9abf7b8fd9d6ed85da3fb",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/z%C3%B6ldlevelecske/5ad9abf7b8fd9d6ed85da3fb",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Salad Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Salad Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.147891,
+          46.25276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szabads\u00e1g \u00dasz\u00f3h\u00e1z",
+        "id": "4fa535f2e4b0fed4819ed380",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/szabads%C3%A1g-%C3%BAsz%C3%B3h%C3%A1z/4fa535f2e4b0fed4819ed380",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > River"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.153656529328487,
+          46.25226178417516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V\u00edgmatr\u00f3z Kik\u00f6t\u0151 \u00e9s S\u00f6r\u00f6z\u0151",
+        "id": "4e4ffb5d62e14b77e3a3f7ab",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/v%C3%ADgmatr%C3%B3z-kik%C3%B6t%C5%91-%C3%A9s-s%C3%B6r%C3%B6z%C5%91/4e4ffb5d62e14b77e3a3f7ab",
+        "address": "Tisza part, Ifj\u00fas\u00e1gi H\u00e1zzal szemben",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [
+          "A time travel, service is not friendly, random food is okay."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.158462640023348,
+          46.255640092652804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gy\u00f6ngyi L\u00e1ngos B\u00fcf\u00e9je",
+        "id": "5764ffdb498edbcfba98d46b",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/gy%C3%B6ngyi-l%C3%A1ngos-b%C3%BCf%C3%A9je/5764ffdb498edbcfba98d46b",
+        "address": "Makai \u00fat 216",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Buffet"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Buffet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.176786,
+          46.229923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Staf\u00e9ta \u00c9tkez\u0151",
+        "id": "4de8b722c65b72347a15e558",
+        "list_id": "578b62e1498e0a2812eab3ab",
+        "list_name": "Szeged",
+        "url": "https://app.foursquare.com/v/staf%C3%A9ta-%C3%A9tkez%C5%91/4de8b722c65b72347a15e558",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.140680018903144,
+          46.23934540773114
+        ]
+      }
+    }
+  ]
+}

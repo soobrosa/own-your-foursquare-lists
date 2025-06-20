@@ -1,0 +1,580 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa da Fernanda",
+        "id": "516ac238e4b07e9c1939a740",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/casa-da-fernanda/516ac238e4b07e9c1939a740",
+        "address": "Lg. das Ribas, 29",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.417861262643674,
+          38.96471219172789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado da Ericeira",
+        "id": "4e60a405d164ddd5e4f885b9",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/mercado-da-ericeira/4e60a405d164ddd5e4f885b9",
+        "address": "Largo dos Condes da Ericeira",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [
+          "Compact market, outstanding fish monger, fresh vegetables are pretty good, kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.416954307711219,
+          38.96489600521956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galerias Comerciais S\u00e3o Sebasti\u00e3o",
+        "id": "4db82e4c43a1a75c1f6cdf4b",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/galerias-comerciais-s%C3%A3o-sebasti%C3%A3o/4db82e4c43a1a75c1f6cdf4b",
+        "address": "Estrada Nacional 247",
+        "website": "",
+        "categories": [
+          "Retail > Shopping Mall"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Shopping Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.418584110925332,
+          38.969635362463784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lidl",
+        "id": "4d0ce93f95c1a1cd7e1afffe",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/lidl/4d0ce93f95c1a1cd7e1afffe",
+        "address": "E.N. 116, Km 1",
+        "website": "http://lidl.pt",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store",
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.408113287498118,
+          38.9649161780017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aldi",
+        "id": "4ece8472e3007feb7b4cfe68",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/aldi/4ece8472e3007feb7b4cfe68",
+        "address": "N116",
+        "website": "http://aldi.pt",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.41028177129441,
+          38.966003779643685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P\u00e3o d'Alho",
+        "id": "4c5b234cd6599c74545a33a9",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/p%C3%A3o-dalho/4c5b234cd6599c74545a33a9",
+        "address": "R. Eduardo Burnay, Lt 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.41510975685128,
+          38.96056667843577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tik Tapas",
+        "id": "50203b13e4b0a4ffbc984bc8",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/tik-tapas/50203b13e4b0a4ffbc984bc8",
+        "address": "Rua do Ericeira, 15",
+        "website": "http://www.tiktapasericeira.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Tapas Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.417552141419936,
+          38.962209459987925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P\u00e3o da Vila",
+        "id": "4c57c32d8fe2ef3b4f86303a",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/p%C3%A3o-da-vila/4c57c32d8fe2ef3b4f86303a",
+        "address": "Pra\u00e7a da Rep\u00fablica, 12",
+        "website": "http://paodavila.wix.com/paodavila",
+        "categories": [
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [
+          "Great bakery. Sit outside with a beer."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.417110388953855,
+          38.9633220649829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunch Me",
+        "id": "57d5a766498e55c5522b37fd",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/brunch-me/57d5a766498e55c5522b37fd",
+        "address": "Rua 5 de Outubro, 22",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Sushi Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.417366559828782,
+          38.9648124546461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O P\u00e3ozinho Das Marias",
+        "id": "4e270ef645ddb79afc6786e1",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/o-p%C3%A3ozinho-das-marias/4e270ef645ddb79afc6786e1",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.41707353229503,
+          38.96591020434005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dreams Burger",
+        "id": "4f6dc3e2e4b0e4284290c7d5",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/dreams-burger/4f6dc3e2e4b0e4284290c7d5",
+        "address": "Rua de S\u00e3o F\u00e9lix, 12A",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.417631510630669,
+          38.967446286643735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Com PINTA",
+        "id": "55b0037f498ec4c19b28ad10",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/com-pinta/55b0037f498ec4c19b28ad10",
+        "address": "Cal\u00e7ada da Baleia, 7A",
+        "website": "https://compinta.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.416447946899027,
+          38.96206678001027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calavera - Mexican Food & Tequila Bar",
+        "id": "591320da1acf116e88b61907",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/calavera--mexican-food--tequila-bar/591320da1acf116e88b61907",
+        "address": "Rua dos Ferreiros, 2",
+        "website": "https://calavera-mexican-food-tequila-bar.business.site",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.417091224342277,
+          38.96517365756455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gota d'\u00c1lcool",
+        "id": "4da19c069935a093716ba36f",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/gota-d%C3%A1lcool/4da19c069935a093716ba36f",
+        "address": "Rua do Marco do Rei",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Snack Place",
+          "Dining and Drinking > Restaurant > Sandwich Spot"
+        ],
+        "tips": [
+          "Bar with outstanding view."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.419242450624573,
+          38.932791225555825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praia de S\u00e3o Juli\u00e3o",
+        "id": "4c30c94a09a99c7441260b2a",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/praia-de-s%C3%A3o-juli%C3%A3o/4c30c94a09a99c7441260b2a",
+        "address": "R. Marco do Rei",
+        "website": "http://www.playocean.net/portugal/sintra/praias/praia-de-sao-juliao",
+        "categories": [
+          "Landmarks and Outdoors > Surf Spot"
+        ],
+        "tips": [
+          "Feel the vibe. Coast gets under water with every tide, respect it."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Surf Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.41925929330268,
+          38.93270113121521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praia da Calada",
+        "id": "4c62e6427c9def3baac9d71c",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/praia-da-calada/4c62e6427c9def3baac9d71c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [
+          "Great bay, don't expect any infrastructure."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.417772792987703,
+          39.032463477417295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapada Nacional de Mafra",
+        "id": "4c30c75a09a99c749a250b2a",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/tapada-nacional-de-mafra/4c30c75a09a99c749a250b2a",
+        "address": "Estrada Nacional 9-2",
+        "website": "http://tapadademafra.pt",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Field"
+        ],
+        "tips": [
+          "Nice walk, pack of deers."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.302732363745305,
+          38.96448234852373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Continente",
+        "id": "58d01be95da8f440a062cc3d",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/continente/58d01be95da8f440a062cc3d",
+        "address": "Urbaniza\u00e7\u00e3o Quinta Ribeira da Baleia",
+        "website": "https://lojas.continente.pt/#!/l/ericeira/urbaniza\u00e7\u00e3o-quinta-ribeira-da-baleia/04321",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [
+          "Great selection of prepared food, fish monger, wine, whatever you need."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.412834904114286,
+          38.96389842868465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gelatommy",
+        "id": "60c36e991180d05253fb138e",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/gelatommy/60c36e991180d05253fb138e",
+        "address": "Rua 5 de Outubro, 19B",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Gelato Shop"
+        ],
+        "tips": [
+          "A good Italian ice option."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gelato Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.417328282864888,
+          38.96469805166945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supermercado Express",
+        "id": "5d7f971ae213f30008093f55",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/supermercado-express/5d7f971ae213f30008093f55",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [
+          "I like it because of the location. A sad place. Go for the Continente."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.416871857312602,
+          38.964912715131504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praia do Matadouro",
+        "id": "4c648e4607379521f9aed248",
+        "list_id": "624f0edfcc0314332ee73a7d",
+        "list_name": "Ericeira",
+        "url": "https://app.foursquare.com/v/praia-do-matadouro/4c648e4607379521f9aed248",
+        "address": "Ericeira",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [
+          "The default sandy option. Great location, fishermen, so cats also"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.419751759917167,
+          38.974834870769655
+        ]
+      }
+    }
+  ]
+}

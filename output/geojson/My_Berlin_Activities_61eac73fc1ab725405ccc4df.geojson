@@ -1,0 +1,289 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prime Time Theater",
+        "id": "4bb11263f964a520d6773ce3",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/prime-time-theater/4bb11263f964a520d6773ce3",
+        "address": "M\u00fcllerstr. 163",
+        "website": "http://primetimetheater.de",
+        "categories": [
+          "Arts and Entertainment > Performing Arts Venue > Indie Theater"
+        ],
+        "tips": [
+          "Pretty funny even with limited German, come early -- you can drink even inside the theathre."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Indie Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36337033077098,
+          52.54372711664449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schaub\u00fchne am Lehniner Platz",
+        "id": "4adcda8af964a520bb4921e3",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/schaub%C3%BChne-am-lehniner-platz/4adcda8af964a520bb4921e3",
+        "address": "Kurf\u00fcrstendamm 153",
+        "website": "https://www.schaubuehne.de",
+        "categories": [
+          "Arts and Entertainment > Performing Arts Venue > Theater"
+        ],
+        "tips": [
+          "Pretty decent plays regularly with English subtitles."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.302286863327025,
+          52.498824454149265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "c-base",
+        "id": "4ab5691ef964a520707420e3",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/cbase/4ab5691ef964a520707420e3",
+        "address": "Rungestr. 20",
+        "website": "http://www.c-base.org",
+        "categories": [
+          "Business and Professional Services > Event Space",
+          "Community and Government > Social Club"
+        ],
+        "tips": [
+          "Proper rundown hackerspace with cheap beer."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Event Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.420121669769287,
+          52.51297588500509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vabali spa",
+        "id": "53a47c2d498e7989b0a7ab5b",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/vabali-spa/53a47c2d498e7989b0a7ab5b",
+        "address": "Seydlitzstr. 6",
+        "website": "https://www.vabali.de/berlin",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa",
+          "Sports and Recreation > Sauna"
+        ],
+        "tips": [
+          "No textile policy, but they have proper steam. A bit plastic German Asia feeling, but okay."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.360555171966553,
+          52.52760251193211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandbad Wannsee",
+        "id": "4adcda7df964a520a04721e3",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/strandbad-wannsee/4adcda7df964a520a04721e3",
+        "address": "Wannseebadweg 25",
+        "website": "http://www.berlinerbaeder.de/baeder/strandbad-wannsee/",
+        "categories": [
+          "Landmarks and Outdoors > Beach",
+          "Landmarks and Outdoors > Bathing Area"
+        ],
+        "tips": [
+          "Pretty big, sandy beach with shallow mud for kids. Reasonable priced default food and drink options. Queue can be long - don't take the left one."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178308602448153,
+          52.43808686132313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleingartenanlage Bornholm II e.V.",
+        "id": "4d987d7e97d06ea880a4340b",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/kleingartenanlage-bornholm-ii-ev/4d987d7e97d06ea880a4340b",
+        "address": "Ibsenstra\u00dfe",
+        "website": "http://www.kleingarten-prenzlberg.de/bornholm-ii.html",
+        "categories": [
+          "Landmarks and Outdoors > Garden"
+        ],
+        "tips": [
+          "KLEINGARTEN FUR ALLES!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404831621710164,
+          52.55742135105721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pl\u00f6tzensee",
+        "id": "4c39dccfae2da593042303c6",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/pl%C3%B6tzensee/4c39dccfae2da593042303c6",
+        "address": "Dohnagestell",
+        "website": "https://de.wikipedia.org/wiki/Pl%C3%B6tzensee",
+        "categories": [
+          "Landmarks and Outdoors > Lake"
+        ],
+        "tips": [
+          "Nice open bath for the price, excellent mud, can get crowded, toilets could bear some more cleaning, expect elevated prices for food and drinks."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.328819274902344,
+          52.54504299065421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bezirkszentralbibliothek Philipp-Schaeffer",
+        "id": "4b487713f964a520bc4d26e3",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/bezirkszentralbibliothek-philippschaeffer/4b487713f964a520bc4d26e3",
+        "address": "Brunnenstr. 181",
+        "website": "http://www.berlin.de/citybibliothek/bibliotheken/schaeffer/index.html",
+        "categories": [
+          "Community and Government > Library",
+          "Community and Government > Education > College and University > College Library"
+        ],
+        "tips": [
+          "Super collection of everything."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399382604552773,
+          52.531697043153734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosengarten",
+        "id": "4d989b3fc19fb60c1d00b265",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/rosengarten/4d989b3fc19fb60c1d00b265",
+        "address": "Brunnenstr.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Garden"
+        ],
+        "tips": [
+          "A gem not hidden."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38720702048652,
+          52.547565015384365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thaibodywork",
+        "id": "57d2ddf7498e1c6f22fb5ee4",
+        "list_id": "61eac73fc1ab725405ccc4df",
+        "list_name": "My Berlin Activities",
+        "url": "https://app.foursquare.com/v/thaibodywork/57d2ddf7498e1c6f22fb5ee4",
+        "address": "Sparrstra\u00dfe 18",
+        "website": "http://thaibodywork.eu",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Massage Clinic"
+        ],
+        "tips": [
+          "Christian is an outstanding Thai masseur, you can't go wrong with him. You can also learn from him in a course."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Massage Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359272432592533,
+          52.54242006187272
+        ]
+      }
+    }
+  ]
+}

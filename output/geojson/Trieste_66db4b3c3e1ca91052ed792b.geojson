@@ -1,0 +1,1026 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gelateria Zampolli",
+        "id": "4bf28980767076b0836ebf98",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/gelateria-zampolli/4bf28980767076b0836ebf98",
+        "address": "Via Carlo Ghega 10",
+        "website": "https://www.gelateriazampolli.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Gelato Shop",
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gelato Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77437174320221,
+          45.65562988182288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gelato Marco",
+        "id": "4be2c2ad1dd22d7fd1b794bd",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/gelato-marco/4be2c2ad1dd22d7fd1b794bd",
+        "address": "Via Malcanton, 16",
+        "website": "http://www.gelatomarco.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Gelato Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gelato Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.769664220873036,
+          45.648909109153344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caff\u00e8 Eppinger - Trieste 1848",
+        "id": "4cf92f0101568cfa83e324e7",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/caff%C3%A8-eppinger--trieste-1848/4cf92f0101568cfa83e324e7",
+        "address": "Via Dante Alighieri, 2",
+        "website": "https://www.eppingercaffe.com",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77339,
+          45.64999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gran Malabar",
+        "id": "4c32fdcf3ffc9521b77590f5",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/gran-malabar/4c32fdcf3ffc9521b77590f5",
+        "address": "Piazza San Giovanni, 6/E",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Bar > Wine Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.776412880337906,
+          45.65088001841091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piazza Ponterosso",
+        "id": "4cadaebfd1f8b60cbb8570c6",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/piazza-ponterosso/4cadaebfd1f8b60cbb8570c6",
+        "address": "Piazza Ponterosso",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.772254,
+          45.651713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canal Grande",
+        "id": "4e385b9a18a8470916d484ec",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/canal-grande/4e385b9a18a8470916d484ec",
+        "address": "Via Bellini",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Canal",
+          "Landmarks and Outdoors > Harbor or Marina",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Canal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.771536,
+          45.652332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antico Caff\u00e9 San Marco",
+        "id": "4cc153845684a35d46f3b70d",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/antico-caff%C3%A9-san-marco/4cc153845684a35d46f3b70d",
+        "address": "Via Cesare Battisti 18",
+        "website": "http://www.caffesanmarcotrieste.eu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Retail > Bookstore"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.780409408333812,
+          45.652755550872016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimera di Bacco",
+        "id": "4da5fcf76a23f2e804fe9f02",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/chimera-di-bacco/4da5fcf76a23f2e804fe9f02",
+        "address": "Via del Pane 2",
+        "website": "http://www.chimeradibacco.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.769921815618229,
+          45.64968857511265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piazza Unit\u00e0 d'Italia",
+        "id": "4bdb480f63c5c9b6ad2d2768",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/piazza-unit%C3%A0-ditalia/4bdb480f63c5c9b6ad2d2768",
+        "address": "Piazza Unit\u00e0 d'Italia",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.767698,
+          45.649915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jazzin",
+        "id": "4c641ba079d1e21e3f2eda15",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/jazzin/4c641ba079d1e21e3f2eda15",
+        "address": "Via Mercato Vecchio 1/D",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.766473772539943,
+          45.649519724925725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adoro Caf\u00e9",
+        "id": "567ec49f498e3bcdc0cd7283",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/adoro-caf%C3%A9/567ec49f498e3bcdc0cd7283",
+        "address": "Via di Cavana 8",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.767244911182807,
+          45.64865667189559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marise",
+        "id": "4d9b686c3a32a093f4339219",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/marise/4d9b686c3a32a093f4339219",
+        "address": "Via Venezian, 11",
+        "website": "http://www.marise.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant",
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.766487192380021,
+          45.64789807686258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mastro Birraio",
+        "id": "4ce79b87f3bda1430cbab3e4",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/mastro-birraio/4ce79b87f3bda1430cbab3e4",
+        "address": "Felice Venezian, 24",
+        "website": "http://www.mastrobirraiotrieste.it",
+        "categories": [
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Restaurant > Sandwich Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.767786480251985,
+          45.647475664814415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chocolat",
+        "id": "4c1e21ac8b3aa593d78e9b5f",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/chocolat/4c1e21ac8b3aa593d78e9b5f",
+        "address": "Via di Cavana 15",
+        "website": "http://www.chocolat-trieste.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Dessert Shop > Cupcake Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.765710085011735,
+          45.64746879610501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knulp",
+        "id": "4c262f7e136d20a16bd2e461",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/knulp/4c262f7e136d20a16bd2e461",
+        "address": "Via della Madonna del Mare 7a",
+        "website": "http://knulp.org",
+        "categories": [
+          "Arts and Entertainment > Internet Cafe",
+          "Community and Government > Library",
+          "Dining and Drinking > Snack Place"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Internet Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7668147250639,
+          45.6471455619295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castello San Giusto",
+        "id": "4c66f182aebea59301aa74d0",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/castello-san-giusto/4c66f182aebea59301aa74d0",
+        "address": "via Dell'Asilo",
+        "website": "http://www.retecivica.trieste.it/triestecultura/new/musei/sangiusto/default.asp",
+        "categories": [
+          "Landmarks and Outdoors > Castle",
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.772398604036695,
+          45.64730051304118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antipastoteca di mare \"Alla Voliga\"",
+        "id": "4e5fc9848877694559e6d065",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/antipastoteca-di-mare-alla-voliga/4e5fc9848877694559e6d065",
+        "address": "Via della Fornace 1",
+        "website": "http://www.antipastotecadimare.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.775447862449074,
+          45.64642016876634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cattedrale di San Giusto",
+        "id": "4c6d2253e13db60c10ccd7b1",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/cattedrale-di-san-giusto/4c6d2253e13db60c10ccd7b1",
+        "address": "Piazza della Cattedrale, 2",
+        "website": "http://www.anagrafebbcc.chiesacattolica.it/anagraficaCEIBib/public/archivi/stampa_sintetica.jsp?idBiblio=2714",
+        "categories": [
+          "Community and Government > Spiritual Center > Church",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.772144511306774,
+          45.64651832113441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antica Sartoria di Napoli",
+        "id": "558c6ec1498e9cc99ece9ad9",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/antica-sartoria-di-napoli/558c6ec1498e9cc99ece9ad9",
+        "address": "Via Torino, 36",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot",
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.763110987822227,
+          45.64684462802116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffet da Siora Rosa",
+        "id": "4c2a48b0d1a10f479734f664",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/buffet-da-siora-rosa/4c2a48b0d1a10f479734f664",
+        "address": "Piazza Hortis, 3",
+        "website": "http://buffetsiorarosa.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Buffet",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Buffet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.764535164107947,
+          45.64695479019091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffet Rudy Spaten",
+        "id": "4bce02a7b6c49c74a6619691",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/buffet-rudy-spaten/4bce02a7b6c49c74a6619691",
+        "address": "Via  Valdirivo  32",
+        "website": "http://www.buffetrudyspaten.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant",
+          "Dining and Drinking > Restaurant > Buffet"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.774526841804612,
+          45.653251906914235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Il Pane Quotidiano",
+        "id": "50d5d148e4b0fb6ff8cef939",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/il-pane-quotidiano/50d5d148e4b0fb6ff8cef939",
+        "address": "Viale XX Settembre 11",
+        "website": "http://www.ilpanequotidiano.com",
+        "categories": [
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Dessert Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77910941876477,
+          45.651582393191106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rustiko",
+        "id": "4d4bf57a1ae43704ddc6ee60",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/rustiko/4d4bf57a1ae43704ddc6ee60",
+        "address": "Via della Madonnina 19",
+        "website": "http://www.rustiko-trieste.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.777856849583323,
+          45.64639049336049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caff\u00e8 degli Specchi",
+        "id": "4bbdc7468ec3d13aa8651c28",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/caff%C3%A8-degli-specchi/4bbdc7468ec3d13aa8651c28",
+        "address": "Piazza dell'Unit\u00e0 d'Italia, 7",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.768361,
+          45.650134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffet \"Da Angelina\"",
+        "id": "4c93c1a8034137047ba06bef",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/buffet-da-angelina/4c93c1a8034137047ba06bef",
+        "address": "Via Cadorna 14",
+        "website": "http://www.ristoranteangelina.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant",
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant",
+          "Dining and Drinking > Bar > Wine Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.765093809029567,
+          45.64831516688311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peperino",
+        "id": "4c2f93f07cc0c9b6e8fceb9a",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/peperino/4c2f93f07cc0c9b6e8fceb9a",
+        "address": "Via Coroneo, 19/c",
+        "website": "http://www.peperinopizza.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.780042274033335,
+          45.65445582445732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alla Sorgente",
+        "id": "4d037b3c2f96f04dc6ff1754",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/alla-sorgente/4d037b3c2f96f04dc6ff1754",
+        "address": "Via della Sorgente 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant > Trattoria",
+          "Dining and Drinking > Restaurant > Italian Restaurant",
+          "Dining and Drinking > Restaurant > Italian Restaurant > Friuli Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Trattoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.778265222642888,
+          45.649882861156996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DRAW Food",
+        "id": "56f02539498e01238b974902",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/draw-food/56f02539498e01238b974902",
+        "address": "via torino 26",
+        "website": "http://www.missclaire.it/foodbeverage/draw-piatti-crudi-e-slow-coffee",
+        "categories": [
+          "Dining and Drinking > Restaurant > Modern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Modern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76357844691744,
+          45.64679794061007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Civicosei",
+        "id": "546e3ee4498e4176e71d1916",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/al-civicosei/546e3ee4498e4176e71d1916",
+        "address": "Via Del Toro 6",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant",
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77899085041606,
+          45.651190248999775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mim\u00ec e Cocotte",
+        "id": "56092699498e8dec309fd8e7",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/mim%C3%AC-e-cocotte/56092699498e8dec309fd8e7",
+        "address": "Via Luigi Cadorna, 19",
+        "website": "https://mimiecocotte.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.763344975510336,
+          45.64755574963644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Genuino",
+        "id": "5079bbfee4b08350ec57a98f",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/genuino/5079bbfee4b08350ec57a98f",
+        "address": "Via delle Beccherie 13",
+        "website": "http://www.genuino.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fast Food Restaurant",
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fast Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.770291719801568,
+          45.64981954578859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piazza Venezia",
+        "id": "4fa6addbe4b0fc2afbf10eb0",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/piazza-venezia/4fa6addbe4b0fc2afbf10eb0",
+        "address": "Piazza Venezia",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.762762540649842,
+          45.64702728546665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natura Gelato",
+        "id": "559859d7498eb48bf4ba87c0",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/natura-gelato/559859d7498eb48bf4ba87c0",
+        "address": "Piazza Hortis 6/A",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Gelato Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gelato Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76552837926568,
+          45.647348416047556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Largo Papa Giovanni XXIII",
+        "id": "4f87c379e4b013a97ef91956",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/largo-papa-giovanni-xxiii/4f87c379e4b013a97ef91956",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.763116831576424,
+          45.645730766465086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mug",
+        "id": "56c323b2cd10a333b76d6d45",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/mug/56c323b2cd10a333b76d6d45",
+        "address": "Piazza Attilio Hortis 6",
+        "website": "http://www.mugbakery.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Cupcake Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Donut Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Cupcake Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.765427823557697,
+          45.64745288734355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizzeria Assaje",
+        "id": "5b832843237dee002cec7844",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/pizzeria-assaje/5b832843237dee002cec7844",
+        "address": "Via Torino, 33",
+        "website": "http://assaje.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76302040630352,
+          45.64665633802159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Pizza di Cittavecchia",
+        "id": "4dd6abc62271c5d36d2832ed",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/la-pizza-di-cittavecchia/4dd6abc62271c5d36d2832ed",
+        "address": "Via dei Crociferi 1",
+        "website": "https://www.pizzeriacittavecchiats.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.765711554073372,
+          45.64664283406129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viezzoli",
+        "id": "4c2721a9c11dc9b6ea222a24",
+        "list_id": "66db4b3c3e1ca91052ed792b",
+        "list_name": "Trieste",
+        "url": "https://app.foursquare.com/v/viezzoli/4c2721a9c11dc9b6ea222a24",
+        "address": "Via della Cassa di Risparmio, 7",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77042,
+          45.65116
+        ]
+      }
+    }
+  ]
+}

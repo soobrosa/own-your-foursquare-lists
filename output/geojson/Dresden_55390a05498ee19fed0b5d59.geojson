@@ -1,0 +1,832 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dresdner Zwinger",
+        "id": "4b5c4b01f964a520d82929e3",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/dresdner-zwinger/4b5c4b01f964a520d82929e3",
+        "address": "Theaterplatz",
+        "website": "https://www.der-dresdner-zwinger.de",
+        "categories": [
+          "Landmarks and Outdoors > Historic and Protected Site",
+          "Arts and Entertainment > Museum > History Museum",
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Historic and Protected Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.733818,
+          51.052995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church of Our Lady (Frauenkirche)",
+        "id": "4b5c47a9f964a520782929e3",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/frauenkirche/4b5c47a9f964a520782929e3",
+        "address": "Neumarkt",
+        "website": "https://www.frauenkirche-dresden.de",
+        "categories": [
+          "Community and Government > Spiritual Center > Church"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.741600513458252,
+          51.052036941175736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Br\u00fchlsche Terrasse",
+        "id": "4be90b1de1b39521d44921c1",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/br%C3%BChlsche-terrasse/4be90b1de1b39521d44921c1",
+        "address": "Terrassenufer",
+        "website": "https://de.wikipedia.org/wiki/Br%C3%BChlsche_Terrasse",
+        "categories": [
+          "Landmarks and Outdoors > Historic and Protected Site",
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Historic and Protected Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.741303142411398,
+          51.05350457553928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gro\u00dfer Garten",
+        "id": "4ba3be5cf964a520765a38e3",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/gro%C3%9Fer-garten/4ba3be5cf964a520765a38e3",
+        "address": "Hauptallee 5",
+        "website": "http://www.grosser-garten-dresden.de",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.762843608856201,
+          51.037855564814066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johanneum | Verkehrsmuseum",
+        "id": "4be913dee1b39521a84a21c1",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/johanneum--verkehrsmuseum/4be913dee1b39521a84a21c1",
+        "address": "Augustusstr. 1",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Museum",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.739522188827184,
+          51.05170680720993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoo Dresden",
+        "id": "4b8a8d7cf964a520f77132e3",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/zoo-dresden/4b8a8d7cf964a520f77132e3",
+        "address": "Tiergartenstr. 1",
+        "website": "http://www.zoo-dresden.de",
+        "categories": [
+          "Arts and Entertainment > Zoo"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754913,
+          51.037092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bottoms Up",
+        "id": "4c54290572cf0f47dae610d4",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/bottoms-up/4c54290572cf0f47dae610d4",
+        "address": "Martin-Luther-Str. 31",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755897077029005,
+          51.065137060862135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burger-Dresden \"Burgermeister\"",
+        "id": "4bdd4e324ffaa5930e326ff7",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/burgerdresden-burgermeister/4bdd4e324ffaa5930e326ff7",
+        "address": "Louisenstra\u00dfe 54",
+        "website": "https://www.burger-dresden.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [
+          "Good buns, good potatoes, good burger."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76459,
+          51.08709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dampfschwein",
+        "id": "536d20eb498ef5316d67cb47",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/dampfschwein/536d20eb498ef5316d67cb47",
+        "address": "Louisenstr. 26",
+        "website": "http://www.dampfschwein.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.750902,
+          51.067037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mi\u2022Ka\u2022Do",
+        "id": "4b71a713f964a520d5532de3",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/mikado/4b71a713f964a520d5532de3",
+        "address": "Alaunstr. 60",
+        "website": "http://www.mikado-dresden.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Sushi Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sushi Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.752627584130712,
+          51.06767318128558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eva's Pizza",
+        "id": "4e4a45a9c65bab12516ac381",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/evas-pizza/4e4a45a9c65bab12516ac381",
+        "address": "G\u00f6rlitzer Str. 29",
+        "website": "http://www.evaspizza.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [
+          "Cheap and okay pizza, decent music - a 2011 Acid Pauli mix from Fusion."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754730660232415,
+          51.0681036570441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocakbasi",
+        "id": "5262859f498ea0231d27a13a",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/ocakbasi/5262859f498ea0231d27a13a",
+        "address": "Eschenstr. 1",
+        "website": "http://tuerkisches-restaurant.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Turkish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Turkish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.748778941304254,
+          51.069764108466714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lila So\u00dfe",
+        "id": "4cb897f34c60a09378573aca",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/lila-so%C3%9Fe/4cb897f34c60a09378573aca",
+        "address": "Alaunstr. 70",
+        "website": "https://www.lilasosse.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.753192603666497,
+          51.06832305187708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scheunecaf\u00e9",
+        "id": "4dc67bd2c65b89d3ca8890f5",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/scheunecaf%C3%A9/4dc67bd2c65b89d3ca8890f5",
+        "address": "Alaunstr. 36-40",
+        "website": "http://www.scheunecafe.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant",
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vegan and Vegetarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751635,
+          51.066219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sankt Pauli",
+        "id": "4bd578d06798ef3b1c57638d",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/sankt-pauli/4bd578d06798ef3b1c57638d",
+        "address": "Tannenstr. 56",
+        "website": "https://sankt-pauli.in",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.750095492943412,
+          51.07503415491277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Couscous Haus",
+        "id": "4fca5204e4b0417a20a35563",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/couscous-haus/4fca5204e4b0417a20a35563",
+        "address": "Louisenstr. 28",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Moroccan Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Moroccan Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.750943059854041,
+          51.0670612347409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kantine No. 2",
+        "id": "4b560b15f964a52069fd27e3",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/kantine-no-2/4b560b15f964a52069fd27e3",
+        "address": "G\u00f6rlitzer Str. 2",
+        "website": "https://kantine-n2.eatbu.com/?lang=en#",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > American Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754127217301532,
+          51.066525881975146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soulfoodsisters",
+        "id": "4bab4a92f964a5203c9e3ae3",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/soulfoodsisters/4bab4a92f964a5203c9e3ae3",
+        "address": "",
+        "website": "http://soulfoodsisters.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.750585582463481,
+          51.067091928627235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kek\u00e9 Kebab & Kumpir Haus",
+        "id": "4dd539a8fa7645a53caa9068",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/kek%C3%A9-kebab--kumpir-haus/4dd539a8fa7645a53caa9068",
+        "address": "Louisenstr. 21",
+        "website": "http://www.kekekumpir.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant",
+          "Dining and Drinking > Restaurant > Turkish Restaurant > Doner Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Middle Eastern Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.750254259018922,
+          51.06748412288076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willy Vanilli's",
+        "id": "4c37333cae2da5935d62fec5",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/willy-vanillis/4c37333cae2da5935d62fec5",
+        "address": "Hauptallee 2b",
+        "website": "http://www.willyvanilli.de",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.750147481691442,
+          51.042737827238575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marmaris",
+        "id": "4d230ec95c4ca1cddb97b63d",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/marmaris/4d230ec95c4ca1cddb97b63d",
+        "address": "Louisenstr. 57",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Falafel Restaurant",
+          "Dining and Drinking > Restaurant > Turkish Restaurant > Doner Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Falafel Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754700915068868,
+          51.06630200055257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waldmax",
+        "id": "4db2b6d9f7b121c29f2609b4",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/waldmax/4db2b6d9f7b121c29f2609b4",
+        "address": "Waldhofstr. 26",
+        "website": "http://www.waldmax.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.71262589679674,
+          51.11125512828258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dani\u2018s Salt Beef",
+        "id": "63ecdc1e2168a67a62c0f2c1",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/danis-salt-beef/63ecdc1e2168a67a62c0f2c1",
+        "address": "Bautzner Strasse 5",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.748536749106378,
+          51.06363027499905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulverturm an der Frauenkirche",
+        "id": "4b9b9b5ff964a520241336e3",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/pulverturm-an-der-frauenkirche/4b9b9b5ff964a520241336e3",
+        "address": "An der Frauenkirche 12",
+        "website": "https://pulverturm-dresden.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.742360299960112,
+          51.05221364840946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alnibras Bistro",
+        "id": "54b6530a498ec9d668ef61b4",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/alnibras-bistro/54b6530a498ec9d668ef61b4",
+        "address": "G\u00f6rlitzer Str. 27",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant",
+          "Dining and Drinking > Restaurant > Falafel Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Middle Eastern Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754683573533182,
+          51.06804950177277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watzke Wurstk\u00fcche",
+        "id": "552a9a48498e37eed8b52891",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/watzke-wurstk%C3%BCche/552a9a48498e37eed8b52891",
+        "address": "Dr.-K\u00fclz-Ring 11-13",
+        "website": "https://www.watzke-wurstkueche.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant > Bratwurst Joint",
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Dining and Drinking > Brewery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bratwurst Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7355911304352,
+          51.04756312824165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little India",
+        "id": "52a9b3dd11d2af281d94e563",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/little-india/52a9b3dd11d2af281d94e563",
+        "address": "Louisenstr. 48",
+        "website": "http://www.littleindia-dresden.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754775878213247,
+          51.0659463534948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dersim D\u00fcr\u00fcm-KEBAB-Haus",
+        "id": "4cf55476cc61a35daf342a9e",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/dersim-d%C3%BCr%C3%BCmkebabhaus/4cf55476cc61a35daf342a9e",
+        "address": "Helmholtzstr. 2",
+        "website": "https://www.dersim-tu.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Turkish Restaurant > Doner Restaurant",
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Doner Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.723898258520304,
+          51.03051066877948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BrennNessel",
+        "id": "4b8ec2ddf964a5208f3533e3",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/brennnessel/4b8ec2ddf964a5208f3533e3",
+        "address": "Sch\u00fctzengasse 18",
+        "website": "http://www.brennnessel-dresden.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vegan and Vegetarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.726207571102934,
+          51.05461787331181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aslan Kebap-Haus",
+        "id": "4d13541a12916dcbe60edd8a",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/aslan-kebaphaus/4d13541a12916dcbe60edd8a",
+        "address": "Pfotenhauer Stra\u00dfe 82",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Kebab Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Kebab Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.774377826220777,
+          51.05825029775031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S\u00e4chsische Dampfschifffahrt - Anlegestelle Blasewitz",
+        "id": "5041c8ece4b0133020b2da81",
+        "list_id": "55390a05498ee19fed0b5d59",
+        "list_name": "Dresden",
+        "url": "https://app.foursquare.com/v/s%C3%A4chsische-dampfschifffahrt--anlegestelle-blasewitz/5041c8ece4b0133020b2da81",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Pier"
+        ],
+        "tips": [
+          "You fucking be prepared to speed nordic walk half a mile or all of the seats will be taken. There's an escape room included on where to get your physical tickets after having virtual ones. Good luck!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.809875935616502,
+          51.05143351644965
+        ]
+      }
+    }
+  ]
+}

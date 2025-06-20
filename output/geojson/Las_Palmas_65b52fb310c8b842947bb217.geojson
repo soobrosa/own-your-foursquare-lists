@@ -1,0 +1,1465 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Caldosa",
+        "id": "63934aada9c0962e07f59230",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/la-caldosa/63934aada9c0962e07f59230",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.663248716317119,
+          28.159831526850077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aj\u00ed, Lim\u00f3n y Canela",
+        "id": "51fad116498eceabcbf5478e",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/aj%C3%AD-lim%C3%B3n-y-canela/51fad116498eceabcbf5478e",
+        "address": "C/ Sagasta, 68",
+        "website": "http://www.productoperuano.es/ajilimonycanela/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Peruvian Restaurant"
+        ],
+        "tips": [
+          "Good food, kind service, occasional horrible guest with a spoiled kid birthday."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Peruvian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.430393621201599,
+          28.14636981304029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Canteras Beach (Playa de Las Canteras)",
+        "id": "4bf01388f831c9286c8a01f2",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/playa-de-las-canteras/4bf01388f831c9286c8a01f2",
+        "address": "Playa de Las Canteras",
+        "website": "http://www.miplayadelascanteras.com",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [
+          "The place to be, free amenities if you wash your feet."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.435954243694141,
+          28.140306126634236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "200 Gr.",
+        "id": "54286a7d498e2d89dfe450c0",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/200-gr/54286a7d498e2d89dfe450c0",
+        "address": "C. Ruiz de Alda, 26",
+        "website": "http://www.200gramos.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.43288419375789,
+          28.13575695908058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque San Telmo",
+        "id": "4ba3c284f964a5204e5c38e3",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/parque-san-telmo/4ba3c284f964a5204e5c38e3",
+        "address": "Parque San Telmo",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.416735100945171,
+          28.108673963704746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Confital",
+        "id": "4b56e42ff964a520521e28e3",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/el-confital/4b56e42ff964a520521e28e3",
+        "address": "Lugar el Confital",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Surf Spot",
+          "Landmarks and Outdoors > Beach",
+          "Landmarks and Outdoors > Nudist Beach"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Surf Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.437073111534119,
+          28.160253762773586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Doramas",
+        "id": "4c816289d4e23704ef5a5d88",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/parque-doramas/4c816289d4e23704ef5a5d88",
+        "address": "C/ Francisco Gonz\u00e1lez D\u00edaz",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.429245716791392,
+          28.120552982241296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Bikina",
+        "id": "515b5878e4b09c8b1dbebeba",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/la-bikina/515b5878e4b09c8b1dbebeba",
+        "address": "Paseo de Las Canteras 63",
+        "website": "http://labikinacantina.com",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.437539554300258,
+          28.137255321943996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Larry - Comida Filipina Y Espa\u00f1ola",
+        "id": "5a75c92195da0c6d98c9b209",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/casa-larry--comida-filipina-y-espa%C3%B1ola/5a75c92195da0c6d98c9b209",
+        "address": "Calle General Vives",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Filipino Restaurant"
+        ],
+        "tips": [
+          "Great food, kind service, proper portions."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Filipino Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.431628917645215,
+          28.14065931334261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza De Cairasco",
+        "id": "4de3d21e45dd180ae566e5d1",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/plaza-de-cairasco/4de3d21e45dd180ae566e5d1",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.416349220544776,
+          28.102777756848244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playa Chica",
+        "id": "4e9222ea9adf18f882668e49",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/playa-chica/4e9222ea9adf18f882668e49",
+        "address": "Calle Doctor Grau Bassas, 51",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.435935546205055,
+          28.140155993487113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gran Playa",
+        "id": "567e9f38498ec3e895f87340",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/gran-playa/567e9f38498ec3e895f87340",
+        "address": "C/ Sagasta, 78",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Tapas Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.430622180558961,
+          28.146862227417724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Telmo Bus Station (Estaci\u00f3n de guaguas de San Telmo)",
+        "id": "4be1b8170f299c7473d07ebf",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/estaci%C3%B3n-de-guaguas-de-san-telmo/4be1b8170f299c7473d07ebf",
+        "address": "Rafael Cabrera",
+        "website": "http://www.guaguas.com",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Bus Station"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Bus Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.415895078168937,
+          28.10874498919334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Marinera",
+        "id": "4c39d1f51e06d13ada247a3e",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/la-marinera/4c39d1f51e06d13ada247a3e",
+        "address": "C/ de Alonso Ojeda, 4",
+        "website": "http://www.restaurantelamarineralaspalmas.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.432901183272271,
+          28.14826146302425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza Santa Ana",
+        "id": "4be44cdecf200f47b8c0113c",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/plaza-santa-ana/4be44cdecf200f47b8c0113c",
+        "address": "Plaza Santa Ana",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.415436611543338,
+          28.100724204923356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planeta 613",
+        "id": "4fc78021e4b06af1d0fad986",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/planeta-613/4fc78021e4b06af1d0fad986",
+        "address": "Cano, 7",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Salad Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Salad Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.416130011401435,
+          28.104036161387487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurante Chino Taiwan",
+        "id": "4bfed8f3daf9c9b6dd5af9ef",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/restaurante-chino-taiwan/4bfed8f3daf9c9b6dd5af9ef",
+        "address": "Calle Presidente Alvear, 19",
+        "website": "http://restaurantechinotaiwan.es",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.430444818957218,
+          28.135391395366216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ay Carmela",
+        "id": "57b4cfd0498ec35573f79cee",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/ay-carmela/57b4cfd0498ec35573f79cee",
+        "address": "",
+        "website": "http://aycarmelantojitosmexicanos.es",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.429517198057644,
+          28.14752053621759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Picantina",
+        "id": "5349b551498eaebab60b7f3a",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/la-picantina/5349b551498eaebab60b7f3a",
+        "address": "C. Pascal, 22",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.434829833364065,
+          28.137091096968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Ricardo",
+        "id": "4bc8daccb6c49c74fd3d8d91",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/casa-ricardo/4bc8daccb6c49c74fd3d8d91",
+        "address": "Salvador Cuyas 7",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hot Dog Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hot Dog Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.430874496734427,
+          28.143964457457688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Garriga",
+        "id": "4c6a3c57c946e21eb048ec8e",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/la-garriga/4c6a3c57c946e21eb048ec8e",
+        "address": "C. Alonso Alvarado, 16",
+        "website": "http://www.lagarriga-laspalmas.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.41771150870033,
+          28.110243402286905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00a1Oh!, que bueno",
+        "id": "4cd5befea5b34688b7ee8f50",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/oh-que-bueno/4cd5befea5b34688b7ee8f50",
+        "address": "Plaza del Pilar, 14",
+        "website": "http://www.ohquebueno.es",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Latin American Restaurant > Arepa Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.444659092865633,
+          28.129572317428284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "200 Gr",
+        "id": "565b2255498e3e948d730601",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/200-gr/565b2255498e3e948d730601",
+        "address": "Plaza De Cairasco 3",
+        "website": "http://200gramos.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.416361011238072,
+          28.10302458334268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurante Embarcadero (muelle Deportivo)",
+        "id": "4bf53de8cad2c9287ac69c99",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/restaurante-embarcadero-muelle-deportivo/4bf53de8cad2c9287ac69c99",
+        "address": "Muelle Deportivo",
+        "website": "http://www.restauranteembarcadero.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant",
+          "Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mediterranean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.427925351725477,
+          28.127909966292588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gelizia",
+        "id": "4be6d80d477d9c7406cbe62d",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/gelizia/4be6d80d477d9c7406cbe62d",
+        "address": "Av. Jos\u00e9 Mesa y L\u00f3pez, 41",
+        "website": "https://www.gelizia.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.436468605440592,
+          28.1331964266117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Encurtidos Antequera",
+        "id": "4ee2159a6c252ff3c50b7e1c",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/encurtidos-antequera/4ee2159a6c252ff3c50b7e1c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Deli"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.429268599405434,
+          28.14780385037086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Fataga",
+        "id": "51c47bfaabd8655b5a333452",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/casa-fataga/51c47bfaabd8655b5a333452",
+        "address": "Parque Santa Catalina",
+        "website": "http://www.bodegoncasafataga.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Spanish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.430213774329513,
+          28.140286966861957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donna Isabella",
+        "id": "5867c0b7561ded113a5d1c67",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/donna-isabella/5867c0b7561ded113a5d1c67",
+        "address": "Calle San Pedro 9",
+        "website": "http://www.donnaisabella.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4151015920436,
+          28.103167512209847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamburgueseria La Piscina",
+        "id": "4bf041cfc601a593ad7bc3d1",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/hamburgueseria-la-piscina/4bf041cfc601a593ad7bc3d1",
+        "address": "Guayadeque",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.42967690331696,
+          28.15279544626667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurante Chino Shanghai",
+        "id": "4cb5ab4ff6616dcb5705d908",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/restaurante-chino-shanghai/4cb5ab4ff6616dcb5705d908",
+        "address": "Bravo Murillo, 12",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.418606667058654,
+          28.108711170831697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poema Del Mar",
+        "id": "58d000f7d772f97b92327fe9",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/poema-del-mar/58d000f7d772f97b92327fe9",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Aquarium"
+        ],
+        "tips": [
+          "Great aquarium, it's not cheap."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Aquarium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.428164,
+          28.144694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado Central",
+        "id": "4bc9a288b6c49c7430b38e91",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/mercado-central/4bc9a288b6c49c7430b38e91",
+        "address": "Valencia, S/N",
+        "website": "",
+        "categories": [
+          "Retail > Shopping Mall",
+          "Retail > Food and Beverage Retail > Farmers Market",
+          "Retail > Food and Beverage Retail"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Shopping Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.43302329598294,
+          28.13352953949072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tasca Galileo",
+        "id": "4be46c96cf200f476bf1113c",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/tasca-galileo/4be46c96cf200f476bf1113c",
+        "address": "C/ Galileo 13",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant",
+          "Dining and Drinking > Restaurant > Spanish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Tapas Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.436808630169473,
+          28.136786149813577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurante Polar",
+        "id": "4c4223d6af052d7fae807e79",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/restaurante-polar/4c4223d6af052d7fae807e79",
+        "address": "Sagasta No. 17",
+        "website": "http://www.minube.com/rincon/restaurante-polar-a637041",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4314844097412,
+          28.143084887048673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffet Casa Chen",
+        "id": "598b2cb24febd508ec4e7085",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/buffet-casa-chen/598b2cb24febd508ec4e7085",
+        "address": "Paseo de las Canteras, 27",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Buffet",
+          "Dining and Drinking > Restaurant > Theme Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Buffet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.434529145843541,
+          28.1416953651925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALE-HOP",
+        "id": "5861786045005e7adcaaae61",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/alehop/5861786045005e7adcaaae61",
+        "address": "Paseo Canteras 38,  Las Palmas de Gran Canaria",
+        "website": "",
+        "categories": [
+          "Retail > Souvenir Store"
+        ],
+        "tips": [
+          "Spanish Flying Tiger."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Souvenir Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.436247441706657,
+          28.139843086749543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hi Bubble Tea",
+        "id": "63b052c5710768265013c2cf",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/hi-bubble-tea/63b052c5710768265013c2cf",
+        "address": "35 Calle de Luis Morote",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Bubble Tea Shop"
+        ],
+        "tips": [
+          "Good selection of bubble teas and cakes."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bubble Tea Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.43333422446466,
+          28.141254238728067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinica Perpetuo Socorro",
+        "id": "4bfa2d98508c0f471cda3f31",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/clinica-perpetuo-socorro/4bfa2d98508c0f471cda3f31",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Health and Medicine > Hospital"
+        ],
+        "tips": [
+          "They don't speak English on the phone and in person, doctor's are nice, come with an insurance and pay up, it's a private practice, they don't care about your European Health Insurance Card."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Health and Medicine",
+        "topic": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.43043885288873,
+          28.137209855806177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Superdino",
+        "id": "51ac9656498e55cfc2a9a2ba",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/superdino/51ac9656498e55cfc2a9a2ba",
+        "address": "General Vives 23-25",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [
+          "Great fish selection, kind staff!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.430865135566027,
+          28.138329540658077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafeter\u00eca Lanzarote",
+        "id": "4da4a7627ccc816e1899967b",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/cafeter%C3%ACa-lanzarote/4da4a7627ccc816e1899967b",
+        "address": "C/ Luis Morote",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Totally okay place to grab food, kind service, a bit haphazard."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.43008347634677,
+          28.141455225231496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farmacia Catedral 24h",
+        "id": "4ffc9651e4b0c14fdb09f0a0",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/farmacia-catedral-24h/4ffc9651e4b0c14fdb09f0a0",
+        "address": "Calle Obispo Codina, 3",
+        "website": "http://www.farmacatedral.com",
+        "categories": [
+          "Retail > Pharmacy"
+        ],
+        "tips": [
+          "All the freaking 24h pharmacies are within 10 meters walking distance. Smells like a cartel."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.415575391762493,
+          28.101391197866132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza 21 Helato Artesano",
+        "id": "65bfe032869425700180a894",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/plaza-21-helato-artesano/65bfe032869425700180a894",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Good ice, no salty ones altough."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.416422,
+          28.102679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jard\u00edn Bot\u00e1nico Canario Viera y Clavijo",
+        "id": "4cd53e9dfb5954812df2dc50",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/jard%C3%ADn-bot%C3%A1nico-canario-viera-y-clavijo/4cd53e9dfb5954812df2dc50",
+        "address": "Ctra. del Centro, Km 7",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Other Great Outdoors"
+        ],
+        "tips": [
+          "Really big, walk to the north/low gate and start there and climb upwards. Going down should feel OMG."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Other Great Outdoors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.461764958830601,
+          28.06671786650312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiwawa",
+        "id": "640cf6b0ebbf2f3064555295",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/chiwawa/640cf6b0ebbf2f3064555295",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [
+          "Super local chain. You can't go wrong."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.412334502475034,
+          28.102153110747096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa del Helado",
+        "id": "6318da34092d9a4f1561c9e7",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/casa-del-helado/6318da34092d9a4f1561c9e7",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Gelato Shop"
+        ],
+        "tips": [
+          "Outstanding ice. You will overorder."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gelato Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.41455612029024,
+          28.102273255987594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baraka",
+        "id": "66085f6138e7225a329ca86a",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/baraka/66085f6138e7225a329ca86a",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Moroccan Restaurant"
+        ],
+        "tips": [
+          "Super home cooking."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Moroccan Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.432801,
+          28.140507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caldera de Bandama",
+        "id": "4e0f4f68b0fb59de67df2023",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/caldera-de-bandama/4e0f4f68b0fb59de67df2023",
+        "address": "35017 Las Palmas de Gran Canaria",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Volcano"
+        ],
+        "tips": [
+          "You gonna work for it. A must, bring enough water."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Volcano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.458091649987193,
+          28.03640078845827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tasca La Caldera",
+        "id": "5a240befa4b51b7ba721c4c2",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/tasca-la-caldera/5a240befa4b51b7ba721c4c2",
+        "address": "Camino de la Caldera N\u00ba 42",
+        "website": "https://tascalacaldera.negocio.site",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Kind service, family run bistro. Even if you just have 50 mins for the bus to catch, indulge."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.46024916888623,
+          28.035753710161988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museo Elder de la Ciencia y la Tecnolog\u00eda",
+        "id": "4bc705082f94d13a2b18117f",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/museo-elder-de-la-ciencia-y-la-tecnolog%C3%ADa/4bc705082f94d13a2b18117f",
+        "address": "Parque de Santa Catalina s/n",
+        "website": "http://www.museoelder.org",
+        "categories": [
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [
+          "Great idea, overcrowded, broken, Spanish only."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Science Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.429632132318313,
+          28.141129286633106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Santa Catalina",
+        "id": "4d600c13865a224b6a43a685",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/parque-santa-catalina/4d600c13865a224b6a43a685",
+        "address": "Calle Eduardo Benot",
+        "website": "http://www.laspalmasgc.es/views/Servicios/Parques/ParquesUrbanos",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [
+          "Overground 12 and underground bus station to the airport!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.430887552028128,
+          28.14052631041312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Card\u00f3n",
+        "id": "660aab0fb9d46a2f1c92fc6e",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/el-card%C3%B3n/660aab0fb9d46a2f1c92fc6e",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Laundromat"
+        ],
+        "tips": [
+          "Default stuff, open a lot, good."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Laundromat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.433714,
+          28.140139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telepizza",
+        "id": "4ddabaa3fa76ad96d1729d0a",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/telepizza/4ddabaa3fa76ad96d1729d0a",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [
+          "Slow, expensive and crap. Avoid at all costs."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.435803365764547,
+          28.140295029197258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gran Canaria Airport (LPA) (Aeropuerto de Gran Canaria)",
+        "id": "4b50cbd9f964a520f03227e3",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/aeropuerto-de-gran-canaria-lpa/4b50cbd9f964a520f03227e3",
+        "address": "Ctra. General del Sur",
+        "website": "http://www.aena.es/csee/Satellite/Aeropuerto-Gran-Canaria/en/Home.html",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Airport > International Airport"
+        ],
+        "tips": [
+          "Great bus connections."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "International Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.38733959197998,
+          27.936464924529442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spar",
+        "id": "57fa7ffb498ef00e72e69423",
+        "list_id": "65b52fb310c8b842947bb217",
+        "list_name": "Las Palmas",
+        "url": "https://app.foursquare.com/v/spar/57fa7ffb498ef00e72e69423",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [
+          "Pretty good fresh food selection."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.388545,
+          27.935556
+        ]
+      }
+    }
+  ]
+}

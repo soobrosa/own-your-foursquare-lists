@@ -1,0 +1,480 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Living Hotel am Deutschen Museum",
+        "id": "57c7c9f9498eb6ed6ea7d5fe",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/living-hotel-am-deutschen-museum/57c7c9f9498eb6ed6ea7d5fe",
+        "address": "Rablstr. 10",
+        "website": "https://www.living-hotels.com/hotel-am-deutschen-museum-muenchen/",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589626763323993,
+          48.127595058837805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PENNY",
+        "id": "4d2c353efb8e59416c185254",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/penny/4d2c353efb8e59416c185254",
+        "address": "Rablstra\u00dfe 26",
+        "website": "https://www.penny.de/startseite/",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Discount Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.591895373293838,
+          48.12712844056236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HIT Markt",
+        "id": "4c38a09e1e06d13a7f08783e",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/hit-markt/4c38a09e1e06d13a7f08783e",
+        "address": "Rosenheimerstr. 30",
+        "website": "http://www.hit.de",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.590385943713708,
+          48.130517352028576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALDI S\u00dcD",
+        "id": "4d440dc11ed56dcbe2a8aa54",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/aldi-s%C3%BCd/4d440dc11ed56dcbe2a8aa54",
+        "address": "Rosenheimer Str. 30",
+        "website": "https://www.aldi-sued.de",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Discount Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5912244,
+          48.1301237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muffathalle",
+        "id": "4ade0cb1f964a5208c6821e3",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/muffathalle/4ade0cb1f964a5208c6821e3",
+        "address": "Zellstr. 4",
+        "website": "http://www.muffatwerk.de",
+        "categories": [
+          "Arts and Entertainment > Performing Arts Venue > Music Venue",
+          "Arts and Entertainment > Night Club"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Music Venue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.589344785665883,
+          48.13280436282779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizzesco",
+        "id": "4c2e359fe760c9b609354649",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/pizzesco/4c2e359fe760c9b609354649",
+        "address": "Rosenheimer Str. 12",
+        "website": "http://www.pizzesco.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58938416230378,
+          48.131312866556115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chopan - am Gasteig",
+        "id": "4afabbfdf964a520701822e3",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/chopan--am-gasteig/4afabbfdf964a520701822e3",
+        "address": "Rosenheimer Str. 6-8",
+        "website": "http://www.chopan-restaurant.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Afghan Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Afghan Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588731,
+          48.131513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cibo",
+        "id": "50ca02c3245f2d4aa8c2be1c",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/cibo/50ca02c3245f2d4aa8c2be1c",
+        "address": "Rosenheimer Str. 36",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Turkish Restaurant > Doner Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Doner Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.592066996957396,
+          48.129490237089485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viktualienmarkt",
+        "id": "4ade0d12f964a5209c6a21e3",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/viktualienmarkt/4ade0d12f964a5209c6a21e3",
+        "address": "Viktualienmarkt",
+        "website": "",
+        "categories": [
+          "Retail > Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.576824101250468,
+          48.13506284254656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maoz Vinyl & Kaffee",
+        "id": "55e828d5498e73028c3d91db",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/maoz-vinyl--kaffee/55e828d5498e73028c3d91db",
+        "address": "Hiltenspergerstr. 15",
+        "website": "http://www.maoz-records.com",
+        "categories": [
+          "Retail > Record Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Record Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56579256057739,
+          48.15631675284861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALDI S\u00dcD",
+        "id": "4bab4e0cf964a520359f3ae3",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/aldi-s%C3%BCd/4bab4e0cf964a520359f3ae3",
+        "address": "Richard-Strauss-Str. 80+82",
+        "website": "https://www.aldi-sued.de",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Discount Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.618376603573672,
+          48.14831617381042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "REWE Center",
+        "id": "4b28cecff964a520589524e3",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/rewe-center/4b28cecff964a520589524e3",
+        "address": "Rosenkavalierplatz 5",
+        "website": "https://www.rewe.de/marktseite/muenchen/440300/rewe-center-rosenkavalierplatz-5/?ecid=seo_localseo_440300_otherpublisher_nn_nn_nn_nn_nn",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.620128634341881,
+          48.15251669151801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Four Points by Sheraton Munich Arabellapark Hotel",
+        "id": "4ade0c8cf964a520bf6721e3",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/four-points-by-sheraton-munich-arabellapark-hotel/4ade0c8cf964a520bf6721e3",
+        "address": "Arabellastr. 5",
+        "website": "https://www.marriott.com/hotels/travel/mucsa-sheraton-munich-arabellapark-hotel/?y_source=1_Mjc4MjE1Mi00NDAtbG9jYXRpb24ud2Vic2l0ZQ==",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.618462612937993,
+          48.15056411571963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umweltministerium Kantine",
+        "id": "4e36867ab0fb59390ea99ed2",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/umweltministerium-kantine/4e36867ab0fb59390ea99ed2",
+        "address": "Rosenkavalierplatz 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.618584,
+          48.152616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mi Li Fu",
+        "id": "5367760311d2e13d56a5b4ed",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/mi-li-fu/5367760311d2e13d56a5b4ed",
+        "address": "Arabellastr. 26",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Asian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619876262831765,
+          48.14992502849678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burda Kantine",
+        "id": "4b277e0af964a520dc8624e3",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/burda-kantine/4b277e0af964a520dc8624e3",
+        "address": "Arabellastr. 23",
+        "website": "",
+        "categories": [
+          "Community and Government > Education > College and University > College Cafeteria",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "College Cafeteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.622217628078385,
+          48.15026400959791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NAMASTE",
+        "id": "4c88bef57223b1f7eebd2da8",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/namaste/4c88bef57223b1f7eebd2da8",
+        "address": "Rosenkavalierplatz 12",
+        "website": "http://namaste-munich.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619842179875215,
+          48.151896930619586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muffathalle Biergarten",
+        "id": "4bd1e0e1462cb7134215db07",
+        "list_id": "5c8dfa48182223002578060d",
+        "list_name": "Munchen",
+        "url": "https://app.foursquare.com/v/muffathalle-biergarten/4bd1e0e1462cb7134215db07",
+        "address": "Zellstr. 4",
+        "website": "http://www.muffatwerk.de/de/pages/biergarten",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [
+          "Can be crowded, a bit too much queues, okay."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58908081759047,
+          48.13286497644354
+        ]
+      }
+    }
+  ]
+}

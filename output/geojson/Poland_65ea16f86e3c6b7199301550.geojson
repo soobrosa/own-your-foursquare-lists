@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molo",
+        "id": "4c0bbc166071a59357a0e132",
+        "list_id": "65ea16f86e3c6b7199301550",
+        "list_name": "Poland",
+        "url": "https://app.foursquare.com/v/molo/4c0bbc166071a59357a0e132",
+        "address": "Morska",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Pier",
+          "Landmarks and Outdoors > Scenic Lookout",
+          "Landmarks and Outdoors > Harbor or Marina"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.446175212398545,
+          53.931687527350896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camping 24",
+        "id": "51dfaf80498ecb6f57964b40",
+        "list_id": "65ea16f86e3c6b7199301550",
+        "list_name": "Poland",
+        "url": "https://app.foursquare.com/v/camping-24/51dfaf80498ecb6f57964b40",
+        "address": "Polna 36",
+        "website": "http://www.camping24.cba.pl",
+        "categories": [
+          "Landmarks and Outdoors > Campground"
+        ],
+        "tips": [
+          "Good camping with lots of mosquitoes."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.436412453089673,
+          53.921770881884896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camping Tramp",
+        "id": "51c189b9498e2f6f6ee71d78",
+        "list_id": "65ea16f86e3c6b7199301550",
+        "list_name": "Poland",
+        "url": "https://app.foursquare.com/v/camping-tramp/51c189b9498e2f6f6ee71d78",
+        "address": "",
+        "website": "http://www.campingtramp.com",
+        "categories": [
+          "Landmarks and Outdoors > Campground"
+        ],
+        "tips": [
+          "Camping is pretty good, also the shop. Disco and motorcycle groups are fucking irritating, loud and noisy."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.647443917539652,
+          53.99722690460724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sparkasse",
+        "id": "4bf8f2805efe2d7f298f6b34",
+        "list_id": "65ea16f86e3c6b7199301550",
+        "list_name": "Poland",
+        "url": "https://app.foursquare.com/v/sparkasse/4bf8f2805efe2d7f298f6b34",
+        "address": "Marktplatz",
+        "website": "http://www.s-os.de",
+        "categories": [
+          "Business and Professional Services > Financial Service > Banking and Finance > Bank"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.552937725596742,
+          52.34378011316094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Intermarch\u00e9",
+        "id": "5176afb8e4b0687fab308e8e",
+        "list_id": "65ea16f86e3c6b7199301550",
+        "list_name": "Poland",
+        "url": "https://app.foursquare.com/v/intermarch%C3%A9/5176afb8e4b0687fab308e8e",
+        "address": "Ko\u015bciuszki 21",
+        "website": "http://www.intermarche.pl",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.565321449427886,
+          52.34920797564058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyszna Chata",
+        "id": "572dcd15498ebcd9eddfc4a1",
+        "list_id": "65ea16f86e3c6b7199301550",
+        "list_name": "Poland",
+        "url": "https://app.foursquare.com/v/pyszna-chata/572dcd15498ebcd9eddfc4a1",
+        "address": "ul. Wojska Polskiego 163 B",
+        "website": "http://www.pysznachata.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.562079354908084,
+          52.35585721950155
+        ]
+      }
+    }
+  ]
+}

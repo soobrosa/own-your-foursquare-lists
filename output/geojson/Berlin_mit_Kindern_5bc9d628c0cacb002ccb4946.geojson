@@ -1,0 +1,743 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "German Museum of Technology (Deutsches Technikmuseum Berlin)",
+        "id": "4b659b4bf964a52032f62ae3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/deutsches-technikmuseum/4b659b4bf964a52032f62ae3",
+        "address": "Trebbiner Str. 9",
+        "website": "https://technikmuseum.berlin",
+        "categories": [
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [
+          "Humongous collection - we keep returning. Your kids can't even drink water in the exhibition rooms, wut?"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Science Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377828598022461,
+          52.49877873379205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz Strelitzer Str.",
+        "id": "4fc7879be4b0dd28caa3f008",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/spielplatz-strelitzer-str/4fc7879be4b0dd28caa3f008",
+        "address": "Strelitzer Str. 5/6",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396528959274292,
+          52.53417817386173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz Preu\u00dfenpark",
+        "id": "505ef0e0e4b0be434f3b79dd",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/spielplatz-preu%C3%9Fenpark/505ef0e0e4b0be434f3b79dd",
+        "address": "Brandenburgische Str.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [
+          "Good one with flowing water."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.310921431168508,
+          52.493312261906055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plansche im Weinbergspark",
+        "id": "51d83ef0498e3561c0f100d3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/plansche-im-weinbergspark/51d83ef0498e3561c0f100d3",
+        "address": "Weinbergsweg",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Fountain",
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [
+          "Wasserspielplatz!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Fountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402282,
+          52.532011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderbad Monbijou",
+        "id": "4c25ca69136d20a1b634e461",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/kinderbad-monbijou/4c25ca69136d20a1b634e461",
+        "address": "Oranienburger Str. 78",
+        "website": "http://www.berlinerbaederbetriebe.de/126.html",
+        "categories": [
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool"
+        ],
+        "tips": [
+          "Centrally located, small, nice and cheap. Even the buffet prices are likely peanuts if you can stand the queue. Lately it's opening at 11:00 in the weekends opposed to what's advertised."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Sports and Recreation",
+        "topic": "Swimming Pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39613504235944,
+          52.52264707485495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tierpark Neuk\u00f6lln",
+        "id": "4f7ec6d5e4b0d9edea7f6ebc",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/tierpark-neuk%C3%B6lln/4f7ec6d5e4b0d9edea7f6ebc",
+        "address": "Hasenheide 82",
+        "website": "http://www.stiftung-naturschutz.de/unsere-projekte/gruene-lernorte-in-berlin/gruene-lernorte-alphabetisch/detailansicht/?id=100",
+        "categories": [
+          "Arts and Entertainment > Zoo > Zoo Exhibit"
+        ],
+        "tips": [
+          "Nice for a stroll."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo Exhibit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.415358529652131,
+          52.48658630432181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jugendfarm Moritzhof",
+        "id": "4dac537c6e81162ae7ff46a3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/jugendfarm-moritzhof/4dac537c6e81162ae7ff46a3",
+        "address": "Schwedter Str. 90",
+        "website": "http://www.jugendfarm-moritzhof.de/",
+        "categories": [
+          "Landmarks and Outdoors > Farm"
+        ],
+        "tips": [
+          "Pretty decent against all odds aka location, paired with a spielplatz and a climbing wall."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.400322806821837,
+          52.54795578240846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquarium Berlin",
+        "id": "4b645ae7f964a520d4ac2ae3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/aquarium-berlin/4b645ae7f964a520d4ac2ae3",
+        "address": "Budapester Str. 32",
+        "website": "http://www.aquarium-berlin.de",
+        "categories": [
+          "Arts and Entertainment > Aquarium"
+        ],
+        "tips": [
+          "Impressive aquarium."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Aquarium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.340529799461365,
+          52.50584849565516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weddinger Kinderfarm",
+        "id": "4e9abdf8b63497cda9efe7c4",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/weddinger-kinderfarm/4e9abdf8b63497cda9efe7c4",
+        "address": "Luxemburger Str. 25",
+        "website": "http://www.kinderecho.de",
+        "categories": [
+          "Landmarks and Outdoors > Farm"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.356324741891108,
+          52.54435110982365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoo Berlin",
+        "id": "4c31825b6f1fef3b9504ec3d",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/zoo-berlin/4c31825b6f1fef3b9504ec3d",
+        "address": "Hardenbergplatz 8",
+        "website": "https://www.zoo-berlin.de",
+        "categories": [
+          "Arts and Entertainment > Zoo"
+        ],
+        "tips": [
+          "Ergonomic Zoo."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.338754177093506,
+          52.508578131761666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botanischer Garten",
+        "id": "4da0074ba77d816e6dff0f09",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/botanischer-garten/4da0074ba77d816e6dff0f09",
+        "address": "K\u00f6nigin-Luise-Str. 6-8",
+        "website": "https://www.bgbm.org/de/garten/willkommen-im-garten",
+        "categories": [
+          "Landmarks and Outdoors > Botanical Garden"
+        ],
+        "tips": [
+          "This is a hard genre, but was pretty impressed even with small kids. Thumbsup."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Botanical Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.305344581604004,
+          52.455041782457855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park am Gleisdreieck - Ostpark",
+        "id": "4e60e1f8d22d509a38ed005e",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/park-am-gleisdreieck--ostpark/4e60e1f8d22d509a38ed005e",
+        "address": "Yorckstr.",
+        "website": "https://gruen-berlin.de/projekte/parks/park-am-gleisdreieck/",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376197814941406,
+          52.494761688251586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Memorial to the Murdered Jews of Europe (Denkmal f\u00fcr die ermordeten Juden Europas)",
+        "id": "4b10f428f964a520f77623e3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/denkmal-f%C3%BCr-die-ermordeten-juden-europas/4b10f428f964a520f77623e3",
+        "address": "Cora-Berliner-Str. 1",
+        "website": "https://www.holocaust-denkmal-berlin.de",
+        "categories": [
+          "Landmarks and Outdoors > Monument",
+          "Landmarks and Outdoors > Memorial Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37857961654663,
+          52.51407933531108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin TV Tower (Berliner Fernsehturm)",
+        "id": "4adcda7cf964a520504721e3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/berliner-fernsehturm/4adcda7cf964a520504721e3",
+        "address": "Panoramastr. 1",
+        "website": "https://www.tv-turm.de",
+        "categories": [
+          "Landmarks and Outdoors > Scenic Lookout",
+          "Landmarks and Outdoors > Monument"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Scenic Lookout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409392833709717,
+          52.52090835801669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tempelhofer Park",
+        "id": "500bd425e4b0a62ff4e1bc67",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/tempelhofer-park/500bd425e4b0a62ff4e1bc67",
+        "address": "Tempelhofer Damm",
+        "website": "https://www.tempelhofer-park.de",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Field"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40306282043457,
+          52.476193598765576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum f\u00fcr Naturkunde",
+        "id": "4adcda81f964a520594821e3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/museum-f%C3%BCr-naturkunde/4adcda81f964a520594821e3",
+        "address": "Invalidenstr. 43",
+        "website": "https://www.museumfuernaturkunde.berlin",
+        "categories": [
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Science Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379281262570908,
+          52.53027102772721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserspielplatz Planschepark",
+        "id": "4dac0b9f5da3ba8a47ad3536",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/wasserspielplatz-planschepark/4dac0b9f5da3ba8a47ad3536",
+        "address": "Eichendorffstr.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [
+          "Spielplatz with big fishes and water."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387495279312132,
+          52.53113032196809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helmholtzplatz",
+        "id": "4adcda7ef964a520db4721e3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/helmholtzplatz/4adcda7ef964a520db4721e3",
+        "address": "Raumerstr.",
+        "website": "https://de.wikipedia.org/wiki/Helmholtzplatz",
+        "categories": [
+          "Landmarks and Outdoors > Plaza",
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418769836425781,
+          52.54308556459545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz Sherwood Forest",
+        "id": "4c39890993db0f47f9a42392",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/spielplatz-sherwood-forest/4c39890993db0f47f9a42392",
+        "address": "Knesebeckstr. 78",
+        "website": "https://www.visitberlin.de/de/spielplatz-sherwood-forest",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [
+          "Good playground with Robin Hood theme."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.322591185569761,
+          52.50441830762834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Theater Boka",
+        "id": "56c07745cd1041caed404c34",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/theater-boka/56c07745cd1041caed404c34",
+        "address": "Wollankstrasse 112",
+        "website": "http://www.theater-boka.de",
+        "categories": [
+          "Arts and Entertainment > Performing Arts Venue > Theater"
+        ],
+        "tips": [
+          "Good puppet theather, kind people."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396592572477152,
+          52.56616854868229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teufelsberg",
+        "id": "4adcda7df964a520804721e3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/teufelsberg/4adcda7df964a520804721e3",
+        "address": "Teufelsseechaussee",
+        "website": "https://teufelsberg-berlin.de",
+        "categories": [
+          "Landmarks and Outdoors > Mountain",
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.242237567901611,
+          52.49785778504401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abh\u00f6rstation Teufelsberg",
+        "id": "4b7ea982f964a520d3f72fe3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/abh%C3%B6rstation-teufelsberg/4b7ea982f964a520d3f72fe3",
+        "address": "Teufelsseechaussee",
+        "website": "https://www.teufelsberg-berlin.de",
+        "categories": [
+          "Landmarks and Outdoors > Historic and Protected Site",
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Historic and Protected Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.240552845820888,
+          52.49798657287756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz Bergstra\u00dfe",
+        "id": "4c1782a4368220a104753657",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/spielplatz-bergstra%C3%9Fe/4c1782a4368220a104753657",
+        "address": "Bergstr. 78",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394589779169676,
+          52.530036295141386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flugzeugspielplatz",
+        "id": "4c8ca9de5e38b1f7546e33f9",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/flugzeugspielplatz/4c8ca9de5e38b1f7546e33f9",
+        "address": "Strelitzer Str. 12",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396089076995848,
+          52.535307195919046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krausnickpark",
+        "id": "4b9a6935f964a52003b335e3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/krausnickpark/4b9a6935f964a52003b335e3",
+        "address": "Oranienburger Str. 19/20",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397116,
+          52.52459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erika-Hess-Eisstadion",
+        "id": "4adcda92f964a520ed4b21e3",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/erikahesseisstadion/4adcda92f964a520ed4b21e3",
+        "address": "M\u00fcllerstr. 185",
+        "website": "http://www.erika-hess-eisstadion.de",
+        "categories": [
+          "Sports and Recreation > Skating > Skating Rink",
+          "Sports and Recreation > Hockey > Hockey Rink"
+        ],
+        "tips": [
+          "Decent ol' skool skating ring!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Sports and Recreation",
+        "topic": "Skating Rink"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.369338848280524,
+          52.53747844037617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TUMO Berlin",
+        "id": "609a94cd89850158e4facb3f",
+        "list_id": "5bc9d628c0cacb002ccb4946",
+        "list_name": "Berlin mit Kindern",
+        "url": "https://app.foursquare.com/v/tumo-berlin/609a94cd89850158e4facb3f",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Community and Government > Education"
+        ],
+        "tips": [
+          "Why Armenia?"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.302463,
+          52.511247
+        ]
+      }
+    }
+  ]
+}

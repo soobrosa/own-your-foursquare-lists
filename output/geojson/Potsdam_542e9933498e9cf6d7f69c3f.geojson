@@ -1,0 +1,1230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brauerei Meierei Potsdam",
+        "id": "4bebd83a62c0c928718de2d4",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/brauerei-meierei-potsdam/4bebd83a62c0c928718de2d4",
+        "address": "Im Neuen Garten 10",
+        "website": "http://www.meierei-potsdam.de/",
+        "categories": [
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.069849169201593,
+          52.42200874796419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orangerieschloss",
+        "id": "4bf7e44a4a67c928a64b24cf",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/orangerieschloss/4bf7e44a4a67c928a64b24cf",
+        "address": "An der Orangerie 3 - 5",
+        "website": "http://www.spsg.de/schloesser-gaerten/objekt/orangerieschloss/",
+        "categories": [
+          "Landmarks and Outdoors > Palace",
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03003191947937,
+          52.40514838337019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hafthorn",
+        "id": "4b0e814ef964a520215823e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/hafthorn/4b0e814ef964a520215823e3",
+        "address": "Friedrich-Ebert-Str. 90",
+        "website": "http://www.hafthorn.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.057659700997599,
+          52.402139678840726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chi Keng",
+        "id": "50fc4ad9e4b0b77712f77b6c",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/chi-keng/50fc4ad9e4b0b77712f77b6c",
+        "address": "Luisenplatz 3",
+        "website": "http://www.chikeng.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Sushi Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sushi Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04673135280609,
+          52.399931404199144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Sanssouci",
+        "id": "4bf7d52a8d30d13ae690ff17",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/park-sanssouci/4bf7d52a8d30d13ae690ff17",
+        "address": "Schopenhauerstr.",
+        "website": "http://www.spsg.de/schloesser-gaerten/objekt/park-sanssouci",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Sculpture Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.028368949890137,
+          52.402523606466104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Madeleine",
+        "id": "4bb9fa8d3db7b713ebb9229a",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/la-madeleine/4bb9fa8d3db7b713ebb9229a",
+        "address": "Lindenstr. 9",
+        "website": "http://www.creperie-potsdam.de",
+        "categories": [
+          "Dining and Drinking > Creperie"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Creperie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.051950588942427,
+          52.40117007482307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanuscheune",
+        "id": "5319c968498efcbaeafe5c9f",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/kanuscheune/5319c968498efcbaeafe5c9f",
+        "address": "Am Luftschiffhafen 2",
+        "website": "http://www.kanuscheune-potsdam.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.020335941569149,
+          52.37955929820215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandbar",
+        "id": "4bd4376a41b9ef3b3c9501e6",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/sandbar/4bd4376a41b9ef3b3c9501e6",
+        "address": "Breite Strasse 24",
+        "website": "http://www.seerose-potsdam.de",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.046339222609395,
+          52.39582328025616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Braumanufaktur Forsthaus Templin",
+        "id": "4bb0c652f964a520be5b3ce3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/braumanufaktur-forsthaus-templin/4bb0c652f964a520be5b3ce3",
+        "address": "Templiner Str. 102",
+        "website": "http://www.braumanufaktur.de/",
+        "categories": [
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.023581165778454,
+          52.359388890476765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eis-Manufaktur",
+        "id": "4c73f9f866be6dcbf35fbc0f",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/eismanufaktur/4c73f9f866be6dcbf35fbc0f",
+        "address": "Brandenburger Str. 67",
+        "website": "http://www.potsdam-abc.de/verzeichnis/visitenkarte.php?mandat=17437",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04931959621835,
+          52.399843019227525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "good dEATs",
+        "id": "51a86d6750190081eacd9ab4",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/good-deats/51a86d6750190081eacd9ab4",
+        "address": "Kurf\u00fcrstenstr. 9",
+        "website": "http://gooddeats.com",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.059964624222925,
+          52.40373550029048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanssouci Palace (Schloss Sanssouci)",
+        "id": "4b77fbf9f964a520f7b02ee3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/schloss-sanssouci/4b77fbf9f964a520f7b02ee3",
+        "address": "Maulbeerallee",
+        "website": "http://www.spsg.de/schloss-sanssouci",
+        "categories": [
+          "Landmarks and Outdoors > Palace",
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.038454055786133,
+          52.404081472942245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pfeffer und Salz",
+        "id": "4b97d0b2f964a520621735e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/pfeffer-und-salz/4b97d0b2f964a520621735e3",
+        "address": "Brandenburger Str. 47",
+        "website": "http://www.pfefferundsalz-potsdam.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.056428767663455,
+          52.40075114010457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Palace (Neues Palais)",
+        "id": "4bb8d352cf2fc9b6a8e69f02",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/neues-palais/4bb8d352cf2fc9b6a8e69f02",
+        "address": "Am Neuen Palais",
+        "website": "http://www.spsg.de/schloesser-gaerten/objekt/neues-palais/",
+        "categories": [
+          "Landmarks and Outdoors > Palace",
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.015832304954529,
+          52.40140753804857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piazza Toscana",
+        "id": "4ca77c47f47ea143c0386b21",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/piazza-toscana/4ca77c47f47ea143c0386b21",
+        "address": "Rudolf-Breitscheid-Str. 177",
+        "website": "http://www.piazza-toscana.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.122139463530516,
+          52.394655251149224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mea culpa",
+        "id": "4b87b4e1f964a5200cc831e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/mea-culpa/4b87b4e1f964a5200cc831e3",
+        "address": "Dortustr. 1",
+        "website": "http://www.meaculpa-potsdam.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant",
+          "Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Spanish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.053751002403454,
+          52.40254469058369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garage du Pont",
+        "id": "4f9e7240e4b0d04dc2035ff8",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/garage-du-pont/4f9e7240e4b0d04dc2035ff8",
+        "address": "Berliner Str. 88",
+        "website": "https://garagedupont.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > French Restaurant",
+          "Business and Professional Services > Event Space"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "French Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.085891604423523,
+          52.412821155583046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Babelsberg",
+        "id": "4b62e5dcf964a520d4572ae3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/park-babelsberg/4b62e5dcf964a520d4572ae3",
+        "address": "Allee nach Glienicke",
+        "website": "http://www.spsg.de/schloesser-gaerten/objekt/park-babelsberg",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.090403079986572,
+          52.40410765510206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waikiki Burger",
+        "id": "50366e5ee4b0cf4240da4f41",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/waikiki-burger/50366e5ee4b0cf4240da4f41",
+        "address": "Dortustr. 62",
+        "website": "http://waikiki-burger.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.053889358206169,
+          52.400840665963784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Augustiner",
+        "id": "529e2aca11d2cfc879ce9b00",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/augustiner/529e2aca11d2cfc879ce9b00",
+        "address": "Mittelstr. 18",
+        "website": "http://www.augustiner-potsdam.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.061621053541758,
+          52.40299735367511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imbiss Sanssouci",
+        "id": "4bb1d1e5f964a520a4a43ce3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/imbiss-sanssouci/4bb1d1e5f964a520a4a43ce3",
+        "address": "Rudolf-Breitscheid-Str. 47-48",
+        "website": "http://www.imbiss-sanssouci.de",
+        "categories": [
+          "Dining and Drinking > Snack Place",
+          "Dining and Drinking > Restaurant > Kebab Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Snack Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.094566201536994,
+          52.391796281862284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00fcrgershof",
+        "id": "4b9d11daf964a520e78c36e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/b%C3%BCrgershof/4b9d11daf964a520e78c36e3",
+        "address": "Waldm\u00fcllerstr. 4",
+        "website": "http://www.buergershof.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.100162343242436,
+          52.40958397601146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bistro Tasty",
+        "id": "4b598d5df964a520338c28e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/bistro-tasty/4b598d5df964a520338c28e3",
+        "address": "August-Bebel-Str. 26-53",
+        "website": "http://www.tasty-babelsberg.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.121071985399343,
+          52.38798657377946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DJH Jugendherberge Potsdam - Haus der Jugend",
+        "id": "4f414b04e4b024a96a420136",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/djh-jugendherberge-potsdam--haus-der-jugend/4f414b04e4b024a96a420136",
+        "address": "Schulstr. 9",
+        "website": "http://www.jh-potsdam.de/",
+        "categories": [
+          "Travel and Transportation > Lodging > Hostel"
+        ],
+        "tips": [
+          "Nice family-friendly hostel. A reasonable priced alternative for staying in Potsdam."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.092076438849851,
+          52.39063013151101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katjes Werksverkauf & Gl\u00e4serne Bonbonfabrik",
+        "id": "4c3724461e06d13af654753e",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/katjes-werksverkauf--gl%C3%A4serne-bonbonfabrik/4c3724461e06d13af654753e",
+        "address": "Wetzlarer Str. 96-106",
+        "website": "http://www.katjes-shops.de/potsdam/",
+        "categories": [
+          "Business and Professional Services > Factory",
+          "Retail > Food and Beverage Retail > Candy Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.11706581587529,
+          52.37866139257612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz Plantagenplatz",
+        "id": "4c5ed7fd6147be9a88cd9509",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/spielplatz-plantagenplatz/4c5ed7fd6147be9a88cd9509",
+        "address": "Plantagenplatz",
+        "website": "http://www.nextbike.de/potsdam.html",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.102141012161303,
+          52.39399097886727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gleis 6",
+        "id": "4b744373f964a520edd02de3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/gleis-6/4b744373f964a520edd02de3",
+        "address": "Karl-Liebknecht-Str. 4",
+        "website": "http://www.gleis-6.de",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.091497680666274,
+          52.3913995236997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burgerb\u00fcro",
+        "id": "50d62460e4b05cc5d8b70f88",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/burgerb%C3%BCro/50d62460e4b05cc5d8b70f88",
+        "address": "Rudolf-Breitscheid-Str. 47/48",
+        "website": "http://www.redo-burgerb\u00fcro.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [
+          "Decent burger - the kid burger is the same size as the adult ones."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.094660947871354,
+          52.39190308390779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weberplatz",
+        "id": "4c2f823b213c2d7f6afa305d",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/weberplatz/4c2f823b213c2d7f6afa305d",
+        "address": "Weberplatz",
+        "website": "http://www.potsdam.de/cms/beitrag/10000482/34754",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.095196040140804,
+          52.3935998965489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karli Gem\u00fcse Kebap",
+        "id": "531a4b5c498e6f1521905ec5",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/karli-gem%C3%BCse-kebap/531a4b5c498e6f1521905ec5",
+        "address": "Rudolf-Breitscheid-Str. 52",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Falafel Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Falafel Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.095538991249317,
+          52.39190853746971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freundschaftsinsel",
+        "id": "4af58bf4f964a520c6f921e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/freundschaftsinsel/4af58bf4f964a520c6f921e3",
+        "address": "Lange Br\u00fccke",
+        "website": "http://www.potsdam.de/cms/beitrag/10000152/34064",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Island"
+        ],
+        "tips": [
+          "Nice gardens."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.064868450164795,
+          52.39496913772163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz auf der Freundschaftsinsel",
+        "id": "4f967acde4b0d010ab7669ae",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/spielplatz-auf-der-freundschaftsinsel/4f967acde4b0d010ab7669ae",
+        "address": "Freundschaftsinsel, 14467 Potsdam, Germany",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [
+          "Nice spielplatz with a ship theme."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.06707675066418,
+          52.39591881817765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biosph\u00e4re Potsdam",
+        "id": "4bb9c61f3db7b713337f229a",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/biosph%C3%A4re-potsdam/4bb9c61f3db7b713337f229a",
+        "address": "Georg-Hermann-Allee 99",
+        "website": "https://www.biosphaere-potsdam.de",
+        "categories": [
+          "Landmarks and Outdoors > Botanical Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Botanical Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0498999,
+          52.41872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Filmpark Babelsberg",
+        "id": "4adcda7df964a520724721e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/filmpark-babelsberg/4adcda7df964a520724721e3",
+        "address": "August-Bebel-Str. 26-53",
+        "website": "https://www.filmpark-babelsberg.de",
+        "categories": [
+          "Arts and Entertainment > Amusement Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Amusement Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.116109371185303,
+          52.3863918734822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Drachenhaus",
+        "id": "4c139c4ca1010f4755da4a18",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/restaurant-drachenhaus/4c139c4ca1010f4755da4a18",
+        "address": "Maulbeerallee 4",
+        "website": "https://www.drachenhaus.de",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0215254,
+          52.4062299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heiliger See",
+        "id": "4c0a5394009a0f476c24e9bf",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/heiliger-see/4c0a5394009a0f476c24e9bf",
+        "address": "Heiliger See",
+        "website": "http://de.wikipedia.org/wiki/Heiliger_See_%28Potsdam%29",
+        "categories": [
+          "Landmarks and Outdoors > Lake"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.071885108947754,
+          52.412917069571556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peacock Island (Pfaueninsel)",
+        "id": "4af4b857f964a52062f521e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/pfaueninsel/4af4b857f964a52062f521e3",
+        "address": "Pfaueninselchaussee 1",
+        "website": "http://de.wikipedia.org/wiki/Pfaueninsel",
+        "categories": [
+          "Landmarks and Outdoors > Island",
+          "Landmarks and Outdoors > Nature Preserve"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.129563331604002,
+          52.435161842285325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neuer Garten",
+        "id": "4c87381cfc95bfb710a32320",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/neuer-garten/4c87381cfc95bfb710a32320",
+        "address": "Am Neuen Garten",
+        "website": "http://de.wikipedia.org/wiki/neuer_garten_potsdam",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.070511817932129,
+          52.416437725266114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brandenburger Stra\u00dfe",
+        "id": "4ba6088bf964a520622f39e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/brandenburger-stra%C3%9Fe/4ba6088bf964a520622f39e3",
+        "address": "Brandenburger Str.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Pedestrian Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Pedestrian Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.055491447448729,
+          52.400460207825034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schloss Charlottenhof",
+        "id": "4bdaab222a3a0f471ba4abb6",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/schloss-charlottenhof/4bdaab222a3a0f471ba4abb6",
+        "address": "Geschwister-Scholl-Str. 34a",
+        "website": "http://www.spsg.de/schloesser-gaerten/objekt/schloss-charlottenhof/",
+        "categories": [
+          "Landmarks and Outdoors > Palace"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.026099859068683,
+          52.39564747590975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krongut Bornstedt",
+        "id": "4be8330bc5220f47e46ba9ca",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/krongut-bornstedt/4be8330bc5220f47e46ba9ca",
+        "address": "Ribbeckstr. 6",
+        "website": "http://www.krongut-bornstedt.de",
+        "categories": [
+          "Business and Professional Services > Event Space",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Event Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03070788584416,
+          52.40845407633509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westkurve",
+        "id": "4bc1a68b74a9a593921ed2f6",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/westkurve/4bc1a68b74a9a593921ed2f6",
+        "address": "Hans-Sachs-Str.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.030119186285917,
+          52.395136465647774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naturkundemuseum Potsdam",
+        "id": "4db938090437609120fcbbc0",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/naturkundemuseum-potsdam/4db938090437609120fcbbc0",
+        "address": "Breite Str. 13",
+        "website": "http://www.potsdam.de/cms/beitrag/10000217/34694/",
+        "categories": [
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.050720800826072,
+          52.395952544871506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wirtshaus Moorlake",
+        "id": "4c4c6f97bad7a5934a8944ad",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/wirtshaus-moorlake/4c4c6f97bad7a5934a8944ad",
+        "address": "Nikolskoer Weg 14",
+        "website": "http://www.moorlake.de/",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.11229400561305,
+          52.42184300581652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S\u00f6hnel Werft",
+        "id": "4bf5574acad2c9287be79c99",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/s%C3%B6hnel-werft/4bf5574acad2c9287be79c99",
+        "address": "Neue Kreisstr. 50",
+        "website": "http://www.soehnel-manufaktur.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14164382660856,
+          52.4008776013152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fischerh\u00fctte am Schlachtensee",
+        "id": "4adcda78f964a5206a4621e3",
+        "list_id": "542e9933498e9cf6d7f69c3f",
+        "list_name": "Potsdam",
+        "url": "https://app.foursquare.com/v/fischerh%C3%BCtte-am-schlachtensee/4adcda78f964a5206a4621e3",
+        "address": "Fischerh\u00fcttenstr. 136",
+        "website": "https://www.fischerhuette-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.227651715278625,
+          52.44512255216823
+        ]
+      }
+    }
+  ]
+}

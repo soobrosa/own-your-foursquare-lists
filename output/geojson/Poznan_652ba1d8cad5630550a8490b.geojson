@@ -1,0 +1,1798 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of Applied Arts",
+        "id": "37aa07bdbfd342f7e71ed98f",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/museum-of-applied-arts/37aa07bdbfd342f7e71ed98f",
+        "address": "G\u00f3ra Przemys\u0142awa 1",
+        "website": "",
+        "categories": [],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "",
+        "topic": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93106283901151,
+          52.409285763852566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homewell Boutique Apartments Stare Miasto",
+        "id": "bd735160932541b5c5b484fb",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/homewell-boutique-apartments-stare-miasto/bd735160932541b5c5b484fb",
+        "address": "Tylne Chwaliszewo 25, Poznan, 61-103, Greater Poland",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Lodging > Vacation Rental"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Vacation Rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.94344722998446,
+          52.408505031106365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Czerwona Papryka",
+        "id": "509e657ce4b0642592bb5af3",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/czerwona-papryka/509e657ce4b0642592bb5af3",
+        "address": "Stary Rynek 49",
+        "website": "http://www.czerwonapapryka.com.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant",
+          "Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Spanish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93404435975364,
+          52.40785124548188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schaboszczak od Dziadka",
+        "id": "52419339498ed139cbcfa0da",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/schaboszczak-od-dziadka/52419339498ed139cbcfa0da",
+        "address": "7 Szkolna",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant",
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93180386838463,
+          52.406631105194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WYPAS",
+        "id": "533a9a46498e636306d24cb6",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/wypas/533a9a46498e636306d24cb6",
+        "address": "Jackowskiego 38",
+        "website": "http://www.wegewypas.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vegan and Vegetarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.897237181001362,
+          52.409955559202345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kraszkebab",
+        "id": "4f313987e4b08a0e6d4252f1",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/kraszkebab/4f313987e4b08a0e6d4252f1",
+        "address": "Kraszewskiego 9B",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Turkish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Turkish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.902848347153963,
+          52.410938298732795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmiarnia Pozna\u0144ska",
+        "id": "4bd40de9046076b06e527771",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/palmiarnia-pozna%C5%84ska/4bd40de9046076b06e527771",
+        "address": "Matejki 18",
+        "website": "http://www.palmiarnia.poznan.pl",
+        "categories": [
+          "Landmarks and Outdoors > Garden"
+        ],
+        "tips": [
+          "Great place, good museum shop!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.901001298684506,
+          52.4017610726449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bo. Pozna\u0144",
+        "id": "5546009c498e23f74f41f5ae",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/bo-pozna%C5%84/5546009c498e23f74f41f5ae",
+        "address": "Ko\u015bciuszki 84",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Breakfast Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.919756901187533,
+          52.4085395359556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cacao Republika",
+        "id": "4baddcbbf964a5202a6e3be3",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/cacao-republika/4baddcbbf964a5202a6e3be3",
+        "address": "Zamkowa 7",
+        "website": "http://republikaroz.pl/cacao-republika",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Great selection, kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93229286221768,
+          52.40905034299565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piece of Cake",
+        "id": "4ebd0474a17cb9b559c6f828",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/piece-of-cake/4ebd0474a17cb9b559c6f828",
+        "address": "\u015aw. Wojciech 27",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.932455956821574,
+          52.41215764853938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taczaka 20",
+        "id": "4ed4fe226c2528aaae3d768d",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/taczaka-20/4ed4fe226c2528aaae3d768d",
+        "address": "Taczaka 20",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Snack Place",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.923102029904406,
+          52.405366279763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lodziarnia Kolorowa",
+        "id": "53ca509d498e62e51706efc0",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/lodziarnia-kolorowa/53ca509d498e62e51706efc0",
+        "address": "27 Grudnia 21",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.921818,
+          52.408028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KontenerART",
+        "id": "4c0adf0d340720a13c448793",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/kontenerart/4c0adf0d340720a13c448793",
+        "address": "Ewangelicka",
+        "website": "http://www.kontenerart.pl",
+        "categories": [
+          "Arts and Entertainment > Night Club",
+          "Dining and Drinking > Bar > Dive Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Night Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.944995162240403,
+          52.405838466438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brisman Kawowy Bar",
+        "id": "5048b7a3e4b0fd6dcf109b12",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/brisman-kawowy-bar/5048b7a3e4b0fd6dcf109b12",
+        "address": "Mickiewicza 20",
+        "website": "http://kawowybar.brisman.pl",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.911711633948283,
+          52.41121336695361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u015awietlica",
+        "id": "50be381ae4b024d48fc1014c",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/%C5%9Bwietlica/50be381ae4b024d48fc1014c",
+        "address": "\u015aw. Marcin 80/82",
+        "website": "http://www.swietlica.eu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.919274057616075,
+          52.40775324509334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falla",
+        "id": "56bb37f6498e380625a5f341",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/falla/56bb37f6498e380625a5f341",
+        "address": "Wawrzyniaka 20",
+        "website": "http://fallawege.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Falafel Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Falafel Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.899392766827216,
+          52.411437060639095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uno Espresso",
+        "id": "4e89800330f81cf81c6d7c99",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/uno-espresso/4e89800330f81cf81c6d7c99",
+        "address": "Prusa 4/2",
+        "website": "http://www.unoespresso.pl",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904160251386926,
+          52.41062544438671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warzywniak",
+        "id": "54b95cd8498e3c65ba86b0b8",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/warzywniak/54b95cd8498e3c65ba86b0b8",
+        "address": "\u017bydowska",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Breakfast Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.934858285160804,
+          52.40985738545693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cukier Puder",
+        "id": "56d2fa27cd1001f24353e6a2",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/cukier-puder/56d2fa27cd1001f24353e6a2",
+        "address": "S\u0142owackiego 18/1",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.91000923262272,
+          52.4104028450169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park So\u0142acki",
+        "id": "4ca8673aa6e08cfa39b38e94",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/park-so%C5%82acki/4ca8673aa6e08cfa39b38e94",
+        "address": "Ma\u0142opolska",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.902422904968258,
+          52.42233975530592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cytadela",
+        "id": "4c013b44d715c92886bdfce3",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/cytadela/4c013b44d715c92886bdfce3",
+        "address": "al. Armii Pozna\u0144",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93624,
+          52.421293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centrum Kultury \u201eZamek\u201d",
+        "id": "4bff88fbca1920a116ecec81",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/centrum-kultury-zamek/4bff88fbca1920a116ecec81",
+        "address": "\u015awi\u0119ty Marcin 80/82",
+        "website": "http://www.zamek.poznan.pl",
+        "categories": [
+          "Community and Government > Cultural Center"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Cultural Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.919260361965545,
+          52.4078261042144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Na Winklu",
+        "id": "54b426e8498eb13db4637e52",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/na-winklu/54b426e8498eb13db4637e52",
+        "address": "\u015ar\u00f3dka 1",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.95319085423139,
+          52.41132992291218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WHY THAI food&wine",
+        "id": "5456559a498e3279f628b5bc",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/why-thai-foodwine/5456559a498e3279f628b5bc",
+        "address": "Kramarska 7",
+        "website": "http://www.whythai.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9340383432148,
+          52.409225914627626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Termy Malta\u0144skie",
+        "id": "4e78c28452b19ee4c84609e3",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/termy-malta%C5%84skie/4e78c28452b19ee4c84609e3",
+        "address": "Termalna 1",
+        "website": "http://www.termymaltanskie.com.pl",
+        "categories": [
+          "Arts and Entertainment > Water Park",
+          "Sports and Recreation > Gym and Studio > Gym Pool"
+        ],
+        "tips": [
+          "Absolutely recommendable water park, even in winter -- come on a weekday."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Water Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.97481672189567,
+          52.40551595377802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stary Browar",
+        "id": "4b45118df964a520520326e3",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/stary-browar/4b45118df964a520520326e3",
+        "address": "P\u00f3\u0142wiejska 32",
+        "website": "http://www.starybrowar5050.com",
+        "categories": [
+          "Retail > Shopping Mall"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Shopping Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.926627159118652,
+          52.40197375810535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nowe Zoo",
+        "id": "4c5a7e28f346c92879284fca",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/nowe-zoo/4c5a7e28f346c92879284fca",
+        "address": "Kra\u0144cowa 81",
+        "website": "http://www.zoo.poznan.pl",
+        "categories": [
+          "Arts and Entertainment > Zoo"
+        ],
+        "tips": [
+          "Really big, good zoo. On a random weekday very few kiosks are open for food or drink."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.99527491928056,
+          52.40037749779252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stare Zoo",
+        "id": "4d720a95ff6ba35dbb15688a",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/stare-zoo/4d720a95ff6ba35dbb15688a",
+        "address": "Zwierzyniecka 9",
+        "website": "http://www.zoo.poznan.pl",
+        "categories": [
+          "Arts and Entertainment > Zoo",
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.90680347700989,
+          52.40811499515365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brama Poznania ICHOT",
+        "id": "53393528498ec25d4937c873",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/brama-poznania-ichot/53393528498ec25d4937c873",
+        "address": "Gda\u0144ska 2",
+        "website": "http://www.bramapoznania.pl",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.95149829523899,
+          52.41232955963874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ostr\u00f3w Tumski",
+        "id": "4e38504ec65bf39cbb37741f",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/ostr%C3%B3w-tumski/4e38504ec65bf39cbb37741f",
+        "address": "Ostr\u00f3w Tumski",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Island",
+          "Landmarks and Outdoors > Other Great Outdoors",
+          "Landmarks and Outdoors > States and Municipalities > Neighborhood"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.948299407958984,
+          52.41069197493566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restauracja Papier\u00f3wka",
+        "id": "53c17914498e4340418c651c",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/restauracja-papier%C3%B3wka/53c17914498e4340418c651c",
+        "address": "Zielona 8",
+        "website": "http://restauracjapapierowka.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.934881,
+          52.404068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzeum Narodowe",
+        "id": "4c3da988b36ac9285dae0586",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/muzeum-narodowe/4c3da988b36ac9285dae0586",
+        "address": "al. Marcinkowskiego 9",
+        "website": "http://www.mnp.art.pl",
+        "categories": [
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.929663,
+          52.409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzeum Historii Miasta Pozna\u0144",
+        "id": "4e42545d7d8bec1e4d15a1d5",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/muzeum-historii-miasta-pozna%C5%84/4e42545d7d8bec1e4d15a1d5",
+        "address": "Stary Rynek 1",
+        "website": "http://www.mnp.art.pl/oddzialy/muzeum-historii-miasta-poznania",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93413529404569,
+          52.408409675437674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzeum Archeologiczne",
+        "id": "4d2f61dcf58b6a31cba9ad6c",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/muzeum-archeologiczne/4d2f61dcf58b6a31cba9ad6c",
+        "address": "Wodna 27",
+        "website": "http://www.muzarp.poznan.pl",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.934760209296797,
+          52.40737895663239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plac Wielkopolski",
+        "id": "4cc0b922aa5776b0987f7544",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/plac-wielkopolski/4cc0b922aa5776b0987f7544",
+        "address": "pl. Wielkopolski",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Farmers Market",
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93105148978884,
+          52.41038483045768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stary Rynek",
+        "id": "4b6fecaff964a52035002de3",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/stary-rynek/4b6fecaff964a52035002de3",
+        "address": "Stary Rynek",
+        "website": "http://www.poznan.pl",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93345069885254,
+          52.40821806147404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krecik",
+        "id": "4dca2a0d887769ff3d48d822",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/krecik/4dca2a0d887769ff3d48d822",
+        "address": "Garbary 68",
+        "website": "http://www.krecikpolska.pl/o-nas.html",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.938378998319997,
+          52.40880385725528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YetzTu",
+        "id": "51d1bf34498e864b9ebebad9",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/yetztu/51d1bf34498e864b9ebebad9",
+        "address": "Krysiewicza 6",
+        "website": "http://www.yetztu.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Ramen Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ramen Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.92935083957216,
+          52.403991374551445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Covrig - prosto z pieca!",
+        "id": "55d74748498e1979b3c5cc81",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/covrig--prosto-z-pieca/55d74748498e1979b3c5cc81",
+        "address": "P\u00f3\u0142wiejska 27",
+        "website": "http://www.covrig.pl",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.929404043656636,
+          52.40221223845237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piero\u017cak",
+        "id": "5aa7be9bc8b2fb4434dcb423",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/piero%C5%BCak/5aa7be9bc8b2fb4434dcb423",
+        "address": "P\u00f3\u0142wiejska 10",
+        "website": "http://www.pierozak.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant",
+          "Dining and Drinking > Restaurant > Dumpling Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.930202356824637,
+          52.403752544615195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ming Wok",
+        "id": "5740bde6498e60c1cc832d36",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/ming-wok/5740bde6498e60c1cc832d36",
+        "address": "Ratajczaka 18",
+        "website": "http://www.mingwok.eu/poznan1",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.92495780512395,
+          52.40490425485159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piero\u017cek i Kompocik",
+        "id": "53ce6f19498e1ba03f2997ca",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/piero%C5%BCek-i-kompocik/53ce6f19498e1ba03f2997ca",
+        "address": "Ul. Rybaki 22",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant",
+          "Dining and Drinking > Restaurant > Dumpling Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.930143461051696,
+          52.40183085520072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u0141apu Papu Baguette",
+        "id": "52ff4a8211d2e6ec49cd5c6d",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/%C5%82apu-papu-baguette/52ff4a8211d2e6ec49cd5c6d",
+        "address": "Kwiatowa 1",
+        "website": "http://www.lapupapu.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.92981155535667,
+          52.40262899365439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma\u0142y Smok",
+        "id": "57dbd37f498e779b7d2ac4dc",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/ma%C5%82y-smok/57dbd37f498e779b7d2ac4dc",
+        "address": "Zielona 5/3",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.936189551883942,
+          52.404290686157324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Para Bar",
+        "id": "55d867a7498e90b4dd34afe9",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/para-bar/55d867a7498e90b4dd34afe9",
+        "address": "Ko\u015bciuszki 70",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Dim Sum Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dim Sum Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.920181146521053,
+          52.40612069298477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tutti Santi",
+        "id": "555ef93b498e7ac837b20574",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/tutti-santi/555ef93b498e7ac837b20574",
+        "address": "Ogrodowa 10",
+        "website": "http://www.tuttisanti.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.925154872263867,
+          52.40382897093692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar-a-Boo",
+        "id": "4f1094a9e4b0380201bcbffc",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/baraboo/4f1094a9e4b0380201bcbffc",
+        "address": "Taczaka 11/2",
+        "website": "http://www.baraboo.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9203401004451,
+          52.4058312290759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dmuchawce",
+        "id": "5af9d26c22d490002cee449f",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/dmuchawce/5af9d26c22d490002cee449f",
+        "address": "Wenecja\u0144ska 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [
+          "Okay food reasonable priced. Don't expect Italian, especially when it comes to spices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.94052503064099,
+          52.408516241287046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Posnania",
+        "id": "53d1586a498e5d6241d29996",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/posnania/53d1586a498e5d6241d29996",
+        "address": "Pleszewska 1",
+        "website": "https://posnania.eu",
+        "categories": [
+          "Retail > Shopping Mall"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Shopping Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.955273151397705,
+          52.396461804260575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avenida",
+        "id": "4fc6f18fe4b0b4c8bc586e30",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/avenida/4fc6f18fe4b0b4c8bc586e30",
+        "address": "Matyi 2",
+        "website": "http://avenidapoznan.com",
+        "categories": [
+          "Retail > Shopping Mall"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Shopping Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.91406623,
+          52.40200111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lavenda Gastro&Cafe",
+        "id": "4e466aba45dd2955e5969cbf",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/lavenda-gastrocafe/4e466aba45dd2955e5969cbf",
+        "address": "Wodna 3/4, 61-781 Pozna\u0144",
+        "website": "http://www.lavenda-cafelunch.pl",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.935506622421055,
+          52.40747672104933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brovaria",
+        "id": "4b59cfbaf964a5206c9928e3",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/brovaria/4b59cfbaf964a5206c9928e3",
+        "address": "Stary Rynek 73-74",
+        "website": "http://www.brovaria.pl",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel",
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Brewery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.932348310947418,
+          52.40803971182152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pozna\u0144 G\u0142\u00f3wny",
+        "id": "4c08afff7e3fc928c1bef082",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/pozna%C5%84-g%C5%82%C3%B3wny/4c08afff7e3fc928c1bef082",
+        "address": "Dworcowa 1",
+        "website": "http://www.poznan.pl",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Rail Station"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Rail Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.912149935050827,
+          52.40237730374554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiejskie Jad\u0142o",
+        "id": "4c9260f2238c6dcb3907c855",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/wiejskie-jad%C5%82o/4c9260f2238c6dcb3907c855",
+        "address": "Stary Rynek",
+        "website": "http://www.wiejskie-jadlo.pl/?p=english",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.932232,
+          52.408361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapas Bar",
+        "id": "4ba4d026f964a5204fb738e3",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/tapas-bar/4ba4d026f964a5204fb738e3",
+        "address": "Stary Rynek 60",
+        "website": "http://www.tapas.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Spanish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.933504135202156,
+          52.407542339498185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar mleczny Apetyt",
+        "id": "4d975db0af3d236a2dae21c7",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/bar-mleczny-apetyt/4d975db0af3d236a2dae21c7",
+        "address": "ul. Szkolna 4",
+        "website": "http://www.spolem-gss.com.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner",
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant",
+          "Dining and Drinking > Restaurant > Soup Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.932148553232928,
+          52.407500564186655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ludwiku do Rondla",
+        "id": "4fb38ce7e4b030072b71fa57",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/ludwiku-do-rondla/4fb38ce7e4b030072b71fa57",
+        "address": "Wo\u017ana 2/3",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant",
+          "Dining and Drinking > Restaurant > Jewish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93547347952643,
+          52.4081081930591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Wegetaria\u0144ski Chwirot",
+        "id": "52d3f7ff498e2ed40116d074",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/bar-wegetaria%C5%84ski-chwirot/52d3f7ff498e2ed40116d074",
+        "address": "ul. Rybaki 10",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vegan and Vegetarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.930917102885537,
+          52.40220837629699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bazylika Archikatedralna \u015aw. Aposto\u0142\u00f3w Piotra i Paw\u0142a (Katedra Pozna\u0144ska)",
+        "id": "4c262bdaa852c9288b15e66c",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/bazylika-archikatedralna-%C5%9Bw-aposto%C5%82%C3%B3w-piotra-i-paw%C5%82a-katedra-pozna%C5%84ska/4c262bdaa852c9288b15e66c",
+        "address": "Ostr\u00f3w Tumski",
+        "website": "http://www.katedra.archpoznan.pl",
+        "categories": [
+          "Community and Government > Spiritual Center > Church",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.947893912303343,
+          52.41128937081174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hy\u0107ka",
+        "id": "54314fe0498e62837fe3e4c4",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/hy%C4%87ka/54314fe0498e62837fe3e4c4",
+        "address": "Rynek Srodecki 17, Poznan",
+        "website": "http://www.hycka.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.95476456999543,
+          52.41097400180583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ichiban Ramen Shop",
+        "id": "628901227123873770690a01",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/ichiban-ramen-shop/628901227123873770690a01",
+        "address": "Wo\u017ana 18",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Ramen Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [
+          "Pretty good ramen, decent portions, reasonable prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ramen Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9366276660888,
+          52.40784061595209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RESTAURACJA ZWIERZYNIEC",
+        "id": "64fdb7f150ed483fa34ece17",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/restauracja-zwierzyniec/64fdb7f150ed483fa34ece17",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.90733162596402,
+          52.408765198783904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinkalnya",
+        "id": "5cd989912d2fd900392f92b0",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/chinkalnya/5cd989912d2fd900392f92b0",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Caucasian Restaurant",
+          "Dining and Drinking > Restaurant > Dumpling Restaurant"
+        ],
+        "tips": [
+          "It's a chain but pretty good food, kind service, enormous portions."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caucasian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93530397105017,
+          52.40865867902162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croissant Museum of Poznan (Rogalowe Muzeum Poznania)",
+        "id": "53491291498e7c630a919534",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/rogalowe-muzeum-poznania/53491291498e7c630a919534",
+        "address": "Stary Rynek 41/2",
+        "website": "http://www.rogalowemuzeum.pl",
+        "categories": [
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [
+          "Demo is funny, you might have to reserve in advance."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93515350597263,
+          52.40840145207298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of Applied Arts (Muzeum Sztuk U\u017cytkowych)",
+        "id": "61210aa1f4c5c9425bcbdebd",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/muzeum-sztuk-u%C5%BCytkowych/61210aa1f4c5c9425bcbdebd",
+        "address": "Wzg\u00f3rze Przemys\u0142a 1",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [
+          "Almost entertaining, it's okay."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.931717,
+          52.40907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taj Mahal",
+        "id": "5f1dc2bbb8441e5e1cec371b",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/taj-mahal/5f1dc2bbb8441e5e1cec371b",
+        "address": "Wielka 22",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [
+          "Okay food, okay service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.936382,
+          52.408554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "yatta.pl",
+        "id": "55116aa9498e241b1fba2432",
+        "list_id": "652ba1d8cad5630550a8490b",
+        "list_name": "Poznan",
+        "url": "https://app.foursquare.com/v/yattapl/55116aa9498e241b1fba2432",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Comic Book Store"
+        ],
+        "tips": [
+          "Bloke at counter spoke Hungarian LOL"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Comic Book Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.935805349213418,
+          52.40731010405902
+        ]
+      }
+    }
+  ]
+}

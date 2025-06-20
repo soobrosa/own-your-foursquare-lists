@@ -1,0 +1,300 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bacalhau Na Villa Sintra",
+        "id": "597cd58e340a5810be79b161",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/bacalhau-na-villa-sintra/597cd58e340a5810be79b161",
+        "address": "Arco Do Terreirinho 3",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.390355781443237,
+          38.79638596223464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tascantiga",
+        "id": "57790797498e1059e6e6c3b4",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/tascantiga/57790797498e1059e6e6c3b4",
+        "address": "Escadinhas da Fonte da Pipa 2, 2710-557 Sintra, Portugal",
+        "website": "https://www.tascantiga.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.39093840492289,
+          38.79575618437433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dom Pipas",
+        "id": "4ff03404e4b07cca83b16548",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/dom-pipas/4ff03404e4b07cca83b16548",
+        "address": "Rua Jo\u00e3o de Deus, 60",
+        "website": "http://restaurantedompipas.com.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.384215301606003,
+          38.79962404885035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Culto da Tasca",
+        "id": "4de4ec4845dd180ae5802cd3",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/culto-da-tasca/4de4ec4845dd180ae5802cd3",
+        "address": "Rua Veiga da Cunha, 6",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.381185249185407,
+          38.80405519096732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castle of the Moors (Castelo dos Mouros)",
+        "id": "4b0588a3f964a52045d122e3",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/castelo-dos-mouros/4b0588a3f964a52045d122e3",
+        "address": "Estr. da Pena",
+        "website": "https://www.parquesdesintra.pt/en/parks-and-monuments/moorish-castle/",
+        "categories": [
+          "Landmarks and Outdoors > Castle",
+          "Landmarks and Outdoors > Monument"
+        ],
+        "tips": [
+          "A freaking castle on top of a jungle. Leave your acrophobia home."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.388901148410609,
+          38.79247299791111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pal\u00e1cio Nacional de Sintra",
+        "id": "4b0588a2f964a52043d122e3",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/pal%C3%A1cio-nacional-de-sintra/4b0588a2f964a52043d122e3",
+        "address": "P\u00e7. da Rep\u00fablica",
+        "website": "http://www.parquesdesintra.pt/parques-jardins-e-monumentos/palacio-nacional-de-sintra/",
+        "categories": [
+          "Landmarks and Outdoors > Palace",
+          "Landmarks and Outdoors > Monument"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.390496264787373,
+          38.79710830188227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caf\u00e9 Saudade",
+        "id": "4c14d7d2a1010f4769fe4c18",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/caf%C3%A9-saudade/4c14d7d2a1010f4769fe4c18",
+        "address": "Av. Dr. Miguel Bombarda, 6",
+        "website": "http://saudade.pt",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.387032418745246,
+          38.79866184252993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piriquita",
+        "id": "4bdc3353c79cc928838685e9",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/piriquita/4bdc3353c79cc928838685e9",
+        "address": "R. das Padarias, 1",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Pastry Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pastry Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.390565650860543,
+          38.796712472565936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sintra",
+        "id": "4c176cefc2dfc92885f1a769",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/sintra/4c176cefc2dfc92885f1a769",
+        "address": "Vila de Sintra",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > States and Municipalities > City"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.389161369186489,
+          38.79684726503746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pena Palace (Pal\u00e1cio da Pena)",
+        "id": "4b0588a3f964a52046d122e3",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/pal%C3%A1cio-da-pena/4b0588a3f964a52046d122e3",
+        "address": "Estrada da Pena",
+        "website": "http://www.parquesdesintra.pt/parques-jardins-e-monumentos/parque-e-palacio-nacional-da-pena/",
+        "categories": [
+          "Landmarks and Outdoors > Palace",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.390422745445669,
+          38.78733485523345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria da Portela de Sintra",
+        "id": "4d03ce2c37036dcb918c0cfb",
+        "list_id": "62506384cc0314332e639285",
+        "list_name": "Sintra",
+        "url": "https://app.foursquare.com/v/esta%C3%A7%C3%A3o-ferrovi%C3%A1ria-da-portela-de-sintra/4d03ce2c37036dcb918c0cfb",
+        "address": "Largo Vasco da Gama",
+        "website": "http://cp.pt",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Rail Station",
+          "Travel and Transportation > Train"
+        ],
+        "tips": [
+          "Fuck you Portugal Train Gate System. We helped an elderly lady trapped in the gates then had to climb out with a properly purchased ticket."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Rail Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.383490912045023,
+          38.80119453159803
+        ]
+      }
+    }
+  ]
+}

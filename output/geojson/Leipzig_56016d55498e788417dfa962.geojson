@@ -1,0 +1,1340 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Substanz",
+        "id": "4bfecdd2c30a2d7fb608101d",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/substanz/4bfecdd2c30a2d7fb608101d",
+        "address": "T\u00e4ubchenweg 67",
+        "website": "https://www.substanzleipzig.de",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.402799216640247,
+          51.336289809059004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00e4ckerei & Konditorei G\u00f6becke",
+        "id": "4d6d6e68a6ff721e8dcdc320",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/b%C3%A4ckerei--konditorei-g%C3%B6becke/4d6d6e68a6ff721e8dcdc320",
+        "address": "Hans-Poeche-Str. 13",
+        "website": "http://www.baeckerei-goebecke.de",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38913204164114,
+          51.345056381680614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clara-Zetkin-Park",
+        "id": "4bcb3282b6c49c747fa49191",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/clarazetkinpark/4bcb3282b6c49c747fa49191",
+        "address": "Anton-Bruckner-Allee",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.358975410461426,
+          51.33074571053183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoo Leipzig",
+        "id": "4c6fc9e2d274b60c9482d70d",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/zoo-leipzig/4c6fc9e2d274b60c9482d70d",
+        "address": "Pfaffendorfer Str. 29",
+        "website": "https://www.zoo-leipzig.de",
+        "categories": [
+          "Arts and Entertainment > Zoo"
+        ],
+        "tips": [
+          "The best zoo I've been to and I've been to some."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.368910312652586,
+          51.35110682158728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamers",
+        "id": "4b8bf1c9f964a520e1b332e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/tamers/4b8bf1c9f964a520e1b332e3",
+        "address": "Jahnallee 31",
+        "website": "http://www.tamers-bistro.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Turkish Restaurant > Doner Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Doner Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.359152183167788,
+          51.34193570616948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosental",
+        "id": "4ba4fdacf964a52027cd38e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/rosental/4ba4fdacf964a52027cd38e3",
+        "address": "Leibnizweg",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.364232970137207,
+          51.35035398199023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Softeis Eugen Hendrich",
+        "id": "4c0b9799ffb8c9b66e706d61",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/softeis-eugen-hendrich/4c0b9799ffb8c9b66e706d61",
+        "address": "Waldstr. 38",
+        "website": "http://softeis-hendrich.de",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.358000684060757,
+          51.344617367358744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gondwanaland",
+        "id": "4c84a5ffc5a99521e3db8f05",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/gondwanaland/4c84a5ffc5a99521e3db8f05",
+        "address": "Pfaffendorfer Str. 29",
+        "website": "http://www.zoo-leipzig.de",
+        "categories": [
+          "Arts and Entertainment > Zoo > Zoo Exhibit"
+        ],
+        "tips": [
+          "A must see! The boat trip is so-so, could be tiresome for kids, you can't really skip parts of the walk, it's linear."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo Exhibit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.371227741241455,
+          51.350155318751106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kartoffelfr\u00e4ulein",
+        "id": "5173b4acc84ce4a202d12d79",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/kartoffelfr%C3%A4ulein/5173b4acc84ce4a202d12d79",
+        "address": "Karl-Heine-Str. 68",
+        "website": "http://www.kartoffelfraeulein.de",
+        "categories": [
+          "Dining and Drinking > Snack Place"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Snack Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.331691478162073,
+          51.33110572441594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johannapark",
+        "id": "4bf97ba18d30d13ad64b0218",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/johannapark/4bf97ba18d30d13ad64b0218",
+        "address": "Karl-Tauchnitz-Str.",
+        "website": "http://www.leipzig.de/freizeit-kultur-und-tourismus/parks-waelder-und-friedhoefe/parks-und-gruenanlagen/clara-zetkin-park/johannapark/",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.363202571868896,
+          51.334915179965385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to the Battle of the Nations (V\u00f6lkerschlachtdenkmal)",
+        "id": "4ba552c1f964a520b0fa38e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/v%C3%B6lkerschlachtdenkmal/4ba552c1f964a520b0fa38e3",
+        "address": "Stra\u00dfe des 18. Oktober",
+        "website": "https://www.leipzig.de/freizeit-kultur-und-tourismus/tourismus/sehenswuerdigkeiten/voelkerschlachtdenkmal/",
+        "categories": [
+          "Landmarks and Outdoors > Monument",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [
+          "Impressive. Doesn't make sense to go inside. Buy the special edition of Mosaik."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.413402795791626,
+          51.31226007248819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joseph-Pub",
+        "id": "4d9cc6bda1ec8cfaea8ff349",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/josephpub/4d9cc6bda1ec8cfaea8ff349",
+        "address": "Josephstr. 44",
+        "website": "http://www.joseph-pub.de",
+        "categories": [
+          "Dining and Drinking > Bar > Irish Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Irish Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.334947707413095,
+          51.3321533151411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marktplatz",
+        "id": "4bf2a4a355c7c9b638506204",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/marktplatz/4bf2a4a355c7c9b638506204",
+        "address": "Markt",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374609128771551,
+          51.34033849851526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maza Pita",
+        "id": "4c459ba1f0bdd13a0322cbcc",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/maza-pita/4c459ba1f0bdd13a0322cbcc",
+        "address": "K\u00f6nneritzstr. 49",
+        "website": "http://mazapita.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Falafel Restaurant",
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Falafel Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.34412493121184,
+          51.32425353118464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Handbrotzeit",
+        "id": "51e3cd828bbde0ebc2f0d32f",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/handbrotzeit/51e3cd828bbde0ebc2f0d32f",
+        "address": "Nikolaistr. 12-14",
+        "website": "http://handbrotzeit.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378237439944856,
+          51.34137912079643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiwara-Lodge",
+        "id": "4be521c02457a5935c30ab15",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/kiwaralodge/4be521c02457a5935c30ab15",
+        "address": "Pfaffendorfer Str. 29",
+        "website": "https://www.marche-movenpick.de/de/unsere-standorte/kiwara",
+        "categories": [
+          "Dining and Drinking > Restaurant > African Restaurant",
+          "Dining and Drinking > Restaurant > Buffet"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "African Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.364926262924172,
+          51.35165799387488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chang",
+        "id": "4c17b7c8fe5a76b07bf60015",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/chang/4c17b7c8fe5a76b07bf60015",
+        "address": "Gottschedstr. 18",
+        "website": "http://www.chang-leipzig.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.366956407830571,
+          51.341510513644536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinabrenner",
+        "id": "4b4e1df2f964a520cee126e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/chinabrenner/4b4e1df2f964a520cee126e3",
+        "address": "Gie\u00dferstr. 18",
+        "website": "http://www.chinabrenner.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.327488348279587,
+          51.32758666227506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weinstube Sankt Benno",
+        "id": "536d1652498ee4ea0fe0c4d0",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/weinstube-sankt-benno/536d1652498ee4ea0fe0c4d0",
+        "address": "Schletterstrasse 1",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Winery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Winery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.373879853819187,
+          51.33038153175331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Nam",
+        "id": "4bdc7ee13904a59327724e9e",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/an-nam/4bdc7ee13904a59327724e9e",
+        "address": "Gottschedstr. 13",
+        "website": "http://annam1.cafelists.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [
+          "Okay generic Vietnamese, slightly overpriced, just like being in Berlin downtown."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.367725717451501,
+          51.340848183420285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apels Garten",
+        "id": "4b93a943f964a520064c34e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/apels-garten/4b93a943f964a520064c34e3",
+        "address": "Kolonnadenstr. 2",
+        "website": "https://apels-garten.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.367812925013922,
+          51.33814288870956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Cantina",
+        "id": "4ce1a93069136dcb84c1eae6",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/la-cantina/4ce1a93069136dcb84c1eae6",
+        "address": "Karl-Heine-Str. 54",
+        "website": "http://www.lacantina-leipzig.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Tapas Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.333828439242845,
+          51.3316141522029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vietnam-Restaurant Chinco Asean",
+        "id": "4c13c875a1010f474c3b4b18",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/vietnamrestaurant-chinco-asean/4c13c875a1010f474c3b4b18",
+        "address": "Petersstr. 36-44",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.373777326578711,
+          51.337357487783216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kowalski",
+        "id": "4b97c845f964a520481535e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/kowalski/4b97c845f964a520481535e3",
+        "address": "Ferdinand-Rhode-Str. 12",
+        "website": "http://www.das-kowalski.de",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.365843666288496,
+          51.33145906680628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auerbachs Keller",
+        "id": "4b7bac0cf964a520756a2fe3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/auerbachs-keller/4b7bac0cf964a520756a2fe3",
+        "address": "Grimmaische Str. 2-4",
+        "website": "https://www.auerbachs-keller-leipzig.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375502221867151,
+          51.33955859147044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musikpavillon",
+        "id": "4bf00815c8d920a1c6549430",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/musikpavillon/4bf00815c8d920a1c6549430",
+        "address": "Anton-Bruckner-Allee 11",
+        "website": "http://www.musikpavillon-leipzig.de",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden",
+          "Arts and Entertainment > Performing Arts Venue"
+        ],
+        "tips": [
+          "Nice place to sit outside, live music."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.358759233976421,
+          51.33090867739139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rennbahn Scheibenholz",
+        "id": "4c0ac675009a0f47db0aeabf",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/rennbahn-scheibenholz/4c0ac675009a0f47db0aeabf",
+        "address": "Rennbahnweg",
+        "website": "http://www.galoppimscheibenholz.de",
+        "categories": [
+          "Sports and Recreation > Race Track > Racecourse"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Sports and Recreation",
+        "topic": "Racecourse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.357904947850832,
+          51.325934415630456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gastst\u00e4tte S\u00fcdvorstadt",
+        "id": "502e9bbae4b04d70bdfa7417",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/gastst%C3%A4tte-s%C3%BCdvorstadt/502e9bbae4b04d70bdfa7417",
+        "address": "Schleu\u00dfiger Weg 2",
+        "website": "http://www.sued-vorstadt.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [
+          "Superkind service, home cooking, small playground outside."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.358964308294578,
+          51.321149933896926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayerischer Bahnhof",
+        "id": "4b2cafe3f964a5208bc824e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/bayerischer-bahnhof/4b2cafe3f964a5208bc824e3",
+        "address": "Bayrischer Platz 1",
+        "website": "http://www.bayerischer-bahnhof.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381635074636863,
+          51.32877490555005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spinnerei",
+        "id": "4bdc25ae2a3a0f471ba1b1b6",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/spinnerei/4bdc25ae2a3a0f471ba1b1b6",
+        "address": "Spinnereistr. 7",
+        "website": "http://www.spinnerei.de",
+        "categories": [
+          "Arts and Entertainment > Art Gallery",
+          "Business and Professional Services > Event Space"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.318377494812012,
+          51.32662949582208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tacoholics",
+        "id": "4ed0fb49490168f8d077929f",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/tacoholics/4ed0fb49490168f8d077929f",
+        "address": "Karl-Heine-Str. 58b",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant > Taco Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Taco Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33298464069478,
+          51.3314013261246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felsenkeller",
+        "id": "4bf6b96b7cffc928c2babf1c",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/felsenkeller/4bf6b96b7cffc928c2babf1c",
+        "address": "Karl-Heine-Str. 32",
+        "website": "https://www.felsenkeller-leipzig.com",
+        "categories": [
+          "Business and Professional Services > Event Space",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Event Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.338405124474297,
+          51.33265216021009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kollektiv",
+        "id": "51cb47a7498e07827902de5e",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/kollektiv/51cb47a7498e07827902de5e",
+        "address": "Karl-Liebknecht-Str. 72",
+        "website": "http://www.gaststaette-kollektiv.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3732328325638,
+          51.32220043892109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kartoffelhaus No 1",
+        "id": "4ba12326f964a520669b37e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/kartoffelhaus-no-1/4ba12326f964a520669b37e3",
+        "address": "Barfu\u00dfg\u00e4\u00dfchen 12",
+        "website": "https://kartoffelhausno1-leipzig.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.372544641871437,
+          51.34106708083689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "s\u00fc\u00df + salzig",
+        "id": "4fb7d266e4b08c1790e12fde",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/s%C3%BC%C3%9F--salzig/4fb7d266e4b08c1790e12fde",
+        "address": "Merseburger Str. 44",
+        "website": "http://www.suesssalzig.de",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33285727245767,
+          51.33226213251985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lego Store",
+        "id": "526672ab498eee40f8f86115",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/lego-store/526672ab498eee40f8f86115",
+        "address": "H\u00f6fe Am Br\u00fchl, Br\u00fchl 1",
+        "website": "https://www.lego.com/de-de/stores/stores/de/leipzig?y_source=1_MTY2ODY3MjMtNDQwLWxvY2F0aW9uLndlYnNpdGU=",
+        "categories": [
+          "Retail > Toy Store"
+        ],
+        "tips": [
+          "You will stay here for a while."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Toy Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374125709403096,
+          51.34348870482692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "meins deins unser",
+        "id": "4f7590c2e4b08a9c85c26719",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/meins-deins-unser/4f7590c2e4b08a9c85c26719",
+        "address": "Wei\u00dfenfelser Str. 25",
+        "website": "http://www.meins-leipzig.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.336220787870133,
+          51.33096374385179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum in der Runden Ecke",
+        "id": "4ba6001cf964a520a92d39e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/museum-in-der-runden-ecke/4ba6001cf964a520a92d39e3",
+        "address": "Dittrichring 24",
+        "website": "http://www.runde-ecke-leipzig.de",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.370075302845327,
+          51.34183119639315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALDI NORD",
+        "id": "4e341e6ad4c0c08309532f08",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/aldi-nord/4e341e6ad4c0c08309532f08",
+        "address": "Konradstr. 27",
+        "website": "http://www.aldi-nord.de",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Discount Store"
+        ],
+        "tips": [
+          "It's not sad, but the service is meh."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.404772122122592,
+          51.34502210954967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter K.",
+        "id": "57784d91498e03e656719587",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/peter-k/57784d91498e03e656719587",
+        "address": "Ludwigstra\u00dfe 81",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.40638045228076,
+          51.34636193263862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brothers B\u00e4ckerei & Caf\u00e9",
+        "id": "562114a7498ed7b1847d7ef7",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/brothers-b%C3%A4ckerei--caf%C3%A9/562114a7498ed7b1847d7ef7",
+        "address": "Eisenbahnstr.\u00a085",
+        "website": "http://brothersbackerei.cafelists.com",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Great multifunctional space."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.40710356630326,
+          51.34564498739995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Osteria",
+        "id": "53b58c9d498eef48c8313d96",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/losteria/53b58c9d498eef48c8313d96",
+        "address": "Martin-Luther-Ring 12",
+        "website": "https://losteria.net/de/restaurants/restaurant/leipzig/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant > Trattoria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Trattoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37159007106145,
+          51.33733294882904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinas Welt \u4e5d\u5dde\u98df\u5e9c",
+        "id": "572b74c5498e53c1a5b0cdf1",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/chinas-welt-%E4%B9%9D%E5%B7%9E%E9%A3%9F%E5%BA%9C/572b74c5498e53c1a5b0cdf1",
+        "address": "Dohnanyistra\u00dfe 11",
+        "website": "https://chinaswelt.business.site",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.390005515856654,
+          51.346089322310746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bach-Museum",
+        "id": "4c273586f1272d7fe5d287c5",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/bachmuseum/4c273586f1272d7fe5d287c5",
+        "address": "Thomaskirchhof 15/16",
+        "website": "https://www.bachmuseumleipzig.de",
+        "categories": [
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.372279167175291,
+          51.338735743449874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum f\u00fcr Druckkunst Leipzig",
+        "id": "4d81efe17252a1cd773ca35d",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/museum-f%C3%BCr-druckkunst-leipzig/4d81efe17252a1cd773ca35d",
+        "address": "Nonnenstr. 38",
+        "website": "https://www.druckkunst-museum.de",
+        "categories": [
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.343498566633608,
+          51.32901923715132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grassimuseum",
+        "id": "4ba61a09f964a520a83339e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/grassimuseum/4ba61a09f964a520a83339e3",
+        "address": "Johannisplatz 5-11",
+        "website": "https://www.grassi-leipzig.de",
+        "categories": [
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38830804824829,
+          51.33731479913355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeitgeschichtliches Forum",
+        "id": "4ba5555ff964a520dffb38e3",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/zeitgeschichtliches-forum/4ba5555ff964a520dffb38e3",
+        "address": "Grimmaische Str. 6",
+        "website": "https://www.hdg.de",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375904655653413,
+          51.33963006082632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KFC",
+        "id": "4de26172e4cd056f7441d8b1",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/kfc/4de26172e4cd056f7441d8b1",
+        "address": "Willy-Brandt-Platz 7",
+        "website": "https://www.kfc.de/restaurants/alle/kfc-leipzig-leipzig-hbf/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fried Chicken Joint",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fried Chicken Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37971,
+          51.345222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bistro Syrien",
+        "id": "550db401498edf01d6271d6d",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/bistro-syrien/550db401498edf01d6271d6d",
+        "address": "Eisenbahnstr. 116",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [
+          "Good cheap food."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.41070750019349,
+          51.345077548236276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bootsverleih Klingerweg",
+        "id": "4df4a084b61cbd3ec01f5b7c",
+        "list_id": "56016d55498e788417dfa962",
+        "list_name": "Leipzig",
+        "url": "https://app.foursquare.com/v/bootsverleih-klingerweg/4df4a084b61cbd3ec01f5b7c",
+        "address": "Klingerweg 2",
+        "website": "http://www.bootstour-leipzig.de",
+        "categories": [
+          "Travel and Transportation > Boat Rental",
+          "Sports and Recreation > Sports Club"
+        ],
+        "tips": [
+          "Great water tours and boat renting."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Boat Rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.348634713721477,
+          51.33004499872977
+        ]
+      }
+    }
+  ]
+}

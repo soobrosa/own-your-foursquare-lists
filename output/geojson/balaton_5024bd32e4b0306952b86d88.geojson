@@ -1,0 +1,1651 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FecskEtet\u0151 L\u00e1ngos-R\u00e9tes",
+        "id": "51d6fd048bbd73bf41b29abb",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/fecsketet%C5%91-l%C3%A1ngosr%C3%A9tes/51d6fd048bbd73bf41b29abb",
+        "address": "Jegenye t\u00e9r 1.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Food Truck"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Food Truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.972996,
+          46.888224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V\u00edg Bacchus",
+        "id": "4df246e845dd4e26933be4af",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/v%C3%ADg-bacchus/4df246e845dd4e26933be4af",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.50823298358103,
+          46.794225297276384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hull\u00e1m Hostel",
+        "id": "4db346c60cb6729b6a7ce208",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/hull%C3%A1m-hostel/4db346c60cb6729b6a7ce208",
+        "address": "F\u00fcredi \u00fat 6.",
+        "website": "http://balatonhostel.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hostel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.629336481533155,
+          46.827970760244185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szent Don\u00e1t Pince \u00e9s Borh\u00e1z",
+        "id": "4df4c3a118386ecb4e34f0e6",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/szent-don%C3%A1t-pince-%C3%A9s-borh%C3%A1z/4df4c3a118386ecb4e34f0e6",
+        "address": "Szitahegyi-d\u0171l\u0151",
+        "website": "http://szentdonat.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Winery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.90952564884108,
+          46.98224615284059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hatl\u00e9pcs\u0151s (Musk\u00e1tli vend\u00e9gl\u0151)",
+        "id": "4be31edc63609c74e4da1bff",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/hatl%C3%A9pcs%C5%91s-musk%C3%A1tli-vend%C3%A9gl%C5%91/4be31edc63609c74e4da1bff",
+        "address": "J\u00f3kai M\u00f3r u. 30.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant",
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.891644164885964,
+          46.95538154889314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pub-Lik",
+        "id": "4c360d63dfb0e21e5b66aaa8",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/publik/4c360d63dfb0e21e5b66aaa8",
+        "address": "Sz\u00e9chenyi u. 10.",
+        "website": "http://www.pub-lik.hu",
+        "categories": [
+          "Dining and Drinking > Bar > Pub",
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.877952163626702,
+          46.85205391866047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karolina k\u00e1v\u00e9h\u00e1z \u00e9s kokt\u00e9lb\u00e1r",
+        "id": "4cfa2b487f2db1f77dc925d4",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/karolina-k%C3%A1v%C3%A9h%C3%A1z-%C3%A9s-kokt%C3%A9lb%C3%A1r/4cfa2b487f2db1f77dc925d4",
+        "address": "Z\u00e1konyi Ferenc s\u00e9t\u00e1ny 4.",
+        "website": "http://www.karolina.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Bar > Cocktail Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89168044182908,
+          46.95247457235097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balaton Borgal\u00e9ria",
+        "id": "4dc41e41887717c880010603",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/balaton-borgal%C3%A9ria/4dc41e41887717c880010603",
+        "address": "8230 Balatonf\u00fcred",
+        "website": "http://www.balatonborgaleria.hu",
+        "categories": [
+          "Dining and Drinking > Winery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Winery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.891665207329677,
+          46.9524496833581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peron Pizz\u00e9ria & Pub",
+        "id": "4dbb4e59cda109aa6c7e8537",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/peron-pizz%C3%A9ria--pub/4dbb4e59cda109aa6c7e8537",
+        "address": "Castricum t\u00e9r 1",
+        "website": "http://pizzza.hu/pizza-rendeles/balatonfured/Peron",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.883402353826842,
+          46.95572184038427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F\u00fcredi Korz\u00f3 Fagyiz\u00f3",
+        "id": "4df4ddb2d1649c8a28e7bf4c",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/f%C3%BCredi-korz%C3%B3-fagyiz%C3%B3/4df4ddb2d1649c8a28e7bf4c",
+        "address": "Z\u00e1konyi Ferenc s\u00e9t\u00e1ny 4.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.891161840771225,
+          46.952805317254935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andr\u00e1s b\u00fcf\u00e9",
+        "id": "4df4e7d288772e1f8158a939",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/andr%C3%A1s-b%C3%BCf%C3%A9/4df4e7d288772e1f8158a939",
+        "address": "Arany J\u00e1nos utca",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fish and Chips Shop",
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fish and Chips Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.744968157117853,
+          46.80214178961581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baricska Cs\u00e1rda",
+        "id": "51b9e420498e0e1bb428ea18",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/baricska-cs%C3%A1rda/51b9e420498e0e1bb428ea18",
+        "address": "Baricska d\u0171l\u0151",
+        "website": "http://www.baricska.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Kind service, okay food, overpriced and overhyped. Playground is a good feat, otherwise go to Lovas."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.881012354900903,
+          46.951538477573166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szigliget Kik\u00f6t\u0151 \u00c9tterem",
+        "id": "4e7db51e02d57c9c0e915e63",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/szigliget-kik%C3%B6t%C5%91-%C3%A9tterem/4e7db51e02d57c9c0e915e63",
+        "address": "",
+        "website": "http://kikotoetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.44409076829408,
+          46.78532072749209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Il Porto Ristorante Pizz\u00e9ria",
+        "id": "51c393817dd22302db58ca46",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/il-porto-ristorante-pizz%C3%A9ria/51c393817dd22302db58ca46",
+        "address": "Z\u00e1kony Ferenc utca 4.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89198444172577,
+          46.95239323503825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fapuma",
+        "id": "4c0a6279bbc676b09cad49d5",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/fapuma/4c0a6279bbc676b09cad49d5",
+        "address": "Somogyi B\u00e9la utca",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fast Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.881695,
+          46.854953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guruljon az \u00c9let!",
+        "id": "4c7281a62b7fef3b5e6f8e1d",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/guruljon-az-%C3%A9let/4c7281a62b7fef3b5e6f8e1d",
+        "address": "Balatoni ker\u00e9kp\u00e1r\u00fat",
+        "website": "http://www.guruljonazelet.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot",
+          "Retail > Sporting Goods Retail > Bicycle Store",
+          "Landmarks and Outdoors > Campground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.907527050429138,
+          46.96631209760456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J\u00f3bar\u00e1tok Hals\u00fct\u00f6de",
+        "id": "4d8df5975091a1cd93918301",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/j%C3%B3bar%C3%A1tok-hals%C3%BCt%C3%B6de/4d8df5975091a1cd93918301",
+        "address": "Budatava",
+        "website": "http://jobaratokhalsutode.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fish and Chips Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fish and Chips Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.028210123252755,
+          47.031337635056865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gyulakeszi Vel\u0151s Pirit\u00f3soz\u00f3s",
+        "id": "4dff605cd22d48be8128975c",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/gyulakeszi-vel%C5%91s-pirit%C3%B3soz%C3%B3s/4dff605cd22d48be8128975c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Buffet",
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Buffet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.47462904362973,
+          46.87217252574719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibolya B\u00fcf\u00e9",
+        "id": "4e188c0518a8166f738cf435",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/ibolya-b%C3%BCf%C3%A9/4e188c0518a8166f738cf435",
+        "address": "Kod\u00e1ly strand",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Snack Place"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Snack Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.66151816261087,
+          46.78299027767875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dabr\u00f3kai cs\u00e1rda",
+        "id": "4e6b44a5a8092902685dae3e",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/dabr%C3%B3kai-cs%C3%A1rda/4e6b44a5a8092902685dae3e",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21350031228524,
+          47.1201034897035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u00e1li Art Inn",
+        "id": "4c55bc8130f92d7fcfcfa3bc",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/k%C3%A1li-art-inn/4c55bc8130f92d7fcfcfa3bc",
+        "address": "F\u0151 u. 8.",
+        "website": "http://www.kaliartinn.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Travel and Transportation > Lodging > Bed and Breakfast"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.60857513221718,
+          46.88118458061164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u0151vir\u00e1g",
+        "id": "4e75d0f845ddd4323fe6bfbf",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/k%C5%91vir%C3%A1g/4e75d0f845ddd4323fe6bfbf",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.600480654091278,
+          46.84579968120247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u0151vir\u00e1g kert",
+        "id": "5337cef6498ecaa5e7a3ba04",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/k%C5%91vir%C3%A1g-kert/5337cef6498ecaa5e7a3ba04",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Breakfast Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.520135,
+          46.854735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u0151vir\u00e1g Panzi\u00f3 \u00e9s \u00e9tterem",
+        "id": "4c5d50362815c928a966b467",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/k%C5%91vir%C3%A1g-panzi%C3%B3-%C3%A9s-%C3%A9tterem/4c5d50362815c928a966b467",
+        "address": "F\u0151 \u00fat 9/a",
+        "website": "http://www.kovirag.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Travel and Transportation > Lodging > Bed and Breakfast"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.608302982201728,
+          46.881967604890065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neked f\u0151ztem Gasztrokocsma",
+        "id": "57654a44498e9829d0ffdc7d",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/neked-f%C5%91ztem-gasztrokocsma/57654a44498e9829d0ffdc7d",
+        "address": "F\u0151 u. 7.",
+        "website": "http://nekedfoztem.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [
+          "Really good food reasonably priced, unexpectedly fast. Service team hates life."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.671578764789945,
+          46.878865216165394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00fazalelke",
+        "id": "562a4592498ed8212c71d6ec",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/b%C3%BAzalelke/562a4592498ed8212c71d6ec",
+        "address": "Bem Ap\u00f3 11",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.467504501342773,
+          46.84286117553711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malom boroz\u00f3",
+        "id": "4dd8e31e8130756995b8ea00",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/malom-boroz%C3%B3/4dd8e31e8130756995b8ea00",
+        "address": "Pajta u. 7.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Wine Bar",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Wine Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.905065816736194,
+          47.09741351869378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kishable\u00e1ny",
+        "id": "553bc509498e5acdfaff720f",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/kishable%C3%A1ny/553bc509498e5acdfaff720f",
+        "address": "Park u. 1.",
+        "website": "http://www.bazaltbor.hu",
+        "categories": [
+          "Dining and Drinking > Bar > Wine Bar",
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Wine Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.50609291434333,
+          46.78961923937164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kredenc Borbisztr\u00f3",
+        "id": "4c64303a2a58c9b668773461",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/kredenc-borbisztr%C3%B3/4c64303a2a58c9b668773461",
+        "address": "Blaha Lujza u. 7.",
+        "website": "http://www.kredencborbisztro.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub",
+          "Arts and Entertainment > Performing Arts Venue > Music Venue > Jazz and Blues Venue",
+          "Dining and Drinking > Bar > Wine Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89359379202953,
+          46.955371333372995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hello Tourist",
+        "id": "57553c09cd1087abb1ac26f0",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/hello-tourist/57553c09cd1087abb1ac26f0",
+        "address": "Blaha Lujza u. 5",
+        "website": "http://www.kredencborbisztro.hu",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden",
+          "Dining and Drinking > Bar > Wine Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.893584966659546,
+          46.9550811233716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bistro Sparhelt",
+        "id": "5208db3a11d2aadc732e45b2",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/bistro-sparhelt/5208db3a11d2aadc732e45b2",
+        "address": "Szent Istv\u00e1n t\u00e9r 7.",
+        "website": "http://bistrosparhelt.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > French Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "French Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.876064881083384,
+          46.96111241553168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaszary villa",
+        "id": "4c6fdf2cd274b60cb5bdd70d",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/vaszary-villa/4c6fdf2cd274b60cb5bdd70d",
+        "address": "Honv\u00e9d u. 2.",
+        "website": "http://www.vaszaryvilla.hu",
+        "categories": [
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.891726942930195,
+          46.95434175661203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakter Bisztr\u00f3",
+        "id": "4c39bc7493db0f4790dc2392",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/bakter-bisztr%C3%B3/4c39bc7493db0f4790dc2392",
+        "address": "F\u00fcredi utca 38-42",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.976391282021506,
+          46.98539336345861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergmann Cukr\u00e1szda",
+        "id": "4c6fc2f2f52cb713ccabaaaf",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/bergmann-cukr%C3%A1szda/4c6fc2f2f52cb713ccabaaaf",
+        "address": "Pet\u0151fi S\u00e1ndor u. 64.",
+        "website": "http://www.bergmanncukraszda.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.895124993023728,
+          46.961517671612484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergmann Cukr\u00e1szda \u00e9s K\u00e1v\u00e9h\u00e1z",
+        "id": "4e16ca9ee4cd70c587bb697e",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/bergmann-cukr%C3%A1szda-%C3%A9s-k%C3%A1v%C3%A9h%C3%A1z/4e16ca9ee4cd70c587bb697e",
+        "address": "Pet\u0151fi S\u00e1ndor u. 64.",
+        "website": "http://www.bergmanncukraszda.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89036862940982,
+          46.95730710106097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koloska Cs\u00e1rda",
+        "id": "4da07b95c41ca14343b249a3",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/koloska-cs%C3%A1rda/4da07b95c41ca14343b249a3",
+        "address": "N\u00e1dor u. 24.",
+        "website": "http://www.koloskacsarda.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.889441068518874,
+          46.9798626835922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T\u00f3th Vend\u00e9gl\u0151",
+        "id": "4c41f872e26920a1144b5fe7",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/t%C3%B3th-vend%C3%A9gl%C5%91/4c41f872e26920a1144b5fe7",
+        "address": "Kacsajtosi u. 16",
+        "website": "http://www.tothvendeglo.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.640958122858837,
+          46.83171298942594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V\u00e1r K\u00e1v\u00e9z\u00f3",
+        "id": "4d837390e83fa14368e94ca1",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/v%C3%A1r-k%C3%A1v%C3%A9z%C3%B3/4d837390e83fa14368e94ca1",
+        "address": "Kisfaludy u. 24",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.435140903709684,
+          46.80290591956956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Egy Csipet N\u00e1das",
+        "id": "578239af498eb7aacb6cf481",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/egy-csipet-n%C3%A1das/578239af498eb7aacb6cf481",
+        "address": "T\u00f6reki u. 40",
+        "website": "http://egycsipetnadas.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.021952,
+          46.86606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carpaccio \u00c9tterem",
+        "id": "4fe59c00e4b051b5c1bcbcfb",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/carpaccio-%C3%A9tterem/4fe59c00e4b051b5c1bcbcfb",
+        "address": "Szent Istv\u00e1n \u00fat 40.",
+        "website": "http://www.carpaccioetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.972889726840705,
+          46.990555362848454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N\u00e1dfedeles Hals\u00fct\u0151",
+        "id": "4df3b53eaeb7170aa2f20832",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/n%C3%A1dfedeles-hals%C3%BCt%C5%91/4df3b53eaeb7170aa2f20832",
+        "address": "Fogas u. 1.",
+        "website": "http://ilovebalaton.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.695354345561867,
+          46.78813110717467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TESCO Hipermarket",
+        "id": "4c603c901e5cd13a491fa1ed",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/tesco-hipermarket/4c603c901e5cd13a491fa1ed",
+        "address": "Veszpr\u00e9mi \u00fat 5.",
+        "website": "http://tesco.hu/aruhazak/aruhaz/137",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.456448181207612,
+          46.880573344783166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gabriella \u00c9tterem \u00e9s Panzi\u00f3",
+        "id": "4e4e4e0f45ddff0031aee3dc",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/gabriella-%C3%A9tterem-%C3%A9s-panzi%C3%B3/4e4e4e0f45ddff0031aee3dc",
+        "address": "",
+        "website": "http://hotelgabriella.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.44122382706521,
+          46.881421463373435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stari Serf\u0151zde",
+        "id": "4c5d6b42d25320a123d2c57a",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/stari-serf%C5%91zde/4c5d6b42d25320a123d2c57a",
+        "address": "Pet\u0151fi S\u00e1ndor u. 12.",
+        "website": "http://www.stari.hu",
+        "categories": [
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Bar > Beer Garden",
+          "Dining and Drinking > Bar > Beer Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.436973594516996,
+          46.88146314758029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzsembori",
+        "id": "56ed1c4ecd10ffe7a3ecbd4d",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/dzsembori/56ed1c4ecd10ffe7a3ecbd4d",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Real ristretto."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8765,
+          46.947583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scotti Udvarh\u00e1z",
+        "id": "4e0c71788877c535e46dca3e",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/scotti-udvarh%C3%A1z/4e0c71788877c535e46dca3e",
+        "address": "Szent Istv\u00e1n t\u00e9r 1.",
+        "website": "http://scottiudvarhaz.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.280910431134746,
+          46.9795204627407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johnny's Bistro",
+        "id": "57c9bced498e1f8718bf9fef",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/johnnys-bistro/57c9bced498e1f8718bf9fef",
+        "address": "",
+        "website": "http://johnnys.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > American Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.91173334603773,
+          47.0933527900964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cayman Beach Zam\u00e1rdi",
+        "id": "538067f5498e8d56770b13ec",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/cayman-beach-zam%C3%A1rdi/538067f5498e8d56770b13ec",
+        "address": "Kiss Ern\u0151 utca 1.",
+        "website": "http://www.cayman.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.947005869957945,
+          46.886019325837026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lavender Terasz",
+        "id": "574ae9a9498e083884e5833c",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/lavender-terasz/574ae9a9498e083884e5833c",
+        "address": "D\u00f3zsa Gy\u00f6rgy \u00fat 75.",
+        "website": "http://lavender.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Modern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Modern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.172859996946965,
+          46.98430173419606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brix Bistro",
+        "id": "59577e86f79faa6187cf80d2",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/brix-bistro/59577e86f79faa6187cf80d2",
+        "address": "Rakoczi u. 16.",
+        "website": "https://bonvital.accenthotels.com/hu/brix-bistro",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.18921,
+          46.788807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paletta",
+        "id": "5ae5e985c53093002cd83f59",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/paletta/5ae5e985c53093002cd83f59",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.103544,
+          46.929183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hintal\u00f3 Vend\u00e9gl\u0151",
+        "id": "4dfdf2d1a809d61e2fc4e3ef",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/hintal%C3%B3-vend%C3%A9gl%C5%91/4dfdf2d1a809d61e2fc4e3ef",
+        "address": "Vecsey Utca 6",
+        "website": "https://hintalo-etterem-siofok.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant",
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Middle Eastern Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.01746722465473,
+          46.899199371242226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kisteh\u00e9n Burger \u00c9tterem",
+        "id": "5b0707d6628c83002cfccf84",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/kisteh%C3%A9n-burger-%C3%A9tterem/5b0707d6628c83002cfccf84",
+        "address": "F\u0151 u. 8.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Salad Restaurant",
+          "Dining and Drinking > Restaurant > Steakhouse"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.830913,
+          46.83094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M\u00d3R24",
+        "id": "5f414156ee2b6c33ae323667",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/m%C3%B3r24/5f414156ee2b6c33ae323667",
+        "address": "J\u00f3kai M\u00f3r \u00fat 24",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Tapas Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.890383,
+          46.955941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nessie vend\u00e9gl\u0151 \u00e9s bisztr\u00f3 Balatonszemes",
+        "id": "51e16fa3498ec6954d5831bc",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/nessie-vend%C3%A9gl%C5%91-%C3%A9s-bisztr%C3%B3-balatonszemes/51e16fa3498ec6954d5831bc",
+        "address": "Kik\u00f6t\u0151 utca 1.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7717342376709,
+          46.8115348815918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u00e1nya Zoli Hals\u00fct\u0151je",
+        "id": "5751618a498e34c6a5cb9291",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/k%C3%A1nya-zoli-hals%C3%BCt%C5%91je/5751618a498e34c6a5cb9291",
+        "address": "Csuki t\u00e9r 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fish and Chips Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fish and Chips Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.645713472391495,
+          46.83376164967181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oszi B\u00e1csi keszeg s\u00fct\u0151d\u00e9je",
+        "id": "4e380cadc65bf39cbb34587a",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/oszi-b%C3%A1csi-keszeg-s%C3%BCt%C5%91d%C3%A9je/4e380cadc65bf39cbb34587a",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fish and Chips Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fish and Chips Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.437869812137585,
+          46.785572195184116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korosajt Sajtm\u0171hely",
+        "id": "57246632498e3c814269e71f",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/korosajt-sajtm%C5%B1hely/57246632498e3c814269e71f",
+        "address": "\u00c1prilis utca 21.",
+        "website": "http://korosajt.hu",
+        "categories": [
+          "Retail > Food and Beverage Retail > Cheese Store",
+          "Landmarks and Outdoors > Farm"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Cheese Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.143053,
+          46.827046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunguest Hotel Damona",
+        "id": "50c1ec5f1648f5bcc0cb07f1",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/hunguest-hotel-damona/50c1ec5f1648f5bcc0cb07f1",
+        "address": "Gy\u00f3gyf\u00fcrd\u0151 t\u00e9r 8.",
+        "website": "http://wellnesshotelmendan.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.125142622632683,
+          46.551045135221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Kapit\u00e1ny **** Wellness",
+        "id": "4bb2605f2397b7137aee36b3",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/hotel-kapit%C3%A1ny--wellness/4bb2605f2397b7137aee36b3",
+        "address": "T\u00f3th Tivadar u. 19.",
+        "website": "https://hotelkapitany.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel",
+          "Business and Professional Services > Health and Beauty Service > Spa"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.281572181137406,
+          46.98491533578224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laci Pince Cs\u00e1rda",
+        "id": "4db6bda543a1369cb5ebecef",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/laci-pince-cs%C3%A1rda/4db6bda543a1369cb5ebecef",
+        "address": "\u00d6reghegy",
+        "website": "http://www.lacipince.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783299336437118,
+          46.921137454401595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mozi \u00c9tterem",
+        "id": "519b27a6498e3d72c1cb3f71",
+        "list_id": "5024bd32e4b0306952b86d88",
+        "list_name": "balaton",
+        "url": "https://app.foursquare.com/v/mozi-%C3%A9tterem/519b27a6498e3d72c1cb3f71",
+        "address": "J\u00f3kai utca 61.",
+        "website": "https://www.kaliszallas.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.598831653594967,
+          46.84913059521735
+        ]
+      }
+    }
+  ]
+}

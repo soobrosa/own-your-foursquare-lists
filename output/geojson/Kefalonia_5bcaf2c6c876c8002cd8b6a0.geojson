@@ -1,0 +1,724 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tzivras",
+        "id": "57a0a6f6498e1d2a6652cf6f",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/tzivras/57a0a6f6498e1d2a6652cf6f",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.490944,
+          38.174863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladokolla",
+        "id": "4d9221d480d3370464ddac06",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/ladokolla/4d9221d480d3370464ddac06",
+        "address": "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u0392\u03b1\u03bb\u03bb\u03b9\u03ac\u03bd\u03bf\u03c5",
+        "website": "https://barbecue-restaurant-230.business.site",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48815354,
+          38.17901443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klaoudatos",
+        "id": "59524705ccad6b171ca979db",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/klaoudatos/59524705ccad6b171ca979db",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.647004,
+          38.250049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faros Restaurant And Grill",
+        "id": "592da6726a595012a6a06703",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/faros-restaurant-and-grill/592da6726a595012a6a06703",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.648523,
+          38.252967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolphins",
+        "id": "4c52d95c7f6e20a198bb30ec",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/dolphins/4c52d95c7f6e20a198bb30ec",
+        "address": "\u0391\u03ba\u03c4\u03ae \u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03bf\u03c2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [
+          "Great service, good food, reasonable prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.648852698426527,
+          38.25314445289439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Greco",
+        "id": "522617c011d267863dc204f6",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/el-greco/522617c011d267863dc204f6",
+        "address": "Vergoti 3",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.487035739201,
+          38.17831497886048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lidl",
+        "id": "4dc789fd7d8b14fb465d080c",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/lidl/4dc789fd7d8b14fb465d080c",
+        "address": "Eparchiaki Odos Argostoliou - Porou 4. km",
+        "website": "http://www.lidl-hellas.gr",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5219087120738,
+          38.1498720465084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Super Market Papantonatou",
+        "id": "4f3fda68e4b0a5f25244fc25",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/super-market-papantonatou/4f3fda68e4b0a5f25244fc25",
+        "address": "Souidias 29",
+        "website": "http://www.papadonatos-market.gr",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.491803382183324,
+          38.16915302050408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bazar Super Market",
+        "id": "4dde7bdcc65bb2aa73911f36",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/bazar-super-market/4dde7bdcc65bb2aa73911f36",
+        "address": "\u039b\u03b1\u03c3\u03c3\u03b7\u03c2 39",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.487646734270495,
+          38.17883552126996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sagittarius",
+        "id": "4dd27e12d22d67839c5ca7f0",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/sagittarius/4dd27e12d22d67839c5ca7f0",
+        "address": "\u0391\u03c1\u03b3\u03bf\u03c3\u03c4\u03bf\u03bb\u03af\u03bf\u03c5-\u039c\u03b5\u03c4\u03b1\u03be\u03ac\u03c4\u03c9\u03bd",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [
+          "Nice cats."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.52602671,
+          38.11236171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AB Food Market",
+        "id": "4e36d84cfa7656ba317f0e45",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/ab-food-market/4e36d84cfa7656ba317f0e45",
+        "address": "3\u03bf \u03c7\u03bb\u03bc \u0395\u03c0\u03b1\u03c1\u03c7\u03b9\u03b1\u03ba\u03ae\u03c2 \u039f\u03b4\u03bf\u03cd \u0391\u03c1\u03b3\u03bf\u03c3\u03c4\u03bf\u03bb\u03af\u03bf\u03c5-\u03a0\u03cc\u03c1\u03bf\u03c5",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.528714862053047,
+          38.14819167347402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u039f\u03af\u03bd\u03bf\u03c8",
+        "id": "55def95f498e061c6477b4ac",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/%CE%BF%CE%AF%CE%BD%CE%BF%CF%88/55def95f498e061c6477b4ac",
+        "address": "\u0399\u03b8\u03ac\u03ba\u03b7\u03c2 35",
+        "website": "http://oinops.gr",
+        "categories": [
+          "Dining and Drinking > Bar > Wine Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Wine Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48867939564591,
+          38.17659752916167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Grec",
+        "id": "4c658e9de75ac928db16f5da",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/casa-grec/4c658e9de75ac928db16f5da",
+        "address": "\u03a3\u03c4\u03b1\u03cd\u03c1\u03bf\u03c5 \u039c\u03b5\u03c4\u03b1\u03be\u03ac 10",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.488328653143856,
+          38.17864403105046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Assos (\u0386\u03c3\u03c3\u03bf\u03c2)",
+        "id": "4c5b131fd3aee21e324d6c55",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/%CE%AC%CF%83%CF%83%CE%BF%CF%82-assos/4c5b131fd3aee21e324d6c55",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > States and Municipalities > City",
+          "Landmarks and Outdoors > Harbor or Marina",
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.539600149853293,
+          38.37798718445745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drogarati Cave",
+        "id": "4c51ace43940be9a129e4309",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/drogarati-cave/4c51ace43940be9a129e4309",
+        "address": "\u03a7\u03b1\u03bb\u03b9\u03c9\u03c4\u03ac\u03c4\u03b1",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Cave"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.628084966188286,
+          38.22729477156403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melissani Lake (\u039b\u03b9\u03bc\u03bd\u03bf\u03c3\u03c0\u03ae\u03bb\u03b1\u03b9\u03bf \u039c\u03b5\u03bb\u03b9\u03c3\u03c3\u03ac\u03bd\u03b7\u03c2)",
+        "id": "4e54eadc6284ed0e1c1ac73e",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/%CE%BB%CE%B9%CE%BC%CE%BD%CE%BF%CF%83%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%BF-%CE%BC%CE%B5%CE%BB%CE%B9%CF%83%CF%83%CE%AC%CE%BD%CE%B7%CF%82-melissani-lake/4e54eadc6284ed0e1c1ac73e",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Lake",
+          "Landmarks and Outdoors > Cave"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.624479418837574,
+          38.25673130958559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portside",
+        "id": "50256581e4b0bb3db40d3fb0",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/portside/50256581e4b0bb3db40d3fb0",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant",
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.489340065461185,
+          38.17978407154623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u0391\u03c1\u03b9\u03c3\u03c4\u03bf\u03c6\u03ac\u03bd\u03b7\u03c2",
+        "id": "5184f2b3498e4d97a5abc8f1",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/%CE%B1%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%86%CE%AC%CE%BD%CE%B7%CF%82/5184f2b3498e4d97a5abc8f1",
+        "address": "\u0393\u03ad\u03c6\u03c5\u03c1\u03b1",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.494248701491607,
+          38.17259552225403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tzogias",
+        "id": "51c891ee498efc7a4c867c55",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/tzogias/51c891ee498efc7a4c867c55",
+        "address": "",
+        "website": "http://tzogias-tavernalassi.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant > Taverna"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Taverna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.482217620076234,
+          38.158222133986136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinaries",
+        "id": "4e3adf50b0fbca6e84ba0be9",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/vinaries/4e3adf50b0fbca6e84ba0be9",
+        "address": "\u039b\u03ac\u03c3\u03c3\u03b7",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.479852828335165,
+          38.19090454902135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palia Plaka (\u0397 \u03a0\u03b1\u03bb\u03b9\u03ac \u03a0\u03bb\u03ac\u03ba\u03b1 - Palia Plaka)",
+        "id": "4e077e8a8877394591e69bbb",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/%CE%B7-%CF%80%CE%B1%CE%BB%CE%B9%CE%AC-%CF%80%CE%BB%CE%AC%CE%BA%CE%B1--palia-plaka/4e077e8a8877394591e69bbb",
+        "address": "Ioannou Metaxa",
+        "website": "http://paliaplaka.gr",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant",
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48458188302417,
+          38.18554644647105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taverna Sirtaki",
+        "id": "4de52be7ae60e7f3ac2fde47",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/taverna-sirtaki/4de52be7ae60e7f3ac2fde47",
+        "address": "\u039b\u03ac\u03c3\u03c3\u03b7\u03c2-\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03bf\u03bc\u03af\u03bf\u03c5 1-43",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48207371248587,
+          38.16333535839164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nefeli Tavern",
+        "id": "51cb16f8498e7b937e2a67d3",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/nefeli-tavern/51cb16f8498e7b937e2a67d3",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48221206665039,
+          38.16330337524414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spathis Bakery & Patisserie",
+        "id": "50b9e0b3e4b05d0a8de846a7",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/spathis-bakery--patisserie/50b9e0b3e4b05d0a8de846a7",
+        "address": "\u039b\u03b5\u03c9\u03c6. \u0391\u03bd\u03c4\u03ce\u03bd\u03b7 \u03a4\u03c1\u03af\u03c4\u03c3\u03b7 120",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop",
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Creperie"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.490982667463918,
+          38.17525859926869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cephalonia Botanica",
+        "id": "5232e12b498e67bf6b3e5d7c",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/cephalonia-botanica/5232e12b498e67bf6b3e5d7c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.49706268310547,
+          38.16057205200195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coffee Break",
+        "id": "597f19fbc824ae75178a8bcb",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/coffee-break/597f19fbc824ae75178a8bcb",
+        "address": "Ioannou metaxa 42",
+        "website": "http://coffee-break-kefalonia.business.site",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [
+          "Great service!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.488674,
+          38.181454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiritompas Mini Market",
+        "id": "5bcf5d5ecd441c002c7c9adb",
+        "list_id": "5bcaf2c6c876c8002cd8b6a0",
+        "list_name": "Kefalonia",
+        "url": "https://app.foursquare.com/v/tiritompas-mini-market/5bcf5d5ecd441c002c7c9adb",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [
+          "Great service, good selection!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.511274,
+          38.122182
+        ]
+      }
+    }
+  ]
+}

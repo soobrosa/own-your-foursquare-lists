@@ -1,0 +1,1258 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzeum Etnograficzne",
+        "id": "4cdafa1052d88eec33e9f828",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/muzeum-etnograficzne/4cdafa1052d88eec33e9f828",
+        "address": "Plac Wolnica 1",
+        "website": "http://www.etnomuzeum.eu",
+        "categories": [
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94359070574039,
+          50.04858875426561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hevre",
+        "id": "583a005ff697e03e51eab87e",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/hevre/583a005ff697e03e51eab87e",
+        "address": "Meiselsa 18",
+        "website": "https://www.tripadvisor.com/Restaurant_Review-g274772-d12542883-Reviews-Hevre-Krakow_Lesser_Poland_Province_Southern_Poland.html",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.943597150698825,
+          50.05125898357415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plac Nowy",
+        "id": "4be2b7e6d27a20a18321905b",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/plac-nowy/4be2b7e6d27a20a18321905b",
+        "address": "Plac Nowy",
+        "website": "http://www.placnowy1.pl",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [
+          "Touristy, but nice handcrafted jewellery."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.944799923908842,
+          50.05173013011882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzeum Archeologiczne",
+        "id": "4e341faf1495fa2def5aa5b2",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/muzeum-archeologiczne/4e341faf1495fa2def5aa5b2",
+        "address": "Senacka 3",
+        "website": "http://www.ma.krakow.pl",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [
+          "Not that interactive, but nice."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.935863718374424,
+          50.057581051285624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzeum In\u017cynierii i Techniki",
+        "id": "4d72471f27ddb60c8844cb1b",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/muzeum-in%C5%BCynierii-i-techniki/4d72471f27ddb60c8844cb1b",
+        "address": "\u015awi\u0119tego Wawrzy\u0144ca 15",
+        "website": "http://www.mim.krakow.pl",
+        "categories": [
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Science Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.946854,
+          50.049747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogr\u00f3d Do\u015bwiadcze\u0144 im. Stanis\u0142awa Lema",
+        "id": "4beada1c18389521fde30acf",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/ogr%C3%B3d-do%C5%9Bwiadcze%C5%84-im-stanis%C5%82awa-lema/4beada1c18389521fde30acf",
+        "address": "Aleja Pokoju 67",
+        "website": "http://www.mimk.com.pl",
+        "categories": [
+          "Arts and Entertainment > Amusement Park",
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Amusement Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.997220039367676,
+          50.06686387666206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balaton",
+        "id": "4c35c6b116adc928683dc79c",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/balaton/4c35c6b116adc928683dc79c",
+        "address": "Grodzka 37",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.937755465507507,
+          50.058144437276454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nolio",
+        "id": "5639c271cd1086837a2fea42",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/nolio/5639c271cd1086837a2fea42",
+        "address": "Krakowska 27",
+        "website": "http://nolio.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.942900604230978,
+          50.049356389019216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andrus. Polish Street Food",
+        "id": "5384afad498e77bc1600ebcd",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/andrus-polish-street-food/5384afad498e77bc1600ebcd",
+        "address": "ul. \u015awi\u0119tego Wawrzy\u0144ca 16, Krak\u00f3w, Poland",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Food Truck"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Food Truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94806194597131,
+          50.05016058661217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimney Cake Bakery",
+        "id": "5468bb12498e0d4b2def4ba1",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/chimney-cake-bakery/5468bb12498e0d4b2def4ba1",
+        "address": "Basztowa 26a",
+        "website": "http://www.chimneycakebakery.pl",
+        "categories": [
+          "Dining and Drinking > Dessert Shop",
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94427396409517,
+          50.06500594283688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hummus Amamamusi",
+        "id": "51f164a9498e2868eb5be966",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/hummus-amamamusi/51f164a9498e2868eb5be966",
+        "address": "Beera Meisela 4",
+        "website": "http://hummus-amamamusi.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Middle Eastern Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.941507,
+          50.050452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizzatopia",
+        "id": "597cc55b6dcf041c42573b04",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/pizzatopia/597cc55b6dcf041c42573b04",
+        "address": "Szewska 22",
+        "website": "https://pizzatopia.com/en/szewska-22-krakow",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.933833687142826,
+          50.062943238240265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glonojad",
+        "id": "4be59594cf200f47d760133c",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/glonojad/4be59594cf200f47d760133c",
+        "address": "pl. Matejki 2",
+        "website": "http://www.glonojad.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vegan and Vegetarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.942359,
+          50.066192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akita Ramen",
+        "id": "5aae7ac846e1b60bae841c1d",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/akita-ramen/5aae7ac846e1b60bae841c1d",
+        "address": "Ul. W\u0119g\u0142owa 4",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Ramen Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ramen Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.942379508729793,
+          50.04859638652111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Przystanek Pierogarnia",
+        "id": "4e8c3ff893adecfdb952efb2",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/przystanek-pierogarnia/4e8c3ff893adecfdb952efb2",
+        "address": "Bonerowska 14",
+        "website": "http://przystanek-pierogarnia.pl/en/pierogarnia-station/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Dumpling Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dumpling Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.947386833190862,
+          50.05918477027306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogr\u00f3d Zoologiczny",
+        "id": "4bead87518389521c9e30acf",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/ogr%C3%B3d-zoologiczny/4bead87518389521c9e30acf",
+        "address": "Aleja Kasy Oszcz\u0119dno\u015bci Miasta Krakowa 14",
+        "website": "http://zoo-krakow.pl",
+        "categories": [
+          "Arts and Entertainment > Zoo",
+          "Landmarks and Outdoors > Farm"
+        ],
+        "tips": [
+          "Good ZOO, be prepared that if you come by taxi or so you have to pay 15 pln to drive to the entrance."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.853730182732374,
+          50.054971685550576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milkbar Tomasza",
+        "id": "4ee89103775b712266299aec",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/milkbar-tomasza/4ee89103775b712266299aec",
+        "address": "\u015aw. Tomasza 24",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.941412074127463,
+          50.0624160479784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pod Wawelem - Kompania Kuflowa",
+        "id": "4b9aafc8f964a520f7cc35e3",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/pod-wawelem--kompania-kuflowa/4b9aafc8f964a520f7cc35e3",
+        "address": "\u015aw. Gertrudy 26-29",
+        "website": "http://www.podwawelem.eu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant",
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.938671,
+          50.054526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogniem i Mieczem",
+        "id": "4c6842b773851b8dfd20ba39",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/ogniem-i-mieczem/4c6842b773851b8dfd20ba39",
+        "address": "Plac Serkowskiego, 7",
+        "website": "http://www.ogniemimieczem.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94331737471567,
+          50.04283263327477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morskie Oko",
+        "id": "4be1a1a885670f474eae2bd7",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/morskie-oko/4be1a1a885670f474eae2bd7",
+        "address": "Plac Szczepa\u0144ski 8",
+        "website": "http://www.morskieoko.krakow.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant",
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.935761796827308,
+          50.06381357541125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pod Baranem",
+        "id": "4c362d81dfb0e21eee9faaa8",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/pod-baranem/4c362d81dfb0e21eee9faaa8",
+        "address": "\u015aw. Gertrudy 21",
+        "website": "http://podbaranem.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.939905627774422,
+          50.05483022193143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ch\u0142opskie Jad\u0142o",
+        "id": "4d8f33c4c1b1721e8df24046",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/ch%C5%82opskie-jad%C5%82o/4d8f33c4c1b1721e8df24046",
+        "address": "Grodzka 9",
+        "website": "http://www.chlopskiejadlo.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.937200226989535,
+          50.05967888807606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smako\u0142yki",
+        "id": "4e9f1664d5fb734821622908",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/smako%C5%82yki/4e9f1664d5fb734821622908",
+        "address": "Straszewskiego 28",
+        "website": "http://www.smakolyki.eu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.932194977594857,
+          50.06149498823086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polakowski",
+        "id": "4c837aa2d4e237044f257188",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/polakowski/4c837aa2d4e237044f257188",
+        "address": "Miodowa 39",
+        "website": "http://www.polakowski.com.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant",
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.947334314407282,
+          50.0533938414812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babcia Malina",
+        "id": "4e3ecc6ab61cb577be894833",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/babcia-malina/4e3ecc6ab61cb577be894833",
+        "address": "Ul. Szpitalna, 38",
+        "website": "http://www.kuchniaubabcimaliny.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.942294694754573,
+          50.06410776344116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zalewajka",
+        "id": "526152bb11d2a251036cc8a8",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/zalewajka/526152bb11d2a251036cc8a8",
+        "address": "W\u0105ska 2",
+        "website": "http://www.zalewajka.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9476420879364,
+          50.05099586324241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuchnia u Doroty",
+        "id": "4cc080a19ca85481edd8bc16",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/kuchnia-u-doroty/4cc080a19ca85481edd8bc16",
+        "address": "Augustia\u0144ska 4",
+        "website": "http://www.kuchniaudoroty.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant",
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [
+          "Good food, cheap prices, great and fast service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94112507662605,
+          50.05058746775286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuchnia Domowa",
+        "id": "5537f482498e6124c728fd8c",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/kuchnia-domowa/5537f482498e6124c728fd8c",
+        "address": "Miodowa 25",
+        "website": "http://kuchniadomowa.oberza.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945102501522175,
+          50.05301023911628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marchewka z Groszkiem",
+        "id": "4cdec7d23644a093f8354e9f",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/marchewka-z-groszkiem/4cdec7d23644a093f8354e9f",
+        "address": "Mostowa 2",
+        "website": "http://marchewkazgroszkiem.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945368595956648,
+          50.04834534570277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warsztat",
+        "id": "51238f68e4b0b071b52c458c",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/warsztat/51238f68e4b0b071b52c458c",
+        "address": "Miodowa 20",
+        "website": "http://www.restauracjawarsztat.pl/po-polsku.html",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94413381661226,
+          50.0526522375252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimera",
+        "id": "4bbf956d920eb7136697172c",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/chimera/4bbf956d920eb7136697172c",
+        "address": "\u015awi\u0119tej Anny 3",
+        "website": "http://www.chimera.com.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.934927963784688,
+          50.06182551124878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Wodny",
+        "id": "4b88fcd4f964a520e11632e3",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/park-wodny/4b88fcd4f964a520e11632e3",
+        "address": "Dobrego Pasterza 126",
+        "website": "http://www.parkwodny.pl",
+        "categories": [
+          "Arts and Entertainment > Water Park"
+        ],
+        "tips": [
+          "It's not that big, but it's pretty okay for a whole day treatment. Beach food. Proper steam."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Water Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.982715414244332,
+          50.089619638796655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheder",
+        "id": "4cb85116a33bb1f75cf27ffd",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/cheder/4cb85116a33bb1f75cf27ffd",
+        "address": "J\u00f3zefa 36",
+        "website": "http://www.cheder.pl",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant > Spanish Restaurant > Tapas Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.947197,
+          50.051284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolanko No. 6",
+        "id": "4ba61a44f964a520ba3339e3",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/kolanko-no-6/4ba61a44f964a520ba3339e3",
+        "address": "J\u00f3zefa 17",
+        "website": "http://www.kolanko.net",
+        "categories": [
+          "Dining and Drinking > Creperie",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [
+          "Excellent breakfast buffet -- I'm a breakfast person, I almost moved here."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Creperie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.946327793875444,
+          50.05084353486008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moment",
+        "id": "4be6ff7ed4f7c9b625502720",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/moment/4be6ff7ed4f7c9b625502720",
+        "address": "Estery 22",
+        "website": "http://www.momentcafe.pl",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945930106445417,
+          50.051044960948424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u017babka",
+        "id": "595cd8fc9ec3996218860ac1",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/%C5%BCabka/595cd8fc9ec3996218860ac1",
+        "address": "Meiselsa",
+        "website": "http://zabka.pl",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94375127242298,
+          50.05132744325619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stary Kleparz",
+        "id": "4cc2d54b4fcfbfb79d9abd24",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/stary-kleparz/4cc2d54b4fcfbfb79d9abd24",
+        "address": "Rynek Kleparski",
+        "website": "http://www.starykleparz.com",
+        "categories": [
+          "Retail > Food and Beverage Retail > Farmers Market",
+          "Retail > Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.941144389902874,
+          50.06752827597261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Wojciecha Bednarskiego",
+        "id": "4d0a1bf8d4018cfacbe94528",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/park-wojciecha-bednarskiego/4d0a1bf8d4018cfacbe94528",
+        "address": "Park Wojciecha Bednarskiego",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.948596954345703,
+          50.04145875510307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Tysi\u0105clecia",
+        "id": "53c54fc6498ebb1e96c6f4e9",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/park-tysi%C4%85clecia/53c54fc6498ebb1e96c6f4e9",
+        "address": "os Tysi\u0105clecia",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.99923320502045,
+          50.089435047190776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SkakAnka",
+        "id": "55c2365a498ec2a4ce751a02",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/skakanka/55c2365a498ec2a4ce751a02",
+        "address": "Fio\u0142kowa 15",
+        "website": "http://skakanka.eu",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.980929948263764,
+          50.077314495009674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plac Zabaw",
+        "id": "4da986f54df01c19b1728645",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/plac-zabaw/4da986f54df01c19b1728645",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.969805425803635,
+          50.05872189329928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plac Zabaw / Grottgera",
+        "id": "5204d041498ecfdf753d5eab",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/plac-zabaw--grottgera/5204d041498ecfdf753d5eab",
+        "address": "Grottgera 26",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9241652206515,
+          50.07392778205043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Jordana",
+        "id": "4bd2bbd1046076b0d5897471",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/park-jordana/4bd2bbd1046076b0d5897471",
+        "address": "Park Jordana",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Park > Dog Park",
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.916517734527588,
+          50.06271786378646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galeria Kazimierz",
+        "id": "4b48927bf964a520974f26e3",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/galeria-kazimierz/4b48927bf964a520974f26e3",
+        "address": "Podg\u00f3rska 34",
+        "website": "http://www.galeriakazimierz.pl",
+        "categories": [
+          "Retail > Shopping Mall"
+        ],
+        "tips": [
+          "Not super big, just the good size."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Shopping Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95558089349785,
+          50.053303731604466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzeum Lotnictwa Polskiego",
+        "id": "4be2ff2c1dd22d7f136995bd",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/muzeum-lotnictwa-polskiego/4be2ff2c1dd22d7f136995bd",
+        "address": "al. Jana Paw\u0142a II 39",
+        "website": "http://www.muzeumlotnictwa.pl",
+        "categories": [
+          "Arts and Entertainment > Museum",
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.989890654628393,
+          50.076986153954095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krak\u00f3w G\u0142\u00f3wny",
+        "id": "4bbe09eda0a0c9b6d05c1c0f",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/krak%C3%B3w-g%C5%82%C3%B3wny/4bbe09eda0a0c9b6d05c1c0f",
+        "address": "Pawia 5a",
+        "website": "http://www.pkp.pl",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Rail Station"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Rail Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.947886997285927,
+          50.068231794427525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrefour Market",
+        "id": "599d576f12f0a90ba432ae72",
+        "list_id": "5c48bd94deb4950025056bad",
+        "list_name": "Krakow",
+        "url": "https://app.foursquare.com/v/carrefour-market/599d576f12f0a90ba432ae72",
+        "address": "Podg\u00f3rska 34",
+        "website": "https://www.carrefour.pl/sklep/krakow/podgorska-34",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95501197022909,
+          50.05378983849689
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zitadelle Spandau",
+        "id": "4adcda7df964a520734721e3",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/zitadelle-spandau/4adcda7df964a520734721e3",
+        "address": "Am Juliusturm 64",
+        "website": "http://www.zitadelle-spandau.de/",
+        "categories": [
+          "Landmarks and Outdoors > Castle",
+          "Arts and Entertainment > Museum > History Museum",
+          "Arts and Entertainment > Performing Arts Venue > Music Venue"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.212416231708346,
+          52.54086586083576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millefiori",
+        "id": "5056933be4b01e4621fa053d",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/millefiori/5056933be4b01e4621fa053d",
+        "address": "Breite Str. 35",
+        "website": "http://altstadtmanagement-spandau.de/geschaeft/eiscafe-millefiori-trattoria",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant > Trattoria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Trattoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.206909330535616,
+          52.53795738939119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brauhaus Spandau",
+        "id": "4adcda73f964a520654521e3",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/brauhaus-spandau/4adcda73f964a520654521e3",
+        "address": "Neuendorfer Str. 1",
+        "website": "https://www.brauhaus-spandau.de",
+        "categories": [
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Bar > Beer Garden",
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.206544525076895,
+          52.54059926709032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altstadt Spandau",
+        "id": "4adcda7ef964a520cd4721e3",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/altstadt-spandau/4adcda7ef964a520cd4721e3",
+        "address": "Breite Str.",
+        "website": "http://de.wikipedia.org/wiki/Altstadt_Spandau",
+        "categories": [
+          "Landmarks and Outdoors > States and Municipalities > Neighborhood",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Neighborhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.203849792480469,
+          52.53752599860959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalmacija Grill",
+        "id": "4bbe207b8ca376b0af58c77a",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/dalmacija-grill/4bbe207b8ca376b0af58c77a",
+        "address": "Seegefelder Str. 42",
+        "website": "http://www.dalmacija-grill.de",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19157176203642,
+          52.5366943421464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MyHa",
+        "id": "51d42f68498e518d5bdd285c",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/myha/51d42f68498e518d5bdd285c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.206308509389132,
+          52.53901195768392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mehek",
+        "id": "4ea06eded5fb7087ec62aaab",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/mehek/4ea06eded5fb7087ec62aaab",
+        "address": "Sch\u00f6nwalder Str. 22",
+        "website": "http://www.mehek-spandau.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.202872134635212,
+          52.54640217714525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pizza Club",
+        "id": "549aa714498e81619d0c95ba",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/the-pizza-club/549aa714498e81619d0c95ba",
+        "address": "Klosterstra\u00dfe 12",
+        "website": "http://www.pizzaclub-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [
+          "Kind service, okay pizza, deffo overpriced to Spandau."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.196521102512584,
+          52.53112186953967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All Seasons",
+        "id": "598b62bffebf317ebe8bc7f1",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/all-seasons/598b62bffebf317ebe8bc7f1",
+        "address": "Am Juliusturm 53",
+        "website": "http://www.theallseasons.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Asian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.216093376181284,
+          52.537777899815254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diyar Simit Evi Spandau",
+        "id": "512e0145e4b0421735624ece",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/diyar-simit-evi-spandau/512e0145e4b0421735624ece",
+        "address": "Havelstr. 8- 10",
+        "website": "http://www.diyar-simit-evi.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.206155900104308,
+          52.53896605687991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M\u00fcnsingerpark",
+        "id": "4dbe8fcfec8eb49ed334a685",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/m%C3%BCnsingerpark/4dbe8fcfec8eb49ed334a685",
+        "address": "Seegefelder Str.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19782018661499,
+          52.53691257613907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz",
+        "id": "535b63cd498e1b6703a045a6",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/spielplatz/535b63cd498e1b6703a045a6",
+        "address": "J\u00fcdenstra\u00dfe 1",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.201825739487287,
+          52.53738757482539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M\u00fcnsiger Spielplatz",
+        "id": "51f136b6498e2868e9d6c03d",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/m%C3%BCnsiger-spielplatz/51f136b6498e2868e9d6c03d",
+        "address": "Martin-Albertz-Weg",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.198270797729492,
+          52.537121401772076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz im Wr\u00f6hm\u00e4nnerpark",
+        "id": "53359c1b498eb8a6112eabfa",
+        "list_id": "562c9448498e4a79130f3687",
+        "list_name": "Spandau",
+        "url": "https://app.foursquare.com/v/spielplatz-im-wr%C3%B6hm%C3%A4nnerpark/53359c1b498eb8a6112eabfa",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.206454468134465,
+          52.539976826101494
+        ]
+      }
+    }
+  ]
+}

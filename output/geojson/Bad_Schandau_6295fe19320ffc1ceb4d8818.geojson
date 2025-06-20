@@ -1,0 +1,566 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toskana Therme",
+        "id": "4c6417a858810f472e3c0b1e",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/toskana-therme/4c6417a858810f472e3c0b1e",
+        "address": "Rudolf-Sendig-Str. 8a",
+        "website": "http://www.toskanaworld.net/web/de/content/content.php?areaID=3",
+        "categories": [
+          "Arts and Entertainment > Water Park"
+        ],
+        "tips": [
+          "Versatile place, easy to kill 4 hours, the restaurant food is reasonably priced and palatable."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Water Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.157008760583212,
+          50.91646966978609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elbresidenz",
+        "id": "4bebd3a761aca593c36f8500",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/elbresidenz/4bebd3a761aca593c36f8500",
+        "address": "Markt 1-11",
+        "website": "http://www.elbresidenz-bad-schandau.de",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [
+          "Nice hotel, reasonable half board."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.153643123686562,
+          50.91749945562132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LIDL",
+        "id": "4d7f466aebc154816a22f0a6",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/lidl/4d7f466aebc154816a22f0a6",
+        "address": "Dresdner Str. 15",
+        "website": "https://www.lidl.de",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Discount Store"
+        ],
+        "tips": [
+          "It is open also on Feuertagen from 11:00 till 18:00. Good selection, fresh stuff."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.142988864076797,
+          50.92065540902443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eiscafe Memory",
+        "id": "5b379833065ef5002c2fe71b",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/eiscafe-memory/5b379833065ef5002c2fe71b",
+        "address": "Rudolf-Sendig-Str. 2",
+        "website": "https://www.kagerer-memory.de",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Great service, okay pizza, terrace, California."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.155909073800379,
+          50.91759647261684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schrammsteinbaude",
+        "id": "539481dc498eb27aa26c1bab",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/schrammsteinbaude/539481dc498eb27aa26c1bab",
+        "address": "Zahnsgrund 5",
+        "website": "http://www.schrammsteinbaude.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub",
+          "Travel and Transportation > Lodging > Boarding House"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.187120795249939,
+          50.91703629619325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mario Gelato",
+        "id": "4d8df589cb9b224b592f7841",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/mario-gelato/4d8df589cb9b224b592f7841",
+        "address": "Kirchstr. 7",
+        "website": "http://www.fewo-albrecht-badschandau.de/eiscafe.htm",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.154461884485718,
+          50.918033186596546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schlemmer-Eck",
+        "id": "4dfa2a6245dd2b6764bde30a",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/schlemmereck/4dfa2a6245dd2b6764bde30a",
+        "address": "",
+        "website": "http://www.schlemmer-eck.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.154803425552236,
+          50.917433125602265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barthel's Restaurant",
+        "id": "53330dab498e5b04e20cc3de",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/barthels-restaurant/53330dab498e5b04e20cc3de",
+        "address": "Marktplatz 10",
+        "website": "http://www.restaurant-barthels-pirna.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.153059339018933,
+          50.91775053471927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historischer Personenaufzug seit 1905",
+        "id": "5184f31f498e3f3ff423b066",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/historischer-personenaufzug-seit-1905/5184f31f498e3f3ff423b066",
+        "address": "Rudolf-Sendig-Str.",
+        "website": "https://www.rudolf-sendig.de/aufzug.htm",
+        "categories": [
+          "Landmarks and Outdoors > Scenic Lookout",
+          "Landmarks and Outdoors > Historic and Protected Site",
+          "Landmarks and Outdoors > Monument"
+        ],
+        "tips": [
+          "Bored lynxes upstairs."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Scenic Lookout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.161307123301974,
+          50.91676877275373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nationalpark-Bahnhof Bad Schandau",
+        "id": "4cf8f0d1d76da35d9fcbc92c",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/nationalparkbahnhof-bad-schandau/4cf8f0d1d76da35d9fcbc92c",
+        "address": "Matheusweg",
+        "website": "http://www.bahnhof.de",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Rail Station"
+        ],
+        "tips": [
+          "Closes at 18:00, got coffee and infrastructure, toilets flies for 50 cent. :)"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Rail Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.138591368763556,
+          50.919142380982905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BonbonManufaktur",
+        "id": "5d8f670332f04200077a9000",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/bonbonmanufaktur/5d8f670332f04200077a9000",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Deli"
+        ],
+        "tips": [
+          "Kids approved it, we returned for more."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.154667,
+          50.918032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuhrmann's Elb-Caf\u00e9",
+        "id": "4df7482c52b10928a7e7aabe",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/fuhrmanns-elbcaf%C3%A9/4df7482c52b10928a7e7aabe",
+        "address": "Schmilka 31",
+        "website": "http://www.pension-elb-cafe.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [
+          "Very kind service, nice ice and cold beer!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.23132910135759,
+          50.89187435275857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schmilksche M\u00fchle",
+        "id": "544a62cb498e60f6edb672ac",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/schmilksche-m%C3%BChle/544a62cb498e60f6edb672ac",
+        "address": "",
+        "website": "https://www.schmilka.de",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Brewery"
+        ],
+        "tips": [
+          "Kind service, real food, these are buildings :)"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.232422275574534,
+          50.89224265068305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bio-Braumanufaktur Schmilka",
+        "id": "58f20aacaa6c955cd7c8e6c3",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/biobraumanufaktur-schmilka/58f20aacaa6c955cd7c8e6c3",
+        "address": "Schmilka 36",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Restaurant > Gastropub",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [
+          "Good beer, kind service, nice buildings."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.232125274277076,
+          50.892123512401135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malerweg",
+        "id": "4c5ecf279b28d13ac6355d70",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/malerweg/4c5ecf279b28d13ac6355d70",
+        "address": "Malerweg",
+        "website": "http://www.malerweg.de",
+        "categories": [
+          "Landmarks and Outdoors > Hiking Trail"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Hiking Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.204893112182617,
+          50.91257695419444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NationalparkZentrum S\u00e4chsische Schweiz",
+        "id": "4e35630ad22d86185a6b252d",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/nationalparkzentrum-s%C3%A4chsische-schweiz/4e35630ad22d86185a6b252d",
+        "address": "Dresdner Str. 2b",
+        "website": "https://www.lanu.de/de/NationalparkZentrum.html",
+        "categories": [
+          "Arts and Entertainment > Museum",
+          "Travel and Transportation > Tourist Information and Service"
+        ],
+        "tips": [
+          "Outstanding piece of a museum for the topic! Tactile, informative, audiovisual. Great gift shop."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.150003719871172,
+          50.91876973731286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vivaldi Cafe & Restaurant",
+        "id": "4df76ee6ae60f0da88394114",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/vivaldi-cafe--restaurant/4df76ee6ae60f0da88394114",
+        "address": "Kirchstr.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [
+          "Generic ice, ups and downs."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.154420294167835,
+          50.917621763692324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schrammsteine",
+        "id": "4f81755ee4b0c2f7666376c7",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/schrammsteine/4f81755ee4b0c2f7666376c7",
+        "address": "",
+        "website": "http://www.region-ceskesvycarsko.cz/rozhledny-vyhlidky/schrammsteine/",
+        "categories": [
+          "Landmarks and Outdoors > Mountain",
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.204918734711388,
+          50.912418857797064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Elbpromenade",
+        "id": "4df4e6347d8b18e17233c411",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/hotel-elbpromenade/4df4e6347d8b18e17233c411",
+        "address": "Elbufer 10",
+        "website": "https://www.hotel-elbpromenade.de",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [
+          "A rare place in Postelwitz to refill on liquids. Kind service, terrace."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.16925214472419,
+          50.9142495110113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lichtenhainer Wasserfall",
+        "id": "4e6b5affc65b5bef28c8a287",
+        "list_id": "6295fe19320ffc1ceb4d8818",
+        "list_name": "Bad Schandau",
+        "url": "https://app.foursquare.com/v/lichtenhainer-wasserfall/4e6b5affc65b5bef28c8a287",
+        "address": "Kirnitzschtalstra\u00dfe 11",
+        "website": "http://www.lichtenhainer-wasserfall.de",
+        "categories": [
+          "Landmarks and Outdoors > Waterfall"
+        ],
+        "tips": [
+          "Sweet roots of the tourism simulacrum. An artificial waterfall as absolution but beware, the tram screeches a bit. Restaurant is top notch."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.242866159563395,
+          50.92907856268177
+        ]
+      }
+    }
+  ]
+}

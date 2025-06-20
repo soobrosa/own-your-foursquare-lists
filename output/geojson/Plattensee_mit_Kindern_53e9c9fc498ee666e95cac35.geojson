@@ -1,0 +1,2068 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zam\u00e1rdi Kik\u00f6t\u0151",
+        "id": "4c13728b82a3c9b65472fbf8",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/zam%C3%A1rdi-kik%C3%B6t%C5%91/4c13728b82a3c9b65472fbf8",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Boat or Ferry",
+          "Landmarks and Outdoors > Beach",
+          "Landmarks and Outdoors > Harbor or Marina"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Boat or Ferry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.936722469734296,
+          46.885384642179496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halas Karcsi b\u00fcf\u00e9je",
+        "id": "4c37094518e72d7ffbbc15f5",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/halas-karcsi-b%C3%BCf%C3%A9je/4c37094518e72d7ffbbc15f5",
+        "address": "M\u00f3kus utca",
+        "website": "http://halaskarcsi.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fish and Chips Shop"
+        ],
+        "tips": [
+          "nice fried fish, fish soup is uneven."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fish and Chips Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.977898665384156,
+          46.891100237596135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bels\u0151-t\u00f3",
+        "id": "4bdc1908c79cc928713385e9",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/bels%C5%91t%C3%B3/4bdc1908c79cc928713385e9",
+        "address": "Aranyh\u00e1z u.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Lake",
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.883070707321167,
+          46.908086585027156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferenc Pince",
+        "id": "4d7b65ae86cfa1431365b3a0",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/ferenc-pince/4d7b65ae86cfa1431365b3a0",
+        "address": "Cser-hegy 9.",
+        "website": "http://www.ferencpince.hu",
+        "categories": [
+          "Dining and Drinking > Winery"
+        ],
+        "tips": [
+          "Good food, okay prices, service is haphazard."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Winery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.88962996172104,
+          46.899765772970994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sz\u00e1nt\u00f3dpuszta",
+        "id": "4fc5f599e4b0d3d6eea6e0d6",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/sz%C3%A1nt%C3%B3dpuszta/4fc5f599e4b0d3d6eea6e0d6",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > States and Municipalities > Village"
+        ],
+        "tips": [
+          "Very uneven, still lots of opportunities to discover - arrive in time, otherwise the socialism won't let you in."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.913867681866233,
+          46.865890337472166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patyolat",
+        "id": "520ba14b11d20ef5db7461d1",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/patyolat/520ba14b11d20ef5db7461d1",
+        "address": "",
+        "website": "http://www.patyolat-siofok.hu",
+        "categories": [
+          "Business and Professional Services > Laundry Service"
+        ],
+        "tips": [
+          "Decent next day laundry service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Laundry Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.079818,
+          46.911556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szent Istv\u00e1n \u00d6b\u00f6l",
+        "id": "4c0e746c2466a593d6107921",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/szent-istv%C3%A1n-%C3%B6b%C3%B6l/4c0e746c2466a593d6107921",
+        "address": "Szent Istv\u00e1n s\u00e9t\u00e1ny",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [
+          "awesome mud for kids"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06324994151998,
+          46.915004383508666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J\u00e1tsz\u00f3t\u00e9r",
+        "id": "502a0dc1e4b06079cd467536",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/j%C3%A1tsz%C3%B3t%C3%A9r/502a0dc1e4b06079cd467536",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [
+          "Guaranteed durability as no shadow around."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.98013626656438,
+          46.89126155767641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J\u00e1tsz\u00f3t\u00e9r",
+        "id": "51eac0b7498eca0bd742e704",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/j%C3%A1tsz%C3%B3t%C3%A9r/51eac0b7498eca0bd742e704",
+        "address": "R\u00e9tf\u00f6ldi utca",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.948136,
+          46.874774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manna Mia",
+        "id": "4c1ce72e63750f476940b767",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/manna-mia/4c1ce72e63750f476940b767",
+        "address": "Sz\u00e9chenyi t\u00e9r 1-3",
+        "website": "http://www.mannamia.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant",
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.87941339915299,
+          46.85102371072237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eszem-Iszom Falatoz\u00f3",
+        "id": "4dfb6ebdfa7641d78dd7f473",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/eszemiszom-falatoz%C3%B3/4dfb6ebdfa7641d78dd7f473",
+        "address": "Margo Ede S\u00e9t\u00e1ny",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Deli"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.941228442255348,
+          46.88579363107882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kultkik\u00f6t\u0151",
+        "id": "502fedbfe4b0a20c89292c2f",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/kultkik%C3%B6t%C5%91/502fedbfe4b0a20c89292c2f",
+        "address": "Bajor Gizi S\u00e9t\u00e1ny 1.",
+        "website": "http://www.kultkikoto.hu",
+        "categories": [
+          "Arts and Entertainment > Performing Arts Venue",
+          "Landmarks and Outdoors > Park",
+          "Arts and Entertainment > Performing Arts Venue > Concert Hall"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Performing Arts Venue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.880942456290246,
+          46.85206142610678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00c9des Velence",
+        "id": "51d00f00498ef8740eed1bbc",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/%C3%A9des-velence/51d00f00498ef8740eed1bbc",
+        "address": "Szabads\u00e1g t\u00e9r 2.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.945103,
+          46.880373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fr\u00f6ccsbusz",
+        "id": "520cfc3111d2c8cafebb275d",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/fr%C3%B6ccsbusz/520cfc3111d2c8cafebb275d",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Winery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Winery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.827133579304757,
+          46.87528310843714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szabadstrand",
+        "id": "4c63d68f69a1c9b6fa093ca4",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/szabadstrand/4c63d68f69a1c9b6fa093ca4",
+        "address": "Balatonsz\u00e1rsz\u00f3",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach",
+          "Landmarks and Outdoors > Other Great Outdoors"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.838795915750005,
+          46.83532613078916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T\u00fcndi-l\u00e1ngos",
+        "id": "51cb25b6498e673547b29ff7",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/t%C3%BCndil%C3%A1ngos/51cb25b6498e673547b29ff7",
+        "address": "Csuk\u00e1s sz\u00ednh\u00e1z mellett",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Snack Place"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Snack Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.83007,
+          46.832533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Csuk\u00e1s Istv\u00e1n Sz\u00ednh\u00e1z",
+        "id": "4e0ae3f6483bb906b6acfa5e",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/csuk%C3%A1s-istv%C3%A1n-sz%C3%ADnh%C3%A1z/4e0ae3f6483bb906b6acfa5e",
+        "address": "J\u00f3kai u. 3.",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Performing Arts Venue > Theater"
+        ],
+        "tips": [
+          "check for kid programs"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.83124472506912,
+          46.83238726478532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fapuma",
+        "id": "4c0a6279bbc676b09cad49d5",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/fapuma/4c0a6279bbc676b09cad49d5",
+        "address": "Somogyi B\u00e9la utca",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fast Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.881695,
+          46.854953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park J\u00e1tsz\u00f3t\u00e9r, Balatonf\u00f6ldv\u00e1r",
+        "id": "51ea4c77498e3b772d420e57",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/park-j%C3%A1tsz%C3%B3t%C3%A9r-balatonf%C3%B6ldv%C3%A1r/51ea4c77498e3b772d420e57",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.879758,
+          46.851768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "H\u00fcll\u0151 Ki\u00e1ll\u00edt\u00e1s",
+        "id": "520bafb911d2800af6d93d6c",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/h%C3%BCll%C5%91-ki%C3%A1ll%C3%ADt%C3%A1s/520bafb911d2800af6d93d6c",
+        "address": "",
+        "website": "http://www.hullozoo.hu/siofok",
+        "categories": [
+          "Arts and Entertainment > Zoo"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.049542,
+          46.9052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S\u00fcmegi V\u00e1r",
+        "id": "4c4c45c2959220a16b13c510",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/s%C3%BCmegi-v%C3%A1r/4c4c45c2959220a16b13c510",
+        "address": "V\u00e1rkert",
+        "website": "http://www.sumegvar.hu",
+        "categories": [
+          "Landmarks and Outdoors > Castle",
+          "Landmarks and Outdoors > Historic and Protected Site",
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.28278918115818,
+          46.982461471984784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florida Fagyiz\u00f3",
+        "id": "4c41d7523735be9a1ffe18a4",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/florida-fagyiz%C3%B3/4c41d7523735be9a1ffe18a4",
+        "address": "R\u00e1k\u00f3czi u. 85.",
+        "website": "http://www.floridafagyizo.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [
+          "The best ice cream by the Balaton for long years."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.380373228751605,
+          46.70441129252682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parasztudvar Bauernhof Restaurant",
+        "id": "4e218f31483b041af1edc22c",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/parasztudvar-bauernhof-restaurant/4e218f31483b041af1edc22c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Were there offseason. Quickly served us a goulash and pancake menu for cheap."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.889355273580705,
+          46.912398226006815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zam\u00e1rdi Kalandpark",
+        "id": "4e368743e4cd9aba7ccf45d5",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/zam%C3%A1rdi-kalandpark/4e368743e4cd9aba7ccf45d5",
+        "address": "Si\u00f3foki \u00fat",
+        "website": "http://www.zamardikalandpark.hu",
+        "categories": [
+          "Arts and Entertainment > Amusement Park",
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [
+          "Pretty good selection for all ages. Payment counter is a big UX mistake."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Amusement Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.969584020590723,
+          46.88550310333394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coop mini",
+        "id": "5211cd67498ed9ce7b666064",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/coop-mini/5211cd67498ed9ce7b666064",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [
+          "Bestest and kindest service. Closed at noon."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.945858411318138,
+          46.8775067700038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imre B\u00fcf\u00e9",
+        "id": "51d8792e498ec3d152deb2b2",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/imre-b%C3%BCf%C3%A9/51d8792e498ec3d152deb2b2",
+        "address": "Marg\u00f3 Ede S\u00e9t\u00e1ny",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Snack Place"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Snack Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.94131347902405,
+          46.88580604065946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tihanyi R\u00e9tesh\u00e1z \u00e9s L\u00e1ngosoz\u00f3",
+        "id": "53e3783a498e596af8dcc4f1",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/tihanyi-r%C3%A9tesh%C3%A1z-%C3%A9s-l%C3%A1ngosoz%C3%B3/53e3783a498e596af8dcc4f1",
+        "address": "M\u00e1dl Ferenc t\u00e9r 6.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [
+          "Given the horrible surroundings and location a fully surprisingly good retes/strudel and an okay langos."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.88834,
+          46.912999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parti B\u00fcf\u00e9",
+        "id": "4e455a62c65bd6ffbe827a55",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/parti-b%C3%BCf%C3%A9/4e455a62c65bd6ffbe827a55",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Okay food factory. Langos is bearable."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.94608469629569,
+          46.88636713001118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bodorka Balatoni Akv\u00e1rium",
+        "id": "53cb8ec7498e1f186ec00f6d",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/bodorka-balatoni-akv%C3%A1rium/53cb8ec7498e1f186ec00f6d",
+        "address": "Tagore S\u00e9t\u00e1ny",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Aquarium"
+        ],
+        "tips": [
+          "Good idea that smells like EU money laundry -- much smaller than you'd expect."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Aquarium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89785689126596,
+          46.95519456565125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Levendula kezmuves fagyizo",
+        "id": "5b4de603c0af57002c92872d",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/levendula-kezmuves-fagyizo/5b4de603c0af57002c92872d",
+        "address": "Tagore s\u00e9t\u00e1ny 333",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Trust the brand."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.897763,
+          46.954912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eszterh\u00e1zy Strand",
+        "id": "4e1af89c1f6e88001e43e534",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/eszterh%C3%A1zy-strand/4e1af89c1f6e88001e43e534",
+        "address": "",
+        "website": "http://www.balatonfuredistrandok.hu",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [
+          "Nice infra, although not cheap."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.902381048334156,
+          46.95577657104475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borcsa \u00c9tterem",
+        "id": "4ce56bcb7f69b60c727bb412",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/borcsa-%C3%A9tterem/4ce56bcb7f69b60c727bb412",
+        "address": "Tagore s\u00e9t\u00e1ny",
+        "website": "http://borcsaetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "The only option for a good price to value lunch if you don't want to queue for ages within the strand."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.902214105055457,
+          46.95629930087352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balatoni Region\u00e1lis Kutat\u00f3int\u00e9zet & K\u00f6nyvt\u00e1r",
+        "id": "4f200ed7e4b01a2ba206d065",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/balatoni-region%C3%A1lis-kutat%C3%B3int%C3%A9zet--k%C3%B6nyvt%C3%A1r/4f200ed7e4b01a2ba206d065",
+        "address": "F\u0151 t\u00e9r 2/a",
+        "website": "",
+        "categories": [
+          "Community and Government > Library"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.052734840011613,
+          46.905763182452496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lira-Mora K\u00f6nyvesbolt",
+        "id": "4ec77c868b81dcfdc371dc9c",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/liramora-k%C3%B6nyvesbolt/4ec77c868b81dcfdc371dc9c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Bookstore"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05052852254041,
+          46.90481607793565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zam\u00e1rdi K\u00f6nyvt\u00e1r",
+        "id": "5b6183eee96d0c002c1e38e1",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/zam%C3%A1rdi-k%C3%B6nyvt%C3%A1r/5b6183eee96d0c002c1e38e1",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Community and Government > Library"
+        ],
+        "tips": [
+          "Pretty good library, closes by noon."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.947041,
+          46.878447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L\u00e9da Cukr\u00e1szda",
+        "id": "4c55b9ac30f92d7fe8459fbc",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/l%C3%A9da-cukr%C3%A1szda/4c55b9ac30f92d7fe8459fbc",
+        "address": "",
+        "website": "http://www.balatonra.hu/hun/vendeglato/balatonszarszo/cukraszda/leda_cukraszda_es_kavezo_1063",
+        "categories": [
+          "Dining and Drinking > Dessert Shop",
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "okay ice cream for a decent price"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.83051343776085,
+          46.83141847784138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mamzibar & Grill",
+        "id": "5b48fae3f870fd002c27c493",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/mamzibar--grill/5b48fae3f870fd002c27c493",
+        "address": "Somogyi B\u00e9la utca 27.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Beach Bar",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Good food well priced, beef stew, lecso was fine. Bolognese had more sugar than an ice cream. Service is totally messed up."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beach Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.890227,
+          46.859425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Riva Gelateria",
+        "id": "5d35e1f83700d80008a98363",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/la-riva-gelateria/5d35e1f83700d80008a98363",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Pretty okay ice."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.936288,
+          46.969171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V\u00edg Moln\u00e1r Cs\u00e1rda",
+        "id": "4e25902e227197a9df0a5c51",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/v%C3%ADg-moln%C3%A1r-cs%C3%A1rda/4e25902e227197a9df0a5c51",
+        "address": "K\u0151kors\u00f3 u. 1.",
+        "website": "http://www.vigmolnarcsarda.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.928711409811793,
+          46.97298223872759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unicredit",
+        "id": "52147f2711d2b67cb5940b06",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/unicredit/52147f2711d2b67cb5940b06",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Financial Service > Banking and Finance > Bank"
+        ],
+        "tips": [
+          "Super kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.052715036640635,
+          46.90610657112427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T\u00f6lgyfa \u00c9tterem",
+        "id": "5cd13e430802d4002c615db9",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/t%C3%B6lgyfa-%C3%A9tterem/5cd13e430802d4002c615db9",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.930079,
+          46.881687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Levendula k\u00e9zm\u0171ves fagylaltoz\u00f3",
+        "id": "57aa1642cd10141c34dce68a",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/levendula-k%C3%A9zm%C5%B1ves-fagylaltoz%C3%B3/57aa1642cd10141c34dce68a",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Good ice. Plum."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.941312,
+          46.884642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciao Ciao Italia",
+        "id": "4fde3814e4b05be236ae95cb",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/ciao-ciao-italia/4fde3814e4b05be236ae95cb",
+        "address": "Orgona u. 9.",
+        "website": "https://ciaociaoitalia.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [
+          "Great pizza, great pizza base, outstanding lasagna, small jumping castle in the back."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.99171959864431,
+          46.89452872042875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pingvin Cukr\u00e1szda",
+        "id": "4e59241b45dd705592926457",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/pingvin-cukr%C3%A1szda/4e59241b45dd705592926457",
+        "address": "Vilma u. 12.",
+        "website": "http://pingvin-cukraszda.webnode.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [
+          "All fine, but my heart is still with Florida."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.36906519997629,
+          46.70564657020631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guly\u00e1s Kunyh\u00f3 \u00c9tterem",
+        "id": "4df3393ed4c01ff6b2eb848d",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/guly%C3%A1s-kunyh%C3%B3-%C3%A9tterem/4df3393ed4c01ff6b2eb848d",
+        "address": "8647 Balatonm\u00e1riaf\u00fcrd\u0151",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Better than expected generic food rendering location."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.370435937297188,
+          46.70608431697945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zam\u00e1rdi szabadstrand",
+        "id": "4c2719ada852c92898c5e76c",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/zam%C3%A1rdi-szabadstrand/4c2719ada852c92898c5e76c",
+        "address": "Kiss Ern\u0151 u.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach",
+          "Travel and Transportation > Lodging > Resort"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.93979711953158,
+          46.88492150737637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soml\u00f3hegy",
+        "id": "4c3887aeae2da5932bc400c6",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/soml%C3%B3hegy/4c3887aeae2da5932bc400c6",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Vineyard"
+        ],
+        "tips": [
+          "A magic place."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vineyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.407931320783735,
+          47.139815762529444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barcza B\u00e1lint Pinc\u00e9szete",
+        "id": "51c5fb9a498e793c3f83f62a",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/barcza-b%C3%A1lint-pinc%C3%A9szete/51c5fb9a498e793c3f83f62a",
+        "address": "Soml\u00f3 hegy, HRSZ. 1572/1",
+        "website": "http://www.barczabor.hu",
+        "categories": [
+          "Dining and Drinking > Winery"
+        ],
+        "tips": [
+          "Great man, great wines."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Winery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.37262007475024,
+          47.14139983819535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parti B\u00fcf\u00e9",
+        "id": "4fedb596e4b0bfd1e525a4e2",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/parti-b%C3%BCf%C3%A9/4fedb596e4b0bfd1e525a4e2",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [
+          "The only suboptimal l\u00e1ngos in the Kiez."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.01037273644136,
+          46.90106337000704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pool @ Villa T\u00f3th",
+        "id": "51fe481f498e56340c2e9f77",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/pool--villa-t%C3%B3th/51fe481f498e56340c2e9f77",
+        "address": "",
+        "website": "",
+        "categories": [],
+        "tips": [],
+        "coord_source": "checkins",
+        "bucket": "",
+        "topic": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.941518917286675,
+          46.99096757833616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patk\u00f3 B\u00fcf\u00e9",
+        "id": "4ddf8a1aae60c015c098061d",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/patk%C3%B3-b%C3%BCf%C3%A9/4ddf8a1aae60c015c098061d",
+        "address": "Tancsics M. utca",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.963036631544274,
+          46.88555770074989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V\u00f6lgyh\u00edd k\u00e1v\u00e9z\u00f3",
+        "id": "53c10a7a498e95ba028a8579",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/v%C3%B6lgyh%C3%ADd-k%C3%A1v%C3%A9z%C3%B3/53c10a7a498e95ba028a8579",
+        "address": "K\u0151r\u00f6shegyi v\u00f6lgyh\u00edd alatt",
+        "website": "http://www.volgyhidkavezo.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.908072908361518,
+          46.814711378212365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALDI",
+        "id": "575fddc3498e024fe0dc5b35",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/aldi/575fddc3498e024fe0dc5b35",
+        "address": "M\u00e1jus 1. utca 10.",
+        "website": "http://www.aldi.hu",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [
+          "The new player on the block, pretty good!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.90435879907313,
+          46.86236821615615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lovas Cs\u00e0rda",
+        "id": "4dd9005dd4c05d50970f8cd4",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/lovas-cs%C3%A0rda/4dd9005dd4c05d50970f8cd4",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Even after ten years still reliably good, nothing fancy, decent food, almost surprisingly cheap compared to the new 'cs\u00e1rda' generation."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.963935611075076,
+          46.99039497741191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zom\u00e1nc Bisztr\u00f3cska",
+        "id": "57645a8a498ef5de2e66f1f6",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/zom%C3%A1nc-bisztr%C3%B3cska/57645a8a498ef5de2e66f1f6",
+        "address": "Vazul utca 8.",
+        "website": "http://www.zomancbisztrocska.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Surprisingly good food, kind service and reasonable prices. Reserve a table in advance."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.75898784045926,
+          46.93938692773759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szent Jakab forr\u00e1s",
+        "id": "5213362111d25b95df81b4c3",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/szent-jakab-forr%C3%A1s/5213362111d25b95df81b4c3",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Well"
+        ],
+        "tips": [
+          "They say it has magic properties, I say it has a good taste."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.758778336980388,
+          46.94197771297901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balatonudvari Strand",
+        "id": "4c5d57852815c9285277b467",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/balatonudvari-strand/4c5d57852815c9285277b467",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.80731258451964,
+          46.90363358492718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F\u00f6veny ABC (Kunigunda 2000)",
+        "id": "4e06db8f45ddb2875c4758f7",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/f%C3%B6veny-abc-kunigunda-2000/4e06db8f45ddb2875c4758f7",
+        "address": "8242 Balatonudvari, F\u00f6venyes",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail",
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [
+          "Nice service, good selection, open til 20:00."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Food and Beverage Retail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.78962602182863,
+          46.89548296835094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borvir\u00e1g boroz\u00f3, s\u00f6r\u00f6z\u0151",
+        "id": "4f9d6e8ce4b0d8e623790797",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/borvir%C3%A1g-boroz%C3%B3-s%C3%B6r%C3%B6z%C5%91/4f9d6e8ce4b0d8e623790797",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [
+          "Fr\u00f6ccs by the bike trail."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.789302825927734,
+          46.894874572753906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M\u00fcller Pince - \u00d6reg Leshegy",
+        "id": "4c1390d3a1010f4744c64a18",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/m%C3%BCller-pince--%C3%B6reg-leshegy/4c1390d3a1010f4744c64a18",
+        "address": "",
+        "website": "https://www.balatonakali.hu/Turizmus/Bor/Muller-Pince-anno-1785",
+        "categories": [
+          "Dining and Drinking > Winery"
+        ],
+        "tips": [
+          "Proper wine, unbelievable deal, kind service after 16:00."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Winery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.771622678669207,
+          46.90368074737295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bringakali",
+        "id": "517d26a1e4b02668542f9827",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/bringakali/517d26a1e4b02668542f9827",
+        "address": "",
+        "website": "http://www.bringakali.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner",
+          "Retail > Sporting Goods Retail > Bicycle Store"
+        ],
+        "tips": [
+          "Good coffee, but hard to find with a car."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.753853647118103,
+          46.88150579981909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kist\u00fccs\u00f6k \u00c9tterem, Borpince \u00e9s Vinot\u00e9ka",
+        "id": "4b6d7716f964a5203a762ce3",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/kist%C3%BCcs%C3%B6k-%C3%A9tterem-borpince-%C3%A9s-vinot%C3%A9ka/4b6d7716f964a5203a762ce3",
+        "address": "Bajcsy Zs. utca 25.",
+        "website": "http://www.kistucsok.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.780087768359905,
+          46.80740702510727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Csigah\u00e1z",
+        "id": "4db445634df05e5aaadc20df",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/csigah%C3%A1z/4db445634df05e5aaadc20df",
+        "address": "B\u00e9la utca 1.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [
+          "Bland food, okay prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.881115042028803,
+          46.85478125472721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Party Bistro",
+        "id": "595f6a9bf0ca9504a2ce26e1",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/party-bistro/595f6a9bf0ca9504a2ce26e1",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Night Club"
+        ],
+        "tips": [
+          "Pretty decent food, reasonably priced, kinda fast."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Night Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.92934630590573,
+          46.88374692624999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donnert Vid\u00e1mpark",
+        "id": "53cc1d78498e5dff618d744e",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/donnert-vid%C3%A1mpark/53cc1d78498e5dff618d744e",
+        "address": "Zam\u00e1rdi \u00fat",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Amusement Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Amusement Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.017541350996925,
+          46.897270273296776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boh\u00e9m Birtok \u00c9s Cs\u00e1rda",
+        "id": "5f1d581e2835f147a2f8d772",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/boh%C3%A9m-birtok-%C3%A9s-cs%C3%A1rda/5f1d581e2835f147a2f8d772",
+        "address": "Si\u00f3foki \u00fat 013/7 HRSZ",
+        "website": "https://bohembirtok.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Inn",
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Okay food for okay prices, kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.971816,
+          46.885875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Z\u00f6lds\u00e9ges",
+        "id": "62d2dfa5d704df641f85a3a2",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/z%C3%B6lds%C3%A9ges/62d2dfa5d704df641f85a3a2",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Fruit and Vegetable Store"
+        ],
+        "tips": [
+          "The secret source for the good stuff!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Fruit and Vegetable Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.942669,
+          46.881014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dokk hals\u00fct\u00f6de",
+        "id": "60cf1a44c49e726ee58bf08d",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/dokk-hals%C3%BCt%C3%B6de/60cf1a44c49e726ee58bf08d",
+        "address": "Marg\u00f3 Ede s\u00e9t\u00e1ny",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.947093,
+          46.886001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kil\u00e1t\u00f3 Terasz",
+        "id": "501ac0aae4b07ea8afbb5cdc",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/kil%C3%A1t%C3%B3-terasz/501ac0aae4b07ea8afbb5cdc",
+        "address": "Kil\u00e1t\u00f3 d\u0171l\u0151",
+        "website": "https://www.idokep.hu/webkamera/szancso",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot"
+        ],
+        "tips": [
+          "Now with food options, froccs tasted pretty bad."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.933466649121055,
+          46.87105739971416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bubbles \u00d6nkiszolg\u00e1l\u00f3 mosoda",
+        "id": "5f2c329e3f3ebf7b1cfeb329",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/bubbles-%C3%B6nkiszolg%C3%A1l%C3%B3-mosoda/5f2c329e3f3ebf7b1cfeb329",
+        "address": "Si\u00f3 utca 2.",
+        "website": "https://bubbles.hu/laundries/siofok-8600-sio-u-2",
+        "categories": [
+          "Business and Professional Services > Laundry Service"
+        ],
+        "tips": [
+          "Self service laundry. Process is a bit complicated."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Laundry Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.049305975437164,
+          46.904914961685435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dokk Fagyiz\u00f3",
+        "id": "60fdbe46e0aece0c9aefbbd9",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/dokk-fagyiz%C3%B3/60fdbe46e0aece0c9aefbbd9",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Reasonable ice."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.946934,
+          46.885777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soml\u00f3 hegy",
+        "id": "4dbb389c0437955ec011e7d7",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/soml%C3%B3-hegy/4dbb389c0437955ec011e7d7",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Other Great Outdoors"
+        ],
+        "tips": [
+          "Unfo global warming is killing it."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Other Great Outdoors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35479698607978,
+          47.1410726646258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M\u00e1rk\u00f3i Cs\u00e1rda",
+        "id": "52da83a011d282e84ceff7a9",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/m%C3%A1rk%C3%B3i-cs%C3%A1rda/52da83a011d282e84ceff7a9",
+        "address": "",
+        "website": "http://www.markogasztro.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Good food, versatile but believable selection, reasonable prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.813364028930664,
+          47.12125778198242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "magvet\u0151 p\u00e9ks\u00e9g",
+        "id": "66ab478d87ac3e7108effe73",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/magvet%C5%91-p%C3%A9ks%C3%A9g/66ab478d87ac3e7108effe73",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [
+          "Proper bread, be quick in full season."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.875855,
+          46.947985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Start Nyomtatv\u00e1ny- \u00e9s Pap\u00edr\u00fczlet",
+        "id": "567a4e15498e0dcfce3db2a9",
+        "list_id": "53e9c9fc498ee666e95cac35",
+        "list_name": "Plattensee mit Kindern",
+        "url": "https://app.foursquare.com/v/start-nyomtatv%C3%A1ny-%C3%A9s-pap%C3%ADr%C3%BCzlet/567a4e15498e0dcfce3db2a9",
+        "address": "Bajcsy-Zsilinszky utca 58.",
+        "website": "http://www.startnyomtatvanypapir.hu",
+        "categories": [
+          "Retail > Stationery Store"
+        ],
+        "tips": [
+          "Great selection."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Stationery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05774,
+          46.9036199
+        ]
+      }
+    }
+  ]
+}

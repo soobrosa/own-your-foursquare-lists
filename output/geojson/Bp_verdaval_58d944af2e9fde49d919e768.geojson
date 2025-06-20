@@ -1,0 +1,745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00dcr\u00f6mi H\u00fctte",
+        "id": "5201f9c8498eaa5661c5071b",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/%C3%BCr%C3%B6mi-h%C3%BCtte/5201f9c8498eaa5661c5071b",
+        "address": "R\u00f2kahegyi \u00fat hrsz: 1000",
+        "website": "http://uromihutte.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant",
+          "Dining and Drinking > Restaurant > BBQ Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.02911095097222,
+          47.59234882871543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johnny's Bistro Buda",
+        "id": "5814dca138faa541c40912bd",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/johnnys-bistro-buda/5814dca138faa541c40912bd",
+        "address": "Szarvas G\u00e1bor \u00fat 33.",
+        "website": "http://www.johnnys.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.989581700547795,
+          47.51525846022867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pocakos Lakatos",
+        "id": "4c330bd07cc0c9b6ed1df19a",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/pocakos-lakatos/4c330bd07cc0c9b6ed1df19a",
+        "address": "Soroks\u00e1ri \u00fat",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.086042802772443,
+          47.45608799591471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoan nam - Vietnami Speci\u00e1lis Melegkonyha",
+        "id": "541c7f50498ed2c33641e8a8",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/hoan-nam--vietnami-speci%C3%A1lis-melegkonyha/541c7f50498ed2c33641e8a8",
+        "address": "El\u0151d u. 1.",
+        "website": "http://www.vietnamirestaurantbudapest.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.13467692781769,
+          47.48771805610419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spicy Fish | \u6cb8\u817e\u9b5a\u4e61 \u5e03\u8fbe\u4f69\u65af",
+        "id": "58bda46b735a4d22f80e9bfc",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/spicy-fish--%E6%B2%B8%E8%85%BE%E9%AD%9A%E4%B9%A1-%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF/58bda46b735a4d22f80e9bfc",
+        "address": "Jegenye u. 26",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Szechuan Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Zhejiang Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Szechuan Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.124680651565924,
+          47.48053510659268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoa Sen Qu\u00e1n",
+        "id": "4e0c9f0752b1289d11893522",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/hoa-sen-qu%C3%A1n/4e0c9f0752b1289d11893522",
+        "address": "Gy\u00f6mr\u00f6i \u00fat 79-82.",
+        "website": "http://www.hoasenetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.176886,
+          47.457492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milky Way Chinese Restaurant",
+        "id": "4e38381018a8470916d2e9c6",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/milky-way-chinese-restaurant/4e38381018a8470916d2e9c6",
+        "address": "Monori u. 1-3",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Dim Sum Restaurant",
+          "Dining and Drinking > Restaurant > Dumpling Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.12224054336548,
+          47.48103109086807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S\u00f3gor Vend\u00e9gl\u0151",
+        "id": "4d57f4f792326ea8b46360c0",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/s%C3%B3gor-vend%C3%A9gl%C5%91/4d57f4f792326ea8b46360c0",
+        "address": "N\u00e1dasdy K\u00e1lm\u00e1n u. 21-23.",
+        "website": "http://www.sogorvendeglo.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.111534422361665,
+          47.5847404215795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N\u00f3tafa Vend\u00e9gl\u0151",
+        "id": "4dc4151218387d1bd519928c",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/n%C3%B3tafa-vend%C3%A9gl%C5%91/4dc4151218387d1bd519928c",
+        "address": "Ady Endre \u00fat 37.",
+        "website": "http://www.notafavendeglo.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.13863489146501,
+          47.45534579002075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dallas \u00c9tterem",
+        "id": "4d6b9d122bf05481d658d1ed",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/dallas-%C3%A9tterem/4d6b9d122bf05481d658d1ed",
+        "address": "Zay u. 5.",
+        "website": "http://www.dallasetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > American Restaurant",
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "American Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.030152612331722,
+          47.55266282117259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patiszon Hamburger B\u00e1r",
+        "id": "522a2b0611d2f4410b5f3e70",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/patiszon-hamburger-b%C3%A1r/522a2b0611d2f4410b5f3e70",
+        "address": "4",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.172419015720553,
+          47.439801237896646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adri Gyros",
+        "id": "4d7909e571a68cfa34c20f86",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/adri-gyros/4d7909e571a68cfa34c20f86",
+        "address": "\u00dcll\u0151i \u00fat 210.",
+        "website": "http://adrigyros.com/kapcsolat",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.140488654297606,
+          47.45951158561112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakas \u00c9tterem",
+        "id": "4c5162ec5ee81b8dce152400",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/kakas-%C3%A9tterem/4c5162ec5ee81b8dce152400",
+        "address": "J\u00f3zsef u. 55.",
+        "website": "https://kakas.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.167283936907516,
+          47.4535727691403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burek P\u00e9ks\u00e9g",
+        "id": "4ed0989b5c5c9528f9800c4e",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/burek-p%C3%A9ks%C3%A9g/4ed0989b5c5c9528f9800c4e",
+        "address": "K\u0151r\u00f6si Csoma S\u00e1ndor s\u00e9t\u00e1ny 6.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Restaurant > Eastern European Restaurant",
+          "Dining and Drinking > Bagel Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.122656901889165,
+          47.484134379273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ezer S\u00e1rk\u00e1ny \u00c9tterem",
+        "id": "4f9ee256e4b020e611805893",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/ezer-s%C3%A1rk%C3%A1ny-%C3%A9tterem/4f9ee256e4b020e611805893",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Asian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.155762327047672,
+          47.48981721476008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiss-Kerekes L\u00e1ngosh\u00e1z",
+        "id": "513b7ba7d63ebcd1f094614c",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/kisskerekes-l%C3%A1ngosh%C3%A1z/513b7ba7d63ebcd1f094614c",
+        "address": "Testv\u00e9rhegyi \u00fat 1.",
+        "website": "http://langoshaz.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.022097253904946,
+          47.564782234095496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leonidas Gyros",
+        "id": "4df76ec7a809a581cfd959c0",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/leonidas-gyros/4df76ec7a809a581cfd959c0",
+        "address": "\u00dcll\u0151i \u00fat 214.",
+        "website": "https://leonidasgyros.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.141187469235557,
+          47.45930475139935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulliver \u00c9tterem, Pizz\u00e9ria, K\u00e1v\u00e9z\u00f3, Te\u00e1z\u00f3",
+        "id": "4cf01c0894feb1f78d1e0fba",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/gulliver-%C3%A9tterem-pizz%C3%A9ria-k%C3%A1v%C3%A9z%C3%B3-te%C3%A1z%C3%B3/4cf01c0894feb1f78d1e0fba",
+        "address": "\u00dcll\u0151i \u00fat 208.",
+        "website": "http://www.gulliveretterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.140076854079428,
+          47.45985513506317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V\u00edg Kalm\u00e1r",
+        "id": "4bdc2893c79cc928f86085e9",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/v%C3%ADg-kalm%C3%A1r/4bdc2893c79cc928f86085e9",
+        "address": "F\u00f5 \u00fat 78.",
+        "website": "http://www.vigkalmar.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.116141207657346,
+          47.56414078916509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R\u00e9tisas Vend\u00e9gl\u0151",
+        "id": "4cb0764def1b3704aac33a00",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/r%C3%A9tisas-vend%C3%A9gl%C5%91/4cb0764def1b3704aac33a00",
+        "address": "Rimaszombati \u00fat 7.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.01956804948142,
+          47.467144756781956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P\u00e9nz\u00fcgy\u0151r \u00c9tterem",
+        "id": "4d610235338bb60c77502fbd",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/p%C3%A9nz%C3%BCgy%C5%91r-%C3%A9tterem/4d610235338bb60c77502fbd",
+        "address": "Pasar\u00e9ti k\u00f6z",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.987735150618093,
+          47.5248550314362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunyha Vend\u00e9gl\u0151",
+        "id": "50d20e6be4b0abad221f905c",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/dunyha-vend%C3%A9gl%C5%91/50d20e6be4b0abad221f905c",
+        "address": "Feketefej u. 2-4.",
+        "website": "http://dunyha.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.937200039988557,
+          47.53997852415113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexandros",
+        "id": "4ee0a9a16da1d9fae349e050",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/alexandros/4ee0a9a16da1d9fae349e050",
+        "address": "Vizimoln\u00e1r u. 4.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.051732451444657,
+          47.568271110618944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burger House",
+        "id": "4fe1a9a3e4b0c941583aa9fb",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/burger-house/4fe1a9a3e4b0c941583aa9fb",
+        "address": "Rem\u00e9nyi Ede u. 1.",
+        "website": "http://www.burgerhouse.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.045632714485755,
+          47.555727833556695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magic Burger Bar",
+        "id": "5154590de4b0d72678e2e6e0",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/magic-burger-bar/5154590de4b0d72678e2e6e0",
+        "address": "Al\u00edz u. 8.",
+        "website": "http://magicburger.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.048340320587158,
+          47.45753287348765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DP BBQ",
+        "id": "5d307fecbe438a0008ce4a79",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/dp-bbq/5d307fecbe438a0008ce4a79",
+        "address": "Haj\u00f3 utca 2.",
+        "website": "http://dpbbq.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > BBQ Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "BBQ Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.042412,
+          47.429157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halas Guszti",
+        "id": "5ec90c2bff29d30007d2e8da",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/halas-guszti/5ec90c2bff29d30007d2e8da",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Buffet"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Buffet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.092205,
+          47.428402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00fcf\u00e9 \u0110\u0103ng M\u01b0\u1eddi",
+        "id": "4f23e5b3e4b050258a9d3ce2",
+        "list_id": "58d944af2e9fde49d919e768",
+        "list_name": "Bp verdaval",
+        "url": "https://app.foursquare.com/v/b%C3%BCf%C3%A9-%C4%91%C4%83ng-m%C6%B0%E1%BB%9Di/4f23e5b3e4b050258a9d3ce2",
+        "address": "K\u0151b\u00e1nyai \u00fat 25",
+        "website": "http://vietnamietterem.hu/bufe",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant",
+          "Retail > Food and Beverage Retail > Gourmet Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.099513920076326,
+          47.488861267183104
+        ]
+      }
+    }
+  ]
+}

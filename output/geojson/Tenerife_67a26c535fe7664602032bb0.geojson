@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piscina Natural De La Punta",
+        "id": "4db1a00b8154905aadc47f40",
+        "list_id": "67a26c535fe7664602032bb0",
+        "list_name": "Tenerife",
+        "url": "https://app.foursquare.com/v/piscina-natural-de-la-punta/4db1a00b8154905aadc47f40",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach",
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.33193250595403,
+          28.566601216422836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taberna Italiana La Piedra",
+        "id": "63eb99b71d089615acf42d1d",
+        "list_id": "67a26c535fe7664602032bb0",
+        "list_name": "Tenerife",
+        "url": "https://app.foursquare.com/v/taberna-italiana-la-piedra/63eb99b71d089615acf42d1d",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.345348920984378,
+          28.55395303036596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piscinas Naturales de Bajamar",
+        "id": "4bcc76b5fb84c9b6e460203e",
+        "list_id": "67a26c535fe7664602032bb0",
+        "list_name": "Tenerife",
+        "url": "https://app.foursquare.com/v/piscinas-naturales-de-bajamar/4bcc76b5fb84c9b6e460203e",
+        "address": "Av del Sol, 41",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach",
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.344643,
+          28.556282
+        ]
+      }
+    }
+  ]
+}

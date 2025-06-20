@@ -1,0 +1,1593 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jasne B\u0142onia",
+        "id": "4d8f428bcb9b224b405d9641",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/jasne-b%C5%82onia/4d8f428bcb9b224b405d9641",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54057491504556,
+          53.43976910695488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzeum Techniki I Komunikacji",
+        "id": "4dceca32c65bdac7136a9f13",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/muzeum-techniki-i-komunikacji/4dceca32c65bdac7136a9f13",
+        "address": "",
+        "website": "http://www.muzeumtechniki.eu",
+        "categories": [
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [
+          "Small, but nice. Interesting vehicles."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Science Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5405002407175,
+          53.44798112654655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Kasprowicza",
+        "id": "4ed0da570aafd1868f6a987c",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/park-kasprowicza/4ed0da570aafd1868f6a987c",
+        "address": "Szczecin, Polska",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.53477,
+          53.444457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stojaki Szczecin",
+        "id": "53945042498ee4f723b2baf8",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/stojaki-szczecin/53945042498ee4f723b2baf8",
+        "address": "Rayskiego 19",
+        "website": "http://stojaki.szczecin.pl",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.545916513513811,
+          53.43178620115081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Radecki",
+        "id": "4cd9a3341891236a94843c0b",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/radecki/4cd9a3341891236a94843c0b",
+        "address": "Tkacka 11",
+        "website": "http://www.radecki.com.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.553048560359647,
+          53.427188040051725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pierogarnia Kaszubska",
+        "id": "52594a13498ea0563104ecb9",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/pierogarnia-kaszubska/52594a13498ea0563104ecb9",
+        "address": "Plac Zgody 1",
+        "website": "http://www.pierogarnia.szczecin.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Dumpling Restaurant"
+        ],
+        "tips": [
+          "Good food, kind service, laughable prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dumpling Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.544243345133946,
+          53.428971566204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krowa Na Deptaku",
+        "id": "528ba5c511d27035a0076785",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/krowa-na-deptaku/528ba5c511d27035a0076785",
+        "address": "Deptak Bogus\u0142awa",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.544504308032836,
+          53.42987809356479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fabryka Bistro na dePTAKU",
+        "id": "50a212bb29a66c70c0abf3e3",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/fabryka-bistro-na-deptaku/50a212bb29a66c70c0abf3e3",
+        "address": "Ksi\u0119cia Bogus\u0142awa X",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.544263966784719,
+          53.430362029281454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u015aniadanie przy b\u0142oniach",
+        "id": "524fd9b411d270d472ccb2f8",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/%C5%9Bniadanie-przy-b%C5%82oniach/524fd9b411d270d472ccb2f8",
+        "address": "Kr\u00f3lowej Korony Polskiej 4",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Breakfast Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.53681680217375,
+          53.440103233264175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizzeria Bellini",
+        "id": "50f97fa3e4b01f651db82d35",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/pizzeria-bellini/50f97fa3e4b01f651db82d35",
+        "address": "Wojska Polskiego 134",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.528245309597763,
+          53.442343538896516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasztecik",
+        "id": "4cc02d76ca4aa1cd783b1eb4",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/pasztecik/4cc02d76ca4aa1cd783b1eb4",
+        "address": "Wojska Polskiego 46",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Snack Place",
+          "Dining and Drinking > Restaurant > Polish Restaurant",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Snack Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.541705640906892,
+          53.43082675304209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Mleczny Turysta",
+        "id": "4df0e988b0fbfee72f40da91",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/bar-mleczny-turysta/4df0e988b0fbfee72f40da91",
+        "address": "Obro\u0144c\u00f3w Stalingradu 6A",
+        "website": "http://barturystaszczecin.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.549454201156204,
+          53.429088799108705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AnadiGrill",
+        "id": "51485e31e4b0e685d0c94396",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/anadigrill/51485e31e4b0e685d0c94396",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55528427311065,
+          53.43722608506148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospudka - Czeska Restauracja",
+        "id": "52da62be498ee5f61fa08f6e",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/hospudka--czeska-restauracja/52da62be498ee5f61fa08f6e",
+        "address": "Kaszubska 12",
+        "website": "http://hospudka.szczecin.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Czech Restaurant"
+        ],
+        "tips": [
+          "Good food and drinks, kind service and reasonable prices. A must."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Czech Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54969919609032,
+          53.427662237427384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zamek Ksi\u0105\u017c\u0105t Pomorskich",
+        "id": "4cc96df27151721ea7996637",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/zamek-ksi%C4%85%C5%BC%C4%85t-pomorskich/4cc96df27151721ea7996637",
+        "address": "Korsarzy",
+        "website": "http://www.zamek.szczecin.pl",
+        "categories": [
+          "Landmarks and Outdoors > Castle",
+          "Arts and Entertainment > Art Gallery",
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [
+          "Castle. Has okay tourist info place."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.560462,
+          53.42618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muzeum Narodowe w Szczecinie \u2014 Muzeum Tradycji Regionalnych",
+        "id": "51ab83187dd218800a541d93",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/muzeum-narodowe-w-szczecinie--muzeum-tradycji-regionalnych/51ab83187dd218800a541d93",
+        "address": "Starom\u0142y\u0144ska 27",
+        "website": "http://www.muzeum.szczecin.pl",
+        "categories": [
+          "Arts and Entertainment > Museum",
+          "Arts and Entertainment > Museum > History Museum",
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.555003097023352,
+          53.42798246605033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lody Marczak",
+        "id": "516abe5be4b0b07eb5052775",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/lody-marczak/516abe5be4b0b07eb5052775",
+        "address": "Pilsudskiego 16",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.545522830211253,
+          53.43305620306289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pierogarnia Na Deptaku",
+        "id": "52063759498ef7bcc76687ad",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/pierogarnia-na-deptaku/52063759498ef7bcc76687ad",
+        "address": "Deptak Boguslawa",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.543903,
+          53.42921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tower of Seven Coats (Baszta Siedmiu P\u0142aszczy)",
+        "id": "51ab95c4498e5a9d498b55ee",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/baszta-siedmiu-p%C5%82aszczy/51ab95c4498e5a9d498b55ee",
+        "address": "Panie\u0144ska",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Historic and Protected Site",
+          "Landmarks and Outdoors > Monument"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Historic and Protected Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.56270773554195,
+          53.4260924100377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fabryka Lod\u00f3w",
+        "id": "54809b63498e6e352f787e85",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/fabryka-lod%C3%B3w/54809b63498e6e352f787e85",
+        "address": "\u015al\u0105ska 4",
+        "website": "http://fabrykalodow.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.547310246235844,
+          53.42967405288476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castellari Cafe",
+        "id": "4baa04fcf964a5204f443ae3",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/castellari-cafe/4baa04fcf964a5204f443ae3",
+        "address": "Tuwima 27",
+        "website": "http://www.castellari.pl",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Really good ice cream. Szczecin seems to be a hidden capital of ice cream."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.541194856709254,
+          53.44092244406385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wyszak - Browar Rodzinny",
+        "id": "5505acd3498ee93a88c62a5b",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/wyszak--browar-rodzinny/5505acd3498ee93a88c62a5b",
+        "address": "Ksi\u0119cia M\u015bciwoja II 8",
+        "website": "http://www.browarwyszak.pl",
+        "categories": [
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Bar > Beer Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.560146331787108,
+          53.424372907608934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Browar Stara Komenda",
+        "id": "4e7b7210b9939f7f6b367203",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/browar-stara-komenda/4e7b7210b9939f7f6b367203",
+        "address": "Stefana Batorego 3",
+        "website": "http://www.starakomenda.pl",
+        "categories": [
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [
+          "Good food, enormous portions, good beer, decent prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.550796192675223,
+          53.42176310810199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lodziarnia Lody Twarde",
+        "id": "54f1787c498ed9a9918decfb",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/lodziarnia-lody-twarde/54f1787c498ed9a9918decfb",
+        "address": "Wyzwolenia 27",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55393507205935,
+          53.43254280858386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lodziarnia Lody Naturalne",
+        "id": "5596a042498eb21cdb83f1b7",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/lodziarnia-lody-naturalne/5596a042498eb21cdb83f1b7",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.544864335130834,
+          53.43088890955004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lodziarnia Giovanni Volpe",
+        "id": "55717310498e88c3549121c9",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/lodziarnia-giovanni-volpe/55717310498e88c3549121c9",
+        "address": "Tkacka 64d",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.553506402852918,
+          53.427459515531446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karczma Polska",
+        "id": "4c7593fcd8948cfa2e1f68da",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/karczma-polska/4c7593fcd8948cfa2e1f68da",
+        "address": "plac Lotnik\u00f3w 3",
+        "website": "http://www.karczmapodkogutem.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55152722032551,
+          53.43053438740205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltica Welness & Spa",
+        "id": "4ce933d6678aa09377f4ecea",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/baltica-welness--spa/4ce933d6678aa09377f4ecea",
+        "address": "Pl. Rod\u0142a 8",
+        "website": "http://www.spabaltica.pl",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.555579101451269,
+          53.432378553193274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bro Burgers (BroBurgers)",
+        "id": "535e63f1498e70b6d3896012",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/bro-burgers/535e63f1498e70b6d3896012",
+        "address": "Rayskiego",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.545885076381333,
+          53.43143725371816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bistro Na J\u0119zykach",
+        "id": "51cee45b498e6d3598fe29bf",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/bistro-na-j%C4%99zykach/51cee45b498e6d3598fe29bf",
+        "address": "Tkacka",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.552649555980018,
+          53.42508343749803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Czarna Owca",
+        "id": "50ddff77e4b0748c68b174c7",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/czarna-owca/50ddff77e4b0748c68b174c7",
+        "address": "Bogus\u0142awa",
+        "website": "http://www.czarna-owca.pl",
+        "categories": [
+          "Dining and Drinking > Bar > Cocktail Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Cocktail Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5437493399557,
+          53.429293682517304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prywatka",
+        "id": "511a6621e4b091f4598d8976",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/prywatka/511a6621e4b091f4598d8976",
+        "address": "Bogus\u0142awa",
+        "website": "http://www.prywatka-szczecin.pl",
+        "categories": [
+          "Dining and Drinking > Bar",
+          "Arts and Entertainment > Night Club"
+        ],
+        "tips": [
+          "Randomly walked in, good food, kind service, value for money."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.543984904588891,
+          53.4297523147551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seta i galareta",
+        "id": "4eeba0bf6da1c494366462cb",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/seta-i-galareta/4eeba0bf6da1c494366462cb",
+        "address": "al. Wojska Polskiego 29 /10",
+        "website": "http://www.prywatka-szczecin.pl",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.543650287797917,
+          53.429189377447344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qrnik",
+        "id": "4bc1d384abf495212b7cc193",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/qrnik/4bc1d384abf495212b7cc193",
+        "address": "Monte Cassino",
+        "website": "http://www.qrnik.szin.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fast Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.544778611334953,
+          53.431430356916714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pralnia & WC",
+        "id": "4f114ecee4b067f66f71f646",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/pralnia--wc/4f114ecee4b067f66f71f646",
+        "address": "Komandorska",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Laundry Service"
+        ],
+        "tips": [
+          "A toilet at a tourist location always appreciated."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Laundry Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.565680397872978,
+          53.42922122346421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotunda P\u00f3\u0142nocna",
+        "id": "57129621498e153edb5f7d48",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/rotunda-p%C3%B3%C5%82nocna/57129621498e153edb5f7d48",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Night Club"
+        ],
+        "tips": [
+          "Surprisingly good coffee and kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Night Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.565269087942497,
+          53.43078819635865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wytw\u00f3rnia lod\u00f3w naturalnych",
+        "id": "55d0a6ac498e5b80fe3c497c",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/wytw%C3%B3rnia-lod%C3%B3w-naturalnych/55d0a6ac498e5b80fe3c497c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "A crazily good ice cream again. What is cooking in this city?"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.553043915635767,
+          53.4281306534879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skwer im. Guido Recka",
+        "id": "578be4f9498ee6c19944af83",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/skwer-im-guido-recka/578be4f9498ee6c19944af83",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.559454562381443,
+          53.42498378442708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trafostacja Sztuki",
+        "id": "51e286cf498e7d2255a561cd",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/trafostacja-sztuki/51e286cf498e7d2255a561cd",
+        "address": "\u015aw. Ducha",
+        "website": "http://www.trafo.org",
+        "categories": [
+          "Arts and Entertainment > Art Gallery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.556706058135298,
+          53.422511216838195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drabina Coffee",
+        "id": "56a2138d498ea31a4c6f29e8",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/drabina-coffee/56a2138d498ea31a4c6f29e8",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Finally good coffee, bit artsy, some German soft drinks."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.562973448518248,
+          53.422582444968924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auchan CH Galaxy (ex. real,-)",
+        "id": "4feace21e4b041de4e00e170",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/auchan-ch-galaxy-ex-real/4feace21e4b041de4e00e170",
+        "address": "Al.Wyzwolenia 18",
+        "website": "http://www.auchan.pl",
+        "categories": [
+          "Retail > Department Store"
+        ],
+        "tips": [
+          "The place to be."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Department Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.555593950922296,
+          53.433867891885654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Targowisko Manhattan",
+        "id": "5177d318e4b00c40f21a90ec",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/targowisko-manhattan/5177d318e4b00c40f21a90ec",
+        "address": "Ko\u0142\u0142\u0105taja",
+        "website": "",
+        "categories": [
+          "Retail > Market"
+        ],
+        "tips": [
+          "Lengyel piac!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.548536817425457,
+          53.44328195455151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pod Kogutem",
+        "id": "4dc043d8fa8cc78a86262df9",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/pod-kogutem/4dc043d8fa8cc78a86262df9",
+        "address": "Plac Lotnik\u00f3w",
+        "website": "http://www.karczmapodkogutem.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Polish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Polish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.551576754882735,
+          53.430586536284274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ukraineczka",
+        "id": "4e99c7b377c807974ba08dad",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/ukraineczka/4e99c7b377c807974ba08dad",
+        "address": "ul Panie\u0144ska 19",
+        "website": "http://www.ukraineczka.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.561111908523738,
+          53.425465238817566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dom Chleba",
+        "id": "4e5c86e6d22dcfc93415937f",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/dom-chleba/4e5c86e6d22dcfc93415937f",
+        "address": "Aleja Niepodleglosci 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55123259915348,
+          53.42411786849998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rybarex",
+        "id": "4e3415fdb0fb17f64f89b842",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/rybarex/4e3415fdb0fb17f64f89b842",
+        "address": "Malopolska 45",
+        "website": "http://rybarex.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [
+          "Great food for peanuts, kind service, even Szegedi Halaszle and 'paprikas'."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.560687,
+          53.42869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cukiernia Koch",
+        "id": "4da19bccb521224b92aaf7ed",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/cukiernia-koch/4da19bccb521224b92aaf7ed",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.545173238728722,
+          53.42668677589726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bombay",
+        "id": "4cdab0166ad1a093f79ce756",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/bombay/4cdab0166ad1a093f79ce756",
+        "address": "Partyzant\u00f3w 1",
+        "website": "http://india.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.550039231998975,
+          53.42380883203886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai Chinese Restaurant",
+        "id": "5a3eab7dbcbf7a68d9c33f51",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/shanghai-chinese-restaurant/5a3eab7dbcbf7a68d9c33f51",
+        "address": "Rynek Sienny 4",
+        "website": "http://www.exoticrestaurants.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.559415586823722,
+          53.42389001446731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bollywood Street Food Szczecin",
+        "id": "583e96d0005a0f67dd151c4c",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/bollywood-street-food-szczecin/583e96d0005a0f67dd151c4c",
+        "address": "Panie\u0144ska 20",
+        "website": "http://www.bollywood.com.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.561105901020099,
+          53.425564184205896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buddha - Thai & Fusion Restaurant",
+        "id": "509fa42be4b0d60e8e5a7cae",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/buddha--thai--fusion-restaurant/509fa42be4b0d60e8e5a7cae",
+        "address": "Rynek Sienny 2",
+        "website": "http://www.buddharestaurant.pl",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.559535297724981,
+          53.424091882935194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novotel Szczecin Centrum",
+        "id": "4bc8ce18762beee1b4893d38",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/novotel-szczecin-centrum/4bc8ce18762beee1b4893d38",
+        "address": "Al.3 Maja 31",
+        "website": "https://all.accor.com/hotel/3367/index.en.shtml?y_source=1_MTUzNTg1ODctNDQwLWxvY2F0aW9uLndlYnNpdGU=",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [
+          "Really decent breakfast, okay wellness for kids when it's not crowded, family room priced reasonable."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.550872503606845,
+          53.42310695428166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulkowo",
+        "id": "580f98ef38fa104178b1ca41",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/kulkowo/580f98ef38fa104178b1ca41",
+        "address": "al. Niepodleg\u0142o\u015bci 36",
+        "website": "https://www.kulkowo.com",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [
+          "Kind peeps, they even talk German."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.550304,
+          53.428623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC's Grilled Chicken Burgers",
+        "id": "52761b1f498e13bfbcf1a003",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/gcs-grilled-chicken-burgers/52761b1f498e13bfbcf1a003",
+        "address": "Bohater\u00f3w Warszawy 91A",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.531924119500884,
+          53.42682610674267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brasileirinho",
+        "id": "5942799bf62f2b4dd69fe8a0",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/brasileirinho/5942799bf62f2b4dd69fe8a0",
+        "address": "Sienna 10",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brazilian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.560244241605094,
+          53.42413074787896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wyspa Grodzka",
+        "id": "53f350e6498ecab8765e0147",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/wyspa-grodzka/53f350e6498ecab8765e0147",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Island"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.572072810406185,
+          53.4263705237108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paprykarz Fish Market",
+        "id": "594bf857d3cce80b0254a49c",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/paprykarz-fish-market/594bf857d3cce80b0254a49c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Neat place, good food, happy clientele, kind service although forgetful. Named after famous local socialist canned food. Segedy\u0144ska is interesting but I'm from Szeged, so what the fuck."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.549180391036375,
+          53.431853615207096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artisan",
+        "id": "550d4f9e498e446e1ef101cc",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/artisan/550d4f9e498e446e1ef101cc",
+        "address": "Plac Zwyciestwa 1",
+        "website": "http://www.artisan.best",
+        "categories": [
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [
+          "Great all-rounder, cakes, ice, breakfast."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Breakfast Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.548219344595335,
+          53.42599871743157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stettiner B\u00f6rse",
+        "id": "63834f5f5e07b9448b25fdf6",
+        "list_id": "57285ba7498ece30fdbd2664",
+        "list_name": "Szczecin",
+        "url": "https://app.foursquare.com/v/stettiner-b%C3%B6rse/63834f5f5e07b9448b25fdf6",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Flea Market"
+        ],
+        "tips": [
+          "Lengyel piac."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Flea Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.474935934694187,
+          53.38485526372418
+        ]
+      }
+    }
+  ]
+}

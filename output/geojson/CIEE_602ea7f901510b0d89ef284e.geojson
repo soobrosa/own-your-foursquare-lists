@@ -1,0 +1,591 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Space Hall",
+        "id": "4adcda91f964a5207b4b21e3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/space-hall/4adcda91f964a5207b4b21e3",
+        "address": "Zossener Str. 33",
+        "website": "http://www.spacehall.de",
+        "categories": [
+          "Retail > Record Store",
+          "Retail > Bookstore"
+        ],
+        "tips": [
+          "A record store."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Record Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394449379451379,
+          52.49044573224169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tibet-Haus",
+        "id": "4adcda85f964a520ed4821e3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/tibethaus/4adcda85f964a520ed4821e3",
+        "address": "Zossener Str. 19",
+        "website": "http://www.tibethaus-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Tibetan Restaurant"
+        ],
+        "tips": [
+          "Okay food, tourist prices, one of the few soup options around."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Tibetan Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.393966248372838,
+          52.49066787360355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Original Chicken Gem\u00fcse Kebab",
+        "id": "4c011cd19a950f47998a08c6",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/original-chicken-gem%C3%BCse-kebab/4c011cd19a950f47998a08c6",
+        "address": "Gneisenaustr.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Kebab Restaurant"
+        ],
+        "tips": [
+          "Kind service, good default for the cheap.",
+          "Okay Bude, okay prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Kebab Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394782975976083,
+          52.491582228043725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beumer & Lutum",
+        "id": "4b66af52f964a52065272be3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/beumer--lutum/4b66af52f964a52065272be3",
+        "address": "Zossener Str. 34",
+        "website": "https://www.beumer-lutum.de",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [
+          "Leftovers from yesterday are usually a good deal if you don't mind a bit greasiness.",
+          "Upmarket clientele, leftovers from yesterday for half price are okay, otherwise meant for biodeutsch ladies with half worn masks.",
+          "Hipster backerei mit keinen Maskenpflicht f\u00fcr Biodeutschen."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394330969930113,
+          52.49063980255622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grober Unfug",
+        "id": "4adcda8ef964a5209c4a21e3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/grober-unfug/4adcda8ef964a5209c4a21e3",
+        "address": "Zossener Stra\u00dfe 33",
+        "website": "http://www.groberunfug.de",
+        "categories": [
+          "Retail > Bookstore"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39438635075483,
+          52.49059285779848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chapter One",
+        "id": "4eea5e33a17ce863c4d4c3d3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/chapter-one/4eea5e33a17ce863c4d4c3d3",
+        "address": "Mittenwalder Str. 30",
+        "website": "http://www.chapter-one-coffee.com",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [
+          "Good coffee, clueless service, long hipster queue."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395692532429575,
+          52.48976671011264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clash",
+        "id": "4adcda79f964a520cd4621e3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/clash/4adcda79f964a520cd4621e3",
+        "address": "Gneisenaustr. 2a",
+        "website": "http://clash-berlin.de",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [
+          "Good classic rock/punk bar."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388498919399971,
+          52.49197320217103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otherland Buchhandlung",
+        "id": "4ae71f7bf964a520a3a821e3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/otherland-buchhandlung/4ae71f7bf964a520a3a821e3",
+        "address": "Bergmannstr. 25",
+        "website": "http://www.otherland-berlin.de",
+        "categories": [
+          "Retail > Bookstore"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394682501739135,
+          52.488748926130604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marheineke Markthalle",
+        "id": "4adcda91f964a520744b21e3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/marheineke-markthalle/4adcda91f964a520744b21e3",
+        "address": "Marheinekeplatz 15",
+        "website": "https://www.meine-markthalle.de",
+        "categories": [
+          "Retail > Market",
+          "Retail > Food and Beverage Retail > Farmers Market",
+          "Dining and Drinking > Food Court"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394415378570557,
+          52.48940505663732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maselli Ristorante",
+        "id": "4f4a8f55e4b0927adaf51ffd",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/maselli-ristorante/4f4a8f55e4b0927adaf51ffd",
+        "address": "Nostitzstr. 49",
+        "website": "http://www.maselliristorante.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390841,
+          52.491501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umami X-Berg",
+        "id": "56f146ae498e0070cc29e1d8",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/umami-xberg/56f146ae498e0070cc29e1d8",
+        "address": "Bergmannstr. 97",
+        "website": "https://umami-restaurants.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [
+          "Should be an okay franchise, don't expect more. Priced to the location."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3909700267607,
+          52.48958891456395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falafel Profi Snack",
+        "id": "5c7161b5492822003a1feaaf",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/falafel-profi-snack/5c7161b5492822003a1feaaf",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant > Lebanese Restaurant"
+        ],
+        "tips": [
+          "Good and cheap."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Lebanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388597,
+          52.493767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amici Amici",
+        "id": "5057650de4b0d070fdec8fe0",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/amici-amici/5057650de4b0d070fdec8fe0",
+        "address": "Mehringdamm 40",
+        "website": "http://www.amici-amici.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant > Trattoria",
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [
+          "The best pizza - actually the only proper one - I had in Berlin. Really kind and fast service, okay prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Trattoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387118,
+          52.492663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babikyu",
+        "id": "5a5ce2a86cf01a6b3cd31186",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/babikyu/5a5ce2a86cf01a6b3cd31186",
+        "address": "Bergmannstr. 1",
+        "website": "https://pages.resmio.com/babikyu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant"
+        ],
+        "tips": [
+          "Lunch menu is pretty okay, it is overpriced, a twin of Seoulkitchen."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Korean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387556227814486,
+          52.48982368360835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pagode Thai Kitchen",
+        "id": "4adcda78f964a5206e4621e3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/pagode-thai-kitchen/4adcda78f964a5206e4621e3",
+        "address": "Bergmannstr. 88",
+        "website": "https://pagode-thaifood.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39336986392336,
+          52.48924410265854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "humus & baba ganoush",
+        "id": "54f05f07498ef860b7215853",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/humus--baba-ganoush/54f05f07498ef860b7215853",
+        "address": "Gneisenaustra\u00dfe 68",
+        "website": "https://humusbabaghanoush.eatbu.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant > Lebanese Restaurant"
+        ],
+        "tips": [
+          "Great baba ganoush and hummus, well-priced sandwitches."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Lebanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401856494433037,
+          52.49044448760807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gefl\u00fcgel-Oase",
+        "id": "516565a2e4b06f9468162e52",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/gefl%C3%BCgeloase/516565a2e4b06f9468162e52",
+        "address": "Marheinekeplatz 15",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fried Chicken Joint",
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [
+          "Bird butcher with fresh and cheap German food."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fried Chicken Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395310667751547,
+          52.489340820526124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u00f6fte 61",
+        "id": "5292290d11d2e6eb0a6c20a7",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/k%C3%B6fte-61/5292290d11d2e6eb0a6c20a7",
+        "address": "Gneisenaustr 16",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Kebab Restaurant"
+        ],
+        "tips": [
+          "Great K\u00f6fte, go for the sandwich."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Kebab Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392287659494,
+          52.49162222964869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abirams Indian Live Kitchen",
+        "id": "4b45f5d8f964a520f01226e3",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/abirams-indian-live-kitchen/4b45f5d8f964a520f01226e3",
+        "address": "Zossener Str. 12",
+        "website": "http://www.restaurant-tafelhaus.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [
+          "Not the typical fares, ask for spicy, lunch box is a great deal and you don't get food coma."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394311713067895,
+          52.49224896105988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satici",
+        "id": "4bf5533694af2d7ff58d3b72",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/satici/4bf5533694af2d7ff58d3b72",
+        "address": "Bergmannstr. 21",
+        "website": "http://www.satici-berlin.de",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [
+          "Overpriced to the ex-tourist location, okay selection."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.39346995881245,
+          52.489027219476846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flierenbaum",
+        "id": "617fc84e8aced1404478b35a",
+        "list_id": "602ea7f901510b0d89ef284e",
+        "list_name": "CIEE",
+        "url": "https://app.foursquare.com/v/flierenbaum/617fc84e8aced1404478b35a",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Deli"
+        ],
+        "tips": [
+          "Great homey food."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394893,
+          52.489135
+        ]
+      }
+    }
+  ]
+}

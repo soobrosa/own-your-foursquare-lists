@@ -1,0 +1,610 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satyam",
+        "id": "4adcda87f964a5202e4921e3",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/satyam/4adcda87f964a5202e4921e3",
+        "address": "Goethestr. 5",
+        "website": "http://www.mysatyam.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant",
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.322062051839445,
+          52.50895060584683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Thai Berlin",
+        "id": "522b208393cd0d905554af1b",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/golden-thai-berlin/522b208393cd0d905554af1b",
+        "address": "Koloniestrasse 24",
+        "website": "http://www.goldenthai-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3802963356702,
+          52.55823673868893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanun",
+        "id": "4bc0938b461576b0364f7a32",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/kanun/4bc0938b461576b0364f7a32",
+        "address": "Huttenstr. 70",
+        "website": "http://kanun-restaurant.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fried Chicken Joint",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fried Chicken Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.327321750902792,
+          52.52733203446534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmyra",
+        "id": "5377dcf1498e5bf1800e8ade",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/palmyra/5377dcf1498e5bf1800e8ade",
+        "address": "Gleimstra\u00dfe 41",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Falafel Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Falafel Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408953593828494,
+          52.54756694391164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silla",
+        "id": "4ea9af8e754ac94d47094667",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/silla/4ea9af8e754ac94d47094667",
+        "address": "Bundesallee 23",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Korean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.330351450824848,
+          52.49285799656177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chutnify",
+        "id": "540c67b1498e32e774fc58b4",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/chutnify/540c67b1498e32e774fc58b4",
+        "address": "Sredzkistr. 43",
+        "website": "http://www.chutnify.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418813,
+          52.538376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Do De Li",
+        "id": "4d1b976a2dd9370497a943b5",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/do-de-li/4d1b976a2dd9370497a943b5",
+        "address": "Kantstr. 120",
+        "website": "http://www.chinarestaurant-dodeli.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.310098726545649,
+          52.506250722503836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papaya",
+        "id": "5072fbf6e4b025893d842ca1",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/papaya/5072fbf6e4b025893d842ca1",
+        "address": "Kantstr. 122",
+        "website": "http://www.papaya-service.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31042706804544,
+          52.50652157079766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "myThais",
+        "id": "4d767ce02fcd236aef088cc6",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/mythais/4d767ce02fcd236aef088cc6",
+        "address": "Krumme Str. 35",
+        "website": "http://www.mythais.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.309357751101848,
+          52.509122767924325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karun Bistro",
+        "id": "4b6eaf64f964a5208ec62ce3",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/karun-bistro/4b6eaf64f964a5208ec62ce3",
+        "address": "Pestalozzistr. 29",
+        "website": "https://www.karunberlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant > Persian Restaurant",
+          "Dining and Drinking > Restaurant > Middle Eastern Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Persian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30793664245193,
+          52.50807920883149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voland Russian Restaurant",
+        "id": "4c16581e7f7f2d7f9ed0e368",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/voland-russian-restaurant/4c16581e7f7f2d7f9ed0e368",
+        "address": "Wichertstr. 63",
+        "website": "http://www.voland-cafe.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Russian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Russian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418119586059149,
+          52.54974051971053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muse",
+        "id": "522245af11d29e4ef4df2291",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/muse/522245af11d29e4ef4df2291",
+        "address": "Immanuelkirchstr. 31",
+        "website": "http://www.museberlin.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > American Restaurant",
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "American Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.423114057701246,
+          52.532938701483936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Il Pastificio",
+        "id": "520fd24211d259e196de7ac1",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/il-pastificio/520fd24211d259e196de7ac1",
+        "address": "Richard-Wagner-Str. 35",
+        "website": "http://www.ilpastificioberlino.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.306496265027663,
+          52.515284263038744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayflower",
+        "id": "52adfaef11d26643910a5982",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/mayflower/52adfaef11d26643910a5982",
+        "address": "Greifenhagener Str. 27",
+        "website": "http://www.chinarestaurant-mayflower.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418696314083848,
+          52.55102552332644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Buddha",
+        "id": "4b12732bf964a520f18923e3",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/golden-buddha/4b12732bf964a520f18923e3",
+        "address": "Gleimstr. 26",
+        "website": "http://www.goldenbuddha.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant",
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411969541905203,
+          52.54744883081028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mao Thai",
+        "id": "4adcda84f964a520db4821e3",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/mao-thai/4adcda84f964a520db4821e3",
+        "address": "W\u00f6rther Str. 30",
+        "website": "http://www.maothai.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.419678557580824,
+          52.536278211864406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangkok Treffpunkt",
+        "id": "4b53add3f964a5208ea727e3",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/bangkok-treffpunkt/4b53add3f964a5208ea727e3",
+        "address": "Prenzlauer Allee 46",
+        "website": "http://www.bangkok-treffpunkt.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.423304,
+          52.536776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knofel",
+        "id": "4adcda74f964a5207e4521e3",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/knofel/4adcda74f964a5207e4521e3",
+        "address": "Wichertstra\u00dfe 33a",
+        "website": "http://www.knoblauchrestaurant.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424295382663502,
+          52.54694122286782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hokey Pokey",
+        "id": "4de93e9952b1741cdb17e0cd",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/hokey-pokey/4de93e9952b1741cdb17e0cd",
+        "address": "Stargarder Str. 72",
+        "website": "http://www.hokey-pokey.de/",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.417608402042815,
+          52.54676547402726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielplatz Piratenschiff",
+        "id": "4e1b1e3952b1340b48c3590b",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/spielplatz-piratenschiff/4e1b1e3952b1340b48c3590b",
+        "address": "Tegeler Weg",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29769492149353,
+          52.52438122049413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zia Maria",
+        "id": "4b44db07f964a5204bfe25e3",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/zia-maria/4b44db07f964a5204bfe25e3",
+        "address": "Pappelallee 32a",
+        "website": "http://www.pizzaziamaria.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41762881944121,
+          52.54595611949305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madni",
+        "id": "5470afbc498eb0b4973bf9a1",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/madni/5470afbc498eb0b4973bf9a1",
+        "address": "Prinzenallee/Osloerstra\u00dfe",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pakistani Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pakistani Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385125,
+          52.556964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adam Schawarma",
+        "id": "59c195c2e1f2286f25f1de57",
+        "list_id": "51dffd9a498e58db1ddad698",
+        "list_name": "Berlin to-do",
+        "url": "https://app.foursquare.com/v/adam-schawarma/59c195c2e1f2286f25f1de57",
+        "address": "",
+        "website": "http://adam-restaurant-berlin.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fast Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.455552,
+          52.509952
+        ]
+      }
+    }
+  ]
+}

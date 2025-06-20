@@ -1,0 +1,1876 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spiaggia di Mondello",
+        "id": "4c5043dd2ba0ef3be53255e8",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/spiaggia-di-mondello/4c5043dd2ba0ef3be53255e8",
+        "address": "Viale Regina Elena 89",
+        "website": "http://www.mondellomare.it",
+        "categories": [
+          "Landmarks and Outdoors > Beach",
+          "Landmarks and Outdoors > Surf Spot"
+        ],
+        "tips": [
+          "Lovely beach, come here with bus, I bet it's packed in full season."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.329849243164062,
+          38.19836051627661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPP Burger",
+        "id": "5466004a498ef31d10c8c95f",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/ppp-burger/5466004a498ef31d10c8c95f",
+        "address": "Piazza San Francesco Di Paola 49",
+        "website": "http://www.pppburger.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.353620624180113,
+          38.121574526850864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nino U'Ballerino",
+        "id": "4e3d76b92271d21e86f62ddb",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/nino-uballerino/4e3d76b92271d21e86f62ddb",
+        "address": "Corso finocchiaro aprile",
+        "website": "http://www.ninouballerino.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349159137108362,
+          38.118698849427446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fratelli La Bufala",
+        "id": "4bfd69ba8992a5937b16acb0",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/fratelli-la-bufala/4bfd69ba8992a5937b16acb0",
+        "address": "Piazza Castelnuovo, 34",
+        "website": "http://www.fratellilabufala.eu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.354233418678186,
+          38.1237753248006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bolazzi Bistrot",
+        "id": "54dcd9be498e060a0598ee68",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/bolazzi-bistrot/54dcd9be498e060a0598ee68",
+        "address": "Piazzetta Bagnasco",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro",
+          "Dining and Drinking > Bar > Wine Bar",
+          "Arts and Entertainment > Performing Arts Venue > Music Venue"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.355695991603069,
+          38.12309187421034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CiuriCiuri",
+        "id": "5217850d11d211262c6105f9",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/ciuriciuri/5217850d11d211262c6105f9",
+        "address": "Via Principe Di Belmonte , 119",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.356663686215681,
+          38.12355381558734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FUD Bottega Sicula",
+        "id": "55f85b95498e25a915641d55",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/fud-bottega-sicula/55f85b95498e25a915641d55",
+        "address": "Piazza Olivella, 4",
+        "website": "http://www.fud.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.360283130195747,
+          38.1204775908384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frida Pizzeria",
+        "id": "4da0c0ed63b5a35daff7d819",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/frida-pizzeria/4da0c0ed63b5a35daff7d819",
+        "address": "Piazza Sant'Onofrio, 37, Palermo",
+        "website": "http://www.fridapizzeria.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359019822646362,
+          38.117413836936784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tondo",
+        "id": "5388e18d498e579bdbae9e48",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/tondo/5388e18d498e579bdbae9e48",
+        "address": "Via Principe Di Granatelli 26",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359857328308728,
+          38.12436918703502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Trabia",
+        "id": "4c0182bdb0702d7fc1676378",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/villa-trabia/4c0182bdb0702d7fc1676378",
+        "address": "Via Antonino Salinas 3",
+        "website": "http://numerodedicato.altervista.org/blog/orari-info-siti-turistici",
+        "categories": [
+          "Landmarks and Outdoors > Garden",
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.346214473781624,
+          38.1290293110483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spinnato",
+        "id": "559d1889498e5f9b8a44f18c",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/spinnato/559d1889498e5f9b8a44f18c",
+        "address": "Piazza Castelnuovo",
+        "website": "http://www.spinnato.it",
+        "categories": [
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.355386191019747,
+          38.12401280494728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kus Kus",
+        "id": "4e90a3a4d22dccc37ed931ad",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/kus-kus/4e90a3a4d22dccc37ed931ad",
+        "address": "Via Del Fervore, 54",
+        "website": "http://www.kus-kus.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mediterranean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349008008584919,
+          38.12378848170026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falstaff",
+        "id": "4f03798d9911b33a14512344",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/falstaff/4f03798d9911b33a14512344",
+        "address": "via  pignatelli aragona 58",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > BBQ Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "BBQ Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.355122996919784,
+          38.12095179604474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supermercato Sisa Sorry",
+        "id": "4fc3b328e4b04bdf299cb5c1",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/supermercato-sisa-sorry/4fc3b328e4b04bdf299cb5c1",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.353429608226941,
+          38.1234314390445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supermercato Maddalena",
+        "id": "54873d82498e985cf5138090",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/supermercato-maddalena/54873d82498e985cf5138090",
+        "address": "Via Dante 92",
+        "website": "http://supermercatomaddalena.it",
+        "categories": [
+          "Retail > Warehouse or Wholesale Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Warehouse or Wholesale Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348954123129289,
+          38.1231996571631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrefour Market",
+        "id": "4ddd3f1f22713339cd287e94",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/carrefour-market/4ddd3f1f22713339cd287e94",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Food and Beverage Retail > Grocery Store",
+          "Retail > Market"
+        ],
+        "tips": [
+          "Finally a real supermarket."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367849130105393,
+          38.11714615259437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orto Botanico",
+        "id": "4bb9bf467421a59331f8c240",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/orto-botanico/4bb9bf467421a59331f8c240",
+        "address": "Via Abramo Lincoln",
+        "website": "http://www.ortobotanico.unipa.it/Benvenuto.html",
+        "categories": [
+          "Landmarks and Outdoors > Garden",
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [
+          "A must. Try to taste all the funny citruses. Don't try to smuggle big pieces of bamboo."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.373002973422318,
+          38.11330075679616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto di Palermo",
+        "id": "4bc71f538b7c9c74adcd35cf",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/porto-di-palermo/4bc71f538b7c9c74adcd35cf",
+        "address": "Via Francesco Crispi",
+        "website": "http://www.portpalermo.it",
+        "categories": [
+          "Travel and Transportation > Port"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.364553,
+          38.127666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luna Park Giardino Inglese",
+        "id": "4e4a7027483b16676e3e3869",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/luna-park-giardino-inglese/4e4a7027483b16676e3e3869",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Fair"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Fair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350327478125969,
+          38.14027378404025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museo internazionale delle marionette Antonio Pasqualino",
+        "id": "4d446f781928a35d64d9b870",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/museo-internazionale-delle-marionette-antonio-pasqualino/4d446f781928a35d64d9b870",
+        "address": "Via Butera, 1",
+        "website": "http://www.museomarionettepalermo.it",
+        "categories": [
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.370358488743593,
+          38.11871909520874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giardino Inglese",
+        "id": "4cade690bf70236ad5a803f9",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/giardino-inglese/4cade690bf70236ad5a803f9",
+        "address": "Via della Libert\u00e0, 51",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351832628250122,
+          38.132894094314196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Moka Gold",
+        "id": "5025082be4b03b3417eff262",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/bar-moka-gold/5025082be4b03b3417eff262",
+        "address": "Via Roma, 133",
+        "website": "http://www.sisal.com",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.364794949732056,
+          38.11467173023301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballaro'",
+        "id": "4c7be77adf08a1cd55dae15d",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/ballaro/4c7be77adf08a1cd55dae15d",
+        "address": "Vicolo Del Carmelo",
+        "website": "",
+        "categories": [
+          "Retail > Market",
+          "Retail > Food and Beverage Retail",
+          "Retail > Food and Beverage Retail > Fish Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.361647798708008,
+          38.11095479963795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monreale",
+        "id": "57b41213498e499174377e6b",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/monreale/57b41213498e499174377e6b",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > States and Municipalities > City"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.291829879849674,
+          38.08231735051907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizzeria Da Tot\u00f2",
+        "id": "4c9f92630e9bb1f766a7f15f",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/pizzeria-da-tot%C3%B2/4c9f92630e9bb1f766a7f15f",
+        "address": "Chiasso Ciro Menotti, 6",
+        "website": "https://pizzeria-art-libri-toto.business.site",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.290623425285261,
+          38.08144521693296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiesa della Martorana",
+        "id": "4f0c3f05e4b02a8da6267402",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/chiesa-della-martorana/4f0c3f05e4b02a8da6267402",
+        "address": "Piazza Bellini, 3",
+        "website": "http://www.eparchiapiana.it",
+        "categories": [
+          "Community and Government > Spiritual Center > Church",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.362624569850624,
+          38.11499196098774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monte Pellegrino, Palermo",
+        "id": "4e326ab962e12985fd61b5f3",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/monte-pellegrino-palermo/4e326ab962e12985fd61b5f3",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Field"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Field"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.360799820871343,
+          38.17522866312525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monte Pellegrino",
+        "id": "4df906fb62847bdf4fee3204",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/monte-pellegrino/4df906fb62847bdf4fee3204",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Scenic Lookout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.360486265023292,
+          38.15217432638235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercato della Vucciria",
+        "id": "4ca47e385720b1f73d533aef",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/mercato-della-vucciria/4ca47e385720b1f73d533aef",
+        "address": "Piazza Caracciolo",
+        "website": "http://www.cittametropolitana.pa.it/turismo/cultura_e_tradizioni/00007695_Vucciria.html",
+        "categories": [
+          "Retail > Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.363687992095947,
+          38.117339185481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foro Italico",
+        "id": "4c08d8a65214ef3bf0425e69",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/foro-italico/4c08d8a65214ef3bf0425e69",
+        "address": "Foro Italico Umberto I",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37509586571196,
+          38.117145483882915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toy Park",
+        "id": "4c94d0e9f244b1f71059251d",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/toy-park/4c94d0e9f244b1f71059251d",
+        "address": "Viale Principe di Scalea, 61b",
+        "website": "http://www.toypark.it",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.324924041226172,
+          38.20309914050519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toy Park",
+        "id": "4e89d95182312e0037996c6e",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/toy-park/4e89d95182312e0037996c6e",
+        "address": "Viale Regione Siciliana",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.328978183168422,
+          38.14632478911312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toy Park",
+        "id": "4f168986e4b0472049ca3b26",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/toy-park/4f168986e4b0472049ca3b26",
+        "address": "Via Galileo Galilei, 94/a",
+        "website": "http://www.toypark-palermo.com",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.333063887475912,
+          38.13570594946734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boom Zone - Toy Park",
+        "id": "54394ef7498eee6cfb38e37f",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/boom-zone--toy-park/54394ef7498eee6cfb38e37f",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park > Playground"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.327932347705552,
+          38.15589524604356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "figli d'artecuticchio",
+        "id": "568952dd498ec148206d0bdd",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/figli-dartecuticchio/568952dd498ec148206d0bdd",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Performing Arts Venue > Theater"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.357954,
+          38.122684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trattoria familiare da Michele e Iolanda",
+        "id": "50360b5ee4b0bb9297a58791",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/trattoria-familiare-da-michele-e-iolanda/50360b5ee4b0bb9297a58791",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34918726127599,
+          38.11114137259634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zza Maria",
+        "id": "4d011e8d6923721ed66ac83b",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/zza-maria/4d011e8d6923721ed66ac83b",
+        "address": "Via Patern\u00f2 11",
+        "website": "https://trattoria-zza-maria.business.site",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.509863160784649,
+          38.07913199617411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Vicolo",
+        "id": "4c75418cdb52b1f7732b78dc",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/al-vicolo/4c75418cdb52b1f7732b78dc",
+        "address": "Largo scimeca 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358661511380218,
+          38.110007602996724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ideal Caff\u00e9 Stagnitta",
+        "id": "4e339440a809117a228c9c22",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/ideal-caff%C3%A9-stagnitta/4e339440a809117a228c9c22",
+        "address": "Discesa dei Giudici, 42/44",
+        "website": "http://www.idealcaffe.it",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.363305326357914,
+          38.115275008805675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vino & Co",
+        "id": "515f0119e4b03c1e76280c64",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/vino--co/515f0119e4b03c1e76280c64",
+        "address": "Piazza Marina 30",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Winery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Winery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.368045121775413,
+          38.117599427860696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Da Amato",
+        "id": "519f5499498e65243c6f93f4",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/da-amato/519f5499498e65243c6f93f4",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.356356960418678,
+          38.11959768399134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "I Cuochini",
+        "id": "4c5bf68e9b28d13a87615570",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/i-cuochini/4c5bf68e9b28d13a87615570",
+        "address": "via Ruggero Settimo",
+        "website": "http://www.icuochini.com",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Snack Place"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35596840345275,
+          38.1236338013554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bisso Bistrot",
+        "id": "55130691498ed5224dde2c71",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/bisso-bistrot/55130691498ed5224dde2c71",
+        "address": "Via Maqueda, 172",
+        "website": "http://bissobistrot.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant",
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.361415418405077,
+          38.11582910905435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferro Di Cavallo",
+        "id": "4c659c9af7a80f47c8c19b7a",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/ferro-di-cavallo/4c659c9af7a80f47c8c19b7a",
+        "address": "Via Venezia, 20",
+        "website": "http://www.ferrodicavallopalermo.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.362607977647288,
+          38.117287436089114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizzeria Da Calogero",
+        "id": "4e41acea1838ada3db546e98",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/pizzeria-da-calogero/4e41acea1838ada3db546e98",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.321182438334034,
+          38.1959596046169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vino & Pomodoro",
+        "id": "4cbb3e0dadcd5481ecc727a2",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/vino--pomodoro/4cbb3e0dadcd5481ecc727a2",
+        "address": "Via Principe di Belmonte, 87",
+        "website": "http://www.vinoepomodoro.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358472685275379,
+          38.12448511350211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sciusci\u00e0",
+        "id": "4c7fead047cc224b1e656e9f",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/sciusci%C3%A0/4c7fead047cc224b1e656e9f",
+        "address": "Via Dante",
+        "website": "https://www.pizzeriasciuscia.it/it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34559500847888,
+          38.12225793944726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nni Franco U' Vastiddaru",
+        "id": "4c273cf5f1272d7f2cdb87c5",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/nni-franco-u-vastiddaru/4c273cf5f1272d7f2cdb87c5",
+        "address": "Corso Vittorio Emanuele, 102",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot"
+        ],
+        "tips": [
+          "Simple place, good food, moderate prices, almost fast. Kind service even if they don't really speak English."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367218980910442,
+          38.117964930466925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moltivolti",
+        "id": "538b851e498ec465ba6cdbdb",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/moltivolti/538b851e498ec465ba6cdbdb",
+        "address": "Via Mario Puglia 21",
+        "website": "http://www.moltivolti.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Comfort Food Restaurant",
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Comfort Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359321878430091,
+          38.11291425586903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BonToast",
+        "id": "5223a00411d2f5e7047b132a",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/bontoast/5223a00411d2f5e7047b132a",
+        "address": "via Cavour 109",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.360456298510735,
+          38.12211601691578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perciasacchi",
+        "id": "50b9123de4b0a653adee1b09",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/perciasacchi/50b9123de4b0a653adee1b09",
+        "address": "Via Monte Di Piet\u00e0 5",
+        "website": "http://www.perciasacchi.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.357122935134711,
+          38.11678129092101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean Ice",
+        "id": "4ead7e67722eefae84762104",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/ocean-ice/4ead7e67722eefae84762104",
+        "address": "Piazza Verdi",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358247217384708,
+          38.1198884381768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antica Focacceria San Francesco",
+        "id": "4c266f00136d20a1bb5be561",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/antica-focacceria-san-francesco/4c266f00136d20a1bb5be561",
+        "address": "Via Alessandro Paternostro, 58",
+        "website": "https://www.anticafocacceria.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366093933582306,
+          38.116379752983676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mud\u00f9",
+        "id": "4cf1768dc9af6dcb45ce997f",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/mud%C3%B9/4cf1768dc9af6dcb45ce997f",
+        "address": "via E. Albanese, 24",
+        "website": "http://www.ristorantemudu.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35776207154956,
+          38.131053919822044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voglia Di Pizza",
+        "id": "4dced84752b1f8915ba1721d",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/voglia-di-pizza/4dced84752b1f8915ba1721d",
+        "address": "via Chiavettieri 26",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366125127038359,
+          38.11796566367168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizzeria italia",
+        "id": "4bc6297451b376b075181b6f",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/pizzeria-italia/4bc6297451b376b075181b6f",
+        "address": "Via Orologio 54",
+        "website": "http://www.pizzeriaitaliapalermo.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35891675267189,
+          38.12027582252922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joe's Cantina",
+        "id": "4c61b9dbe1621b8d43c22153",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/joes-cantina/4c61b9dbe1621b8d43c22153",
+        "address": "Via Daniele Manin, 9",
+        "website": "http://www.joescantina.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3542109257499,
+          38.130453722213666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "da Bacco",
+        "id": "51bce143498e55ee41a18032",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/da-bacco/51bce143498e55ee41a18032",
+        "address": "Via Orologio 29",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359168634169668,
+          38.12040648478309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dima's pizza",
+        "id": "4d38b6b8c5285481e7c4dbb9",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/dimas-pizza/4d38b6b8c5285481e7c4dbb9",
+        "address": "Via Emerico Amari 110",
+        "website": "http://dimaspizza.it",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358852257646733,
+          38.12537012882373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar snack",
+        "id": "4e66406162e13e3bd03f2fba",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/bar-snack/4e66406162e13e3bd03f2fba",
+        "address": "Punta Raisi",
+        "website": "http://www.vyaggio.com/location/591/Aeroporto_Palermo/3083/Bar_snack",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Coffee and sandwich is good even at this not really promising place."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.105405035463525,
+          38.18651416605367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrefour",
+        "id": "4f7c84e5e4b02faff37999ae",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/carrefour/4f7c84e5e4b02faff37999ae",
+        "address": "via Libert\u00e0 30",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [
+          "One of the few non-stop real shops in the city center."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.353474730703471,
+          38.127931536565065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Briosci\u00e0",
+        "id": "504380a3e4b02f9094c0f0b4",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/briosci%C3%A0/504380a3e4b02f9094c0f0b4",
+        "address": "Via Mariano Stabile 198",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Really good ice cream, fucking big crowd. Expect Brownian motion with clueless people pushing you on the wall - experience the leisure of chaos IRL."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.356044393950103,
+          38.122346503942424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antica Pizzeria Guglielmo",
+        "id": "4e6d0568c65be8702b10c075",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/antica-pizzeria-guglielmo/4e6d0568c65be8702b10c075",
+        "address": "Piazza Guglielmo II",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar",
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [
+          "Pizza was pretty okay and not expensive for the tourist trap location."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.291484526230686,
+          38.08225357298643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar Santoro",
+        "id": "4cbd8c634495721ec00c607a",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/bar-santoro/4cbd8c634495721ec00c607a",
+        "address": "Piazza indipendenza",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35087571550724,
+          38.111055989740805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Ombelico Del Mondo",
+        "id": "4d876074d5fab60c66601d9c",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/lombelico-del-mondo/4d876074d5fab60c66601d9c",
+        "address": "Viale Regina Elena 1",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.325387387330682,
+          38.20553371503389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crai Simpatia",
+        "id": "56d01339cd10b2b6db7d7e19",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/crai-simpatia/56d01339cd10b2b6db7d7e19",
+        "address": "Via Proncipe Di Belmonte 55C",
+        "website": "",
+        "categories": [
+          "Retail > Convenience Store"
+        ],
+        "tips": [
+          "The corner shop."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Convenience Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351346,
+          38.12143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Da Sariddu",
+        "id": "4dee82331f6e0f9053fc687b",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/da-sariddu/4dee82331f6e0f9053fc687b",
+        "address": "Piazza Mondello 48",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [
+          "A proper choice, you gonna be more than satisfied even if you just go for the fixed menu."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.327037841111501,
+          38.20783950176132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caffetteria Valdesi",
+        "id": "504099d6e4b0133020200f4c",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/caffetteria-valdesi/504099d6e4b0133020200f4c",
+        "address": "Viale Regina Elena 57",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Good coffee, a toilet, decent daily food for real people."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.330179652021457,
+          38.197935585987096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giardini Garibaldi",
+        "id": "4e0dc72252b1b27c1b7fe3df",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/giardini-garibaldi/4e0dc72252b1b27c1b7fe3df",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [
+          "A must with kids."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.368743959139548,
+          38.11773376124292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antica Salumeria \"Prezzemolo\"",
+        "id": "4ede11e1e300851bfdcd6562",
+        "list_id": "56c31ca4498e846dc8df891b",
+        "list_name": "Palermo",
+        "url": "https://app.foursquare.com/v/antica-salumeria-prezzemolo/4ede11e1e300851bfdcd6562",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Gourmet Store"
+        ],
+        "tips": [
+          "Upmarket shop, but good."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Gourmet Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.354314804077148,
+          38.12413024902344
+        ]
+      }
+    }
+  ]
+}

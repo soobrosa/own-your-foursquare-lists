@@ -1,0 +1,906 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wendy's",
+        "id": "4b2afbd0f964a5204fb324e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/wendys/4b2afbd0f964a5204fb324e3",
+        "address": "312 Central Way",
+        "website": "https://locations.wendys.com/united-states/wa/kirkland/312-central-way",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [
+          "Baconator fo' real!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fast Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20275351366978,
+          47.67780448540162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wing Dome",
+        "id": "40b3de00f964a52044001fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/wing-dome/40b3de00f964a52044001fe3",
+        "address": "232 Central Way",
+        "website": "http://thewingdome.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Wings Joint",
+          "Dining and Drinking > Restaurant > American Restaurant"
+        ],
+        "tips": [
+          "Really good food, the hot is hot, we were crying trying one piece of seven and we're pros."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Wings Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20475854365844,
+          47.6773316858692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downtown Kirkland Waterfront",
+        "id": "4bd909e20115c9b692557680",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/downtown-kirkland-waterfront/4bd909e20115c9b692557680",
+        "address": "Downtown",
+        "website": "http://www.explorekirkland.com",
+        "categories": [
+          "Landmarks and Outdoors > Waterfront",
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Waterfront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20762252807617,
+          47.67544419064922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodmark Hotel and Still Spa",
+        "id": "4ac586e2f964a52040b220e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/woodmark-hotel-and-still-spa/4ac586e2f964a52040b220e3",
+        "address": "1200 Carillon Pt",
+        "website": "https://www.thewoodmark.com",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2072787773054,
+          47.65699096458134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pike Place Market",
+        "id": "427ea800f964a520b1211fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/pike-place-market/427ea800f964a520b1211fe3",
+        "address": "85 Pike St",
+        "website": "https://www.pikeplacemarket.org",
+        "categories": [
+          "Retail > Market",
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [
+          "Decent market full of tourists, don't expect it open before 10:00."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34147579532495,
+          47.609334087942955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvadorean Bakery and Restaurant",
+        "id": "4ad0f5cef964a5207fdb20e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/salvadorean-bakery-and-restaurant/4ad0f5cef964a5207fdb20e3",
+        "address": "1719 SW Roxbury St",
+        "website": "http://thesalvadoreanbakery.com/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Latin American Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Latin American Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35720330729318,
+          47.51727642107998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julie's Garden",
+        "id": "49dfaea9f964a520fb601fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/julies-garden/49dfaea9f964a520fb601fe3",
+        "address": "81 Yesler Way",
+        "website": "http://julies-garden.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33503636712572,
+          47.60181329521781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sichuanese Cuisine",
+        "id": "4707af9af964a520604b1fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/sichuanese-cuisine/4707af9af964a520604b1fe3",
+        "address": "1048 S Jackson St",
+        "website": "http://sichuaneserestaurant.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant > Szechuan Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Szechuan Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31755528969278,
+          47.599445449722246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snappy Dragon",
+        "id": "4b8ee4e7f964a5202e3d33e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/snappy-dragon/4b8ee4e7f964a5202e3d33e3",
+        "address": "8917 Roosevelt Way NE",
+        "website": "http://www.snappydragon.com/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31773198445205,
+          47.693590405920105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kau Kau Barbeque Market",
+        "id": "49beb709f964a520cd541fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/kau-kau-barbeque-market/49beb709f964a520cd541fe3",
+        "address": "656 S King St",
+        "website": "http://www.kaukaubbq.com/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant",
+          "Dining and Drinking > Restaurant > BBQ Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3248413522391,
+          47.59838388345117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mike's Noodle House",
+        "id": "49ea382df964a52036661fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/mikes-noodle-house/49ea382df964a52036661fe3",
+        "address": "418 Maynard Ave S",
+        "website": "http://mikesnoodlehouse.bite2go.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Noodle Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32488870620728,
+          47.598653999593566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crab Pot",
+        "id": "49e7ab3df964a520ff641fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/the-crab-pot/49e7ab3df964a520ff641fe3",
+        "address": "1301 Alaskan Way",
+        "website": "http://www.thecrabpotseattle.com/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3410027296757,
+          47.60603215273269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barnes & Noble",
+        "id": "4ad23b6af964a52044e020e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/barnes--noble/4ad23b6af964a52044e020e3",
+        "address": "600 Pine St #107",
+        "website": "http://bn.com",
+        "categories": [
+          "Retail > Bookstore"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3344704620213,
+          47.61278590042868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Local Burger",
+        "id": "5357e47c498ec1a7a7ab3f80",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/local-burger/5357e47c498ec1a7a7ab3f80",
+        "address": "10134 Main St",
+        "website": "http://localburger.org",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub",
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [
+          "One of the best burgers I had in my life. Strongly recommended. Nice selection of beers."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20463875175047,
+          47.6102916502851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Sirena Rosa",
+        "id": "4f32718a19836c91c7d859f5",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/la-sirena-rosa/4f32718a19836c91c7d859f5",
+        "address": "1501 Western Ave",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [
+          "Proper Mexican trash pop."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3417302489669,
+          47.6083754959857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toulouse Petit Kitchen & Lounge",
+        "id": "4ae60430f964a52018a421e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/toulouse-petit-kitchen--lounge/4ae60430f964a52018a421e3",
+        "address": "601 Queen Anne Ave N",
+        "website": "http://toulousepetit.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Cajun and Creole Restaurant",
+          "Dining and Drinking > Breakfast Spot",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Cajun and Creole Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35682939985381,
+          47.624761147936056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhu Dang",
+        "id": "5480e315498e9eb410230d9b",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/zhu-dang/5480e315498e9eb410230d9b",
+        "address": "1715 E Olive Way",
+        "website": "http://www.zhudangrestaurant.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Asian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32277734916129,
+          47.61966122046057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noodle Bowl",
+        "id": "4ba7d1c7f964a5202ab639e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/noodle-bowl/4ba7d1c7f964a5202ab639e3",
+        "address": "15255 NE 40th St",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [
+          "Really good soups."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13654673976848,
+          47.64410114398693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft Commons",
+        "id": "49ef813cf964a520c3681fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/microsoft-commons/49ef813cf964a520c3681fe3",
+        "address": "15255 NE 40th St",
+        "website": "http://microsoft.com",
+        "categories": [
+          "Business and Professional Services > Office > Corporate Amenity"
+        ],
+        "tips": [
+          "The place with options for a lunch."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Corporate Amenity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137162377081,
+          47.64425674801393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caf\u00e9 Redw-F",
+        "id": "49d6a249f964a520f15c1fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/caf%C3%A9-redwf/49d6a249f964a520f15c1fe3",
+        "address": "5600 148th Ave NE",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Office > Corporate Cafeteria"
+        ],
+        "tips": [
+          "One of the good cafeterias."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Corporate Cafeteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14074474821595,
+          47.659343362406986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoka Coffee",
+        "id": "4a7dd268f964a520c1ef1fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/zoka-coffee/4a7dd268f964a520c1ef1fe3",
+        "address": "129 Central Way",
+        "website": "http://www.zokacoffee.com",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [
+          "A place for proper coffee aka espresso if you're a European."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20713652157593,
+          47.676436584511976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafeteria at Microsoft City Center Plaza",
+        "id": "4f60f804e4b01b3ebd5569d4",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/cafeteria-at-microsoft-city-center-plaza/4f60f804e4b01b3ebd5569d4",
+        "address": "500 108th Ave NE",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Office > Corporate Cafeteria"
+        ],
+        "tips": [
+          "A good cafeteria. Next time onto the Chinese lunch options."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Corporate Cafeteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19424736396229,
+          47.61467498360737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilde Rover",
+        "id": "44c629c3f964a520d9351fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/wilde-rover/44c629c3f964a520d9351fe3",
+        "address": "111 Central Way",
+        "website": "http://www.wilderover.com",
+        "categories": [
+          "Dining and Drinking > Bar > Irish Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Irish Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20774323714917,
+          47.67630950900591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft Cafe 34",
+        "id": "4b8c23e4f964a5204bc032e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/microsoft-cafe-34/4b8c23e4f964a5204bc032e3",
+        "address": "3831 162nd Court NE",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Office > Corporate Cafeteria"
+        ],
+        "tips": [
+          "One of the good cafeterias - did I mention that Foursquare product experience became crap lately."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Corporate Cafeteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1247448910195,
+          47.6445832189029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakshin South Indian Bistro",
+        "id": "526c2dd6498eab0e305190eb",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/dakshin-south-indian-bistro/526c2dd6498eab0e305190eb",
+        "address": "238 Park Ln",
+        "website": "http://www.dakshinbistro.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [
+          "One of the tasty options around, overpriced as most places in the area."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20410864599548,
+          47.67663247681946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Microsoft Company Store",
+        "id": "4ae1edcdf964a520dc8821e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/microsoft-company-store/4ae1edcdf964a520dc8821e3",
+        "address": "15010 NE 36th St",
+        "website": "https://www.microsoft.com/about/companyinformation/visitorcenter/en/us/default.aspx",
+        "categories": [
+          "Retail > Computers and Electronics Retail > Electronics Store",
+          "Retail > Souvenir Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Electronics Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13716626167296,
+          47.64236204925159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subway",
+        "id": "4b87358ef964a52083b631e3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/subway/4b87358ef964a52083b631e3",
+        "address": "255 Central Way",
+        "website": "https://restaurants.subway.com/united-states/wa/kirkland/255-central-way?y_source=1_MTQ5MTMzNjYtNDQwLWxvY2F0aW9uLndlYnNpdGU=",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2036944306364,
+          47.677136005500465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QFC",
+        "id": "4a19b50af964a520357a1fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/qfc/4a19b50af964a520357a1fe3",
+        "address": "425 Urban Plz Ste 100",
+        "website": "https://www.qfc.com/stores/details/705/00894",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [
+          "Pretty okay store, ready cooked food is not cheap."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1993256,
+          47.67772675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bainbridge Island Ferry Terminal",
+        "id": "45942b6cf964a5205d401fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/bainbridge-island-ferry-terminal/45942b6cf964a5205d401fe3",
+        "address": "270 Olympic Drive SE",
+        "website": "http://www.wsdot.com/ferries/schedule/Default.aspx",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Marine Terminal"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Marine Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51097707719423,
+          47.623033703317326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle Ferry Terminal",
+        "id": "4283ee00f964a52082221fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/seattle-ferry-terminal/4283ee00f964a52082221fe3",
+        "address": "801 Alaskan Way",
+        "website": "http://www.wsdot.com/ferries/vesselwatch/TerminalDetail.aspx?terminalid=7",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Marine Terminal"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Marine Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33880141001802,
+          47.60244883986254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pike Brewing Company",
+        "id": "40b13b00f964a520e1f61ee3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/pike-brewing-company/40b13b00f964a520e1f61ee3",
+        "address": "1415 1st Ave",
+        "website": "http://pikebrewing.com/",
+        "categories": [
+          "Dining and Drinking > Brewery",
+          "Dining and Drinking > Bar > Pub",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33992259209742,
+          47.60816081867329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Market Grill",
+        "id": "4a3c2d5df964a52038a11fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/market-grill/4a3c2d5df964a52038a11fe3",
+        "address": "1509 Pike Pl",
+        "website": "http://www.marketgrillseattle.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant",
+          "Dining and Drinking > Restaurant > American Restaurant"
+        ],
+        "tips": [
+          "Nice sandwich, overpriced for the location."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34101077483135,
+          47.60889700598648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "520 Bar and Grill",
+        "id": "4a60dbedf964a52052c11fe3",
+        "list_id": "5642360f498ea0eb7520427d",
+        "list_name": "Seattle",
+        "url": "https://app.foursquare.com/v/520-bar-and-grill/4a60dbedf964a52052c11fe3",
+        "address": "10146 Main St",
+        "website": "http://www.520barandgrill.com",
+        "categories": [
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20438677260533,
+          47.610315909576464
+        ]
+      }
+    }
+  ]
+}

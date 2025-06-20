@@ -1,0 +1,336 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "auf die Hand",
+        "id": "5fa12cdcf291e935db66953e",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/auf-die-hand/5fa12cdcf291e935db66953e",
+        "address": "Willy-Brandt-Platz 1",
+        "website": "https://www.auf-die-hand.de/en/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Deli"
+        ],
+        "tips": [
+          "Focaccias and the lasagne are great, filling options."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.510619401931763,
+          52.36452213189523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alte Waldsch\u00e4nke \u2022 Wiesenstein",
+        "id": "4fc3befbe4b0f39e6cdddc26",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/alte-waldsch%C3%A4nke--wiesenstein/4fc3befbe4b0f39e6cdddc26",
+        "address": "Karolinenstr. 9",
+        "website": "http://www.wiesenstein.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [
+          "I'm not a pro in Schwabisches food, but it tasted pretty good and was delivered really fast. Overpriced, yes."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.276241137933397,
+          52.59811282133356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ginn Hotels Berlin-Potsdam",
+        "id": "62596f6cfcd3940ba0062aed",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/ginn-hotels-berlinpotsdam/62596f6cfcd3940ba0062aed",
+        "address": "Warthestr. 20",
+        "website": "https://ginn-hotels.com/berlin-potsdam",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [
+          "Hip style in the middle of nowhere, pretty okay wessie-mediterran breakfast,"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.240333850189417,
+          52.40218515591855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schorfheider Fischexpress",
+        "id": "5bc7a2ddc21cb1002c006b93",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/schorfheider-fischexpress/5bc7a2ddc21cb1002c006b93",
+        "address": "Eberswalder Chaussee 1b",
+        "website": "https://schorfheider-fischexpress.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [
+          "Good food, go for the fun - fish soup, smoked eel and Sulze."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.639379853133677,
+          52.891292936390236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luftfahrtmuseum Finowfurt",
+        "id": "4c25e7ebf1272d7f668d85c5",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/luftfahrtmuseum-finowfurt/4c25e7ebf1272d7f668d85c5",
+        "address": "Museumsstr. 1",
+        "website": "http://www.luftfahrtmuseum-finowfurt.de",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [
+          "Pretty good one and unexpectedly big. Gift shop has great swag."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.673516252833602,
+          52.83234572170761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "REWE",
+        "id": "5fade0ea26725a09af9a3bbc",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/rewe/5fade0ea26725a09af9a3bbc",
+        "address": "Willy-Brandt-Platz 1",
+        "website": "https://www.rewe.de/marktseite/schoenefeld/1931623/rewe-markt-willy-brandt-platz-1/?ecid=seo_localseo_1931623_otherpublisher_nn_nn_nn_nn_nn",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [
+          "The shop before boarding a red-eye."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.510903716087341,
+          52.364643947000346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seebad Wendenschloss",
+        "id": "4bc9c150937ca593603aa692",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/seebad-wendenschloss/4bc9c150937ca593603aa692",
+        "address": "M\u00f6llhausenufer 30",
+        "website": "http://www.strandbad-wendenschloss.de",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [
+          "New owners, free entry if you don't swim. Beach is okay, food is lalala."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.59947853481007,
+          52.415304308779504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badestrand Havelchaussee",
+        "id": "4e021973d4c0836163ddb1b6",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/badestrand-havelchaussee/4e021973d4c0836163ddb1b6",
+        "address": "Havelchaussee",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach",
+          "Landmarks and Outdoors > Bathing Area"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18949085237811,
+          52.45873226325766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Havel Therme",
+        "id": "60cf5002e180036cc1019004",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/havel-therme/60cf5002e180036cc1019004",
+        "address": "Zum Grossen Zernsee 3",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.920285560560496,
+          52.398919772874606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seddiner Strand",
+        "id": "4f660784e4b04d4b1706a983",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/seddiner-strand/4f660784e4b04d4b1706a983",
+        "address": "Gro\u00dfer Seddiner See",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05391374107067,
+          52.2721106536537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China-Restaurant XIA",
+        "id": "4efcc6820aafc586954906da",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/chinarestaurant-xia/4efcc6820aafc586954906da",
+        "address": "Potsdamer Str. 50",
+        "website": "http://www.qype.com/place/422562-China-Restaurant-Xia-Ludwigsfelde",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [
+          "Reasonable buffet."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.259126237223725,
+          52.301899284005536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aalr\u00e4ucherei",
+        "id": "644e6252693e945ed79a686b",
+        "list_id": "637e459739270323d56792c7",
+        "list_name": "Brandenburg",
+        "url": "https://app.foursquare.com/v/aalr%C3%A4ucherei/644e6252693e945ed79a686b",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Fish Market"
+        ],
+        "tips": [
+          "Fish butcher and smoker."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Fish Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.127831,
+          52.237817
+        ]
+      }
+    }
+  ]
+}

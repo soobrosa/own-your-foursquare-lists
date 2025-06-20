@@ -1,0 +1,884 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oberlo",
+        "id": "5890470d266c1159cd5d3a45",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/oberlo/5890470d266c1159cd5d3a45",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Business and Professional Services > Office > Tech Startup"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Tech Startup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.311946,
+          54.698698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uptown Bazaar",
+        "id": "59cc7cc9efa82a74513b64c0",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/uptown-bazaar/59cc7cc9efa82a74513b64c0",
+        "address": "Kauno g. 16",
+        "website": "https://www.prodo.lt/uptown-bazaar.html",
+        "categories": [
+          "Dining and Drinking > Food Court",
+          "Retail > Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Food Court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.274060428983564,
+          54.67253331887821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SAKM\u0116S",
+        "id": "5b105db3da5ede002c80d287",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/sakm%C4%97s/5b105db3da5ede002c80d287",
+        "address": "Antakalnio g. 17",
+        "website": "http://sakm\u0117s.restaurant",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Good food, dunno the prices whether it worths it."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.31193063119924,
+          54.69787070877299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)",
+        "id": "4b63dd09f964a520d2942ae3",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/vilniaus-oro-uostas--vilnius-international-airport-vno/4b63dd09f964a520d2942ae3",
+        "address": "Rod\u016bnios kelias 10A",
+        "website": "https://www.vilnius-airport.lt",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Airport > International Airport"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "International Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.280885006311212,
+          54.64300926984553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel City Gate Vilnius",
+        "id": "4bc8ed16762beee172b53d38",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/hotel-city-gate-vilnius/4bc8ed16762beee172b53d38",
+        "address": "Bazilijonu 3",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.288041560894783,
+          54.673351641260005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lidl",
+        "id": "57dbc233498e779b7d0c0420",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/lidl/57dbc233498e779b7d0c0420",
+        "address": "Ras\u0173 g. 9A",
+        "website": "http://www.lidl.lt",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.296721540862546,
+          54.673789198127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rimi",
+        "id": "4c449804f0bdd13ac4cbc9cc",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/rimi/4c449804f0bdd13ac4cbc9cc",
+        "address": "Did\u017eioji g. 28",
+        "website": "https://www.rimi.lt",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.287367537194253,
+          54.678123893832684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hal\u0117s turgaviet\u0117",
+        "id": "4c2c65a9b34ad13a2238ebce",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/hal%C4%97s-turgaviet%C4%97/4c2c65a9b34ad13a2238ebce",
+        "address": "Pylimo g. 58",
+        "website": "http://www.halesturgaviete.lt",
+        "categories": [
+          "Retail > Market",
+          "Retail > Food and Beverage Retail > Farmers Market",
+          "Retail > Food and Beverage Retail > Fish Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28569476891061,
+          54.67400099180385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D\u017eiugas",
+        "id": "4e50fad152b1e893ad703a42",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/d%C5%BEiugas/4e50fad152b1e893ad703a42",
+        "address": "Au\u0161ros vart\u0173 g. 3",
+        "website": "http://www.dziugashouse.lt",
+        "categories": [
+          "Retail > Food and Beverage Retail > Cheese Store"
+        ],
+        "tips": [
+          "Got the cheese on sale, was very happy!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Cheese Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.288255420001065,
+          54.67656081310949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Discotag",
+        "id": "59f07e66a92d9809d34c3b35",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/discotag/59f07e66a92d9809d34c3b35",
+        "address": "Pylimo g. 63",
+        "website": "",
+        "categories": [
+          "Retail > Record Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Record Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.286461,
+          54.672949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amadeus",
+        "id": "5b07bea08e886a00395ba8d4",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/amadeus/5b07bea08e886a00395ba8d4",
+        "address": "Pasa\u017eo skg. 3",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Cocktail Bar",
+          "Retail > Record Store"
+        ],
+        "tips": [
+          "Good cocktails."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Cocktail Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28826822216839,
+          54.676466675951815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peronas",
+        "id": "55fb1c26498e811e3ed462e2",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/peronas/55fb1c26498e811e3ed462e2",
+        "address": "Gele\u017einkelio g. 6",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [
+          "Great pub, good stuff on tap. Enjoy the trains!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.283147231016702,
+          54.66963900532441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green Hall",
+        "id": "4c3b3bdbe927b7136d575eb2",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/green-hall/4c3b3bdbe927b7136d575eb2",
+        "address": "Up\u0117s g. 21",
+        "website": "http://www.greenhall.lt",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25988010998384,
+          54.695594915342056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Radisson Blu Hotel Lietuva",
+        "id": "4c64015cedd320a1aab6b029",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/radisson-blu-hotel-lietuva/4c64015cedd320a1aab6b029",
+        "address": "Konstitucijos pr. 20",
+        "website": "http://t.co/QozapC4StP",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.274958313808654,
+          54.69496882758937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAXIMA XX",
+        "id": "4baf873bf964a5207c073ce3",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/maxima-xx/4baf873bf964a5207c073ce3",
+        "address": "Konstitucijos pr. 7a",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.276964458632605,
+          54.69610268487623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IKI Express",
+        "id": "4e95662d29c275d2aaea85a8",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/iki-express/4e95662d29c275d2aaea85a8",
+        "address": "Kalvarij\u0173 g. 3",
+        "website": "http://www.iki.lt",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store",
+          "Retail > Convenience Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.280833356217123,
+          54.693028597127174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rib Room",
+        "id": "4f83d263e4b05b009426c13f",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/rib-room/4f83d263e4b05b009426c13f",
+        "address": "Holliday Inn",
+        "website": "http://www.ribroom.lt",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28238318040512,
+          54.694530017243174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stebuklai",
+        "id": "5045c59fe4b08098dae4a11e",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/stebuklai/5045c59fe4b08098dae4a11e",
+        "address": "Gyn\u0117j\u0173 g. 14",
+        "website": "http://www.stebuklai.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.264161229133606,
+          54.69206586086372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pancho",
+        "id": "58077c7938fa792cf13a538c",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/pancho/58077c7938fa792cf13a538c",
+        "address": "Konstitucijos prospektas 21C",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27106807542652,
+          54.69866796182388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAXIMA X",
+        "id": "4bb203f6f964a52028b23ce3",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/maxima-x/4bb203f6f964a52028b23ce3",
+        "address": "Konstitucijos pr. 16",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27583532935618,
+          54.69378613649354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embassy Hotel Balatonas Vilnius",
+        "id": "4bd74fd9304fce72755c33ab",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/embassy-hotel-balatonas-vilnius/4bd74fd9304fce72755c33ab",
+        "address": "Latviu 38",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.247487852161697,
+          54.694651207229796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAXIMA X",
+        "id": "4bb20383f964a520f9b13ce3",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/maxima-x/4bb20383f964a520f9b13ce3",
+        "address": "K\u0119stu\u010dio g. 37",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.250901610166036,
+          54.69351763426598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IKI \u017dv\u0117ryno \u017diedas",
+        "id": "4e312a80d4c0b2aebf6d9c1a",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/iki-%C5%BEv%C4%97ryno-%C5%BEiedas/4e312a80d4c0b2aebf6d9c1a",
+        "address": "S\u0117li\u0173 g. 54",
+        "website": "http://www.iki.lt",
+        "categories": [
+          "Retail > Food and Beverage Retail > Grocery Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Grocery Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.24761694757141,
+          54.69846593856649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fresh Market",
+        "id": "51d9ac9f498ef5833128c0ce",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/fresh-market/51d9ac9f498ef5833128c0ce",
+        "address": "Vykinto Gatv\u0117",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Food and Beverage Retail > Grocery Store",
+          "Dining and Drinking > Food Court"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.249943959643026,
+          54.68990408998381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Don Simon Picos namai",
+        "id": "52d158f6498e867eec33af91",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/don-simon-picos-namai/52d158f6498e867eec33af91",
+        "address": "K\u0119stu\u010dio",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.250294831780966,
+          54.69361655735623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DonSimon",
+        "id": "5245ab8b11d28a6ad280813e",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/donsimon/5245ab8b11d28a6ad280813e",
+        "address": "K\u0119stu\u010dio 24a",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.250213882386713,
+          54.698153937037695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jammi",
+        "id": "52e7ae92498e3c803b2c0072",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/jammi/52e7ae92498e3c803b2c0072",
+        "address": "S\u0117li\u0173 g. 56A",
+        "website": "http://www.jammi.lt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Kebab Restaurant",
+          "Dining and Drinking > Restaurant > Mexican Restaurant > Burrito Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Kebab Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.245303274398648,
+          54.69837136677307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Druska Miltai Vanduo Kepykla",
+        "id": "5bb883d9c36588002ca396f6",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/druska-miltai-vanduo-kepykla/5bb883d9c36588002ca396f6",
+        "address": "Gele\u017einkelio g. 3",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.288364,
+          54.67191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aline Lei\u010diai",
+        "id": "4f94020ae4b022b1ba0b7955",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/aline-lei%C4%8Diai/4f94020ae4b022b1ba0b7955",
+        "address": "Stikli\u0173 g. 4",
+        "website": "http://www.bambalyne.lt/aline-leiciai",
+        "categories": [
+          "Dining and Drinking > Bar > Pub",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.286811561014105,
+          54.67960517645601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MO Museum | MO muziejus",
+        "id": "5bc3322356c89f002c0e2678",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/mo-museum--mo-muziejus/5bc3322356c89f002c0e2678",
+        "address": "Pylimo G. 17",
+        "website": "http://mo.lt",
+        "categories": [
+          "Arts and Entertainment > Museum",
+          "Arts and Entertainment > Art Gallery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27790189082158,
+          54.67952047938318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00f6ff Steakhouse",
+        "id": "5062d23ee4b04593ef1d3144",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/b%C3%B6ff-steakhouse/5062d23ee4b04593ef1d3144",
+        "address": "Olimpie\u010di\u0173 g. 1",
+        "website": "http://www.boff.lt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Steakhouse"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Steakhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.289554152643234,
+          54.68958133334851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalvarij\u0173 turgus",
+        "id": "4c5d458f857ca593d258cccb",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/kalvarij%C5%B3-turgus/4c5d458f857ca593d258cccb",
+        "address": "Kalvarij\u0173 g. 61",
+        "website": "",
+        "categories": [
+          "Retail > Market",
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.285528049014097,
+          54.70020820399496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tymo turgus",
+        "id": "4be44fb4bcef2d7fc35d02e5",
+        "list_id": "5b8b874692e7a9002c202738",
+        "list_name": "Vilnius",
+        "url": "https://app.foursquare.com/v/tymo-turgus/4be44fb4bcef2d7fc35d02e5",
+        "address": "Auk\u0161tai\u010di\u0173 gatv\u0117",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29433401107902,
+          54.678886780583994
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halkakas halbisztr\u00f3",
+        "id": "4fc8e763e4b0936e6f7cd875",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/halkakas-halbisztr%C3%B3/4fc8e763e4b0936e6f7cd875",
+        "address": "Doh\u00e1ny u. 36",
+        "website": "http://www.halkakas.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fish and Chips Shop",
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fish and Chips Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.058144187434934,
+          47.48850990753611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nU Bisztron\u00f3mia Fakult\u00e1ci\u00f3",
+        "id": "4bbe48304e9cd13afce0d92c",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/nu-bisztron%C3%B3mia-fakult%C3%A1ci%C3%B3/4bbe48304e9cd13afce0d92c",
+        "address": "Eiffel t\u00e9r",
+        "website": "http://www.bisztronomia.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro",
+          "Business and Professional Services > Event Space",
+          "Dining and Drinking > Bar > Cocktail Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.057888984680176,
+          47.509867312817356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PostBistro",
+        "id": "55c52d8f498ed9e7df6c22b7",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/postbistro/55c52d8f498ed9e7df6c22b7",
+        "address": "V\u00e1rfok u. 22",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.024229226749778,
+          47.50601633030261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R\u00f3ma \u00c9telb\u00e1r",
+        "id": "4c85cc3674d7b60c8ce89ed8",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/r%C3%B3ma-%C3%A9telb%C3%A1r/4c85cc3674d7b60c8ce89ed8",
+        "address": "Fazekas u. 4.",
+        "website": "http://www.controll.hu/roma/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.034031,
+          47.507575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunyadi Cafe",
+        "id": "534fa562498e4ea5491d2153",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/hunyadi-cafe/534fa562498e4ea5491d2153",
+        "address": "Hunyadi J\u00e1nos \u00fat 15.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [
+          "Feels like home, pretty cosy, fr\u00f6ccs also, not just craft beers."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.037095914813808,
+          47.50062208102907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alap",
+        "id": "5453ea0e498ee281f01b3a95",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/alap/5453ea0e498ee281f01b3a95",
+        "address": "Bajcsy Zsilinszky u. 35.",
+        "website": "http://alapcafe.hu",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "A fav hideout to work a bit with coffee + lemonade + wifi."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.054958747316,
+          47.505171170129444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stand25 Bisztr\u00f3",
+        "id": "58666a508f0be47e42a29c41",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/stand25-bisztr%C3%B3/58666a508f0be47e42a29c41",
+        "address": "Attila \u00fat 10.",
+        "website": "http://stand25.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.032762050628662,
+          47.49782696255948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veggie Nyers Veg\u00e1n Bisztr\u00f3",
+        "id": "57050007498e8004917f0c44",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/veggie-nyers-veg%C3%A1n-bisztr%C3%B3/57050007498e8004917f0c44",
+        "address": "Garibaldi u. 5.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Vegan and Vegetarian Restaurant"
+        ],
+        "tips": [
+          "Kind of okay, I was looking for the old crazy Vegan place what was here before."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vegan and Vegetarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.047265633169467,
+          47.504993346950066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klassz \u00c9tterem \u00e9s Borbolt",
+        "id": "4b7692ecf964a5209e522ee3",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/klassz-%C3%A9tterem-%C3%A9s-borbolt/4b7692ecf964a5209e522ee3",
+        "address": "Andr\u00e1ssy \u00fat 41.",
+        "website": "http://www.klasszetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.061563,
+          47.50394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olimpia vend\u00e9gl\u0151",
+        "id": "4b59f918f964a520eda428e3",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/olimpia-vend%C3%A9gl%C5%91/4b59f918f964a520eda428e3",
+        "address": "Alp\u00e1r u. 5.",
+        "website": "http://www.alparutca5.hu/olimpia-etterem/",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.087200196706284,
+          47.50427548561694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T\u00f6LT\u0151",
+        "id": "55e9aeb4498eabd1dc244463",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/t%C3%B6lt%C5%91/55e9aeb4498eabd1dc244463",
+        "address": "Wessel\u00e9nyi u. 31.",
+        "website": "http://www.tolto.net",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hot Dog Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hot Dog Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06602144241333,
+          47.49872940507827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pola Pola",
+        "id": "554e586d498ebfd16ceb9f9d",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/pola-pola/554e586d498ebfd16ceb9f9d",
+        "address": "Klauz\u00e1l t\u00e9r 11.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06413577546253,
+          47.500085108064944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fricska",
+        "id": "54838153498e8cea44a5d027",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/fricska/54838153498e8cea44a5d027",
+        "address": "Dob u. 56-58.",
+        "website": "http://fricska.eu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.066281696931327,
+          47.50143258438811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u00e1d\u00e1r \u00c9tkezde",
+        "id": "4c174d065e88c928725e2566",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/k%C3%A1d%C3%A1r-%C3%A9tkezde/4c174d065e88c928725e2566",
+        "address": "Klauz\u00e1l t\u00e9r 9.",
+        "website": "http://www.etterem.hu/10103",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.064675,
+          47.499676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MALTeR S\u00f6r\u00e9tterem",
+        "id": "581cf2adeb569a4887e5e1bb",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/malter-s%C3%B6r%C3%A9tterem/581cf2adeb569a4887e5e1bb",
+        "address": "Ak\u00e1cfa utca 38.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.065856876772592,
+          47.49997040350722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Rapido Grill & Tequila B\u00e1r",
+        "id": "4c0d52ac2466a59391677721",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/el-rapido-grill--tequila-b%C3%A1r/4c0d52ac2466a59391677721",
+        "address": "Kazinczy u. 10.",
+        "website": "http://www.elrapido.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06358931579496,
+          47.49682439163866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soul Food Budapest",
+        "id": "52b6c98f498e2f8cd536c243",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/soul-food-budapest/52b6c98f498e2f8cd536c243",
+        "address": "Kazinczy u. 32.",
+        "website": "http://soulfood.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Southern Food Restaurant",
+          "Dining and Drinking > Restaurant > Cajun and Creole Restaurant",
+          "Dining and Drinking > Restaurant > Caribbean Restaurant"
+        ],
+        "tips": [
+          "Okay creole food, a Sunday morning you could be delivered leftovers from yesterday evening and find no clean-up of the busy night."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Southern Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.062373638153076,
+          47.498287246424816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lhanzou K\u00ednai \u00c9tterem",
+        "id": "4d777b12bc888cfaaf40ea73",
+        "list_id": "5baf7eea628c83002c6b5e95",
+        "list_name": "Budapest (closed)",
+        "url": "https://app.foursquare.com/v/lhanzou-k%C3%ADnai-%C3%A9tterem/4d777b12bc888cfaaf40ea73",
+        "address": "Luther u. 1",
+        "website": "http://www.telepules.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [
+          "Good food, okay prices, slow service, sloppy enterior. Fish tank is fine."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.075510810591517,
+          47.498171701572446
+        ]
+      }
+    }
+  ]
+}

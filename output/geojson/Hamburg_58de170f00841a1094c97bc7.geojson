@@ -1,0 +1,1290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binnenalster",
+        "id": "4b92affff964a5208e1134e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/binnenalster/4b92affff964a5208e1134e3",
+        "address": "Jungfernstieg",
+        "website": "https://de.wikipedia.org/wiki/Alster",
+        "categories": [
+          "Landmarks and Outdoors > Lake",
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995133876800537,
+          53.555090028655016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Hamburg (Hamburger Hafen)",
+        "id": "4da59e9f7ccc816ed95faa7b",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/hamburger-hafen--port-of-hamburg/4da59e9f7ccc816ed95faa7b",
+        "address": "An den Landungsbr\u00fccken",
+        "website": "https://www.hafen-hamburg.de",
+        "categories": [
+          "Travel and Transportation > Port"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96989831328392,
+          53.54367083141789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elbgold",
+        "id": "4c61ce87edb29c741faf20a7",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/elbgold/4c61ce87edb29c741faf20a7",
+        "address": "Lagerstr. 34c",
+        "website": "https://www.elbgoldshop.com",
+        "categories": [
+          "Retail > Food and Beverage Retail > Coffee Roaster",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Coffee Roaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.967199704214666,
+          53.56315212073975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landungsbr\u00fccken",
+        "id": "4e3d5682e4cdab9b934139b9",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/landungsbr%C3%BCcken/4e3d5682e4cdab9b934139b9",
+        "address": "St. Pauli Hafenstr.",
+        "website": "https://www.landungsbruecken.info",
+        "categories": [
+          "Travel and Transportation > Pier",
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970020838658677,
+          53.54540416664795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milch",
+        "id": "54b7903c498ee1394cddca79",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/milch/54b7903c498ee1394cddca79",
+        "address": "Ditmar-Koel-Str. 22",
+        "website": "http://www.milchfeinkost.de",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974792003631592,
+          53.54589212517736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planten un Blomen",
+        "id": "4b40a24ff964a52076b925e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/planten-un-blomen/4b40a24ff964a52076b925e3",
+        "address": "Messeplatz",
+        "website": "https://plantenunblomen.hamburg.de",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9830961227417,
+          53.561048794851224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isemarkt",
+        "id": "4b058863f964a520d5c222e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/isemarkt/4b058863f964a520d5c222e3",
+        "address": "Isestr.",
+        "website": "https://www.isemarkt.com",
+        "categories": [
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.980295612755128,
+          53.58038607258305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadtpark",
+        "id": "4b05885df964a520fdc022e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/stadtpark/4b05885df964a520fdc022e3",
+        "address": "Otto-Wels-Str.",
+        "website": "https://www.hamburg.de/stadtpark/",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019059181213379,
+          53.596325330441026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elbstrand \u00d6velg\u00f6nne",
+        "id": "4b0ab196f964a5207a2623e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/elbstrand-%C3%B6velg%C3%B6nne/4b0ab196f964a5207a2623e3",
+        "address": "\u00d6velg\u00f6nne",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Beach"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90842342376709,
+          53.54440038487871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miniatur Wunderland",
+        "id": "4b05885ef964a52044c122e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/miniatur-wunderland/4b05885ef964a52044c122e3",
+        "address": "Kehrwieder 2",
+        "website": "https://www.miniatur-wunderland.de",
+        "categories": [
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989045262336731,
+          53.543769248156416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altonaer Balkon",
+        "id": "4b7c0228f964a52043782fe3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/altonaer-balkon/4b7c0228f964a52043782fe3",
+        "address": "Palmaille",
+        "website": "http://www.hamburg.de/parkanlagen/3049512/altonaer-balkon/",
+        "categories": [
+          "Landmarks and Outdoors > Park",
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93934392929077,
+          53.54535663470883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biologiezentrum/Zoologisches Museum (Zoologisches Museum)",
+        "id": "5077ca72e4b021c5506b7767",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/biologiezentrumzoologisches-museum/5077ca72e4b021c5506b7767",
+        "address": "Martin-Luther-King-Platz 3",
+        "website": "https://www.cenak.uni-hamburg.de/ausstellungen/museum-zoologie.html",
+        "categories": [
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Science Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.978632926940918,
+          53.56730618902727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Internationales Maritimes Museum",
+        "id": "4bb88e40cf2fc9b6da9c9f02",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/internationales-maritimes-museum/4bb88e40cf2fc9b6da9c9f02",
+        "address": "Koreastr. 1",
+        "website": "http://www.imm-hamburg.de",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999838471412659,
+          53.54334848511345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arch\u00e4ologisches Museum Hamburg | Helms-Museum",
+        "id": "4b05885ff964a52086c122e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/arch%C3%A4ologisches-museum-hamburg--helmsmuseum/4b05885ff964a52086c122e3",
+        "address": "Museumsplatz 2",
+        "website": "http://amh.de",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.977556405072,
+          53.45899180816014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U-434 U-Boot Museum",
+        "id": "4caae56e2f08236a35928161",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/u434-uboot-museum/4caae56e2f08236a35928161",
+        "address": "St. Pauli Fischmarkt 10",
+        "website": "http://www.u-434.de",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum",
+          "Travel and Transportation > Boat or Ferry"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.955257291460729,
+          53.54518158081393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altonaer Museum",
+        "id": "4b05885ff964a52078c122e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/altonaer-museum/4b05885ff964a52078c122e3",
+        "address": "Museumstr. 23",
+        "website": "https://www.altonaermuseum.de",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934591054916382,
+          53.5490284333031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jawa",
+        "id": "538e0944498eecce5c71950c",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/jawa/538e0944498eecce5c71950c",
+        "address": "Wendenstr. 29",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Indonesian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indonesian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02632705831325,
+          53.54733720672117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAYA Kaffeer\u00f6sterei",
+        "id": "4c807dcd74d7b60c48676ed8",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/maya-kaffeer%C3%B6sterei/4c807dcd74d7b60c48676ed8",
+        "address": "Hammerbrookstr. 75",
+        "website": "https://www.mayakaffeeroesterei.de",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.024800315209186,
+          53.54586788154755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Espresso Club",
+        "id": "4da832fa5da3ef8bf157de9a",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/espresso-club/4da832fa5da3ef8bf157de9a",
+        "address": "Gotenstra\u00dfe 19",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025448102638643,
+          53.54967616793185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A&O Hostel Hamburg City",
+        "id": "4fc0d83ae4b07ac9fc647a08",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/ao-hostel-hamburg-city/4fc0d83ae4b07ac9fc647a08",
+        "address": "Spaldingstr. 160",
+        "website": "http://www.aohostels.com",
+        "categories": [
+          "Travel and Transportation > Lodging > Hostel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.022946123209065,
+          53.55088253803442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delikatessen des Meeres",
+        "id": "4b4cdc78f964a52018c226e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/delikatessen-des-meeres/4b4cdc78f964a52018c226e3",
+        "address": "Colonnaden 104",
+        "website": "http://fischfeinkostdelikatessendesmeeres.foodpearl.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.990241905025234,
+          53.557563381658646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thai Food",
+        "id": "50ec5c98e4b0571ddf2d008c",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/thai-food/50ec5c98e4b0571ddf2d008c",
+        "address": "Herrengraben 22",
+        "website": "https://www.thai-food.asia",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983081755217874,
+          53.547840166048765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mr. Dam",
+        "id": "4b313138f964a5203e0225e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/mr-dam/4b313138f964a5203e0225e3",
+        "address": "Mottenburger Twiete 4",
+        "website": "https://www.mrdamhamburg.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.929853965167272,
+          53.55102475321996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ploy Thai",
+        "id": "4b6ab88af964a52075dd2be3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/ploy-thai/4b6ab88af964a52075dd2be3",
+        "address": "Osterstr.",
+        "website": "http://www.thai-restaurants-hamburg.de/ploy-thai",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Thai Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Thai Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.947284393877764,
+          53.578350506350255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klein & Kaiserlich",
+        "id": "4b9f712bf964a520e62237e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/klein--kaiserlich/4b9f712bf964a520e62237e3",
+        "address": "Am Kaiserkai 26",
+        "website": "http://www.k-u-k-kaffeehaus.de",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant > Austrian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989936722223248,
+          53.54164807525797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karo Fisch",
+        "id": "5173d214e4b0cf8b91ceb795",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/karo-fisch/5173d214e4b0cf8b91ceb795",
+        "address": "Feldstr. 32",
+        "website": "http://karofisch.wixsite.com/karofisch",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969835517088363,
+          53.55730263141339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kardelen",
+        "id": "4b41d07ff964a5201ec925e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/kardelen/4b41d07ff964a5201ec925e3",
+        "address": "Steinwegpassage 6",
+        "website": "https://kardelen-hamburg.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Turkish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Turkish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98227138147596,
+          53.55066673466425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleine Haie gro\u00dfe Fische",
+        "id": "5245ef1f498efbcbfa78172c",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/kleine-haie-gro%C3%9Fe-fische/5245ef1f498efbcbfa78172c",
+        "address": "Querstr. 4",
+        "website": "https://kleine-haie-grosse-fische.eatbu.com/?lang=de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fish and Chips Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fish and Chips Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.960262433100818,
+          53.54908759113023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hafenkante",
+        "id": "51615bcde4b0e094379811f6",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/hafenkante/51615bcde4b0e094379811f6",
+        "address": "Fischmarkt 11",
+        "website": "http://www.hafenkante.info",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.951860845682111,
+          53.54566414671808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamburger Fischmarkt",
+        "id": "4b058863f964a520b6c222e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/hamburger-fischmarkt/4b058863f964a520b6c222e3",
+        "address": "Gro\u00dfe Elbstr. 9",
+        "website": "http://www.hamburg.de/fischmarkt/",
+        "categories": [
+          "Retail > Food and Beverage Retail > Fish Market",
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Fish Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952066701099097,
+          53.54489326698835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anleger Altona (Fischmarkt)",
+        "id": "4c7fe66edc018cfa08b4b76c",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/anleger-altona-fischmarkt/4c7fe66edc018cfa08b4b76c",
+        "address": "Gro\u00dfe Elbstr.",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Pier"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952015060289334,
+          53.54401672311457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fischmarkt",
+        "id": "50707795e4b02bfe65a22682",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/fischmarkt/50707795e4b02bfe65a22682",
+        "address": "Fischmarkt",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.951982498168945,
+          53.54576462806126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberty",
+        "id": "51b089bd498e98a87c661871",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/liberty/51b089bd498e98a87c661871",
+        "address": "Fischmarkt 11",
+        "website": "http://www.liberty-hamburg.de",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor",
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.951860845682113,
+          53.54566414671808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizza-Bande",
+        "id": "54f1deeb498eed5faab7a43a",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/pizzabande/54f1deeb498eed5faab7a43a",
+        "address": "Lincolnstr. 10",
+        "website": "https://www.pizza-bande.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95745755531327,
+          53.549031624736216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luicella's",
+        "id": "51728e1fe4b0c790d3f28006",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/luicellas/51728e1fe4b0c790d3f28006",
+        "address": "Detlev-Bremer-Str. 46",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.964740305635575,
+          53.55067602415989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zum Sp\u00e4tzle",
+        "id": "50a63fc5e4b0b3c0ab1853c6",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/zum-sp%C3%A4tzle/50a63fc5e4b0b3c0ab1853c6",
+        "address": "Wexstr. 31",
+        "website": "http://www.zumspaetzle.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant > Swabian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Swabian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981732068202145,
+          53.550975041520815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otto's Burger",
+        "id": "53cd57ff498e10c7a6bac7f1",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/ottos-burger/53cd57ff498e10c7a6bac7f1",
+        "address": "Grindelhof 33",
+        "website": "http://www.ottosburger.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.982937112832259,
+          53.568744689096015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otto's Burger",
+        "id": "55a78f42498edf2ed8d9164d",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/ottos-burger/55a78f42498edf2ed8d9164d",
+        "address": "Bahrenfelder Str. 175",
+        "website": "http://ottosburger.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928392421299765,
+          53.55459256082263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otto's Burger",
+        "id": "577e9964498ea8b9330ed62c",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/ottos-burger/577e9964498ea8b9330ed62c",
+        "address": "Schanzenstr. 58",
+        "website": "http://www.ottosburger.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96604856553004,
+          53.5616970790164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ti Breizh",
+        "id": "4b058860f964a5200ac222e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/ti-breizh/4b058860f964a5200ac222e3",
+        "address": "Deichstr. 39",
+        "website": "https://www.tibreizh.de",
+        "categories": [
+          "Dining and Drinking > Creperie"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Creperie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98730719089508,
+          53.545567006772295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eiskantine",
+        "id": "4e4804fbd22d12b08bd64f1e",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/eiskantine/4e4804fbd22d12b08bd64f1e",
+        "address": "Kohlh\u00f6fen 10",
+        "website": "http://www.eiskantine.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.980664442488992,
+          53.551964287882114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Extrawurst auf dem Fischmarkt",
+        "id": "4db95279f7b1b4c54f4e1b05",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/extrawurst-auf-dem-fischmarkt/4db95279f7b1b4c54f4e1b05",
+        "address": "Fischmarkt",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fast Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952608,
+          53.545474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japanischer Garten",
+        "id": "4db552eafa8c350240f68d92",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/japanischer-garten/4db552eafa8c350240f68d92",
+        "address": "Gorch-Fock-Wall",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983691573143005,
+          53.56083212714851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tierpark Hagenbeck",
+        "id": "4b05885df964a520e9c022e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/tierpark-hagenbeck/4b05885df964a520e9c022e3",
+        "address": "Lokstedter Grenzstr. 2",
+        "website": "https://www.hagenbeck.de",
+        "categories": [
+          "Arts and Entertainment > Zoo"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93863582611084,
+          53.5969493161153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alter Botanischer Garten",
+        "id": "4d611785196ba09370aa2156",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/alter-botanischer-garten/4d611785196ba09370aa2156",
+        "address": "Gorch-Fock-Wall",
+        "website": "http://plantenunblomen.hamburg.de",
+        "categories": [
+          "Landmarks and Outdoors > Botanical Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Botanical Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986034956482477,
+          53.559460498427235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loki-Schmidt-Garten | Neuer Botanischer Garten",
+        "id": "4b05885df964a520efc022e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/lokischmidtgarten--neuer-botanischer-garten/4b05885df964a520efc022e3",
+        "address": "Ohnhorststr. 18",
+        "website": "http://www.bghamburg.de",
+        "categories": [
+          "Landmarks and Outdoors > Botanical Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Botanical Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.861109256744385,
+          53.562654650289126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tropenschauhaus",
+        "id": "4befeaa070779521394d3e7c",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/tropenschauhaus/4befeaa070779521394d3e7c",
+        "address": "Marseiller Str.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Botanical Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Botanical Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985520839691162,
+          53.560086526867956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptkirche St. Michaelis",
+        "id": "4b41edf2f964a52052ca25e3",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/hauptkirche-st-michaelis/4b41edf2f964a52052ca25e3",
+        "address": "Englische Planke 1",
+        "website": "http://www.hauptkirchen.de",
+        "categories": [
+          "Community and Government > Spiritual Center > Church",
+          "Landmarks and Outdoors > Monument"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97829422147848,
+          53.54892172020533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarsusi",
+        "id": "5ae2fd728194fc002cb9dd32",
+        "list_id": "58de170f00841a1094c97bc7",
+        "list_name": "Hamburg",
+        "url": "https://app.foursquare.com/v/tarsusi/5ae2fd728194fc002cb9dd32",
+        "address": "Bahrenfelder Str. 205",
+        "website": "http://www.tarsusi.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Turkish Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Turkish Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928365647792816,
+          53.555705063150896
+        ]
+      }
+    }
+  ]
+}

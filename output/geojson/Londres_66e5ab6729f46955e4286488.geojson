@@ -1,0 +1,256 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oranj",
+        "id": "6377ebecd9d6aa4bb0924ee0",
+        "list_id": "66e5ab6729f46955e4286488",
+        "list_name": "Londres",
+        "url": "https://app.foursquare.com/v/oranj/6377ebecd9d6aa4bb0924ee0",
+        "address": "14 Bacon St",
+        "website": "https://oranj.co.uk",
+        "categories": [
+          "Dining and Drinking > Bar > Wine Bar",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Really good food, great wines, make sure you're not the one covering the bill."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Wine Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07205080956617577,
+          51.5239369438593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London City Airport (LCY)",
+        "id": "4acdb243f964a520b7cc20e3",
+        "list_id": "66e5ab6729f46955e4286488",
+        "list_name": "Londres",
+        "url": "https://app.foursquare.com/v/london-city-airport-lcy/4acdb243f964a520b7cc20e3",
+        "address": "23 E Ham Manor Way",
+        "website": "https://www.londoncityairport.com",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Airport"
+        ],
+        "tips": [
+          "The way to come and go.",
+          "This is how to roll an airport. All Germans should learn efficiency here. Reasonable priced food and drinks after security. Tap water is hot in the toilets like in a bad club. Not enough toilets."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04969016783210378,
+          51.50390264238392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second Home",
+        "id": "535bcd90498e8139ca759708",
+        "list_id": "66e5ab6729f46955e4286488",
+        "list_name": "Londres",
+        "url": "https://app.foursquare.com/v/second-home/535bcd90498e8139ca759708",
+        "address": "60-80 Hanbury St",
+        "website": "https://secondhome.io/spitalfields",
+        "categories": [
+          "Business and Professional Services > Office > Coworking Space",
+          "Business and Professional Services > Event Space"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Coworking Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07045321565008232,
+          51.520241018825715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kastner & Ovens",
+        "id": "4d2b2168342d6dcb732213cb",
+        "list_id": "66e5ab6729f46955e4286488",
+        "list_name": "Londres",
+        "url": "https://app.foursquare.com/v/kastner--ovens/4d2b2168342d6dcb732213cb",
+        "address": "13 Frying Pan Alley",
+        "website": "https://www.kastnerandovens.co.uk",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Great selection for a good price, the system's a bit chaotic for the first time."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07648948661663381,
+          51.51800192971812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Padella",
+        "id": "56f52a30498ecc8082f90ad0",
+        "list_id": "66e5ab6729f46955e4286488",
+        "list_name": "Londres",
+        "url": "https://app.foursquare.com/v/padella/56f52a30498ecc8082f90ad0",
+        "address": "6 Southwark St",
+        "website": "http://padella.co",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [
+          "Great Italian for good price."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0897817219098917,
+          51.50507754661503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kings Stores",
+        "id": "4bfd4dc88992a5930ee5abb0",
+        "list_id": "66e5ab6729f46955e4286488",
+        "list_name": "Londres",
+        "url": "https://app.foursquare.com/v/kings-stores/4bfd4dc88992a5930ee5abb0",
+        "address": "14 Widegate St",
+        "website": "http://www.kingsstores.co.uk",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0778380633172337,
+          51.51806773342955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Real Greek",
+        "id": "4bc9a887511f9521c000aec7",
+        "list_id": "66e5ab6729f46955e4286488",
+        "list_name": "Londres",
+        "url": "https://app.foursquare.com/v/the-real-greek/4bc9a887511f9521c000aec7",
+        "address": "6 Horner Square",
+        "website": "https://www.therealgreek.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [
+          "A cornucopia of daily menus, great prices, reasonable food. I mean they can't help that it's Greek."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07549275520227423,
+          51.5197585112197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Discount Suit Company",
+        "id": "52c34344498ef50111c018ef",
+        "list_id": "66e5ab6729f46955e4286488",
+        "list_name": "Londres",
+        "url": "https://app.foursquare.com/v/discount-suit-company/52c34344498ef50111c018ef",
+        "address": "29a Wentworth St",
+        "website": "http://www.discountsuitcompany.co.uk",
+        "categories": [
+          "Dining and Drinking > Bar > Cocktail Bar",
+          "Dining and Drinking > Bar > Speakeasy"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Cocktail Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07541298866271973,
+          51.5167081107996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tayyabs",
+        "id": "4ad0972ff964a520a0d820e3",
+        "list_id": "66e5ab6729f46955e4286488",
+        "list_name": "Londres",
+        "url": "https://app.foursquare.com/v/tayyabs/4ad0972ff964a520a0d820e3",
+        "address": "83-89 Fieldgate St",
+        "website": "http://www.tayyabs.co.uk",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant > North Indian Restaurant"
+        ],
+        "tips": [
+          "The place for the lamb grill and also everything else. Can get very loud."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "North Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0634757,
+          51.5172403
+        ]
+      }
+    }
+  ]
+}

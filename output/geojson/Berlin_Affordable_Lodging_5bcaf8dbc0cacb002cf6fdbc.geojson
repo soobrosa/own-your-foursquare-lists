@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Pension Kleist",
+        "id": "4bc7795993bdeee12d6c37ae",
+        "list_id": "5bcaf8dbc0cacb002cf6fdbc",
+        "list_name": "Berlin Affordable Lodging",
+        "url": "https://app.foursquare.com/v/hotel-pension-kleist/4bc7795993bdeee12d6c37ae",
+        "address": "Darmst\u00e4dter Strasse 7",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.317459095303253,
+          52.49749787566606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Les Nations",
+        "id": "4adcda70f964a520eb4421e3",
+        "list_id": "5bcaf8dbc0cacb002cf6fdbc",
+        "list_name": "Berlin Affordable Lodging",
+        "url": "https://app.foursquare.com/v/hotel-les-nations/4adcda70f964a520eb4421e3",
+        "address": "Zinzendorfstr. 6",
+        "website": "http://www.hotels-les-nations.de",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Decent place for the price, kind cats, say no to the breakfast."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.332089815375468,
+          52.52330029908016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOLD INN Adrema",
+        "id": "4bc8a1688b7c9c747f8a38cf",
+        "list_id": "5bcaf8dbc0cacb002cf6fdbc",
+        "list_name": "Berlin Affordable Lodging",
+        "url": "https://app.foursquare.com/v/gold-inn-adrema/4bc8a1688b7c9c747f8a38cf",
+        "address": "Gotzkowskystr. 20/21",
+        "website": "http://www.hotel-adrema.de",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [
+          "Value for money, can be noisy, have to pay for Wifi. Sauna is only 10 EUR."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.329398643564717,
+          52.523113166592296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Businesshotel Berlin",
+        "id": "4bc7794893bdeee1216c37ae",
+        "list_id": "5bcaf8dbc0cacb002cf6fdbc",
+        "list_name": "Berlin Affordable Lodging",
+        "url": "https://app.foursquare.com/v/businesshotel-berlin/4bc7794893bdeee1216c37ae",
+        "address": "Pasewalker Strasse 97",
+        "website": "http://www.businesshotel.de",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.430891257922825,
+          52.589111389569425
+        ]
+      }
+    }
+  ]
+}

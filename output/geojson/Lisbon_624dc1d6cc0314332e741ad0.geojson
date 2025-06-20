@@ -1,0 +1,2088 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pati",
+        "id": "4e7e017cd22df43628a5ed25",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/pati/4e7e017cd22df43628a5ed25",
+        "address": "Estr. de Benfica 222",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1756731196026,
+          38.74369412802718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LX Factory",
+        "id": "4b3cda52f964a520428825e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/lx-factory/4b3cda52f964a520428825e3",
+        "address": "R. Rodrigues Faria 103",
+        "website": "https://lxfactory.com",
+        "categories": [
+          "Arts and Entertainment",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [
+          "Unexpectedly great selection on the weekend. Weekdays are like half assed."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Arts and Entertainment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.178833136409638,
+          38.703091475236064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bolero",
+        "id": "590e1c1cb3d8e26879bd143f",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/bolero/590e1c1cb3d8e26879bd143f",
+        "address": "",
+        "website": "http://bolerolisboa.pt",
+        "categories": [
+          "Arts and Entertainment > Night Club"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Night Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.167612,
+          38.702962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pingo Doce",
+        "id": "4c5eb0026ebe2d7fbb38d62e",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/pingo-doce/4c5eb0026ebe2d7fbb38d62e",
+        "address": "Rua Cascais 43",
+        "website": "https://www.pingodoce.pt",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [
+          "Great selection of prepared food, fish monger, wine, whatever you need. 'Camar\u00e3o cozido' means cooked shrimp."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.17503152,
+          38.70398926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alc\u00e2ntara Roulote",
+        "id": "4e2eb0a11f6ed9df9017d9a1",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/alc%C3%A2ntara-roulote/4e2eb0a11f6ed9df9017d9a1",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Food Truck",
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Food Truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.17369329503548,
+          38.70143970513596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rui dos Pregos",
+        "id": "4f74deb4e4b09bd57e5da676",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/rui-dos-pregos/4f74deb4e4b09bd57e5da676",
+        "address": "Doca de Santo Amaro",
+        "website": "http://www.ruidospregos.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Steakhouse",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [
+          "Great franchise, good food, reasonable prices, attentive service and a view."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Steakhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.175933208209583,
+          38.70007925975116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00daltimo Porto",
+        "id": "4c8b856f6418a14335c1e9ce",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/%C3%BAltimo-porto/4c8b856f6418a14335c1e9ce",
+        "address": "Esta\u00e7\u00e3o Mar\u00edtima da Rocha do Conde de \u00d3bidos",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.162633778039481,
+          38.70135761438816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean\u00e1rio de Lisboa",
+        "id": "4bae110af964a52060803be3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/ocean%C3%A1rio-de-lisboa/4bae110af964a52060803be3",
+        "address": "Esplanada D. Carlos I",
+        "website": "http://www.oceanario.pt",
+        "categories": [
+          "Arts and Entertainment > Aquarium"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Aquarium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.093718528747559,
+          38.76336979091514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardim Bot\u00e2nico",
+        "id": "4b0588a2f964a5200ad122e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/jardim-bot%C3%A2nico/4b0588a2f964a5200ad122e3",
+        "address": "R. da Escola Polit\u00e9cnica, 58",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Botanical Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Botanical Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.149720458644598,
+          38.71784558531164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardim do Pr\u00edncipe Real",
+        "id": "4bd07bf941b9ef3b1d25fae5",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/jardim-do-pr%C3%ADncipe-real/4bd07bf941b9ef3b1d25fae5",
+        "address": "P\u00e7. do Pr\u00edncipe Real",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.14854752313128,
+          38.716453797659454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S\u00e3o Jorge Castle (Castelo de S\u00e3o Jorge)",
+        "id": "4b0588a3f964a52076d122e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/castelo-de-s%C3%A3o-jorge/4b0588a3f964a52076d122e3",
+        "address": "R. da Costa do Castelo",
+        "website": "http://castelodesaojorge.pt",
+        "categories": [
+          "Landmarks and Outdoors > Castle",
+          "Landmarks and Outdoors > Historic and Protected Site",
+          "Landmarks and Outdoors > Monument"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.133409857749939,
+          38.71222877557293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elevador de Santa Justa",
+        "id": "4baa689ff964a5205a673ae3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/elevador-de-santa-justa/4baa689ff964a5205a673ae3",
+        "address": "Lg. do Carmo / R. do Ouro",
+        "website": "http://carris.pt",
+        "categories": [
+          "Landmarks and Outdoors > Scenic Lookout",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [
+          "This is what cheap money look like. Who where the VCs?"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Scenic Lookout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.139349609613419,
+          38.712103200293015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardim Zool\u00f3gico de Lisboa",
+        "id": "4c482d3719fde21e7c960a76",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/jardim-zool%C3%B3gico-de-lisboa/4c482d3719fde21e7c960a76",
+        "address": "Est. de Benfica 158/160",
+        "website": "http://www.zoo.pt",
+        "categories": [
+          "Arts and Entertainment > Zoo"
+        ],
+        "tips": [
+          "Great compact zoo. Go for the dolphin show. Reasonable food options."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.169398065847636,
+          38.74306103290973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elevador do Lavra",
+        "id": "4b0588a2f964a52012d122e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/elevador-do-lavra/4b0588a2f964a52012d122e3",
+        "address": "R. de S\u00e3o Jos\u00e9",
+        "website": "http://www.carris.pt/pt/ascensores-e-elevador/",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Tram Station"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Tram Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.141891251461916,
+          38.71778261353055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elevador da Gl\u00f3ria",
+        "id": "4b0588a2f964a5200ed122e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/elevador-da-gl%C3%B3ria/4b0588a2f964a5200ed122e3",
+        "address": "Cal\u00e7ada da Gl\u00f3ria",
+        "website": "http://www.carris.pt/pt/ascensores-e-elevador/",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Tram Station",
+          "Landmarks and Outdoors > Monument"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Tram Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.142752821643546,
+          38.71609039159136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elevador da Bica",
+        "id": "4b0588a2f964a5200fd122e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/elevador-da-bica/4b0588a2f964a5200fd122e3",
+        "address": "R. de S\u00e3o Paulo, 234",
+        "website": "http://www.carris.pt",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Tram Station"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Tram Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.145953072431737,
+          38.71062547582026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquele Lugar que n\u00e3o existe",
+        "id": "5763f988cd1069906dec345f",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/aquele-lugar-que-n%C3%A3o-existe/5763f988cd1069906dec345f",
+        "address": "Rua do A\u00e7ucar 89",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.103081,
+          38.738858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F\u00e1brica do Bra\u00e7o de Prata",
+        "id": "4b0588a7f964a520b6d222e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/f%C3%A1brica-do-bra%C3%A7o-de-prata/4b0588a7f964a520b6d222e3",
+        "address": "R. F\u00e1brica de Material de Guerra, 1",
+        "website": "http://www.bracodeprata.com",
+        "categories": [
+          "Arts and Entertainment > Art Gallery",
+          "Arts and Entertainment > Performing Arts Venue > Concert Hall",
+          "Retail > Bookstore"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.101024170379077,
+          38.7437426379415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zero Zero",
+        "id": "59810c6cdec1d671df470eb3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/zero-zero/59810c6cdec1d671df470eb3",
+        "address": "Cais Portugu\u00eas",
+        "website": "https://www.pizzeriazerozero.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.095497367529044,
+          38.76429735151849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honest Greens",
+        "id": "5e41d0cab1224e0008f086f5",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/honest-greens/5e41d0cab1224e0008f086f5",
+        "address": "Alameda dos Oceanos, 21101F",
+        "website": "https://honestgreens.com/pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mediterranean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.095518027932865,
+          38.76479795939851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A-100",
+        "id": "570ffc13498ede122bb9befc",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/a100/570ffc13498ede122bb9befc",
+        "address": "Rua Doutor Basto Gon\u00e7alves, 1, Loja 7",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.163750304247614,
+          38.746590485357146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maizakura",
+        "id": "53e23645498ebc04186e43fb",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/maizakura/53e23645498ebc04186e43fb",
+        "address": "Avenida Jos\u00e9 Malhoa 14",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Japanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.163571295145877,
+          38.73741320171599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P\u00e1teo de Lisboa",
+        "id": "549f308a498ebc7d8cab4d74",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/p%C3%A1teo-de-lisboa/549f308a498ebc7d8cab4d74",
+        "address": "Rua Dr\u00ba Ant\u00f3nio Granjo, N\u00ba 6",
+        "website": "http://www.pateodelisboa.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.165036028477376,
+          38.739863109683746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O Nortenho",
+        "id": "4d7f6d596174a35ded529a03",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/o-nortenho/4d7f6d596174a35ded529a03",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.168258936279594,
+          38.740737554104705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabor Mineiro",
+        "id": "4c0b9ab2ffb8c9b636746d61",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/sabor-mineiro/4c0b9ab2ffb8c9b636746d61",
+        "address": "Av. Jos\u00e9 Malhoa, 16",
+        "website": "http://sabormineiro.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brazilian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.164602653240197,
+          38.737606606360025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sete Mares",
+        "id": "4b969d1ff964a520bdd834e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/sete-mares/4b969d1ff964a520bdd834e3",
+        "address": "Av. Columbano Bordalo Pinheiro, 108",
+        "website": "http://restaurantemarisqueirasetemares.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.16674140850276,
+          38.73921334808837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "casa dos caracois",
+        "id": "554f90e8498e98c3903a85f1",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/casa-dos-caracois/554f90e8498e98c3903a85f1",
+        "address": "Rua de Campolide 370",
+        "website": "http://www.casadoscaracois.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.166969451558,
+          38.73709288975515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Manteigaria",
+        "id": "58ab363d23188e3a4491ced8",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/a-manteigaria/58ab363d23188e3a4491ced8",
+        "address": "Av. 24 de Julho, 49",
+        "website": "http://info@manteigaria.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Pastry Shop",
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pastry Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.145907223713133,
+          38.70703290404172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manteigaria",
+        "id": "53bedd65498e95610660114d",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/manteigaria/53bedd65498e95610660114d",
+        "address": "Rua do Loreto, 2",
+        "website": "http://manteigaria.com",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Pastry Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pastry Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.14407,
+          38.710779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valdo Gatti",
+        "id": "5b50854978782c002c407d07",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/valdo-gatti/5b50854978782c002c407d07",
+        "address": "Rua do Gr\u00e9mio Lusitano, 13",
+        "website": "https://valdogatti.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.143935,
+          38.713435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Come Prima",
+        "id": "4bc4d461461576b036848032",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/come-prima/4bc4d461461576b036848032",
+        "address": "R. do Olival, 256",
+        "website": "http://www.comeprima.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant",
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.166359366808067,
+          38.704855019692275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taberna Sal Grosso",
+        "id": "54f627e9498ec2da3d098dbb",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/taberna-sal-grosso/54f627e9498ec2da3d098dbb",
+        "address": "Cal\u00e7ada do Forte, 22",
+        "website": "https://www.instagram.com/tabernasalgrossoalfama/?hl=en",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.124453,
+          38.713653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clube de Jornalistas",
+        "id": "4e21eed688774a43b76f56f3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/clube-de-jornalistas/4e21eed688774a43b76f56f3",
+        "address": "R. das Trinas, 129",
+        "website": "http://www.restauranteclubedejornalistas.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.159416382265087,
+          38.71010182959746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pigmeu",
+        "id": "54899ca8498e5663447f2094",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/pigmeu/54899ca8498e5663447f2094",
+        "address": "Rua 4 De Infantaria, 68",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.164724498015525,
+          38.719790106214774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapada das Necessidades",
+        "id": "4b0588a2f964a5203cd122e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/tapada-das-necessidades/4b0588a2f964a5203cd122e3",
+        "address": "R. Largo do Rilvas",
+        "website": "http://www.cm-lisboa.pt/zonas/centro-historico/espacos-verdes/info/tapada-das-necessidades",
+        "categories": [
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.170463173003185,
+          38.70871051593267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Ant\u00f3nio da Alfama",
+        "id": "4b0588a6f964a52066d222e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/santo-ant%C3%B3nio-da-alfama/4b0588a6f964a52066d222e3",
+        "address": "Beco de S\u00e3o Miguel, 7",
+        "website": "http://www.siteantonio.com",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.12946896688994,
+          38.71104338097462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taste of Punjab",
+        "id": "4ea2b340722ec75ade646443",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/taste-of-punjab/4ea2b340722ec75ade646443",
+        "address": "",
+        "website": "http://www.tasteoflisboa.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.135962214978056,
+          38.71394638248031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alc\u00e2ntara 50",
+        "id": "50899fb2e4b0167a9c2eddf4",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/alc%C3%A2ntara-50/50899fb2e4b0167a9c2eddf4",
+        "address": "Rua Vieira da Silva, 50",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.173400601396725,
+          38.70546548952766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museu do Oriente",
+        "id": "4cb054deef1b3704f8a73900",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/museu-do-oriente/4cb054deef1b3704f8a73900",
+        "address": "Doca de Alc\u00e2ntara",
+        "website": "http://www.museudooriente.pt",
+        "categories": [
+          "Arts and Entertainment > Museum",
+          "Arts and Entertainment > Museum > Art Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.170761176619253,
+          38.702848908189125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurante Cantinho do Aziz",
+        "id": "5065ee24e4b060f82a91e38f",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/restaurante-cantinho-do-aziz/5065ee24e4b060f82a91e38f",
+        "address": "Rua de S\u00e3o Louren\u00e7o, 5",
+        "website": "http://www.cantinhodoaziz.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > African Restaurant",
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "African Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.135691155753298,
+          38.71416669459652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pho-Pu",
+        "id": "54006b68498e97f41d9da924",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/phopu/54006b68498e97f41d9da924",
+        "address": "R. do Bemformoso, 76",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Vietnamese Restaurant"
+        ],
+        "tips": [
+          "Better than the average Berlin pho, deffo not a Budapest style."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Vietnamese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.134800287541122,
+          38.71759745714418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardim da Estrela",
+        "id": "4b2938b7f964a520339b24e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/jardim-da-estrela/4b2938b7f964a520339b24e3",
+        "address": "Av. \u00c1lvares Cabral",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Garden",
+          "Landmarks and Outdoors > Other Great Outdoors",
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.159650559401827,
+          38.7146034474489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ler Devagar",
+        "id": "4c18d478838020a1ecb3e461",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/ler-devagar/4c18d478838020a1ecb3e461",
+        "address": "R. Rodrigues Faria, 103",
+        "website": "https://lerdevagar.com",
+        "categories": [
+          "Retail > Bookstore"
+        ],
+        "tips": [
+          "Big book shop."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.178520310976923,
+          38.70275236424443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pra\u00e7a do Com\u00e9rcio",
+        "id": "4b0588a2f964a52008d122e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/pra%C3%A7a-do-com%C3%A9rcio/4b0588a2f964a52008d122e3",
+        "address": "P\u00e7. do Com\u00e9rcio",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13661915057357,
+          38.70765763403879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardim da Funda\u00e7\u00e3o Calouste Gulbenkian",
+        "id": "4bd836cc35aad13ad54c90f3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/jardim-da-funda%C3%A7%C3%A3o-calouste-gulbenkian/4bd836cc35aad13ad54c90f3",
+        "address": "Av. de Berna, 45A",
+        "website": "http://www.gulbenkian.pt/Jardins/",
+        "categories": [
+          "Landmarks and Outdoors > Sculpture Garden",
+          "Landmarks and Outdoors > Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Sculpture Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1535150497306,
+          38.73679354227765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miradouro de Santa Luzia",
+        "id": "4b0588a2f964a5200bd122e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/miradouro-de-santa-luzia/4b0588a2f964a5200bd122e3",
+        "address": "Santa Luzia",
+        "website": "https://www.tripadvisor.com/Attraction_Review-g189158-d2211899-Reviews-Miradouro_de_Santa_Luzia-Lisbon_Lisbon_District_Central_Portugal.html",
+        "categories": [
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Scenic Lookout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.130207300186157,
+          38.7116846144335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercearia da Mila",
+        "id": "5912b5326bdee66b586fdd63",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/mercearia-da-mila/5912b5326bdee66b586fdd63",
+        "address": "Rua de Santos-o-velho 38",
+        "website": "https://www.milalisbon.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Deli",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.157044528395648,
+          38.70724703475674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Time Out Market Lisboa",
+        "id": "56929539498e43f06f414c22",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/time-out-market-lisboa/56929539498e43f06f414c22",
+        "address": "Av. 24 de Julho, 49",
+        "website": "https://www.timeoutmarket.com/lisboa/",
+        "categories": [
+          "Dining and Drinking > Food Court"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Food Court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.145925045013428,
+          38.70707163593255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ground Burger",
+        "id": "52a5102a11d25addad453474",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/ground-burger/52a5102a11d25addad453474",
+        "address": "Av. Ant\u00f3nio Augusto de Aguiar, 148",
+        "website": "https://www.groundburger.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.154321832498677,
+          38.73538997550892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cervejaria Ramiro",
+        "id": "4c9e5f792fb1a1433ff2e940",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/cervejaria-ramiro/4c9e5f792fb1a1433ff2e940",
+        "address": "Av. Almirante Reis, 1",
+        "website": "http://www.cervejariaramiro.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.135703,
+          38.720347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa dos Passarinhos",
+        "id": "4c59d7a27b049521d312891f",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/casa-dos-passarinhos/4c59d7a27b049521d312891f",
+        "address": "R. Silva Carvalho, 195",
+        "website": "http://www.casadospassarinhos.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.161280983446108,
+          38.72022916539212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conserveira de Lisboa",
+        "id": "4bf82002c07c9c74a2c8bbef",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/conserveira-de-lisboa/4bf82002c07c9c74a2c8bbef",
+        "address": "R. dos Bacalhoeiros, 34",
+        "website": "http://www.conserveiradelisboa.pt",
+        "categories": [
+          "Retail > Food and Beverage Retail > Gourmet Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Gourmet Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.134734887577313,
+          38.70924312883407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fabrica da Nata",
+        "id": "58f8bcf24acb193046db68ee",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/fabrica-da-nata/58f8bcf24acb193046db68ee",
+        "address": "Rua Augusta",
+        "website": "https://fabricadanata.pt",
+        "categories": [
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.138651,
+          38.71283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasteleria De Belem",
+        "id": "545e1b39498e57fef6d41672",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/pasteleria-de-belem/545e1b39498e57fef6d41672",
+        "address": "R. Bel\u00e9m 84-92",
+        "website": "https://pasteisdebelem.pt",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Pastry Shop",
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pastry Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.144807271180744,
+          38.70770624390694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantina das Freiras",
+        "id": "4daec5dc4df0f639f251f197",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/cantina-das-freiras/4daec5dc4df0f639f251f197",
+        "address": "Cal\u00e7ada do Ferragial, 14",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Snack Place"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Snack Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.135525844718273,
+          38.707567466223836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bairro do Avillez",
+        "id": "57ae2981498ef94aabe4e3b2",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/bairro-do-avillez/57ae2981498ef94aabe4e3b2",
+        "address": "Rua Nova da Trindade, N\u00ba 18",
+        "website": "http://www.bairrodoavillez.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.142397645737233,
+          38.712293271054534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tropical Da Graca",
+        "id": "4e2dddd17d8bf59d29072acd",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/tropical-da-graca/4e2dddd17d8bf59d29072acd",
+        "address": "Rua da Graca 72, Lisbon 1170-170 Portugal",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fried Chicken Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fried Chicken Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.129833989144252,
+          38.72006402096769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cova Funda",
+        "id": "4ee16920003943d6625e9080",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/cova-funda/4ee16920003943d6625e9080",
+        "address": "Trav. Cidad\u00e3o Jo\u00e3o Gon\u00e7alves",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.135184567305025,
+          38.721424424694526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terras Gerais Bistr\u00f4",
+        "id": "4ff1fd05e4b0732bdb1f67e3",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/terras-gerais-bistr%C3%B4/4ff1fd05e4b0732bdb1f67e3",
+        "address": "Cal\u00e7ada de Sant'ana, 70",
+        "website": "http://www.terrasgeraisbistro.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brazilian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.138410468495646,
+          38.7161975121038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boteco Dona Luzia",
+        "id": "5ded1fc346d2b9000810caf4",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/boteco-dona-luzia/5ded1fc346d2b9000810caf4",
+        "address": "Av 5 De Outubro 36",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Latin American Restaurant > South American Restaurant > Brazilian Restaurant",
+          "Dining and Drinking > Breakfast Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Brazilian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.147130510721581,
+          38.7353636934017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chin\u00eas Clandestino",
+        "id": "51eaebda498ed6c1ee6371a9",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/chin%C3%AAs-clandestino/51eaebda498ed6c1ee6371a9",
+        "address": "R. do Benformoso, 43",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.134980374459255,
+          38.717313052923174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chin\u00eas Clandestino",
+        "id": "4cb9f8abdd41a35d764fe5a0",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/chin%C3%AAs-clandestino/4cb9f8abdd41a35d764fe5a0",
+        "address": "R. da Guia, 9",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1340172635086,
+          38.7160216921775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panda Cantina",
+        "id": "5bf02161e65d0c002cb9dda9",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/panda-cantina/5bf02161e65d0c002cb9dda9",
+        "address": "Rua da Prata 252",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant > Japanese Restaurant > Ramen Restaurant",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Chinese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ramen Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.137504540364862,
+          38.71278083682999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O Trevo",
+        "id": "4c5b6befbfa595213b7062ff",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/o-trevo/4c5b6befbfa595213b7062ff",
+        "address": "P\u00e7a. de Lu\u00eds de Cam\u00f5es, 48",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.143043,
+          38.710842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "As Bifanas do Afonso",
+        "id": "58ecc4f204ab1a4fc961ce4e",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/as-bifanas-do-afonso/58ecc4f204ab1a4fc961ce4e",
+        "address": "Rua da Madalena, 146",
+        "website": "https://www.tripadvisor.com/Restaurant_Review-g189158-d12125778-Reviews-The_Bifanas_of_Afonso-Lisbon_Lisbon_District_Central_Portugal.html",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.135602,
+          38.71151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa das Bifanas",
+        "id": "4d7a1b72022d6dcb98ad8d7d",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/casa-das-bifanas/4d7a1b72022d6dcb98ad8d7d",
+        "address": "Pra\u00e7a da Figueira, 7",
+        "website": "https://casadasbifanas.eatbu.com/?lang=en",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.137883405817758,
+          38.71410537427288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Padaria do Povo",
+        "id": "553ad0ad498e82fcee613d23",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/a-padaria-do-povo/553ad0ad498e82fcee613d23",
+        "address": "Rua Lu\u00eds Derouet, 20A",
+        "website": "http://apadariadopovo.weebly.com",
+        "categories": [
+          "Dining and Drinking > Bar",
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.162978297295355,
+          38.71794633362493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Z\u00e9 da Mouraria",
+        "id": "4c4043eeaf052d7f167a7b79",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/z%C3%A9-da-mouraria/4c4043eeaf052d7f167a7b79",
+        "address": "R. Jo\u00e3o Outeiro, 24",
+        "website": "http://www.nelsoncarvalheiro.com/best-secret-restaurants-in-lisbon",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13483277102094,
+          38.716169553052076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Z\u00e9 da Mouraria 2",
+        "id": "556633c4498e11f34992da82",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/z%C3%A9-da-mouraria-2/556633c4498e11f34992da82",
+        "address": "Rua Gomes Freire, 60-62",
+        "website": "https://www.tripadvisor.com/Restaurant_Review-g189158-d8778279-Reviews-Ze_Da_Mouraria_2-Lisbon_Lisbon_District_Central_Portugal.html",
+        "categories": [
+          "Dining and Drinking > Restaurant > Portuguese Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Portuguese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.140211035245214,
+          38.724192352979316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heineken Grandcaf\u00e9",
+        "id": "52c1d927498ea741ad9a5169",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/heineken-grandcaf%C3%A9/52c1d927498ea741ad9a5169",
+        "address": "Terminal 1",
+        "website": "https://www.aeroportolisboa.pt/pt/lis/servicos-e-compras/lojas-e-restaurantes/heineken-grand-cafe",
+        "categories": [
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [
+          "The toast with a cheese coating is something,"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.128705263137817,
+          38.769359370332275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lisbon Humberto Delgado Airport (LIS) (Aeroporto de Lisboa Humberto Delgado)",
+        "id": "4c0838aa7c9ad13ad9a82c1e",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/aeroporto-humberto-delgado-lis/4c0838aa7c9ad13ad9a82c1e",
+        "address": "Alameda das Comunidades Portuguesas",
+        "website": "https://www.aeroportolisboa.pt",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Airport > International Airport"
+        ],
+        "tips": [
+          "Very much approachable, mornings can get pretty busy due to the spread of TAP flights."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "International Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.130797386169434,
+          38.77089851064566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fun Track - Doca do Espanhol",
+        "id": "4e7787c2ae60c328520a1957",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/fun-track--doca-do-espanhol/4e7787c2ae60c328520a1957",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Sports and Recreation > Skating > Skating Rink",
+          "Sports and Recreation > Skating > Skate Park",
+          "Sports and Recreation > Hockey > Hockey Field"
+        ],
+        "tips": [
+          "Cute bar and jump house for the kids on the weekend with mobility renting.  They are open whenever they fucking want to."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Sports and Recreation",
+        "topic": "Skating Rink"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.17262046380568,
+          38.701854200517936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loja do Ocean\u00e1rio",
+        "id": "4e46c0d9b0fb93df270dd615",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/loja-do-ocean%C3%A1rio/4e46c0d9b0fb93df270dd615",
+        "address": "Esplanada D. Carlos I",
+        "website": "",
+        "categories": [
+          "Retail > Gift Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Gift Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.093740648080871,
+          38.76229592003004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tejo Restaurante",
+        "id": "4e257bc518388c58be2c1b80",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/tejo-restaurante/4e257bc518388c58be2c1b80",
+        "address": "Esplanada Dom Carlos I",
+        "website": "http://www.oceanario.pt",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant"
+        ],
+        "tips": [
+          "Okay prices, food is catering quality."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mediterranean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.093738243826685,
+          38.76167490681346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gelato Davvero",
+        "id": "625d826d31d6606b9ff4a935",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/gelato-davvero/625d826d31d6606b9ff4a935",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Gelato Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gelato Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13560104313427,
+          38.71298214369058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "escadinhas de saude",
+        "id": "5b60974ddee770002cd011bf",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/escadinhas-de-saude/5b60974ddee770002cd011bf",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Road"
+        ],
+        "tips": [
+          "Pretty surreal escalator. Kids asked about rain damage, not sure how they handle it."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.136409334252427,
+          38.716235476220184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Milk Tea Story",
+        "id": "625d7b31226f9a7ee8a1933b",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/the-milk-tea-story/625d7b31226f9a7ee8a1933b",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Bubble Tea Shop"
+        ],
+        "tips": [
+          "Bubble tea and bubble waffle. What can I say if you have teenage kids."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bubble Tea Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.135528531548267,
+          38.71635228702789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doca de Alc\u00e2ntara",
+        "id": "55c3679d498ebebb4bbe4f4a",
+        "list_id": "624dc1d6cc0314332e741ad0",
+        "list_name": "Lisbon",
+        "url": "https://app.foursquare.com/v/doca-de-alc%C3%A2ntara/55c3679d498ebebb4bbe4f4a",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Harbor or Marina"
+        ],
+        "tips": [
+          "Port with a great location, stay with Adelaide and Paulo."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Harbor or Marina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.169586643088227,
+          38.70159912236539
+        ]
+      }
+    }
+  ]
+}

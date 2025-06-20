@@ -1,0 +1,702 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eishalle Rostock",
+        "id": "4d4a6e79b73fb1f7e0b8b132",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/eishalle-rostock/4d4a6e79b73fb1f7e0b8b132",
+        "address": "Schillingallee 52",
+        "website": "http://www.eishalle-rostock.de",
+        "categories": [
+          "Sports and Recreation > Hockey > Hockey Rink",
+          "Sports and Recreation > Skating > Skating Rink"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Sports and Recreation",
+        "topic": "Hockey Rink"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.097702385420764,
+          54.08396643569196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rostock Hauptbahnhof",
+        "id": "4b7bedf3f964a52048742fe3",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/rostock-hauptbahnhof/4b7bedf3f964a52048742fe3",
+        "address": "Konrad-Adenauer-Platz 1",
+        "website": "https://www.bahnhof.de/rostock-hbf",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Rail Station"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Rail Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.133181879732026,
+          54.079350238936875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulturhistorisches Museum Rostock",
+        "id": "4e5124f2a80997aa8a50683d",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/kulturhistorisches-museum-rostock/4e5124f2a80997aa8a50683d",
+        "address": "Klosterhof 7",
+        "website": "http://www.kulturhistorisches-museum-rostock.de",
+        "categories": [
+          "Arts and Entertainment > Museum > Art Museum",
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [
+          "Better than expected, reasonable."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Art Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.132839621528332,
+          54.08765200173618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schiffbau- und Schifffahrtsmuseum im Traditionsschiff Typ IV",
+        "id": "4c7bd481a86837048577174d",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/schiffbau-und-schifffahrtsmuseum-im-traditionsschiff-typ-iv/4c7bd481a86837048577174d",
+        "address": "Schmarl-Dorf",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [
+          "It's okay, the mannequins are very scary, the surrounding park is really nice, the whole place is in the middle of nowhere."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.086613178253174,
+          54.14192175588084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoologisches Institut",
+        "id": "4f97a82ee4b095a9d3cbcabb",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/zoologisches-institut/4f97a82ee4b095a9d3cbcabb",
+        "address": "Universit\u00e4tsplatz 2, 18055 Rostock",
+        "website": "",
+        "categories": [
+          "Community and Government > Education > College and University > University"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.133476566774117,
+          54.08782455075165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Am Herd",
+        "id": "51ba0111498e4bda57ab336f",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/am-herd/51ba0111498e4bda57ab336f",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12287199264645,
+          54.090084328603886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philoxenia",
+        "id": "4e070d58aeb74c39910ddbfe",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/philoxenia/4e070d58aeb74c39910ddbfe",
+        "address": "Parkstr. 53",
+        "website": "http://www.philoxenia-rostock.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Greek Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Greek Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.063341550665701,
+          54.177315119332405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zoo Rostock",
+        "id": "4c0022c8ca1920a10de8ed81",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/zoo-rostock/4c0022c8ca1920a10de8ed81",
+        "address": "Barnstorfer Ring  1",
+        "website": "http://www.zoo-rostock.de",
+        "categories": [
+          "Arts and Entertainment > Zoo",
+          "Arts and Entertainment > Aquarium",
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.091097831726074,
+          54.078527119974744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CarLo 615",
+        "id": "4be836b5c5220f478771a9ca",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/carlo-615/4be836b5c5220f478771a9ca",
+        "address": "Am Warnowufer 61",
+        "website": "https://carlo615.de",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.121234755471091,
+          54.09300046078776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helgas Kitchen",
+        "id": "4c672263aebea5936f5e75d0",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/helgas-kitchen/4c672263aebea5936f5e75d0",
+        "address": "Am V\u00f6genteich 19",
+        "website": "https://www.helgas-kitchen.de",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12530068580534,
+          54.085157647017546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberty Delis",
+        "id": "50f6e451e4b0255d4043909e",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/liberty-delis/50f6e451e4b0255d4043909e",
+        "address": "Kr\u00f6peliner Str. 2",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > American Restaurant",
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Hot Dog Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "American Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13922975447613,
+          54.08869999390616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Osteria",
+        "id": "521cf6ab11d2dce4fa979802",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/losteria/521cf6ab11d2dce4fa979802",
+        "address": "Steinstr. 9",
+        "website": "https://losteria.net/de/restaurants/restaurant/rostock/",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant > Trattoria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Trattoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140988517266925,
+          54.088041475850304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twee Linden",
+        "id": "4bbe2e0f5ce0d13a97bedf57",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/twee-linden/4bbe2e0f5ce0d13a97bedf57",
+        "address": "Alter Strom 85",
+        "website": "http://www.tweelinden.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.087160265076596,
+          54.178537042375446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grillstube Broiler",
+        "id": "4da98fa2f7b145b36ff99610",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/grillstube-broiler/4da98fa2f7b145b36ff99610",
+        "address": "Seestr. 19",
+        "website": "https://www.hotel-neptun.de/erleben/restaurants-bars/grillstube-broiler",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fried Chicken Joint"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fried Chicken Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.077691158771769,
+          54.17893363588058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Waleed",
+        "id": "517e4e84e4b0a19987723ec3",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/el-waleed/517e4e84e4b0a19987723ec3",
+        "address": "Barnstorfer Weg 1",
+        "website": "http://www.el-waleed.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Falafel Restaurant"
+        ],
+        "tips": [
+          "Good home food, reasonable priced, kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Falafel Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.120691446250966,
+          54.0878661230111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosmarino",
+        "id": "4db1a839cda14b702a4a19d3",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/rosmarino/4db1a839cda14b702a4a19d3",
+        "address": "Am Strand",
+        "website": "http://www.rosmarino-rostock.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mediterranean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.14408434444645,
+          54.093063818205906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petrikirche",
+        "id": "4c824177d92ea0937c674872",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/petrikirche/4c824177d92ea0937c674872",
+        "address": "Alter Markt 1",
+        "website": "http://www.petrikirche-rostock.de",
+        "categories": [
+          "Community and Government > Spiritual Center > Church"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.147443178409892,
+          54.08962856665616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caf\u00e9 Kloster",
+        "id": "4e57a864483b0fb771582e71",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/caf%C3%A9-kloster/4e57a864483b0fb771582e71",
+        "address": "Klosterhof 6",
+        "website": "http://www.cafe-kloster.de",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.132756124517604,
+          54.08730707846539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NETTO",
+        "id": "560013e5498ef9c105670bcb",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/netto/560013e5498ef9c105670bcb",
+        "address": "Friedrichstr. 22",
+        "website": "https://netto.de",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket",
+          "Retail > Discount Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12293740398649,
+          54.09184832680449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "REWE",
+        "id": "4c337d593896e21e0c1fea90",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/rewe/4c337d593896e21e0c1fea90",
+        "address": "Friedhofsweg 2",
+        "website": "https://www.rewe.de/marktseite/rostock-kroepeliner-tor/4040770/rewe-markt-friedhofsweg-2/?ecid=seo_localseo_4040770_otherpublisher_nn_nn_nn_nn_nn",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.124686630021944,
+          54.08653474301724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jyoti",
+        "id": "4bfe51a9f7c82d7f3c5f8f04",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/jyoti/4bfe51a9f7c82d7f3c5f8f04",
+        "address": "",
+        "website": "http://www.jyoti-rostock.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Indian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.120499731541557,
+          54.08819539696518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haltestelle Bekleidungsgesch\u00e4ft",
+        "id": "50a14181e4b0ab175503d652",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/haltestelle-bekleidungsgesch%C3%A4ft/50a14181e4b0ab175503d652",
+        "address": "Barnstorfer Weg 40",
+        "website": "http://www.haltestelle-ktv.de",
+        "categories": [
+          "Retail > Fashion Retail > Women's Store"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Women's Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.119143850445244,
+          54.08800046066913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00e4ckerei Nowak",
+        "id": "59f83aa09e3b65580a71e157",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/b%C3%A4ckerei-nowak/59f83aa09e3b65580a71e157",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [
+          "Friendly stuff, good food options before boarding a train."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13297,
+          54.078686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caf\u00e9 R\u00f6ntgen",
+        "id": "4bee8cc9e24d20a108057314",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/caf%C3%A9-r%C3%B6ntgen/4bee8cc9e24d20a108057314",
+        "address": "Seestr. 5",
+        "website": "http://www.classic-conditorei.com",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Classic venue, friendly service, good cakes in the storming winds."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.084515173323243,
+          54.180597628154615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Am Yachthafen",
+        "id": "5511a6e4498ed9040a45dfb8",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/am-yachthafen/5511a6e4498ed9040a45dfb8",
+        "address": "",
+        "website": "http://www.amyachthafen-rostock.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [
+          "Good smoked fish sold for takeway."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13067,
+          54.091621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tourist-Information",
+        "id": "5273c41011d2e9456aa1a30f",
+        "list_id": "59ef1ce8872f7d0ea87a93ee",
+        "list_name": "Rostock",
+        "url": "https://app.foursquare.com/v/touristinformation/5273c41011d2e9456aa1a30f",
+        "address": "Universit\u00e4tsplatz 6",
+        "website": "http://www.rostock.de/tourismus/tourist-information",
+        "categories": [
+          "Travel and Transportation > Tourist Information and Service"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Tourist Information and Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.135429168812204,
+          54.08808584550344
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Die Suppenmacher",
+        "id": "4f6b10f4e4b0c122efd75aef",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/die-suppenmacher/4f6b10f4e4b0c122efd75aef",
+        "address": "B\u00f6ttcherstr. 36",
+        "website": "http://diesuppenmacher.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Soup Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Soup Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.088689993022838,
+          54.31293165608617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "monopol",
+        "id": "4d8b6ff0bc848cfa269bf02b",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/monopol/4d8b6ff0bc848cfa269bf02b",
+        "address": "M\u00fchlenstr. 55",
+        "website": "http://www.kaffee-monopol.de",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Coffee Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.089279085421254,
+          54.315997452371235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altstadt Stralsund",
+        "id": "4f8a8b5be4b0e6f3498c0e81",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/altstadt-stralsund/4f8a8b5be4b0e6f3498c0e81",
+        "address": "Alter Markt",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Historic and Protected Site",
+          "Landmarks and Outdoors > States and Municipalities > Neighborhood"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Historic and Protected Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.091765642166138,
+          54.31490233320745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alter Markt",
+        "id": "4cb05f09db32f04d2feebe4d",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/alter-markt/4cb05f09db32f04d2feebe4d",
+        "address": "Alter Markt",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.090469015192008,
+          54.3159814573957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ozeaneum",
+        "id": "4b796594f964a5206ff72ee3",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/ozeaneum/4b796594f964a5206ff72ee3",
+        "address": "Hafenstr. 11",
+        "website": "https://www.ozeaneum.de",
+        "categories": [
+          "Arts and Entertainment > Aquarium",
+          "Arts and Entertainment > Museum > Science Museum"
+        ],
+        "tips": [
+          "Slightly fluffed up and overpriced, but it's nice."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Aquarium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.097085730333879,
+          54.315611317414664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salsarico",
+        "id": "4be316d4d27a20a19134915b",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/salsarico/4be316d4d27a20a19134915b",
+        "address": "Frankenstr. 7",
+        "website": "http://www.salsarico.de/index-hst.html",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mexican Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.089535142986168,
+          54.31128326444527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neuer Markt",
+        "id": "4c4ef5f692b6a593a638c970",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/neuer-markt/4c4ef5f692b6a593a638c970",
+        "address": "Frankenstra\u00dfe 1",
+        "website": "http://www.stralsund.de",
+        "categories": [
+          "Landmarks and Outdoors > Plaza"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.087999739355125,
+          54.311187061435206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St.-Marien-Kirche",
+        "id": "4c4bee285609c9b6286ccd91",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/stmarienkirche/4c4bee285609c9b6286ccd91",
+        "address": "Marienstr. 10",
+        "website": "http://www.st-mariengemeinde-stralsund.de/",
+        "categories": [
+          "Community and Government > Spiritual Center > Church",
+          "Landmarks and Outdoors > Structure",
+          "Landmarks and Outdoors > Scenic Lookout"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.087660692034868,
+          54.31003328063563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junge Die B\u00e4ckerei",
+        "id": "51bd843a498ea7d174a3a83a",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/junge-die-b%C3%A4ckerei/51bd843a498ea7d174a3a83a",
+        "address": "Neuer Markt 14",
+        "website": "https://www.jb.de",
+        "categories": [
+          "Dining and Drinking > Bakery",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08903506159145,
+          54.31139027455297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deutsches Meeresmuseum",
+        "id": "4b793570f964a52019ef2ee3",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/deutsches-meeresmuseum/4b793570f964a52019ef2ee3",
+        "address": "Katharinenberg 14",
+        "website": "http://www.deutsches-meeresmuseum.de/meeresmuseum/",
+        "categories": [
+          "Arts and Entertainment > Museum"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.087118052638274,
+          54.31263689579924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fischhalle",
+        "id": "4cb0765a562d224b3d631688",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/fischhalle/4cb0765a562d224b3d631688",
+        "address": "Neue Badenstr. 2",
+        "website": "https://fischhalle.business.site",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fast Food Restaurant",
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fast Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.09781991926532,
+          54.31512034504231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SUBWAY",
+        "id": "4c5855b87329c928c0e69080",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/subway/4c5855b87329c928c0e69080",
+        "address": "Neuer Markt 6",
+        "website": "https://restaurants.subway.com/germany/mv/stralsund/neuer-markt-6?y_source=1_MTQ5MjQ5MjYtNDQwLWxvY2F0aW9uLndlYnNpdGU=",
+        "categories": [
+          "Dining and Drinking > Restaurant > Sandwich Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Sandwich Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.087446495109456,
+          54.31128986375092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nur Fisch - Das Fischbistro",
+        "id": "4fffe22fe4b05edf0cdf0d93",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/nur-fisch--das-fischbistro/4fffe22fe4b05edf0cdf0d93",
+        "address": "Heilgeiststr. 92",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.088509123301842,
+          54.313799501102274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorch Fock I",
+        "id": "4c2daa317d85a59356fb52f3",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/gorch-fock-i/4c2daa317d85a59356fb52f3",
+        "address": "An der F\u00e4hrbr\u00fccke",
+        "website": "https://gorchfock1.de",
+        "categories": [
+          "Arts and Entertainment > Museum",
+          "Travel and Transportation > Boat or Ferry"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.098067,
+          54.317373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torschlie\u00dferhaus",
+        "id": "4c66ffd17abde21e2d366568",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/torschlie%C3%9Ferhaus/4c66ffd17abde21e2d366568",
+        "address": "M\u00fchlenstr. 26",
+        "website": "http://www.torschliesserhaus-stralsund.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant",
+          "Dining and Drinking > Bar > Beer Garden",
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.086634900354655,
+          54.31392526670234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bistro 90",
+        "id": "55c5f446498e846e802103e3",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/bistro-90/55c5f446498e846e802103e3",
+        "address": "Heilgeiststra\u00dfe 90",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08866382189124,
+          54.31385812711199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mr. long",
+        "id": "518d4ce6498e07aa4cfd380d",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/mr-long/518d4ce6498e07aa4cfd380d",
+        "address": "Heilgeiststr. 43a",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [
+          "Calorie-centric elderly clientele. Buffet is an attack on all major culinary traditions. Nothing to do with anything Asian. One of my worst 'asian' experiences and I had some."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Asian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.093993186950684,
+          54.31372833251953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fischkutter Milan",
+        "id": "5007f484e4b06bf3c76dbb87",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/fischkutter-milan/5007f484e4b06bf3c76dbb87",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant",
+          "Dining and Drinking > Restaurant > Fish and Chips Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.097049833502368,
+          54.314922998377746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eine gute Zeit",
+        "id": "57de9f17498e710fad8f8bb7",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/eine-gute-zeit/57de9f17498e710fad8f8bb7",
+        "address": "Knieperstra\u00dfe 7a",
+        "website": "http://www.eine-gute-zeit.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Modern European Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Modern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.090135,
+          54.317008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tierpark Stralsund",
+        "id": "4ca74ce0b7106dcb7c6466a5",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/tierpark-stralsund/4ca74ce0b7106dcb7c6466a5",
+        "address": "Barther Str.",
+        "website": "http://www.familienkultour.de",
+        "categories": [
+          "Arts and Entertainment > Zoo"
+        ],
+        "tips": [
+          "Pretty good tierpark, it's just relaxing, not overcrowded, walkable, nice and kind. Extra kudos for the free jumping castle and the animal show."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.049848079681396,
+          54.31853207506076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HanseDom",
+        "id": "4c9cdddbd3c2b60c61c1bbbc",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/hansedom/4c9cdddbd3c2b60c61c1bbbc",
+        "address": "Gr\u00fcnhufer Bogen 18-20",
+        "website": "https://www.wyndhamstralsund.com",
+        "categories": [
+          "Arts and Entertainment > Water Park",
+          "Business and Professional Services > Health and Beauty Service > Spa"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Water Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.044351286467483,
+          54.3202319910106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Younior-Hotel",
+        "id": "4c0eab7ac6cf76b0631b8151",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/youniorhotel/4c0eab7ac6cf76b0631b8151",
+        "address": "Tribseer Damm 78",
+        "website": "http://www.younior-hotel.de",
+        "categories": [
+          "Travel and Transportation > Lodging > Hostel"
+        ],
+        "tips": [
+          "Very good value for money, hostel rooms bookable with separate bathrooms. Bring your own towels, sheets and curtains :) Also don't take the breakfast, but opt for any near bakery."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.083328338045325,
+          54.30902655989827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City D\u00f6ner 3",
+        "id": "5932a468603d2a55fc9ed154",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/city-d%C3%B6ner-3/5932a468603d2a55fc9ed154",
+        "address": "Neuer Markt 9",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Kebab Restaurant"
+        ],
+        "tips": [
+          "Generic doner priced for the old city."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Kebab Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.087959356174233,
+          54.311517684400705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulturkirche St. Jacobi",
+        "id": "4eac1b03dab40d1326f05fe1",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/kulturkirche-st-jacobi/4eac1b03dab40d1326f05fe1",
+        "address": "Jacobiturmstr. 28a",
+        "website": "http://www.kulturkirche.kdw-hst.de/",
+        "categories": [
+          "Community and Government > Spiritual Center > Church",
+          "Arts and Entertainment > Performing Arts Venue > Concert Hall"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.092608606029456,
+          54.31317926359879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delikater",
+        "id": "51e120ba498e26cc96921f0e",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/delikater/51e120ba498e26cc96921f0e",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Simple kid menu food for the cheaps, kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04996154982419,
+          54.31682507689983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bio-Insel",
+        "id": "4cb838b64c60a093770837ca",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/bioinsel/4cb838b64c60a093770837ca",
+        "address": "Tribseer Damm 75",
+        "website": "http://www.bioinsel.net",
+        "categories": [
+          "Retail > Food and Beverage Retail > Farmers Market",
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "_The_ spati for fruits and vegetables in Stralsund."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.077601579463984,
+          54.308761904073464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Nikolaikirche",
+        "id": "4c84ba98d4e23704c36d7c88",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/st-nikolaikirche/4c84ba98d4e23704c36d7c88",
+        "address": "St. Nikolaikirchhof",
+        "website": "https://www.hst-nikolai.de",
+        "categories": [
+          "Community and Government > Spiritual Center > Church"
+        ],
+        "tips": [
+          "Decent church."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.091239,
+          54.316029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hafen Stralsund",
+        "id": "4de7f221fa7639614273e363",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/hafen-stralsund/4de7f221fa7639614273e363",
+        "address": "Hafenstr.",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Harbor or Marina"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Harbor or Marina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.097569238098117,
+          54.316340448673024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadtb\u00e4ckerei Stralsund",
+        "id": "4dc69aced164eb9ca00b9cbb",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/stadtb%C3%A4ckerei-stralsund/4dc69aced164eb9ca00b9cbb",
+        "address": "Marienstr. 1",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9"
+        ],
+        "tips": [
+          "Okay sandwiches, generic sugary sugar sweets and horrible coffee."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Caf\u00e9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.089757396587542,
+          54.31290141737552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Euro Spar",
+        "id": "4dc3f024887717c87ffc05f1",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/euro-spar/4dc3f024887717c87ffc05f1",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail"
+        ],
+        "tips": [
+          "_The_ spati of Stralsund."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Food and Beverage Retail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.078232604110791,
+          54.30853621291581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EDEKA Redmann",
+        "id": "5252de90498efb8925e9ef9f",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/edeka-redmann/5252de90498efb8925e9ef9f",
+        "address": "Ossenreyerstr. 57",
+        "website": "http://www.edeka.de",
+        "categories": [
+          "Retail > Food and Beverage Retail > Supermarket"
+        ],
+        "tips": [
+          "A or the major grocery shop in the old city."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0900964,
+          54.3145344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wulflamstuben",
+        "id": "4c443e4c36d6a5936f256aa8",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/wulflamstuben/4c443e4c36d6a5936f256aa8",
+        "address": "Alter Markt 5",
+        "website": "http://www.wulflamstuben.de/",
+        "categories": [
+          "Dining and Drinking > Restaurant > German Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "German Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.089789,
+          54.316209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osteria Dell' Oca",
+        "id": "4e480d1f7d8b91a065a46a64",
+        "list_id": "593001e0fc9e9428ddf860be",
+        "list_name": "Stralsund",
+        "url": "https://app.foursquare.com/v/osteria-dell-oca/4e480d1f7d8b91a065a46a64",
+        "address": "Neuer Markt 1",
+        "website": "https://www.gans-einfach-lecker.de",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant > Trattoria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Trattoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.087350119423373,
+          54.31055101104354
+        ]
+      }
+    }
+  ]
+}

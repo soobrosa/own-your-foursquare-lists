@@ -1,0 +1,2937 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Il Mercato Italiano",
+        "id": "5b98d9e79411f2002c87c438",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/il-mercato-italiano/5b98d9e79411f2002c87c438",
+        "address": "R\u00e1k\u00f3czi \u00dat 44.",
+        "website": "http://www.ilmercato.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Italian Restaurant",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Italian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.156964,
+          47.018529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hegykapu \u00c9tterem",
+        "id": "4cbaf89e9552b60c152add8b",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/hegykapu-%C3%A9tterem/4cbaf89e9552b60c152add8b",
+        "address": "",
+        "website": "http://www.hegykapuetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.371917413634666,
+          47.13076182751406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagylaposi Birka Cs\u00e1rda",
+        "id": "4e3a97de2271ead2c0f1b216",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/nagylaposi-birka-cs%C3%A1rda/4e3a97de2271ead2c0f1b216",
+        "address": "V. ker\u00fclet 289.",
+        "website": "http://www.birkacsarda.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.745856761932373,
+          46.97539181859582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jankovich K\u00faria Hotel \u00e9s \u00c9tterem",
+        "id": "4ce28722f8cdb1f7d177a212",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/jankovich-k%C3%BAria-hotel-%C3%A9s-%C3%A9tterem/4ce28722f8cdb1f7d177a212",
+        "address": "Jankovich Mikl\u00f3s k\u00f6z 1.",
+        "website": "http://jankovichhotel.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel",
+          "Dining and Drinking > Restaurant > Asian Restaurant > Korean Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.944541790911867,
+          47.026009719473336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandula",
+        "id": "4e74d0201f6e072f1361c026",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/mandula/4e74d0201f6e072f1361c026",
+        "address": "Di\u00f3f\u00e1s t\u00e9r 4-12",
+        "website": "http://etterem.gere.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Mediterranean Restaurant",
+          "Dining and Drinking > Restaurant > Comfort Food Restaurant",
+          "Dining and Drinking > Bar > Wine Bar"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Mediterranean Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.451962650907333,
+          45.866893023461145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brill Bisztr\u00f3",
+        "id": "4eaaf4a99a522a65aef454ea",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/brill-bisztr%C3%B3/4eaaf4a99a522a65aef454ea",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.090663451029574,
+          46.679324813772844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Pisztr\u00e1ngos",
+        "id": "4bca06de937ca5939be8a692",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/a-pisztr%C3%A1ngos/4bca06de937ca5939be8a692",
+        "address": "Kossuth Lajos u. 129.",
+        "website": "http://pisztrangos.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant",
+          "Dining and Drinking > Restaurant > Fish and Chips Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.020229713071537,
+          47.799408306791875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savoyai Kast\u00e9ly",
+        "id": "4ccbf2c82dc43704e06ac308",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/savoyai-kast%C3%A9ly/4ccbf2c82dc43704e06ac308",
+        "address": "Kossuth Lajos utca 95",
+        "website": "http://www.savoyai.hu",
+        "categories": [
+          "Landmarks and Outdoors > Castle"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.94395397554717,
+          47.169438919563746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AquaLand \u00e9s Vit\u00e1l k\u00f6zpont spa",
+        "id": "4ce97a1af3bda143f738c0e4",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/aqualand-%C3%A9s-vit%C3%A1l-k%C3%B6zpont-spa/4ce97a1af3bda143f738c0e4",
+        "address": "Strand utca 1.",
+        "website": "http://www.aqua-land.hu/",
+        "categories": [
+          "Arts and Entertainment > Water Park",
+          "Business and Professional Services > Health and Beauty Service > Spa"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Water Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.943620980421333,
+          47.1805656317012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puchner Kast\u00e9lysz\u00e1ll\u00f3 \u00e9s Renesz\u00e1nsz \u00c9lm\u00e9nybirtok",
+        "id": "4c93c0f3533aa093e0e6b845",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/puchner-kast%C3%A9lysz%C3%A1ll%C3%B3-%C3%A9s-renesz%C3%A1nsz-%C3%A9lm%C3%A9nybirtok/4c93c0f3533aa093e0e6b845",
+        "address": "R\u00e1k\u00f3czi u. 22.",
+        "website": "http://puchner.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel",
+          "Business and Professional Services > Health and Beauty Service > Spa",
+          "Landmarks and Outdoors > Other Great Outdoors"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.283252755571446,
+          46.33312081438305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Karos Spa",
+        "id": "4d6530736d9437041d0474bf",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/hotel-karos-spa/4d6530736d9437041d0474bf",
+        "address": "Alma u. 1.",
+        "website": "http://www.karos-spa.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.123497546378807,
+          46.54578049635487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadran Pizz\u00e9ria Pub",
+        "id": "4c9cca4fd3c2b60c1fe7babc",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/cadran-pizz%C3%A9ria-pub/4c9cca4fd3c2b60c1fe7babc",
+        "address": "H\u0151s\u00f6k tere 1",
+        "website": "http://www.cadran.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.94576317638158,
+          47.16195002486803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zempl\u00e9ni Kalandpark",
+        "id": "4c9e13d00e9bb1f7715ce35f",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/zempl%C3%A9ni-kalandpark/4c9e13d00e9bb1f7715ce35f",
+        "address": "Torzs\u00e1s \u00fat 25.",
+        "website": "http://www.zemplenkalandpark.hu",
+        "categories": [
+          "Arts and Entertainment > Amusement Park"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Amusement Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.63872025218298,
+          48.41226360216777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aranygombos Fogad\u00f3",
+        "id": "4c11228ff1b6a59320047d27",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/aranygombos-fogad%C3%B3/4c11228ff1b6a59320047d27",
+        "address": "M\u00fazeum \u00fat 3",
+        "website": "http://www.aranygombosfogado.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.359328690272527,
+          48.48286762567051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00cdzes Magyar Csemege",
+        "id": "4ea66af61081d639e5a2980f",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/%C3%ADzes-magyar-csemege/4ea66af61081d639e5a2980f",
+        "address": "Sz\u00e9chenyi t\u00e9r 2.",
+        "website": "https://www.chilihungaria.hu",
+        "categories": [
+          "Retail > Food and Beverage Retail > Gourmet Store",
+          "Dining and Drinking > Restaurant > Sandwich Spot",
+          "Dining and Drinking > Restaurant > Soup Spot"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Gourmet Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.228732321817922,
+          46.07531329650412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pajta",
+        "id": "4fa3bec4e4b017e937acca73",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/pajta/4fa3bec4e4b017e937acca73",
+        "address": "Templomszer 7.",
+        "website": "http://pajta.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.406435644704892,
+          46.84982811567532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kisvend\u00e9gl\u0151 a Hargit\u00e1hoz",
+        "id": "4ca4bf22750ca0935e012467",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/kisvend%C3%A9gl%C5%91-a-hargit%C3%A1hoz/4ca4bf22750ca0935e012467",
+        "address": "Tavasz u. 7",
+        "website": "http://www.hargitavendeglo.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.063753924965237,
+          46.67393326343223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plat\u00e1n Restaurant & Caf\u00e9",
+        "id": "4bd3035d41b9ef3b5a09ffe5",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/plat%C3%A1n-restaurant--caf%C3%A9/4bd3035d41b9ef3b5a09ffe5",
+        "address": "Kast\u00e9ly t\u00e9r 6.",
+        "website": "http://www.platanrestaurant.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.318487603807846,
+          47.64757160209584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papszigeti Pisztr\u00e1ngos",
+        "id": "4e23162945dd950bb035dd84",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/papszigeti-pisztr%C3%A1ngos/4e23162945dd950bb035dd84",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.08140220223671,
+          47.68263959122285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barna Ill\u00e9s Cukr\u00e1szmester",
+        "id": "51851fdb498ed8d0f91241ed",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/barna-ill%C3%A9s-cukr%C3%A1szmester/51851fdb498ed8d0f91241ed",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.373468282924648,
+          47.60219207688985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00cdzlel\u0151 csal\u00e1dbar\u00e1t \u00e9tterem",
+        "id": "51e51f852fc6748ccd6e0147",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/%C3%ADzlel%C5%91-csal%C3%A1dbar%C3%A1t-%C3%A9tterem/51e51f852fc6748ccd6e0147",
+        "address": "Bartina u. 12/a.",
+        "website": "http://www.izleloetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.695361614227295,
+          46.34950484081527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M\u00f3kus S\u00f6r\u00f6z\u0151",
+        "id": "4e285a6518a83a1362313112",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/m%C3%B3kus-s%C3%B6r%C3%B6z%C5%91/4e285a6518a83a1362313112",
+        "address": "Kossuth Lajos utca 2.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.91124802756075,
+          47.801475082244785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u010carda Pikec",
+        "id": "4e5019f5aeb70f1284aa8046",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/%C4%8Darda-pikec/4e5019f5aeb70f1284aa8046",
+        "address": "Vikend naselje Bara\u010dka",
+        "website": "http://www.cardapikec.com",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant",
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.85839881425471,
+          45.860514674213405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R\u00e9v Cs\u00e1rda",
+        "id": "5184ef27498e622f1549fc38",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/r%C3%A9v-cs%C3%A1rda/5184ef27498e622f1549fc38",
+        "address": "Dunapart",
+        "website": "http://revcsarda.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.916581365149494,
+          46.25712765867927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M7 Bistro",
+        "id": "4d724003ec075481242786bf",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/m7-bistro/4d724003ec075481242786bf",
+        "address": "M7 60 km",
+        "website": "http://www.albapark.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant",
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.476203947893985,
+          47.1772135353548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chen's Cooking",
+        "id": "4cc44d031e596dcbdc79d067",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/chens-cooking/4cc44d031e596dcbdc79d067",
+        "address": "Alphapark",
+        "website": "http://www.chenscooking.com/index2.php",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Asian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.613968590030467,
+          47.67244353061829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00d6reg Tanyacs\u00e1rda",
+        "id": "4c668648e75ac928e8b0f7da",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/%C3%B6reg-tanyacs%C3%A1rda/4c668648e75ac928e8b0f7da",
+        "address": "Bene 625.",
+        "website": "http://www.tanyacsarda.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.585220191634985,
+          47.006106939128394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dombi \u00c9s Fiai Vend\u00e9gl\u0151",
+        "id": "4e304c68d4c058fdbefc9a2b",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/dombi-%C3%A9s-fiai-vend%C3%A9gl%C5%91/4e304c68d4c058fdbefc9a2b",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.64787560584988,
+          47.553891947004345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piknik Manufakt\u00fara",
+        "id": "5926ed95029a5562e789c5d0",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/piknik-manufakt%C3%BAra/5926ed95029a5562e789c5d0",
+        "address": "Hunyadi s\u00e9t\u00e1ny 2.",
+        "website": "https://piknikmanufaktura.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.96166634127436,
+          47.79051351436454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veszely Cs\u00e1rda",
+        "id": "4eb4dd559adf1152736c8bd3",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/veszely-cs%C3%A1rda/4eb4dd559adf1152736c8bd3",
+        "address": "Veszel h\u00edd (44-es f\u0151\u00fat)",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.176898637452574,
+          46.672002250113536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Fa",
+        "id": "4fb21ef9e4b010b35fd3705b",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/hong-fa/4fb21ef9e4b010b35fd3705b",
+        "address": "Kolozsv\u00e1ri utca 1.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Asian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Asian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.194320206668174,
+          47.177847671679395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pizza, K\u00e1v\u00e9, Vil\u00e1gb\u00e9ke",
+        "id": "59c3adf34acb1917b439b047",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/pizza-k%C3%A1v%C3%A9-vil%C3%A1gb%C3%A9ke/59c3adf34acb1917b439b047",
+        "address": "Sz\u00e9chenyi \u00fat 19",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.782618407435717,
+          48.10276632578664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hedonist Restaurant",
+        "id": "5a1a88e3b3d8e26d9e3a614e",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/hedonist-restaurant/5a1a88e3b3d8e26d9e3a614e",
+        "address": "Bencz\u00far T\u00e9r 23.",
+        "website": "http://hedonistrestaurant.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.713241,
+          47.951389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szablya \u00e9tterem",
+        "id": "55fe8756498e303decdd325d",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/szablya-%C3%A9tterem/55fe8756498e303decdd325d",
+        "address": "",
+        "website": "http://www.szablyaetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.271276097765355,
+          47.55251205451667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurta Kocsma",
+        "id": "4e47c4421f6e29f10db76653",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/kurta-kocsma/4e47c4421f6e29f10db76653",
+        "address": "",
+        "website": "http://demo.sii.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.036251485146856,
+          46.79826680720882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albus Unicornis Lovarda",
+        "id": "4e3e8e271f6e844231f3be61",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/albus-unicornis-lovarda/4e3e8e271f6e844231f3be61",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Farm"
+        ],
+        "tips": [
+          "Great people, nice service, kind animals."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.79956288462442,
+          46.677837837917124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u0151r\u00f3zsa \u00c9tterem",
+        "id": "4e3d32a1d22d102e853de0b7",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/k%C5%91r%C3%B3zsa-%C3%A9tterem/4e3d32a1d22d102e853de0b7",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "A binary place: either it's full of bikers moaning Kurult\u00e1j or you can get a decent Aro offering for reasonable prices."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.897710534006475,
+          48.00178242515619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malomk\u0151 S\u00f6r\u00f6z\u0151",
+        "id": "567f92f7498e9310695bc7dc",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/malomk%C5%91-s%C3%B6r%C3%B6z%C5%91/567f92f7498e9310695bc7dc",
+        "address": "F\u0151 \u00fat 81.",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [
+          "Asszem csutortokon nyit es van fagyi."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.895354955737076,
+          48.02192401078134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strand Kemence",
+        "id": "4fe5c9d2e4b02db7addb99cb",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/strand-kemence/4fe5c9d2e4b02db7addb99cb",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool"
+        ],
+        "tips": [
+          "A gem on a weekday. Finger food is almost for free."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Sports and Recreation",
+        "topic": "Swimming Pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.901586959613883,
+          47.99990789978732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kemencei Erdei M\u00fazeumvas\u00fat, Kemence \u00c1llom\u00e1s",
+        "id": "4e0ecd3514956c6284fe3099",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/kemencei-erdei-m%C3%BAzeumvas%C3%BAt-kemence-%C3%A1llom%C3%A1s/4e0ecd3514956c6284fe3099",
+        "address": "Csarnav\u00f6lgyi \u00fat 45.",
+        "website": "http://www.kisvasut.hu",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Rail Station",
+          "Travel and Transportation > Transport Hub > Light Rail Station"
+        ],
+        "tips": [
+          "Deffo for all DIY fans. A Duplo train."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Rail Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.89432802228526,
+          48.01368362560262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gab\u00f3 Fagyiz\u00f3",
+        "id": "4dd38450ae6009a512223dc9",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/gab%C3%B3-fagyiz%C3%B3/4dd38450ae6009a512223dc9",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [
+          "Totally okay ice, expect it to be open on weekends in the summer."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Ice Cream Parlor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.89254,
+          48.012579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R\u00f3zsakert",
+        "id": "5054c781e4b0c6835f93120a",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/r%C3%B3zsakert/5054c781e4b0c6835f93120a",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Great value for money lunch offers, kind service."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.846260973433694,
+          46.712529092621416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bugac Puszta",
+        "id": "579c7f8b498ef5970e03060c",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/bugac-puszta/579c7f8b498ef5970e03060c",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Field"
+        ],
+        "tips": [
+          "Kind peep, nice walk."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Field"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.612762,
+          46.654964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunaf\u00f6ldv\u00e1ri Hal\u00e1szcs\u00e1rda",
+        "id": "4c41ba9de26920a1f5d85ee7",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/dunaf%C3%B6ldv%C3%A1ri-hal%C3%A1szcs%C3%A1rda/4c41ba9de26920a1f5d85ee7",
+        "address": "H\u0151s\u00f6k tere 25.",
+        "website": "http://www.halaszcsardakft.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Kind and fast service, reasonable food in good portions, classic stuff."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.929415560729403,
+          46.809720183099934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Csal\u00e1nosi Cs\u00e1rda",
+        "id": "4e7e0666c2ee43daec38a1f3",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/csal%C3%A1nosi-cs%C3%A1rda/4e7e0666c2ee43daec38a1f3",
+        "address": "Fels\u0151csal\u00e1nos 5.",
+        "website": "http://www.csalanosi-csarda.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.603087721190462,
+          46.88819222988976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunagy\u00f6ngye Hal\u00e1szcs\u00e1rda",
+        "id": "4d9ed26035a9224b7d893d85",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/dunagy%C3%B6ngye-hal%C3%A1szcs%C3%A1rda/4d9ed26035a9224b7d893d85",
+        "address": "Szalki Sziget",
+        "website": "http://www.dunaujvarosihalaszcsarda.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.945556236486986,
+          46.981469423180314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L\u00e1ngosos",
+        "id": "62f4bfbe0d137a44f0052f6e",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/l%C3%A1ngosos/62f4bfbe0d137a44f0052f6e",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Food Truck"
+        ],
+        "tips": [
+          "Classic shit."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Food Truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8489,
+          46.697495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhattan Burger",
+        "id": "4ce6cd18ae8e5941acf40e4c",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/manhattan-burger/4ce6cd18ae8e5941acf40e4c",
+        "address": "Koh\u00e1ry \u00fat 19.",
+        "website": "https://www.manhattan-burger.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Burger Joint",
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Burger Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.929808138773762,
+          47.78233139440758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bori Mami",
+        "id": "53921a7e498e2f399047f4a0",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/bori-mami/53921a7e498e2f399047f4a0",
+        "address": "Belv\u00e1ros t\u00e9r 7.",
+        "website": "http://www.borimami.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.926104708706625,
+          47.784485722571354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bety\u00e1rbatyu, h\u00e1zi r\u00e9tes",
+        "id": "53a57bdd498e7989b0af62c3",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/bety%C3%A1rbatyu-h%C3%A1zi-r%C3%A9tes/53a57bdd498e7989b0af62c3",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop > Pie Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pie Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.666571278733766,
+          47.648619665301176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariska \u00c9tterem",
+        "id": "610e81024644a4264d80e6e2",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/mariska-%C3%A9tterem/610e81024644a4264d80e6e2",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.747929,
+          47.62628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sulyom t\u00e1j\u00e9tterem",
+        "id": "6089725a0ad40f1e2c52024c",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/sulyom-t%C3%A1j%C3%A9tterem/6089725a0ad40f1e2c52024c",
+        "address": "",
+        "website": "https://sulyom.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.599724,
+          47.584209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferdin\u00e1nd Bisztr\u00f3",
+        "id": "603f73d24e80003efaf46e43",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/ferdin%C3%A1nd-bisztr%C3%B3/603f73d24e80003efaf46e43",
+        "address": "",
+        "website": "http://www.ferdinandbisztro.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.792838,
+          47.427983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kraftwerk Bisztr\u00f3 Tarj\u00e1n",
+        "id": "5daaff8928f17a0008792c6f",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/kraftwerk-bisztr%C3%B3-tarj%C3%A1n/5daaff8928f17a0008792c6f",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.508343,
+          47.608513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G&D K\u00e9zm\u0171ves Cukr\u00e1szda Gy\u00f6ngy\u00f6s",
+        "id": "5a22dbe6646e3812008fa983",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/gd-k%C3%A9zm%C5%B1ves-cukr%C3%A1szda-gy%C3%B6ngy%C3%B6s/5a22dbe6646e3812008fa983",
+        "address": "F\u0151 t\u00e9r 4.",
+        "website": "http://kezmuvescukraszda.hu",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.92504,
+          47.78466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R\u00e9tesh\u00e1z",
+        "id": "520652d311d2e51fb65b9246",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/r%C3%A9tesh%C3%A1z/520652d311d2e51fb65b9246",
+        "address": "Egri \u00fat 27",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Dessert Shop"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.389793903404808,
+          48.09830660169839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nom\u00e1d Hotel",
+        "id": "4dd10ff652b1f8915bd47ab0",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/nom%C3%A1d-hotel/4dd10ff652b1f8915bd47ab0",
+        "address": "S\u00edkf\u0151k\u00fat u. 5-7.",
+        "website": "http://www.nomadhotel.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.467006867777332,
+          47.9476185542169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macok Bisztr\u00f3 - Borb\u00e1r",
+        "id": "51cf4e27498ee7d508630173",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/macok-bisztr%C3%B3--borb%C3%A1r/51cf4e27498ee7d508630173",
+        "address": "D\u00f3zsa Gy\u00f6rgy t\u00e9r 4.",
+        "website": "http://www.imolaudvarhaz.hu/macok-bisztro-borbar.html",
+        "categories": [
+          "Dining and Drinking > Bar > Wine Bar",
+          "Dining and Drinking > Restaurant > Modern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Wine Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.380894659428343,
+          47.90269861624073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piroska \u00c9tterem",
+        "id": "4c31fe5b452620a16654210f",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/piroska-%C3%A9tterem/4c31fe5b452620a16654210f",
+        "address": "Ady Endre u. 42.",
+        "website": "http://panziopiroska.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.325972234386747,
+          47.867157394624414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "brumbrum l\u00e9nyeg\u00e9ben b\u00fcf\u00e9",
+        "id": "592d467682a7501caf93200f",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/brumbrum-l%C3%A9nyeg%C3%A9ben-b%C3%BCf%C3%A9/592d467682a7501caf93200f",
+        "address": "Tin\u00f3di S. t\u00e9r 4.",
+        "website": "https://www.imolaudvarhaz.hu/brumbrum-bufe.html",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3809884680313,
+          47.90282282519663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cukorbors\u00f3 Kertvend\u00e9gl\u0151",
+        "id": "57417149498e6a948f086d01",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/cukorbors%C3%B3-kertvend%C3%A9gl%C5%91/57417149498e6a948f086d01",
+        "address": "Somogyi B\u00e9la \u00dat 131",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.847953733145612,
+          47.50923268014512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gastland M0 Hotel \u00e9s \u00c9tterem",
+        "id": "4d8f073a3bfef04d74caa586",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/gastland-m0-hotel-%C3%A9s-%C3%A9tterem/4d8f073a3bfef04d74caa586",
+        "address": "",
+        "website": "http://www.booking.com/hotel/hu/gastland-m0-es-etterem.hu.html",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel",
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05385976421765,
+          47.38058807078114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F\u00e9legyh\u00e1zi p\u00e9ks\u00e9g",
+        "id": "4f4de5a1e4b0b0a214eb5ceb",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/f%C3%A9legyh%C3%A1zi-p%C3%A9ks%C3%A9g/4f4de5a1e4b0b0a214eb5ceb",
+        "address": "Kossuth u. 16",
+        "website": "https://www.felegyhazipekseg.com",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [
+          "Bacon-egg sandwich for president."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.842602495107542,
+          46.70976719413927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Egri v\u00e1r",
+        "id": "4c4adeecbad7a593255d08ab",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/egri-v%C3%A1r/4c4adeecbad7a593255d08ab",
+        "address": "V\u00e1r 1",
+        "website": "http://www.egrivar.hu",
+        "categories": [
+          "Landmarks and Outdoors > Castle",
+          "Landmarks and Outdoors > Scenic Lookout",
+          "Landmarks and Outdoors > Historic and Protected Site"
+        ],
+        "tips": [
+          "Pretty good experience, the guides, the weapon show and all. Looking forward to see the walls again."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.37941336631775,
+          47.90397987678519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1552 \u00c9tterem",
+        "id": "53e0c282498e242ef36584ba",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/1552-%C3%A9tterem/53e0c282498e242ef36584ba",
+        "address": "K\u00e9pt\u00e1r 1",
+        "website": "http://www.1552.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [
+          "Soups were surprisingly good, priced for the location, service was unattentive."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.37882400492651,
+          47.90448000637217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szalajka-v\u00f6lgy",
+        "id": "4d985ca9d7366a31ede10a0b",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/szalajkav%C3%B6lgy/4d985ca9d7366a31ede10a0b",
+        "address": "Szalajka v\u00f6lgy \u00fat",
+        "website": "http://www.szilvasvarad.hu",
+        "categories": [
+          "Landmarks and Outdoors > Nature Preserve"
+        ],
+        "tips": [
+          "Still a great walk both ways with less romance and more tourists than it used to be."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Nature Preserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.39293501546462,
+          48.095491691110134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S\u00e1fr\u00e1ny Half\u00fcst\u00f6lde",
+        "id": "4eafef217ee5df194fe260c1",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/s%C3%A1fr%C3%A1ny-half%C3%BCst%C3%B6lde/4eafef217ee5df194fe260c1",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Seafood Restaurant"
+        ],
+        "tips": [
+          "A classic to grab a tea or some smoked fish at."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.406185666071618,
+          48.082382954519446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F\u00e1tyol-v\u00edzes\u00e9s",
+        "id": "4ccd6ba1063a721ece98949a",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/f%C3%A1tyolv%C3%ADzes%C3%A9s/4ccd6ba1063a721ece98949a",
+        "address": "",
+        "website": "http://www.elmenyekvolgye.hu/szilvasvarad/96-fatyol-vizeses",
+        "categories": [
+          "Landmarks and Outdoors > Waterfall",
+          "Landmarks and Outdoors > Other Great Outdoors"
+        ],
+        "tips": [
+          "Unfo dried out in 2022."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.410202351122102,
+          48.076066396251804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\"V\u00e1g\u00e1ny\" B\u00fcf\u00e9 @ Gloriette Tiszt\u00e1s",
+        "id": "4eae919a29c2a9bb98146318",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/v%C3%A1g%C3%A1ny-b%C3%BCf%C3%A9--gloriette-tiszt%C3%A1s/4eae919a29c2a9bb98146318",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Snack Place"
+        ],
+        "tips": [
+          "A classic again to grab a quick lunch."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Snack Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.412004,
+          48.076447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ist\u00e1ll\u00f3sk\u0151i \u0150sember-barlang",
+        "id": "4ccd72ad54f0b1f748b71cca",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/ist%C3%A1ll%C3%B3sk%C5%91i-%C5%91semberbarlang/4ccd72ad54f0b1f748b71cca",
+        "address": "Ist\u00e1ll\u00f3s-k\u0151",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Other Great Outdoors"
+        ],
+        "tips": [
+          "A great climb even for kids."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Other Great Outdoors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.417468901518575,
+          48.071579251323215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szilv\u00e1sv\u00e1radi Kisvas\u00fat Fatelepi \u00e1llom\u00e1s",
+        "id": "53dceda8498e59584bb9750a",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/szilv%C3%A1sv%C3%A1radi-kisvas%C3%BAt-fatelepi-%C3%A1llom%C3%A1s/53dceda8498e59584bb9750a",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Transport Hub > Rail Station"
+        ],
+        "tips": [
+          "Better to catch the one that comes from the top."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Rail Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.392719186709627,
+          48.09554574116235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szilv\u00e1sv\u00e1radi Lipicai Lovask\u00f6zpont Fedeles Lovarda",
+        "id": "635d30972a17b6436fd4fbeb",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/szilv%C3%A1sv%C3%A1radi-lipicai-lovask%C3%B6zpont-fedeles-lovarda/635d30972a17b6436fd4fbeb",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Stable"
+        ],
+        "tips": [
+          "Could have cost a lot still a pro riding venue. Look out for the events."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Stable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.391007,
+          48.099075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kocsim\u00fazeum \u00e9s M\u00e9ngazdas\u00e1g",
+        "id": "4e6238f6fa76cd64ce20ee70",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/kocsim%C3%BAzeum-%C3%A9s-m%C3%A9ngazdas%C3%A1g/4e6238f6fa76cd64ce20ee70",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Museum > History Museum"
+        ],
+        "tips": [
+          "Beautiful animals."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "History Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.389795648780044,
+          48.101775072934075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gyros B\u00fcf\u00e9 L\u00e1ngos",
+        "id": "577f81f2498e5c3b9dda7667",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/gyros-b%C3%BCf%C3%A9-l%C3%A1ngos/577f81f2498e5c3b9dda7667",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Buffet"
+        ],
+        "tips": [
+          "Kofola on tap."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Buffet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.494451,
+          48.469565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Carlotta",
+        "id": "635ecf048dd372475db6792e",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/villa-carlotta/635ecf048dd372475db6792e",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Travel and Transportation > Lodging > Bed and Breakfast"
+        ],
+        "tips": [
+          "Laura is back with the best Italian hospitality!"
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Bed and Breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.387151,
+          48.11083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pipacs \u00c9tterem \u00e9s Bisztr\u00f3",
+        "id": "53bbcb28498ef9c1bef88797",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/pipacs-%C3%A9tterem-%C3%A9s-bisztr%C3%B3/53bbcb28498ef9c1bef88797",
+        "address": "Liszt Ferenc u. 2",
+        "website": "http://www.pipacs.eu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6366512953878,
+          47.61454669926628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vad\u00e1sz Panzi\u00f3 \u00e9s \u00c9tterem",
+        "id": "4d55875fa05c37046cf7b987",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/vad%C3%A1sz-panzi%C3%B3-%C3%A9s-%C3%A9tterem/4d55875fa05c37046cf7b987",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.526490186376005,
+          48.048403233309834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bEAT",
+        "id": "5499c4b3498e9fa6ce66baa7",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/beat/5499c4b3498e9fa6ce66baa7",
+        "address": "V\u00f6r\u00f6smarty t\u00e9r 1.",
+        "website": "http://beat.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Restaurant > Bistro"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.41269792146238,
+          47.18695370965754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malom Hotel ***",
+        "id": "4e39768afa763bfcc36e3f9f",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/malom-hotel-/4e39768afa763bfcc36e3f9f",
+        "address": "",
+        "website": "http://www.malomhotel.hu",
+        "categories": [
+          "Travel and Transportation > Lodging > Hotel"
+        ],
+        "tips": [
+          "Okay lunch buffet well priced."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.855549228622294,
+          46.70687413534246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pet\u0151fi S\u00e1ndor V\u00e1rosi K\u00f6nyvt\u00e1r",
+        "id": "4d8f3be4d265236a16af1b17",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/pet%C5%91fi-s%C3%A1ndor-v%C3%A1rosi-k%C3%B6nyvt%C3%A1r/4d8f3be4d265236a16af1b17",
+        "address": "Szent J\u00e1nos t\u00e9r 9.",
+        "website": "http://www.psvk.hu",
+        "categories": [
+          "Community and Government > Library"
+        ],
+        "tips": [
+          "If you need to print a few pages go no further."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Community and Government",
+        "topic": "Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.850442129342046,
+          46.711824097141765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiskunmajsai Gy\u00f3gy- \u00e9s \u00c9lm\u00e9nyf\u00fcrd\u0151",
+        "id": "4e2068611fc7c0ef98571355",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/kiskunmajsai-gy%C3%B3gy-%C3%A9s-%C3%A9lm%C3%A9nyf%C3%BCrd%C5%91/4e2068611fc7c0ef98571355",
+        "address": "K\u0151k\u00fat 26.",
+        "website": "http://www.jonathermal.hu",
+        "categories": [
+          "Arts and Entertainment > Water Park",
+          "Landmarks and Outdoors > Beach",
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool"
+        ],
+        "tips": [
+          "Pretty good place, a good variety of water stuff, could get really crowded."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Water Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.747419602330197,
+          46.52339939164487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merx \u00c1ruh\u00e1z",
+        "id": "5ac35b6166fc657634e4a15d",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/merx-%C3%A1ruh%C3%A1z/5ac35b6166fc657634e4a15d",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Retail > Market"
+        ],
+        "tips": [
+          "Crap heaven."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.641191,
+          47.21334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lacus Pelso Pizz\u00e9ria \u00e9s S\u00f6r\u00f6z\u0151",
+        "id": "4bf81de5bb5176b0e8555bb2",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/lacus-pelso-pizz%C3%A9ria-%C3%A9s-s%C3%B6r%C3%B6z%C5%91/4bf81de5bb5176b0e8555bb2",
+        "address": "Posta utca 18.",
+        "website": "http://www.lacus-pelso.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Pizzeria",
+          "Dining and Drinking > Bar > Pub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.568546884136694,
+          46.81438843787332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sirius Club",
+        "id": "4f170b1be4b07256624378ad",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/sirius-club/4f170b1be4b07256624378ad",
+        "address": "Kossuth u. 16.",
+        "website": "http://siriusclub.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [
+          "Okay option given the context. Totally edible but don't expect much -- only the bill that contains a service fee for no freaking reason."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8433148638255,
+          46.71021048630496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "n\u00f3gr\u00e1di vadaspark",
+        "id": "4e86fbec46904ed2ab80b04a",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/n%C3%B3gr%C3%A1di-vadaspark/4e86fbec46904ed2ab80b04a",
+        "address": "",
+        "website": "http://www.nogradivadaspark.hu",
+        "categories": [
+          "Travel and Transportation"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Travel and Transportation",
+        "topic": "Travel and Transportation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.063207558859563,
+          47.90897419467203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seholsziget \u00c9lm\u00e9nypark",
+        "id": "4c4aad7b959220a123f2760e",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/seholsziget-%C3%A9lm%C3%A9nypark/4c4aad7b959220a123f2760e",
+        "address": "2610 N\u0151tincs",
+        "website": "http://www.seszi.hu",
+        "categories": [
+          "Arts and Entertainment > Amusement Park"
+        ],
+        "tips": [
+          "Limited activities, but can last for a visit, minimal food, but it's okay."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Amusement Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.135796281913926,
+          47.88691602724808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szent Anna Fogad\u00f3",
+        "id": "4d3181872c76a143d11e66c7",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/szent-anna-fogad%C3%B3/4d3181872c76a143d11e66c7",
+        "address": "Pet\u0151fi u. 1",
+        "website": "http://berkenyepanzio.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [
+          "Okay food, kid friendly."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.072384926769296,
+          47.88823733131814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gyadai Tan\u00f6sv\u00e9ny \u00e9s Mad\u00e1rtani S\u00e9ta\u00fat",
+        "id": "4d96f825b188721e43770337",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/gyadai-tan%C3%B6sv%C3%A9ny-%C3%A9s-mad%C3%A1rtani-s%C3%A9ta%C3%BAt/4d96f825b188721e43770337",
+        "address": "2640 Szendehely",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Hiking Trail"
+        ],
+        "tips": [
+          "Kidfriendly for all ages. A must."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Hiking Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.105602912524418,
+          47.85011661346132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cs\u00fcl\u00f6k b\u00fcf\u00e9",
+        "id": "4f5b3fcce4b0cfc5e099a1a8",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/cs%C3%BCl%C3%B6k-b%C3%BCf%C3%A9/4f5b3fcce4b0cfc5e099a1a8",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Fast Food Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Fast Food Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.978100329883233,
+          47.8691039364761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sz\u00fanyogszigeti Hal\u00e1szcs\u00e1rda",
+        "id": "4bd2d944462cb7136508dd07",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/sz%C3%BAnyogszigeti-hal%C3%A1szcs%C3%A1rda/4bd2d944462cb7136508dd07",
+        "address": "Sz\u00fanyogsziget",
+        "website": "http://www.szunyogsziget.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.577705786468226,
+          47.210888891295944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feketerig\u00f3 \u00c9tterem",
+        "id": "4dd915d4ae60680f152ec4c2",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/feketerig%C3%B3-%C3%A9tterem/4dd915d4ae60680f152ec4c2",
+        "address": "Avar u. 2.",
+        "website": "http://www.feketerigo.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Gastropub"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.968294,
+          47.83016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benev\u00e1r \u00c9tterem",
+        "id": "4d44811f1928a35d68a0b970",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/benev%C3%A1r-%C3%A9tterem/4d44811f1928a35d68a0b970",
+        "address": "",
+        "website": "http://www.benevar.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.96917039730312,
+          47.83166331355877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T\u00f6lgy Kisvendegl\u0151",
+        "id": "4c7a3dc7bd346dcb18f3f7ef",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/t%C3%B6lgy-kisvendegl%C5%91/4c7a3dc7bd346dcb18f3f7ef",
+        "address": "M\u00e1trah\u00e1za",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.978133066431734,
+          47.868657022634835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00c1gasv\u00e1r Kil\u00e1t\u00f3",
+        "id": "4dc556d118387d1bd53a65f4",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/%C3%A1gasv%C3%A1r-kil%C3%A1t%C3%B3/4dc556d118387d1bd53a65f4",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Landmarks and Outdoors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.826523769867933,
+          47.92615733610425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S\u00edpark M\u00e1traszentistv\u00e1n",
+        "id": "4d03adbb2f96f04d01381954",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/s%C3%ADpark-m%C3%A1traszentistv%C3%A1n/4d03adbb2f96f04d01381954",
+        "address": "Sztep\u00e1n r\u00e9t",
+        "website": "http://www.sipark.hu",
+        "categories": [
+          "Sports and Recreation > Snow Sports > Ski Resort and Area"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Sports and Recreation",
+        "topic": "Ski Resort and Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.87329951999743,
+          47.92311624099695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V\u00f6r\u00f6sk\u0151 Kisvend\u00e9gl\u0151",
+        "id": "4d3c4475d2c8f04d2d186072",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/v%C3%B6r%C3%B6sk%C5%91-kisvend%C3%A9gl%C5%91/4d3c4475d2c8f04d2d186072",
+        "address": "Kossuth u. 14",
+        "website": "http://www.vorosko-kisvendeglo.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.880316880485964,
+          47.925397210522654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V\u00e9n Duna Cukr\u00e1szda",
+        "id": "4be589f6d4f7c9b6cd7f2520",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/v%C3%A9n-duna-cukr%C3%A1szda/4be589f6d4f7c9b6cd7f2520",
+        "address": "\u00c1rp\u00e1d \u00fat 36.",
+        "website": "http://www.venduna.hu",
+        "categories": [
+          "Dining and Drinking > Dessert Shop",
+          "Dining and Drinking > Cafe, Coffee, and Tea House > Caf\u00e9",
+          "Dining and Drinking > Dessert Shop > Ice Cream Parlor"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Dessert Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03463993568552,
+          47.82207134228457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00e1nki-t\u00f3",
+        "id": "4c41ff47ff711b8dadd11205",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/b%C3%A1nkit%C3%B3/4c41ff47ff711b8dadd11205",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Landmarks and Outdoors > Lake"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Landmarks and Outdoors",
+        "topic": "Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.17635145129114,
+          47.92171628125559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patak Vend\u00e9gl\u0151",
+        "id": "4c7a39ca3badb1f75f955154",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/patak-vend%C3%A9gl%C5%91/4c7a39ca3badb1f75f955154",
+        "address": "Szokolyai \u00fat 5.",
+        "website": "http://www.patakvendeglo.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.01376543089458,
+          47.82737460063521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hat\u00e1rcs\u00e1rda",
+        "id": "4c8b823fa92fa093fd1b9bbf",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/hat%C3%A1rcs%C3%A1rda/4c8b823fa92fa093fd1b9bbf",
+        "address": "Ady Endre u. 43.",
+        "website": "http://www.szentendreihatarcsarda.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.088769932814447,
+          47.69437615865836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gomba pressz\u00f3",
+        "id": "4bdc3a3c2a3a0f4722e8b1b6",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/gomba-pressz%C3%B3/4bdc3a3c2a3a0f4722e8b1b6",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Eastern European Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Eastern European Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.09087026525304,
+          47.71732594917996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Term\u00e1lf\u00fcrd\u0151 Le\u00e1nyfalu",
+        "id": "4dd9533e8130756995bb5997",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/term%C3%A1lf%C3%BCrd%C5%91-le%C3%A1nyfalu/4dd9533e8130756995bb5997",
+        "address": "M\u00f3ricz Zsigmond u. 142.",
+        "website": "http://leanyfurdo.hu",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa",
+          "Sports and Recreation > Water Sports > Swimming > Swimming Pool"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.09035136511297,
+          47.71938201567348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00daton\u00e1ll\u00f3 Vend\u00e9gl\u0151",
+        "id": "4decffa722719aa552457871",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/%C3%BAton%C3%A1ll%C3%B3-vend%C3%A9gl%C5%91/4decffa722719aa552457871",
+        "address": "M\u00f3ricz Zsigmond u.",
+        "website": "https://utonallovendeglo.eatbu.com/?lang=en",
+        "categories": [
+          "Dining and Drinking > Restaurant > Hungarian Restaurant"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Hungarian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.08870770723721,
+          47.73062999663623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szaunah\u00e1z",
+        "id": "54c8cd1f498e7cd0f09f290f",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/szaunah%C3%A1z/54c8cd1f498e7cd0f09f290f",
+        "address": "M\u00f3ricz Zsigmond u. 142.",
+        "website": "http://szaunahaz.hu",
+        "categories": [
+          "Business and Professional Services > Health and Beauty Service > Spa",
+          "Business and Professional Services > Health and Beauty Service > Bath House"
+        ],
+        "tips": [
+          "Nem rossz, er\u0151sen tele lehet b\u00e1rmikor, a massz\u00e1zskomb\u00f3val \u00e9ri meg legink\u00e1bb. A g\u0151z is ok\u00e9."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Business and Professional Services",
+        "topic": "Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.09118447112294,
+          47.719481823008195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le\u00e1nyf\u00fcrd\u0151",
+        "id": "4c8cc863f87e224b11bd3705",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/le%C3%A1nyf%C3%BCrd%C5%91/4c8cc863f87e224b11bd3705",
+        "address": "M\u00f3ricz Zs. u. 142.",
+        "website": "",
+        "categories": [
+          "Arts and Entertainment > Water Park"
+        ],
+        "tips": [
+          "T\u00e9len nem \u00e9ri meg."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Arts and Entertainment",
+        "topic": "Water Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.09014243952082,
+          47.71935064643251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RKG b\u00fcf\u00e9 2",
+        "id": "5129fdc0e4b08ef066b31962",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/rkg-b%C3%BCf%C3%A9-2/5129fdc0e4b08ef066b31962",
+        "address": "...",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Restaurant > Diner"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.089449080535147,
+          47.71883043005236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heim S\u00fct\u00f6de",
+        "id": "4f4cf28be4b0ed3692c994fb",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/heim-s%C3%BCt%C3%B6de/4f4cf28be4b0ed3692c994fb",
+        "address": "",
+        "website": "",
+        "categories": [
+          "Dining and Drinking > Bakery"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0894494752747,
+          47.718328844004915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hable\u00e1ny \u00e9tterem",
+        "id": "4f5ccc66e4b01f8f4d238ac5",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/hable%C3%A1ny-%C3%A9tterem/4f5ccc66e4b01f8f4d238ac5",
+        "address": "Strand parkol\u00f3",
+        "website": "http://www.hableanyetterem.hu",
+        "categories": [
+          "Dining and Drinking > Restaurant",
+          "Dining and Drinking > Bar > Beer Garden"
+        ],
+        "tips": [],
+        "coord_source": "fused_places",
+        "bucket": "Dining and Drinking",
+        "topic": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.091354381665965,
+          47.719386529070775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00e9ke t\u00e9ri Piac",
+        "id": "4d9050fbc479a35d84e46e97",
+        "list_id": "5032460ee4b05159d681bcd8",
+        "list_name": "HU countryside",
+        "url": "https://app.foursquare.com/v/b%C3%A9ke-t%C3%A9ri-piac/4d9050fbc479a35d84e46e97",
+        "address": "B\u00e9ke t\u00e9r 1",
+        "website": "",
+        "categories": [
+          "Retail > Food and Beverage Retail > Farmers Market"
+        ],
+        "tips": [
+          "Number two langos is still okay."
+        ],
+        "coord_source": "fused_places",
+        "bucket": "Retail",
+        "topic": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.85151171684265,
+          46.71269325877126
+        ]
+      }
+    }
+  ]
+}
