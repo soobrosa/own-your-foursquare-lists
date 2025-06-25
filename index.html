@@ -76,12 +76,17 @@
     /* Desktop styles */
     @media (min-width: 769px) {
       #sidebar {
-        position: relative;
-        transform: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        z-index: 1000;
+        transform: translateX(-100%);
+        width: 300px;
         display: block;
       }
-      #sidebar:not(.active) {
-        display: none;
+      #sidebar.active {
+        transform: translateX(0);
       }
     }
   </style>
