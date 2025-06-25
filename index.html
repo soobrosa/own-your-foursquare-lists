@@ -89,7 +89,7 @@
         transform: translateX(0);
       }
     }
-    /* Move Leaflet controls to mid right */
+    /* Move Leaflet controls to mid right and order them in a column */
     .leaflet-top.leaflet-right {
       top: 50%;
       right: 20px;
@@ -100,16 +100,16 @@
       align-items: flex-end;
       z-index: 1100;
     }
-    .leaflet-control {
+    .leaflet-top.leaflet-right > .leaflet-control {
       margin-bottom: 10px;
     }
-    .leaflet-control-zoom {
+    .leaflet-top.leaflet-right > .leaflet-control-zoom {
       order: 0;
     }
-    .leaflet-control-sidebar {
+    .leaflet-top.leaflet-right > .leaflet-control-sidebar {
       order: 1;
     }
-    .leaflet-control-zoom-in {
+    .leaflet-top.leaflet-right > .leaflet-control-home {
       order: 2;
     }
   </style>
@@ -254,7 +254,7 @@
         position: 'topright'
       },
       onAdd: function(map) {
-        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-sidebar');
         const button = L.DomUtil.create('a', 'leaflet-control-sidebar', container);
         button.innerHTML = '☰';
         button.title = 'Toggle Sidebar';
@@ -296,7 +296,7 @@
         position: 'topright'
       },
       onAdd: function(map) {
-        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-home');
         const button = L.DomUtil.create('a', 'leaflet-control-zoom-in', container);
         button.innerHTML = '⌂';
         button.title = 'Reset view';
