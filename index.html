@@ -381,6 +381,9 @@
                 flyToFeature();
                 if (window.innerWidth <= 768) {
                   sidebar.classList.remove('active');
+                  if (typeof sidebarToggleBtn !== 'undefined') {
+                    sidebarToggleBtn.innerHTML = '☰';
+                  }
                 }
               };
               layer.on('click', flyToFeature);
