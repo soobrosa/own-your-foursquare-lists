@@ -90,17 +90,27 @@
       }
     }
     /* Move Leaflet controls to mid right */
-    .leaflet-top.leaflet-left, .leaflet-top, .leaflet-left {
-      top: 50% !important;
-      left: auto !important;
-      right: 20px !important;
+    .leaflet-top.leaflet-right {
+      top: 50%;
+      right: 20px;
+      left: auto;
       transform: translateY(-50%);
+      display: flex;
       flex-direction: column;
       align-items: flex-end;
       z-index: 1100;
     }
     .leaflet-control {
       margin-bottom: 10px;
+    }
+    .leaflet-control-zoom {
+      order: 0;
+    }
+    .leaflet-control-sidebar {
+      order: 1;
+    }
+    .leaflet-control-zoom-in {
+      order: 2;
     }
   </style>
 </head>
@@ -270,7 +280,8 @@
     });
 
     // Add the sidebar toggle control to the map
-    new SidebarToggle().addTo(map);
+    const sidebarToggle = new SidebarToggle({ position: 'topright' });
+    sidebarToggle.addTo(map);
 
     // Close sidebar when clicking a feature
     const closeSidebar = () => {
@@ -313,7 +324,8 @@
     });
 
     // Add the home control to the map
-    new homeControl().addTo(map);
+    const homeBtn = new homeControl({ position: 'topright' });
+    homeBtn.addTo(map);
 
     // Prevent map dragging when interacting with the sidebar
     L.DomEvent.disableClickPropagation(sidebar);
