@@ -290,8 +290,10 @@
       
       // Close sidebar when loading new GeoJSON
       sidebar.classList.remove('active');
-      // Update button text
-      document.querySelector('.leaflet-control-sidebar').innerHTML = '☰';
+      // Update sidebar toggle button text
+      if (typeof sidebarToggleBtn !== 'undefined') {
+        sidebarToggleBtn.innerHTML = '☰';
+      }
 
       fetch(url)
         .then(res => res.json())
