@@ -166,27 +166,27 @@
               select.appendChild(option);
             });
 
-            // Helper to get geojson file from path
-            function getGeoJsonFromPath(files) {
-              const path = decodeURIComponent(window.location.pathname).replace(/^\//, '');
-              if (!path) return null;
-              // Find a file whose name (before the last underscore and UUID) matches the path
+            // Helper to get geojson file from hash
+            function getGeoJsonFromHash(files) {
+              const hash = decodeURIComponent(window.location.hash.replace(/^#/, ''));
+              if (!hash) return null;
+              // Find a file whose name (before the last underscore and UUID) matches the hash
               return files.find(f => {
                 const base = f.replace(/_[a-f0-9]{24}\.geojson$/, '');
-                return base === path;
+                return base === hash;
               }) || null;
             }
 
-            // Determine initial file from URL
-            const initialFile = getGeoJsonFromPath(files) || files[0];
+            // Determine initial file from URL hash
+            const initialFile = getGeoJsonFromHash(files) || files[0];
             if (initialFile) {
               select.value = 'output/geojson/' + initialFile;
               loadGeoJSON('output/geojson/' + initialFile);
             }
 
-            // Listen for browser navigation (back/forward)
-            window.addEventListener('popstate', () => {
-              const file = getGeoJsonFromPath(files) || files[0];
+            // Listen for hash changes (back/forward or manual hash edit)
+            window.addEventListener('hashchange', () => {
+              const file = getGeoJsonFromHash(files) || files[0];
               if (file) {
                 select.value = 'output/geojson/' + file;
                 loadGeoJSON('output/geojson/' + file);
@@ -206,10 +206,10 @@
         L.DomEvent.on(select, 'change', function() {
           if (this.value) {
             loadGeoJSON(this.value);
-            // Update the URL to reflect the selected map (without UUID and .geojson)
+            // Update the URL hash to reflect the selected map (without UUID and .geojson)
             const fileName = this.value.replace('output/geojson/', '');
             const cleanName = fileName.replace(/_[a-f0-9]{24}\.geojson$/, '');
-            history.pushState(null, '', '/' + encodeURIComponent(cleanName));
+            window.location.hash = encodeURIComponent(cleanName);
           }
         });
         
