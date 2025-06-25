@@ -66,4 +66,6 @@ pip install -r requirements.txt
    * **Configure Authentication**
    * Add your subdomain (e.g. `yourproject.vercel.app`)
 
-That's it—it should work on mobile, especially in landscape mode.
+That's it—it should work on mobile, especially in landscape mode. The only difference between the behaviour of the desktop and the mobile version is that if you click on an item in the sidebar, it will close, while on the desktop it does not.
+
+You can access/reference/embed your maps directly using the URL from the browser when you're looking at a specific map, something like `https://domain#map`. If you want embed your maps you can hide the dropdown with an URL like `https://domain#map?nodropdown`.
