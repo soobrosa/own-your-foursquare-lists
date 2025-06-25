@@ -166,12 +166,28 @@
               select.appendChild(option);
             });
 
-            // Set initial selected value to first file if available
-            if (files.length > 0) {
-              select.value = 'output/geojson/' + files[0];
-              // Load the first GeoJSON file
-              loadGeoJSON('output/geojson/' + files[0]);
+            // Helper to get geojson file from path
+            function getGeoJsonFromPath(files) {
+              const path = decodeURIComponent(window.location.pathname).replace(/^\//, '');
+              if (!path) return null;
+              return files.find(f => f.replace(/\.geojson$/, '') === path) || null;
             }
+
+            // Determine initial file from URL
+            const initialFile = getGeoJsonFromPath(files) || files[0];
+            if (initialFile) {
+              select.value = 'output/geojson/' + initialFile;
+              loadGeoJSON('output/geojson/' + initialFile);
+            }
+
+            // Listen for browser navigation (back/forward)
+            window.addEventListener('popstate', () => {
+              const file = getGeoJsonFromPath(files) || files[0];
+              if (file) {
+                select.value = 'output/geojson/' + file;
+                loadGeoJSON('output/geojson/' + file);
+              }
+            });
           })
           .catch(error => {
             console.error('Error loading GeoJSON list:', error);
@@ -186,6 +202,9 @@
         L.DomEvent.on(select, 'change', function() {
           if (this.value) {
             loadGeoJSON(this.value);
+            // Update the URL to reflect the selected map
+            const fileName = this.value.replace('output/geojson/', '');
+            history.pushState(null, '', '/' + encodeURIComponent(fileName.replace(/\.geojson$/, '')));
           }
         });
         
