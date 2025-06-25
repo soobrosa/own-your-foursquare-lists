@@ -89,6 +89,27 @@
         transform: translateX(0);
       }
     }
+    /* Custom control panel styles */
+    .custom-control-panel {
+      position: fixed !important;
+      right: 20px;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 1100;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      background: none;
+      border: none;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+    .custom-control-panel .leaflet-control {
+      margin: 0 !important;
+    }
+    /* Optional: Hide default zoom control if not used */
+    /* .leaflet-control-zoom { display: none !important; } */
   </style>
 </head>
 <body>
@@ -107,7 +128,7 @@
         position: 'topright'
       },
       onAdd: function(map) {
-        const container = L.DomUtil.create('div', 'leaflet-control leaflet-control-title');
+        const container = L.DomUtil.create('div', 'leaflet-control leaflet-control-title custom-control-panel');
         container.style.backgroundColor = 'white';
         container.style.padding = '6px 10px';
         container.style.margin = '10px';
@@ -231,7 +252,7 @@
         position: 'topleft'
       },
       onAdd: function(map) {
-        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control custom-control-panel');
         const button = L.DomUtil.create('a', 'leaflet-control-sidebar', container);
         button.innerHTML = '☰';
         button.title = 'Toggle Sidebar';
@@ -272,7 +293,7 @@
         position: 'topleft'
       },
       onAdd: function(map) {
-        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
+        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control custom-control-panel');
         const button = L.DomUtil.create('a', 'leaflet-control-zoom-in', container);
         button.innerHTML = '⌂';
         button.title = 'Reset view';
