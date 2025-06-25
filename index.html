@@ -197,12 +197,14 @@
 
             // Helper to get geojson file from hash
             function getGeoJsonFromHash(files) {
-              const hash = decodeURIComponent(window.location.hash.replace(/^#/, ''));
-              if (!hash) return null;
-              // Find a file whose name (before the last underscore and UUID) matches the hash
+              // Extract map name before ? (for flags like ?nodropdown)
+              const hashRaw = window.location.hash.replace(/^#/, '');
+              const mapName = decodeURIComponent(hashRaw.split('?')[0]);
+              if (!mapName) return null;
+              // Find a file whose name (before the last underscore and UUID) matches the mapName
               return files.find(f => {
                 const base = f.replace(/_[a-f0-9]{24}\.geojson$/, '');
-                return base === hash;
+                return base === mapName;
               }) || null;
             }
 
