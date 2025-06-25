@@ -89,6 +89,19 @@
         transform: translateX(0);
       }
     }
+    /* Move Leaflet controls to mid right */
+    .leaflet-top.leaflet-left, .leaflet-top, .leaflet-left {
+      top: 50% !important;
+      left: auto !important;
+      right: 20px !important;
+      transform: translateY(-50%);
+      flex-direction: column;
+      align-items: flex-end;
+      z-index: 1100;
+    }
+    .leaflet-control {
+      margin-bottom: 10px;
+    }
   </style>
 </head>
 <body>
@@ -228,7 +241,7 @@
     // Create sidebar toggle control
     const SidebarToggle = L.Control.extend({
       options: {
-        position: 'topleft'
+        position: 'topright'
       },
       onAdd: function(map) {
         const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
@@ -269,7 +282,7 @@
     // Create a home control
     const homeControl = L.Control.extend({
       options: {
-        position: 'topleft'
+        position: 'topright'
       },
       onAdd: function(map) {
         const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
