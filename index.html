@@ -221,6 +221,15 @@
                 loadGeoJSON('output/geojson/' + file);
               }
             });
+
+            // After select is created and populated
+            function hasNoDropdownFlag() {
+              // Check if hash contains ?nodropdown (case-insensitive)
+              return /\?nodropdown(=1)?(\&|$)/i.test(window.location.hash);
+            }
+            if (hasNoDropdownFlag()) {
+              select.style.display = 'none';
+            }
           })
           .catch(error => {
             console.error('Error loading GeoJSON list:', error);
