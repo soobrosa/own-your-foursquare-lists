@@ -170,7 +170,11 @@
             function getGeoJsonFromPath(files) {
               const path = decodeURIComponent(window.location.pathname).replace(/^\//, '');
               if (!path) return null;
-              return files.find(f => f.replace(/\.geojson$/, '') === path) || null;
+              // Find a file whose name (before the last underscore and UUID) matches the path
+              return files.find(f => {
+                const base = f.replace(/_[a-f0-9]{24}\.geojson$/, '');
+                return base === path;
+              }) || null;
             }
 
             // Determine initial file from URL
@@ -202,9 +206,10 @@
         L.DomEvent.on(select, 'change', function() {
           if (this.value) {
             loadGeoJSON(this.value);
-            // Update the URL to reflect the selected map
+            // Update the URL to reflect the selected map (without UUID and .geojson)
             const fileName = this.value.replace('output/geojson/', '');
-            history.pushState(null, '', '/' + encodeURIComponent(fileName.replace(/\.geojson$/, '')));
+            const cleanName = fileName.replace(/_[a-f0-9]{24}\.geojson$/, '');
+            history.pushState(null, '', '/' + encodeURIComponent(cleanName));
           }
         });
         
