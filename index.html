@@ -104,43 +104,46 @@
       border: none;
       margin: 0 !important;
       padding: 0 !important;
+      align-items: center;
     }
-    .custom-control-panel .leaflet-control {
-      margin: 0 !important;
+    .custom-control-panel button {
+      width: 44px;
+      height: 44px;
+      background: #fff;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+      font-size: 24px;
+      cursor: pointer;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s, border 0.2s;
     }
-    /* Optional: Hide default zoom control if not used */
-    /* .leaflet-control-zoom { display: none !important; } */
+    .custom-control-panel button:hover {
+      background: #f0f0f0;
+      border-color: #888;
+    }
+    /* Hide default zoom control */
+    .leaflet-control-zoom { display: none !important; }
   </style>
 </head>
 <body>
   <div id="sidebar"></div>
   <div id="map"></div>
+  <div class="custom-control-panel" id="customControlPanel">
+    <button id="zoomInBtn" title="Zoom in">+</button>
+    <button id="zoomOutBtn" title="Zoom out">−</button>
+    <button id="sidebarToggleBtn" title="Toggle Sidebar">☰</button>
+    <button id="homeBtn" title="Reset view">⌂</button>
+  </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
-    const map = L.map('map').setView([38.7, -9.1], 10);
+    const map = L.map('map', { zoomControl: false }).setView([38.7, -9.1], 10);
     const sidebar = document.getElementById('sidebar');
     let initialBounds = null;
-
-    // Create title control
-    const TitleControl = L.Control.extend({
-      options: {
-        position: 'topright'
-      },
-      onAdd: function(map) {
-        const container = L.DomUtil.create('div', 'leaflet-control leaflet-control-title custom-control-panel');
-        container.style.backgroundColor = 'white';
-        container.style.padding = '6px 10px';
-        container.style.margin = '10px';
-        container.style.border = '2px solid rgba(0,0,0,0.2)';
-        container.style.borderRadius = '4px';
-        container.style.fontWeight = 'bold';
-        container.style.fontSize = '16px';
-        container.style.textAlign = 'center';
-        container.style.minWidth = '100px';
-        return container;
-      }
-    });
 
     // ✅ Use Stadia-hosted Stamen Toner Lite
     const tileLayer = L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}{r}.png', {
@@ -246,82 +249,29 @@
     // Add the GeoJSON dropdown control to the map
     new GeoJSONSelectControl().addTo(map);
 
-    // Create sidebar toggle control
-    const SidebarToggle = L.Control.extend({
-      options: {
-        position: 'topleft'
-      },
-      onAdd: function(map) {
-        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control custom-control-panel');
-        const button = L.DomUtil.create('a', 'leaflet-control-sidebar', container);
-        button.innerHTML = '☰';
-        button.title = 'Toggle Sidebar';
-        button.style.width = '30px';
-        button.style.height = '30px';
-        button.style.lineHeight = '30px';
-        button.style.textAlign = 'center';
-        button.style.fontSize = '18px';
-        
-        // Prevent map dragging when interacting with the button
-        L.DomEvent.disableClickPropagation(button);
-        L.DomEvent.disableScrollPropagation(button);
-        
-        L.DomEvent.on(button, 'click', function(e) {
-          L.DomEvent.stopPropagation(e);
-          sidebar.classList.toggle('active');
-          // Update button text based on sidebar state
-          button.innerHTML = sidebar.classList.contains('active') ? '✕' : '☰';
-        });
-        
-        return container;
-      }
-    });
-
-    // Add the sidebar toggle control to the map
-    new SidebarToggle().addTo(map);
-
-    // Close sidebar when clicking a feature
-    const closeSidebar = () => {
-      sidebar.classList.remove('active');
-      // Update button text
-      document.querySelector('.leaflet-control-sidebar').innerHTML = '☰';
+    // Sidebar toggle button
+    const sidebarToggleBtn = document.getElementById('sidebarToggleBtn');
+    sidebarToggleBtn.onclick = function() {
+      sidebar.classList.toggle('active');
+      sidebarToggleBtn.innerHTML = sidebar.classList.contains('active') ? '✕' : '☰';
     };
 
-    // Create a home control
-    const homeControl = L.Control.extend({
-      options: {
-        position: 'topleft'
-      },
-      onAdd: function(map) {
-        const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control custom-control-panel');
-        const button = L.DomUtil.create('a', 'leaflet-control-zoom-in', container);
-        button.innerHTML = '⌂';
-        button.title = 'Reset view';
-        button.style.width = '30px';
-        button.style.height = '30px';
-        button.style.lineHeight = '30px';
-        button.style.textAlign = 'center';
-        button.style.fontSize = '18px';
-        
-        // Prevent map dragging when interacting with the button
-        L.DomEvent.disableClickPropagation(button);
-        L.DomEvent.disableScrollPropagation(button);
-        
-        L.DomEvent.on(button, 'click', function(e) {
-          L.DomEvent.stopPropagation(e);
-          if (initialBounds) {
-            // Close any open popups
-            map.closePopup();
-            map.flyToBounds(initialBounds, { duration: 1 });
-          }
-        });
-        
-        return container;
+    // Home button
+    const homeBtn = document.getElementById('homeBtn');
+    homeBtn.onclick = function() {
+      if (initialBounds) {
+        map.closePopup();
+        map.flyToBounds(initialBounds, { duration: 1 });
       }
-    });
+    };
 
-    // Add the home control to the map
-    new homeControl().addTo(map);
+    // Zoom in/out buttons
+    document.getElementById('zoomInBtn').onclick = function() {
+      map.zoomIn();
+    };
+    document.getElementById('zoomOutBtn').onclick = function() {
+      map.zoomOut();
+    };
 
     // Prevent map dragging when interacting with the sidebar
     L.DomEvent.disableClickPropagation(sidebar);
@@ -417,7 +367,7 @@
               item.onclick = () => {
                 flyToFeature();
                 if (window.innerWidth <= 768) {
-                  closeSidebar();
+                  sidebar.classList.remove('active');
                 }
               };
               layer.on('click', flyToFeature);
